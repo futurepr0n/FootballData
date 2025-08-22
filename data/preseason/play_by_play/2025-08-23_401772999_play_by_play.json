@@ -1,0 +1,26 @@
+{
+  "game_info": {
+    "game_id": "401772999",
+    "teams": [
+      {
+        "abbreviation": "CLE",
+        "name": "Cleveland Browns",
+        "score": 0,
+        "home_away": "home"
+      },
+      {
+        "abbreviation": "LAR",
+        "name": "Los Angeles Rams",
+        "score": 0,
+        "home_away": "away"
+      }
+    ],
+    "final_score": {}
+  },
+  "drives": [],
+  "plays": [],
+  "scoring_plays": [],
+  "touchdowns": [],
+  "interceptions": [],
+  "fumbles": []
+}

@@ -1,0 +1,4039 @@
+{
+  "game_id": "401773001",
+  "date": "2025-08-07",
+  "box_score": {
+    "game_info": {
+      "game_id": "401773001",
+      "date": "2025-08-07T23:00Z",
+      "status": {
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final"
+        },
+        "isTBDFlex": false
+      },
+      "venue": {},
+      "attendance": 0
+    },
+    "team_stats": {
+      "BAL": {
+        "score": 24,
+        "record": "0-0",
+        "home_away": "home"
+      },
+      "IND": {
+        "score": 16,
+        "record": "0-0",
+        "home_away": "away"
+      }
+    },
+    "player_stats": {
+      "Daniel Jones_IND": {
+        "name": "Daniel Jones",
+        "position": "",
+        "jersey": "17",
+        "team": "IND",
+        "stats": {
+          "0": "10/21",
+          "1": 144,
+          "2": 6.9,
+          "3": 0,
+          "4": 0,
+          "5": "1-9",
+          "6": 70.3
+        }
+      },
+      "Riley Leonard_IND": {
+        "name": "Riley Leonard",
+        "position": "",
+        "jersey": "15",
+        "team": "IND",
+        "stats": {
+          "0": 4,
+          "1": 34,
+          "2": 8.5,
+          "3": 0,
+          "4": 21
+        }
+      },
+      "Anthony Richardson Sr._IND": {
+        "name": "Anthony Richardson Sr.",
+        "position": "",
+        "jersey": "5",
+        "team": "IND",
+        "stats": {
+          "0": "2/3",
+          "1": 21,
+          "2": 7.0,
+          "3": 0,
+          "4": 0,
+          "5": "1-8",
+          "6": 86.8
+        }
+      },
+      "Ulysses Bentley IV_IND": {
+        "name": "Ulysses Bentley IV",
+        "position": "",
+        "jersey": "37",
+        "team": "IND",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Khalil Herbert_IND": {
+        "name": "Khalil Herbert",
+        "position": "",
+        "jersey": "26",
+        "team": "IND",
+        "stats": {
+          "0": 2,
+          "1": 51,
+          "2": 25.5,
+          "3": 31,
+          "4": 0
+        }
+      },
+      "DJ Giddens_IND": {
+        "name": "DJ Giddens",
+        "position": "",
+        "jersey": "21",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 21,
+          "2": 21.0,
+          "3": 21,
+          "4": 0
+        }
+      },
+      "Tyler Goodson_IND": {
+        "name": "Tyler Goodson",
+        "position": "",
+        "jersey": "31",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ashton Dulin_IND": {
+        "name": "Ashton Dulin",
+        "position": "",
+        "jersey": "16",
+        "team": "IND",
+        "stats": {
+          "0": 3,
+          "1": 54,
+          "2": 18.0,
+          "3": 0,
+          "4": 25,
+          "5": 7
+        }
+      },
+      "Tyler Warren_IND": {
+        "name": "Tyler Warren",
+        "position": "",
+        "jersey": "84",
+        "team": "IND",
+        "stats": {
+          "0": 3,
+          "1": 40,
+          "2": 13.3,
+          "3": 0,
+          "4": 23,
+          "5": 3
+        }
+      },
+      "Adonai Mitchell_IND": {
+        "name": "Adonai Mitchell",
+        "position": "",
+        "jersey": "10",
+        "team": "IND",
+        "stats": {
+          "0": 2,
+          "1": 37,
+          "2": 18.5,
+          "3": 0,
+          "4": 22,
+          "5": 6
+        }
+      },
+      "Laquon Treadwell_IND": {
+        "name": "Laquon Treadwell",
+        "position": "",
+        "jersey": "13",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jelani Woods_IND": {
+        "name": "Jelani Woods",
+        "position": "",
+        "jersey": "80",
+        "team": "IND",
+        "stats": {
+          "0": 2,
+          "1": 23,
+          "2": 11.5,
+          "3": 0,
+          "4": 14,
+          "5": 3
+        }
+      },
+      "Ajou Ajou_IND": {
+        "name": "Ajou Ajou",
+        "position": "",
+        "jersey": "9",
+        "team": "IND",
+        "stats": {
+          "0": 3,
+          "1": 18,
+          "2": 6.0,
+          "3": 0,
+          "4": 8,
+          "5": 5
+        }
+      },
+      "Coleman Owen_IND": {
+        "name": "Coleman Owen",
+        "position": "",
+        "jersey": "3O",
+        "team": "IND",
+        "stats": {
+          "0": 2,
+          "1": 17,
+          "2": 8.5,
+          "3": 14,
+          "4": 0
+        }
+      },
+      "Will Mallory_IND": {
+        "name": "Will Mallory",
+        "position": "",
+        "jersey": "86",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 15,
+          "2": 15.0,
+          "3": 0,
+          "4": 15,
+          "5": 2
+        }
+      },
+      "Anthony Gould_IND": {
+        "name": "Anthony Gould",
+        "position": "",
+        "jersey": "6",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 20,
+          "2": 20.0,
+          "3": 20,
+          "4": 0
+        }
+      },
+      "Drew Ogletree_IND": {
+        "name": "Drew Ogletree",
+        "position": "",
+        "jersey": "85",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 7,
+          "2": 7.0,
+          "3": 0,
+          "4": 7,
+          "5": 1
+        }
+      },
+      "Sean McKeon_IND": {
+        "name": "Sean McKeon",
+        "position": "",
+        "jersey": "49",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 5,
+          "2": 5.0,
+          "3": 0,
+          "4": 5,
+          "5": 1
+        }
+      },
+      "Landon Parker_IND": {
+        "name": "Landon Parker",
+        "position": "",
+        "jersey": "8O",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 4,
+          "2": 4.0,
+          "3": 0,
+          "4": 4,
+          "5": 1
+        }
+      },
+      "Blayne Taylor_IND": {
+        "name": "Blayne Taylor",
+        "position": "",
+        "jersey": "4",
+        "team": "IND",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Tyler Kahmann_IND": {
+        "name": "Tyler Kahmann",
+        "position": "",
+        "jersey": "43O",
+        "team": "IND",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Hunter Wohler_IND": {
+        "name": "Hunter Wohler",
+        "position": "",
+        "jersey": "30",
+        "team": "IND",
+        "stats": {
+          "0": 9,
+          "1": 6,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Duke Shelley_IND": {
+        "name": "Duke Shelley",
+        "position": "",
+        "jersey": "34",
+        "team": "IND",
+        "stats": {
+          "0": 6,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Eric Johnson II_IND": {
+        "name": "Eric Johnson II",
+        "position": "",
+        "jersey": "98",
+        "team": "IND",
+        "stats": {
+          "0": 5,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Segun Olubi_IND": {
+        "name": "Segun Olubi",
+        "position": "",
+        "jersey": "50",
+        "team": "IND",
+        "stats": {
+          "0": 5,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Adetomiwa Adebawore_IND": {
+        "name": "Adetomiwa Adebawore",
+        "position": "",
+        "jersey": "95",
+        "team": "IND",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Desmond Little_IND": {
+        "name": "Desmond Little",
+        "position": "",
+        "jersey": "78",
+        "team": "IND",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Johnathan Edwards_IND": {
+        "name": "Johnathan Edwards",
+        "position": "",
+        "jersey": "35",
+        "team": "IND",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Austin Ajiake_IND": {
+        "name": "Austin Ajiake",
+        "position": "",
+        "jersey": "58",
+        "team": "IND",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joe Bachie_IND": {
+        "name": "Joe Bachie",
+        "position": "",
+        "jersey": "48D",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "Isaiah Land_IND": {
+        "name": "Isaiah Land",
+        "position": "",
+        "jersey": "55",
+        "team": "IND",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "JT Tuimoloau_IND": {
+        "name": "JT Tuimoloau",
+        "position": "",
+        "jersey": "91",
+        "team": "IND",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 1,
+          "3": 2,
+          "4": 1,
+          "5": 2,
+          "6": 0
+        }
+      },
+      "Rodney Thomas II_IND": {
+        "name": "Rodney Thomas II",
+        "position": "",
+        "jersey": "25",
+        "team": "IND",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Daniel Scott_IND": {
+        "name": "Daniel Scott",
+        "position": "",
+        "jersey": "32",
+        "team": "IND",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Samuel Womack III_IND": {
+        "name": "Samuel Womack III",
+        "position": "",
+        "jersey": "33",
+        "team": "IND",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cameron McGrone_IND": {
+        "name": "Cameron McGrone",
+        "position": "",
+        "jersey": "59",
+        "team": "IND",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tim Smith_IND": {
+        "name": "Tim Smith",
+        "position": "",
+        "jersey": "93",
+        "team": "IND",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Neville Gallimore_IND": {
+        "name": "Neville Gallimore",
+        "position": "",
+        "jersey": "92",
+        "team": "IND",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Chris Lammons_IND": {
+        "name": "Chris Lammons",
+        "position": "",
+        "jersey": "38",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kwity Paye_IND": {
+        "name": "Kwity Paye",
+        "position": "",
+        "jersey": "51",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Solomon DeShields_IND": {
+        "name": "Solomon DeShields",
+        "position": "",
+        "jersey": "53",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tre Herndon_IND": {
+        "name": "Tre Herndon",
+        "position": "",
+        "jersey": "42",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Durell Nchami_IND": {
+        "name": "Durell Nchami",
+        "position": "",
+        "jersey": "74",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Alex Johnson_IND": {
+        "name": "Alex Johnson",
+        "position": "",
+        "jersey": "39",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "Trey Washington_IND": {
+        "name": "Trey Washington",
+        "position": "",
+        "jersey": "41",
+        "team": "IND",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Spencer Shrader_IND": {
+        "name": "Spencer Shrader",
+        "position": "",
+        "jersey": "3S",
+        "team": "IND",
+        "stats": {
+          "0": "3/4",
+          "1": 75.0,
+          "2": 53,
+          "3": "0/0",
+          "4": 9
+        }
+      },
+      "Maddux Trujillo_IND": {
+        "name": "Maddux Trujillo",
+        "position": "",
+        "jersey": "48S",
+        "team": "IND",
+        "stats": {
+          "0": "0/0",
+          "1": 0.0,
+          "2": 0,
+          "3": "1/1",
+          "4": 1
+        }
+      },
+      "Rigoberto Sanchez_IND": {
+        "name": "Rigoberto Sanchez",
+        "position": "",
+        "jersey": "8S",
+        "team": "IND",
+        "stats": {
+          "0": 6,
+          "1": 278,
+          "2": 46.3,
+          "3": 0,
+          "4": 2,
+          "5": 55
+        }
+      },
+      "Devin Leary_BAL": {
+        "name": "Devin Leary",
+        "position": "",
+        "jersey": "13",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "Cooper Rush_BAL": {
+        "name": "Cooper Rush",
+        "position": "",
+        "jersey": "15",
+        "team": "BAL",
+        "stats": {
+          "0": "2/4",
+          "1": 16,
+          "2": 4.0,
+          "3": 0,
+          "4": 1,
+          "5": "1-8",
+          "6": 20.8
+        }
+      },
+      "Keaton Mitchell_BAL": {
+        "name": "Keaton Mitchell",
+        "position": "",
+        "jersey": "34",
+        "team": "BAL",
+        "stats": {
+          "0": 3,
+          "1": 64,
+          "2": 21.3,
+          "3": 25,
+          "4": 0
+        }
+      },
+      "D'Ernest Johnson_BAL": {
+        "name": "D'Ernest Johnson",
+        "position": "",
+        "jersey": "30O",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 2,
+          "2": 2.0,
+          "3": 0,
+          "4": 2,
+          "5": 1
+        }
+      },
+      "Rasheen Ali_BAL": {
+        "name": "Rasheen Ali",
+        "position": "",
+        "jersey": "26",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 69,
+          "2": 69.0,
+          "3": 69,
+          "4": 0
+        }
+      },
+      "LaJohntay Wester_BAL": {
+        "name": "LaJohntay Wester",
+        "position": "",
+        "jersey": "83",
+        "team": "BAL",
+        "stats": {
+          "0": 3,
+          "1": 104,
+          "2": 34.7,
+          "3": 87,
+          "4": 1
+        }
+      },
+      "Tylan Wallace_BAL": {
+        "name": "Tylan Wallace",
+        "position": "",
+        "jersey": "16",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 9,
+          "2": 9.0,
+          "3": 0,
+          "4": 9,
+          "5": 1
+        }
+      },
+      "Charlie Kolar_BAL": {
+        "name": "Charlie Kolar",
+        "position": "",
+        "jersey": "88",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 7,
+          "2": 7.0,
+          "3": 0,
+          "4": 7,
+          "5": 1
+        }
+      },
+      "Keith Kirkwood_BAL": {
+        "name": "Keith Kirkwood",
+        "position": "",
+        "jersey": "18",
+        "team": "BAL",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Anthony Miller_BAL": {
+        "name": "Anthony Miller",
+        "position": "",
+        "jersey": "6",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 5,
+          "2": 5.0,
+          "3": 5,
+          "4": 0
+        }
+      },
+      "Scotty Washington_BAL": {
+        "name": "Scotty Washington",
+        "position": "",
+        "jersey": "85",
+        "team": "BAL",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Dayton Wade_BAL": {
+        "name": "Dayton Wade",
+        "position": "",
+        "jersey": "82",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 23,
+          "2": 23.0,
+          "3": 23,
+          "4": 0
+        }
+      },
+      "Devontez Walker_BAL": {
+        "name": "Devontez Walker",
+        "position": "",
+        "jersey": "81",
+        "team": "BAL",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 2
+        }
+      },
+      "Ben Cleveland_BAL": {
+        "name": "Ben Cleveland",
+        "position": "",
+        "jersey": "66",
+        "team": "BAL",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 1
+        }
+      },
+      "Beau Brade_BAL": {
+        "name": "Beau Brade",
+        "position": "",
+        "jersey": "25",
+        "team": "BAL",
+        "stats": {
+          "0": 7,
+          "1": 6,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "T.J. Tampa_BAL": {
+        "name": "T.J. Tampa",
+        "position": "",
+        "jersey": "27",
+        "team": "BAL",
+        "stats": {
+          "0": 6,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Keyon Martin_BAL": {
+        "name": "Keyon Martin",
+        "position": "",
+        "jersey": "38",
+        "team": "BAL",
+        "stats": {
+          "0": 5,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jayson Jones_BAL": {
+        "name": "Jayson Jones",
+        "position": "",
+        "jersey": "69",
+        "team": "BAL",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Reuben Lowery_BAL": {
+        "name": "Reuben Lowery",
+        "position": "",
+        "jersey": "30D",
+        "team": "BAL",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Adisa Isaac_BAL": {
+        "name": "Adisa Isaac",
+        "position": "",
+        "jersey": "50",
+        "team": "BAL",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Chandler Martin_BAL": {
+        "name": "Chandler Martin",
+        "position": "",
+        "jersey": "48",
+        "team": "BAL",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jay Higgins IV_BAL": {
+        "name": "Jay Higgins IV",
+        "position": "",
+        "jersey": "49",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 2,
+          "2": 0
+        }
+      },
+      "Desmond Igbinosun_BAL": {
+        "name": "Desmond Igbinosun",
+        "position": "",
+        "jersey": "41",
+        "team": "BAL",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Marquise Robinson_BAL": {
+        "name": "Marquise Robinson",
+        "position": "",
+        "jersey": "28",
+        "team": "BAL",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Aeneas Peebles_BAL": {
+        "name": "Aeneas Peebles",
+        "position": "",
+        "jersey": "93",
+        "team": "BAL",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "C.J. Ravenell_BAL": {
+        "name": "C.J. Ravenell",
+        "position": "",
+        "jersey": "91",
+        "team": "BAL",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "CJ Okoye_BAL": {
+        "name": "CJ Okoye",
+        "position": "",
+        "jersey": "97",
+        "team": "BAL",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "David Ojabo_BAL": {
+        "name": "David Ojabo",
+        "position": "",
+        "jersey": "90",
+        "team": "BAL",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Trenton Simpson_BAL": {
+        "name": "Trenton Simpson",
+        "position": "",
+        "jersey": "32",
+        "team": "BAL",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kaimon Rucker_BAL": {
+        "name": "Kaimon Rucker",
+        "position": "",
+        "jersey": "56D",
+        "team": "BAL",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 2,
+          "6": 0
+        }
+      },
+      "Mike Green_BAL": {
+        "name": "Mike Green",
+        "position": "",
+        "jersey": "45",
+        "team": "BAL",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Brent Urban_BAL": {
+        "name": "Brent Urban",
+        "position": "",
+        "jersey": "58",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "William Kwenkeu_BAL": {
+        "name": "William Kwenkeu",
+        "position": "",
+        "jersey": "57",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jake Hummel_BAL": {
+        "name": "Jake Hummel",
+        "position": "",
+        "jersey": "35",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jalyn Armour-Davis_BAL": {
+        "name": "Jalyn Armour-Davis",
+        "position": "",
+        "jersey": "5",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Malaki Starks_BAL": {
+        "name": "Malaki Starks",
+        "position": "",
+        "jersey": "24",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tyler Loop_BAL": {
+        "name": "Tyler Loop",
+        "position": "",
+        "jersey": "33",
+        "team": "BAL",
+        "stats": {
+          "0": "1/2",
+          "1": 50.0,
+          "2": 52,
+          "3": "3/3",
+          "4": 6
+        }
+      },
+      "Keondre Jackson_BAL": {
+        "name": "Keondre Jackson",
+        "position": "",
+        "jersey": "39",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Adedayo Odeleye_BAL": {
+        "name": "Adedayo Odeleye",
+        "position": "",
+        "jersey": "94",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Bilhal Kone_BAL": {
+        "name": "Bilhal Kone",
+        "position": "",
+        "jersey": "31",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Malik Hamm_BAL": {
+        "name": "Malik Hamm",
+        "position": "",
+        "jersey": "59",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Sanoussi Kane_BAL": {
+        "name": "Sanoussi Kane",
+        "position": "",
+        "jersey": "21",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Teddye Buchanan_BAL": {
+        "name": "Teddye Buchanan",
+        "position": "",
+        "jersey": "40",
+        "team": "BAL",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jordan Stout_BAL": {
+        "name": "Jordan Stout",
+        "position": "",
+        "jersey": "11",
+        "team": "BAL",
+        "stats": {
+          "0": 5,
+          "1": 241,
+          "2": 48.2,
+          "3": 0,
+          "4": 1,
+          "5": 63
+        }
+      }
+    },
+    "scoring_summary": []
+  },
+  "play_by_play": {
+    "game_info": {
+      "game_id": "401773001",
+      "teams": [
+        {
+          "abbreviation": "BAL",
+          "name": "Baltimore Ravens",
+          "score": 24,
+          "home_away": "home"
+        },
+        {
+          "abbreviation": "IND",
+          "name": "Indianapolis Colts",
+          "score": 16,
+          "home_away": "away"
+        }
+      ],
+      "final_score": {}
+    },
+    "drives": [
+      {
+        "id": "4017730011",
+        "team": "BAL",
+        "plays_count": 3,
+        "result": "INT",
+        "yards": 1
+      },
+      {
+        "id": "4017730012",
+        "team": "IND",
+        "plays_count": 7,
+        "result": "FG",
+        "yards": 18
+      },
+      {
+        "id": "4017730013",
+        "team": "BAL",
+        "plays_count": 9,
+        "result": "TD",
+        "yards": 71
+      },
+      {
+        "id": "4017730014",
+        "team": "IND",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": -1
+      },
+      {
+        "id": "4017730015",
+        "team": "BAL",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": -9
+      },
+      {
+        "id": "4017730016",
+        "team": "IND",
+        "plays_count": 5,
+        "result": "PUNT TD",
+        "yards": 4
+      },
+      {
+        "id": "4017730017",
+        "team": "IND",
+        "plays_count": 11,
+        "result": "FG",
+        "yards": 56
+      },
+      {
+        "id": "4017730018",
+        "team": "BAL",
+        "plays_count": 15,
+        "result": "INT",
+        "yards": 64
+      },
+      {
+        "id": "4017730019",
+        "team": "IND",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": 14
+      },
+      {
+        "id": "40177300110",
+        "team": "BAL",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 0
+      },
+      {
+        "id": "40177300111",
+        "team": "IND",
+        "plays_count": 9,
+        "result": "FG",
+        "yards": 34
+      },
+      {
+        "id": "40177300112",
+        "team": "BAL",
+        "plays_count": 11,
+        "result": "TD",
+        "yards": 24
+      },
+      {
+        "id": "40177300113",
+        "team": "IND",
+        "plays_count": 7,
+        "result": "MISSED FG",
+        "yards": 31
+      },
+      {
+        "id": "40177300114",
+        "team": "BAL",
+        "plays_count": 2,
+        "result": "END OF HALF",
+        "yards": -5
+      },
+      {
+        "id": "40177300115",
+        "team": "IND",
+        "plays_count": 11,
+        "result": "PUNT",
+        "yards": 30
+      },
+      {
+        "id": "40177300116",
+        "team": "BAL",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": -1
+      },
+      {
+        "id": "40177300117",
+        "team": "IND",
+        "plays_count": 10,
+        "result": "TD",
+        "yards": 54
+      },
+      {
+        "id": "40177300118",
+        "team": "BAL",
+        "plays_count": 9,
+        "result": "MISSED FG",
+        "yards": 47
+      },
+      {
+        "id": "40177300119",
+        "team": "IND",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 8
+      },
+      {
+        "id": "40177300120",
+        "team": "BAL",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": 20
+      },
+      {
+        "id": "40177300121",
+        "team": "IND",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": -9
+      },
+      {
+        "id": "40177300122",
+        "team": "BAL",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 4
+      },
+      {
+        "id": "40177300123",
+        "team": "IND",
+        "plays_count": 5,
+        "result": "INT",
+        "yards": 17
+      },
+      {
+        "id": "40177300124",
+        "team": "BAL",
+        "plays_count": 7,
+        "result": "FG",
+        "yards": 4
+      },
+      {
+        "id": "40177300125",
+        "team": "IND",
+        "plays_count": 15,
+        "result": "DOWNS",
+        "yards": 52
+      },
+      {
+        "id": "40177300126",
+        "team": "BAL",
+        "plays_count": 9,
+        "result": "END OF GAME",
+        "yards": 9
+      }
+    ],
+    "plays": [
+      {
+        "id": "40177300139",
+        "text": "S.Shrader kicks 52 yards from IND 35 to BLT 13. K.Mitchell to BLT 29 for 16 yards (J.Bachie; S.Olubi).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177300162",
+        "text": "(Shotgun) K.Mitchell left guard to BLT 30 for 1 yard (K.Paye).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 29,
+        "period": 1,
+        "clock": "14:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177300184",
+        "text": "(Shotgun) C.Rush pass deep right intended for D.Wade INTERCEPTED by A.Johnson at IND 47. A.Johnson pushed ob at IND 47 for no gain (D.Wade).Penalty on BLT-D.Wade, Offensive Pass Interference, declined.",
+        "type": "Pass Interception Return",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 30,
+        "period": 1,
+        "clock": "14:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001122",
+        "text": "(Shotgun) A.Richardson pass short left to A.Mitchell to BLT 38 for 15 yards.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 53,
+        "period": 1,
+        "clock": "14:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001152",
+        "text": "(Shotgun) A.Richardson pass short left to T.Warren to BLT 31 for 7 yards (T.Simpson).PENALTY on IND-T.Bortolini, Ineligible Downfield Pass, 5 yards, enforced at BLT 38 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 38,
+        "period": 1,
+        "clock": "13:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001188",
+        "text": "(Shotgun) T.Goodson right guard to BLT 41 for 2 yards (B.Urban).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 43,
+        "period": 1,
+        "clock": "13:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001210",
+        "text": "(Shotgun) A.Richardson pass short middle to T.Warren to BLT 35 for 6 yards (M.Starks).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 41,
+        "period": 1,
+        "clock": "12:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001235",
+        "text": "(Shotgun) A.Richardson pass incomplete deep left to A.Dulin (J.Armour-Davis).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "12:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001263",
+        "text": "S.Shrader 53 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 7,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "11:51",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773001273",
+        "text": "Official Timeout at 11:51.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "11:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001283",
+        "text": "S.Shrader kicks 61 yards from IND 35 to BLT 4. K.Mitchell to BLT 29 for 25 yards (A.Adebawore; H.Wohler).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "11:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001318",
+        "text": "K.Mitchell left end to BLT 34 for 5 yards (J.Edwards).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 29,
+        "period": 1,
+        "clock": "11:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001340",
+        "text": "K.Mitchell right guard to BLT 36 for 2 yards (H.Wohler).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 34,
+        "period": 1,
+        "clock": "11:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001362",
+        "text": "(Shotgun) R.Ali left end to BLT 39 for 3 yards (A.Adebawore; C.McGrone).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 36,
+        "period": 1,
+        "clock": "10:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001384",
+        "text": "(Shotgun) C.Rush pass short left to T.Wallace pushed ob at BLT 48 for 9 yards (J.Edwards).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 39,
+        "period": 1,
+        "clock": "10:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001414",
+        "text": " K.Mitchell right end to IND 29 for 23 yards (E.Johnson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 48,
+        "period": 1,
+        "clock": "9:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001436",
+        "text": "C.Rush pass short right to C.Kolar to IND 22 for 7 yards (H.Wohler).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 71,
+        "period": 1,
+        "clock": "8:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001461",
+        "text": "K.Mitchell right tackle for 22 yards, TOUCHDOWN. T.Loop extra point is GOOD, Center-N.Moore, Holder-J.Stout.",
+        "type": "Rushing Touchdown",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 78,
+        "period": 1,
+        "clock": "8:10",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773001492",
+        "text": "Official Timeout at 08:10.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "8:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001499",
+        "text": "T.Loop kicks 65 yards from BLT 35 to end zone, Touchback to the IND 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "8:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001523",
+        "text": "D.Giddens right tackle to IND 35 for no gain (B.Okoye).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "8:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001545",
+        "text": "(Shotgun) A.Richardson sacked at IND 27 for -8 yards (D.Ojabo). IND-A.Richardson was injured during the play.",
+        "type": "Sack",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "7:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001565",
+        "text": "(Shotgun) D.Giddens right guard to IND 34 for 7 yards (M.Green; S.Kane).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 18,
+        "yard_line": 73,
+        "period": 1,
+        "clock": "6:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001587",
+        "text": " R.Sanchez punts 39 yards to BLT 27, Center-L.Rhodes. L.Wester pushed ob at BLT 44 for 17 yards (J.Edwards).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 11,
+        "yard_line": 66,
+        "period": 1,
+        "clock": "6:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001603",
+        "text": "Official Timeout at 06:01.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 44,
+        "period": 1,
+        "clock": "6:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001618",
+        "text": "(Shotgun) C.Rush pass incomplete short left to R.Ali.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 44,
+        "period": 1,
+        "clock": "6:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001648",
+        "text": "(Shotgun) R.Ali left guard to BLT 43 for -1 yards (J.Tuimoloau).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 44,
+        "period": 1,
+        "clock": "5:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001670",
+        "text": "(Shotgun) C.Rush sacked at BLT 35 for -8 yards (A.Adebawore).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 11,
+        "yard_line": 43,
+        "period": 1,
+        "clock": "5:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001690",
+        "text": " J.Stout punts 50 yards to IND 15, Center-N.Moore. A.Gould to IND 35 for 20 yards (B.Brade).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 19,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "4:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001703",
+        "text": "Official Timeout at 04:36.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "4:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001716",
+        "text": "(Shotgun) D.Jones pass short left to T.Warren to IND 46 for 11 yards (T.Tampa; T.Buchanan).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "4:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001748",
+        "text": "(Shotgun) D.Jones pass incomplete short right to A.Mitchell.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 1,
+        "clock": "3:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001771",
+        "text": "(Shotgun) D.Giddens right guard to IND 48 for 2 yards (J.Hummel).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 1,
+        "clock": "3:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001793",
+        "text": "(Shotgun) D.Jones sacked at IND 39 for -9 yards (A.Isaac).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 52,
+        "period": 1,
+        "clock": "3:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001813",
+        "text": "R.Sanchez punts 48 yards to BLT 13, Center-L.Rhodes. L.Wester for 87 yards, TOUCHDOWN. T.Loop extra point is GOOD, Center-N.Moore, Holder-J.Stout.",
+        "type": "Punt Return Touchdown",
+        "down": 4,
+        "distance": 17,
+        "yard_line": 61,
+        "period": 1,
+        "clock": "2:15",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773001855",
+        "text": "T.Loop kicks 57 yards from BLT 35 to IND 8. D.Giddens to IND 29 for 21 yards (K.Martin).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "2:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001878",
+        "text": "(Shotgun) D.Jones pass short middle to T.Warren to BLT 48 for 23 yards (B.Brade).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 71,
+        "period": 1,
+        "clock": "2:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001903",
+        "text": "(No Huddle, Shotgun) D.Jones pass incomplete short right to A.Gould.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 48,
+        "period": 1,
+        "clock": "1:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001926",
+        "text": "(Shotgun) D.Jones pass short left to A.Dulin ran ob at BLT 40 for 8 yards.",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 48,
+        "period": 1,
+        "clock": "1:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001956",
+        "text": "(No Huddle, Shotgun) D.Giddens left tackle to BLT 37 for 3 yards (M.Green).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 40,
+        "period": 1,
+        "clock": "1:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773001978",
+        "text": "(Shotgun) D.Jones pass deep middle to A.Mitchell to BLT 15 for 22 yards (B.Kone).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 37,
+        "period": 1,
+        "clock": "0:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011003",
+        "text": "(No Huddle, Shotgun) D.Jones pass incomplete short right to A.Gould.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 15,
+        "period": 1,
+        "clock": "0:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011035",
+        "text": "(Shotgun) D.Jones pass incomplete short left to A.Mitchell.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 15,
+        "period": 1,
+        "clock": "0:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011058",
+        "text": "(Shotgun) D.Jones pass incomplete short right to A.Dulin. BLT-B.Kone was injured during the play.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 15,
+        "period": 1,
+        "clock": "0:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011071",
+        "text": "Official Timeout at 00:12.",
+        "type": "Official Timeout",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 15,
+        "period": 1,
+        "clock": "0:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011084",
+        "text": " S.Shrader 33 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 15,
+        "period": 1,
+        "clock": "0:09",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730011111",
+        "text": "S.Shrader kicks 63 yards from IND 35 to BLT 2. K.Mitchell pushed ob at BLT 25 for 23 yards (S.Womack).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "0:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011144",
+        "text": "K.Mitchell right end to BLT 34 for 9 yards (S.Womack; H.Wohler).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 1,
+        "clock": "0:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011166",
+        "text": "END QUARTER 1",
+        "type": "End Period",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 34,
+        "period": 1,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011186",
+        "text": "(Shotgun) K.Mitchell right end to BLT 38 for 4 yards (H.Wohler).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 34,
+        "period": 2,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011213",
+        "text": "D.Leary pass incomplete deep right to D.Wade.PENALTY on IND-S.Womack, Defensive Pass Interference, 17 yards, enforced at BLT 38 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 38,
+        "period": 2,
+        "clock": "14:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011247",
+        "text": "R.Ali left end to IND 38 for 7 yards (E.Johnson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 55,
+        "period": 2,
+        "clock": "14:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011269",
+        "text": "K.Mitchell left tackle to IND 36 for 2 yards (C.McGrone).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 62,
+        "period": 2,
+        "clock": "13:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011291",
+        "text": "R.Ali up the middle to IND 36 for no gain (N.Gallimore; T.Smith).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 64,
+        "period": 2,
+        "clock": "12:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011313",
+        "text": "D.Leary up the middle to IND 34 for 2 yards (E.Johnson; J.Bachie).",
+        "type": "Rush",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 64,
+        "period": 2,
+        "clock": "12:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011335",
+        "text": " R.Ali left guard to IND 33 for 1 yard (I.Land; H.Wohler).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 66,
+        "period": 2,
+        "clock": "11:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011357",
+        "text": "(Shotgun) D.Leary pass incomplete deep left to D.Walker.PENALTY on IND-J.Edwards, Defensive Pass Interference, 22 yards, enforced at IND 33 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 67,
+        "period": 2,
+        "clock": "11:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011391",
+        "text": " K.Mitchell right end to IND 11 for no gain (J.Bachie).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 89,
+        "period": 2,
+        "clock": "11:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011413",
+        "text": "(Shotgun) D.Leary pass incomplete short right to D.Walker.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 89,
+        "period": 2,
+        "clock": "10:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011439",
+        "text": "(Shotgun) D.Leary pass short middle intended for D.Wade INTERCEPTED by J.Bachie at IND 9. J.Bachie to IND 9 for no gain (D.Wade).",
+        "type": "Pass Interception Return",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 89,
+        "period": 2,
+        "clock": "10:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011453",
+        "text": "Official Timeout at 10:09.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 91,
+        "period": 2,
+        "clock": "10:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011466",
+        "text": "D.Jones pass short right to A.Ogletree to IND 16 for 7 yards (B.Brade).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 91,
+        "period": 2,
+        "clock": "10:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011498",
+        "text": " (Shotgun) T.Goodson left tackle to IND 18 for 2 yards (A.Peebles; T.Simpson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 84,
+        "period": 2,
+        "clock": "9:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011520",
+        "text": "(Shotgun) T.Goodson up the middle to IND 23 for 5 yards (T.Simpson).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 82,
+        "period": 2,
+        "clock": "9:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011542",
+        "text": "(Shotgun) D.Jones pass incomplete deep right to A.Mitchell (T.Tampa) [B.Okoye].",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 77,
+        "period": 2,
+        "clock": "8:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011565",
+        "text": "(Shotgun) D.Jones pass incomplete short middle to D.Giddens.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 77,
+        "period": 2,
+        "clock": "8:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011588",
+        "text": "(Shotgun) D.Jones pass incomplete short left to A.Mitchell (J.Armour-Davis).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 77,
+        "period": 2,
+        "clock": "8:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011611",
+        "text": "R.Sanchez punts 55 yards to BLT 22, Center-L.Rhodes. L.Wester to BLT 31 for 9 yards (H.Wohler).PENALTY on BLT-K.Jackson, Offensive Holding, 10 yards, enforced at BLT 22.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 77,
+        "period": 2,
+        "clock": "8:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011630",
+        "text": "Official Timeout at 07:58.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 12,
+        "period": 2,
+        "clock": "7:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011648",
+        "text": "D.Johnson left tackle to BLT 14 for 2 yards (I.Land).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 12,
+        "period": 2,
+        "clock": "7:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011677",
+        "text": "(Shotgun) R.Ali up the middle to BLT 17 for 3 yards (H.Wohler).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 14,
+        "period": 2,
+        "clock": "7:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011699",
+        "text": "(Shotgun) PENALTY on BLT-D.Walker, False Start, 5 yards, enforced at BLT 17 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 17,
+        "period": 2,
+        "clock": "6:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011723",
+        "text": "(Shotgun) D.Leary pass incomplete short right to D.Wade (A.Johnson).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 12,
+        "period": 2,
+        "clock": "6:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011746",
+        "text": "J.Stout punts 43 yards to IND 45, Center-N.Moore, out of bounds.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 12,
+        "period": 2,
+        "clock": "6:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011765",
+        "text": "(Shotgun) D.Giddens right end to IND 48 for 3 yards (C.Ravenell; A.Isaac).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 55,
+        "period": 2,
+        "clock": "6:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011787",
+        "text": "(Shotgun) D.Jones pass deep left to A.Dulin to BLT 27 for 25 yards (B.Brade).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 52,
+        "period": 2,
+        "clock": "5:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011812",
+        "text": "(Shotgun) PENALTY on IND-M.Goncalves, False Start, 5 yards, enforced at BLT 27 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 27,
+        "period": 2,
+        "clock": "4:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011836",
+        "text": "(Shotgun) D.Jones pass short left to W.Mallory ran ob at BLT 17 for 15 yards.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 32,
+        "period": 2,
+        "clock": "4:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011866",
+        "text": "D.Giddens right tackle to BLT 15 for 2 yards (J.Jones).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 17,
+        "period": 2,
+        "clock": "3:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011888",
+        "text": "(Shotgun) D.Jones pass short right to A.Gould pushed ob at BLT 11 for 4 yards (T.Tampa).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 15,
+        "period": 2,
+        "clock": "3:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011918",
+        "text": "(Shotgun) D.Jones pass short right to A.Dulin for 11 yards, TOUCHDOWN NULLIFIED by Penalty.PENALTY on IND-A.Ogletree, Offensive Pass Interference, 10 yards, enforced at BLT 11 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 11,
+        "period": 2,
+        "clock": "2:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011955",
+        "text": "(Shotgun) D.Jones pass incomplete deep left to A.Dulin.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 14,
+        "yard_line": 21,
+        "period": 2,
+        "clock": "2:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730011978",
+        "text": " S.Shrader 39 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 14,
+        "yard_line": 21,
+        "period": 2,
+        "clock": "2:14",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730011998",
+        "text": "S.Shrader kicks 58 yards from IND 35 to BLT 7. R.Ali pushed ob at IND 24 for 69 yards (R.Thomas).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "2:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012026",
+        "text": "(Shotgun) D.Johnson left tackle to IND 22 for 2 yards (E.Johnson; S.Olubi).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 76,
+        "period": 2,
+        "clock": "2:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012037",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 78,
+        "period": 2,
+        "clock": "1:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012048",
+        "text": "D.Johnson right tackle to IND 15 for 7 yards (H.Wohler).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 78,
+        "period": 2,
+        "clock": "1:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012066",
+        "text": "Timeout #1 by IND at 01:51.",
+        "type": "Timeout",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 85,
+        "period": 2,
+        "clock": "1:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012084",
+        "text": " D.Johnson left tackle to IND 14 for 1 yard (N.Gallimore; S.Olubi).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 85,
+        "period": 2,
+        "clock": "1:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012099",
+        "text": "Timeout #2 by IND at 01:46.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 86,
+        "period": 2,
+        "clock": "1:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012113",
+        "text": "R.Ali left tackle to IND 10 for 4 yards (A.Ajiake).PENALTY on BLT-D.Dalcourt, Offensive Holding, 10 yards, enforced at IND 11.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 86,
+        "period": 2,
+        "clock": "1:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012153",
+        "text": "(Shotgun) R.Ali right end to IND 2 for 19 yards (R.Thomas).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 17,
+        "yard_line": 79,
+        "period": 2,
+        "clock": "1:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012164",
+        "text": "Timeout #3 by IND at 01:32.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 2,
+        "yard_line": 98,
+        "period": 2,
+        "clock": "1:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012175",
+        "text": "(Shotgun) R.Ali left end for 2 yards, TOUCHDOWN. T.Loop extra point is GOOD, Center-N.Moore, Holder-J.Stout.",
+        "type": "Rushing Touchdown",
+        "down": 1,
+        "distance": 2,
+        "yard_line": 98,
+        "period": 2,
+        "clock": "1:26",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730012220",
+        "text": "T.Loop kicks 65 yards from BLT 35 to IND 0. A.Gould pushed ob at IND 36 for 36 yards (T.Loop).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "1:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012248",
+        "text": " (Shotgun) T.Goodson right end to IND 38 for 2 yards (D.Ojabo).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 64,
+        "period": 2,
+        "clock": "1:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012270",
+        "text": "(No Huddle, Shotgun) D.Jones pass short middle to A.Dulin ran ob at BLT 41 for 21 yards (T.Tampa).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 62,
+        "period": 2,
+        "clock": "0:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012300",
+        "text": "(Shotgun) D.Jones pass incomplete deep right to W.Mallory (B.Brade).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 41,
+        "period": 2,
+        "clock": "0:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012323",
+        "text": "(Shotgun) D.Jones pass short middle to A.Gould to BLT 33 for 8 yards (J.Armour-Davis).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 41,
+        "period": 2,
+        "clock": "0:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012348",
+        "text": " (No Huddle, Shotgun) D.Jones pass incomplete short right to A.Dulin.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 33,
+        "period": 2,
+        "clock": "0:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012371",
+        "text": "S.Shrader 52 yard field goal is No Good, Hit Left Upright, Center-L.Rhodes, Holder-R.Sanchez.",
+        "type": "Field Goal Missed",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 33,
+        "period": 2,
+        "clock": "0:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012392",
+        "text": "(Shotgun) D.Leary sacked at BLT 34 for -8 yards (J.Tuimoloau). FUMBLES (J.Tuimoloau) [J.Tuimoloau], touched at BLT 40, recovered by BLT-B.Cleveland at BLT 37.",
+        "type": "Sack",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 42,
+        "period": 2,
+        "clock": "0:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012422",
+        "text": "END QUARTER 2",
+        "type": "End of Half",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012442",
+        "text": "T.Loop kicks 65 yards from BLT 35 to IND 0. K.Herbert to IND 34 for 34 yards (K.Martin).\nPENALTY on IND-S.DeShields, Offensive Holding, 10 yards, enforced at IND 31.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012476",
+        "text": "(Shotgun) K.Herbert left end to IND 24 for 3 yards (C.Ravenell).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 3,
+        "clock": "14:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012498",
+        "text": "(Shotgun) R.Leonard pass incomplete short right to C.Owen (K.Martin).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 76,
+        "period": 3,
+        "clock": "14:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012521",
+        "text": " (Shotgun) R.Leonard scrambles right end to IND 32 for 8 yards (K.Martin; B.Brade).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 76,
+        "period": 3,
+        "clock": "14:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012543",
+        "text": "(No Huddle, Shotgun) R.Leonard left tackle to IND 36 for 4 yards (J.Jones).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 68,
+        "period": 3,
+        "clock": "13:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012565",
+        "text": "(Shotgun) R.Leonard pass short middle to J.Woods to 50 for 14 yards (B.Brade).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 64,
+        "period": 3,
+        "clock": "13:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012590",
+        "text": "(Shotgun) K.Herbert right end to BLT 49 for 1 yard (B.Okoye; J.Jones).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 50,
+        "period": 3,
+        "clock": "12:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012612",
+        "text": "(Shotgun) R.Leonard pass incomplete short middle to L.Treadwell (W.Kwenkeu).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 49,
+        "period": 3,
+        "clock": "11:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012635",
+        "text": "(Shotgun) R.Leonard pass incomplete short right to L.Treadwell (A.Peebles).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 9,
+        "yard_line": 49,
+        "period": 3,
+        "clock": "11:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012658",
+        "text": " R.Sanchez punts 43 yards to BLT 6, Center-L.Rhodes, fair catch by A.Miller.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 9,
+        "yard_line": 49,
+        "period": 3,
+        "clock": "11:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012668",
+        "text": "Official Timeout at 11:41.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 6,
+        "period": 3,
+        "clock": "11:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012678",
+        "text": "PENALTY on BLT-Z.Mitchell-Paden, False Start, 3 yards, enforced at BLT 6 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 6,
+        "period": 3,
+        "clock": "11:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012709",
+        "text": "D.Johnson up the middle to BLT 5 for 2 yards (D.Little).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 13,
+        "yard_line": 3,
+        "period": 3,
+        "clock": "11:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012731",
+        "text": "D.Leary pass incomplete short middle to A.Miller (J.Tuimoloau) [J.Tuimoloau].",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 5,
+        "period": 3,
+        "clock": "11:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012754",
+        "text": " (Shotgun) D.Leary pass incomplete deep left to L.Wester.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 11,
+        "yard_line": 5,
+        "period": 3,
+        "clock": "11:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012777",
+        "text": " J.Stout punts 63 yards to IND 32, Center-N.Moore. C.Owen to IND 46 for 14 yards (B.Brade).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 11,
+        "yard_line": 5,
+        "period": 3,
+        "clock": "10:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012790",
+        "text": "Official Timeout at 10:46.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 3,
+        "clock": "10:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012803",
+        "text": "(Shotgun) R.Leonard pass deep right to L.Treadwell to BLT 30 for 24 yards (W.Kwenkeu).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 3,
+        "clock": "10:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012822",
+        "text": "Timeout #1 by BLT at 10:16.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 3,
+        "clock": "10:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012840",
+        "text": "(Shotgun) PENALTY on IND-J.Woods, False Start, 5 yards, enforced at BLT 30 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 3,
+        "clock": "10:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012871",
+        "text": "(Shotgun) K.Herbert left guard to BLT 32 for 3 yards (K.Rucker, C.Martin).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "10:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012893",
+        "text": "(Shotgun) R.Leonard pass short middle to C.Owen to BLT 26 for 6 yards (J.Higgins).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 12,
+        "yard_line": 32,
+        "period": 3,
+        "clock": "9:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012918",
+        "text": "(Shotgun) R.Leonard scrambles left end pushed ob at BLT 5 for 21 yards (R.Lowery; T.Tampa).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 26,
+        "period": 3,
+        "clock": "9:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012945",
+        "text": "(Shotgun) K.Herbert up the middle to BLT 3 for 2 yards (K.Rucker; B.Okoye).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 5,
+        "yard_line": 5,
+        "period": 3,
+        "clock": "8:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012967",
+        "text": "(Shotgun) K.Herbert right tackle to BLT 1 for 2 yards (A.Peebles).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 3,
+        "period": 3,
+        "clock": "7:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730012989",
+        "text": "(Shotgun) K.Herbert left guard for 1 yard, TOUCHDOWN. M.Trujillo extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",
+        "type": "Rushing Touchdown",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 1,
+        "period": 3,
+        "clock": "7:13",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730013020",
+        "text": "Official Timeout at 07:13.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "7:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013027",
+        "text": "M.Trujillo kicks 63 yards from IND 35 to BLT 2. D.Wade to BLT 25 for 23 yards (L.Treadwell).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "7:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013057",
+        "text": "D.Leary pass short left to L.Wester to BLT 36 for 11 yards (D.Shelley).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 3,
+        "clock": "7:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013082",
+        "text": "D.Leary pass incomplete deep left to K.Kirkwood.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 36,
+        "period": 3,
+        "clock": "6:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013105",
+        "text": " (Shotgun) D.Johnson left guard to BLT 38 for 2 yards (D.Shelley).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 36,
+        "period": 3,
+        "clock": "6:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013127",
+        "text": "(Shotgun) D.Leary pass deep right to L.Wester ran ob at IND 32 for 30 yards.",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 38,
+        "period": 3,
+        "clock": "5:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013152",
+        "text": " D.Johnson right guard to IND 28 for 4 yards (A.Adebawore).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 68,
+        "period": 3,
+        "clock": "5:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013174",
+        "text": "(Shotgun) D.Leary pass incomplete deep right to D.Walker.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 72,
+        "period": 3,
+        "clock": "4:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013197",
+        "text": "(Shotgun) D.Leary pass incomplete short left to A.Miller.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 72,
+        "period": 3,
+        "clock": "4:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013220",
+        "text": "T.Loop 46 yard field goal is No Good, Wide Left, Center-N.Moore, Holder-J.Stout.",
+        "type": "Field Goal Missed",
+        "down": 4,
+        "distance": 6,
+        "yard_line": 72,
+        "period": 3,
+        "clock": "4:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013246",
+        "text": "U.Bentley left end to IND 42 for 5 yards (A.Peebles; A.Isaac).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 63,
+        "period": 3,
+        "clock": "4:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013268",
+        "text": "(Shotgun) R.Leonard scrambles up the middle to IND 43 for 1 yard (C.Ravenell; A.Isaac).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 58,
+        "period": 3,
+        "clock": "3:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013290",
+        "text": " (Shotgun) U.Bentley up the middle to IND 45 for 2 yards (C.Martin).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 57,
+        "period": 3,
+        "clock": "3:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013312",
+        "text": "R.Sanchez punts 46 yards to BLT 9, Center-L.Rhodes, fair catch by A.Miller.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 55,
+        "period": 3,
+        "clock": "2:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013322",
+        "text": "Official Timeout at 02:16.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 9,
+        "period": 3,
+        "clock": "2:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013332",
+        "text": "D.Johnson left guard to BLT 12 for 3 yards (S.Olubi, A.Ajiake).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 9,
+        "period": 3,
+        "clock": "2:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013361",
+        "text": " (Shotgun) D.Leary pass short left to D.Johnson to BLT 14 for 2 yards (C.Lammons).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 12,
+        "period": 3,
+        "clock": "1:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013386",
+        "text": "(Shotgun) D.Leary scrambles right tackle to BLT 20 for 6 yards (A.Ajiake).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 14,
+        "period": 3,
+        "clock": "0:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013408",
+        "text": "D.Johnson up the middle to BLT 24 for 4 yards (D.Shelley).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 3,
+        "clock": "0:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013435",
+        "text": "END QUARTER 3",
+        "type": "End Period",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 24,
+        "period": 3,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013455",
+        "text": " (Shotgun) D.Johnson up the middle to BLT 29 for 5 yards (A.Johnson; D.Little).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 24,
+        "period": 4,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013477",
+        "text": "(Shotgun) D.Johnson left guard to BLT 29 for no gain (I.Land; D.Shelley).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 29,
+        "period": 4,
+        "clock": "14:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013499",
+        "text": "J.Stout punts 54 yards to IND 17, Center-N.Moore. C.Owen to IND 20 for 3 yards (M.Robinson; M.Hamm).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 29,
+        "period": 4,
+        "clock": "13:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013525",
+        "text": "(Shotgun) R.Leonard pass short left to C.Owen to IND 24 for 4 yards (K.Martin; D.Igbinosun).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "13:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013550",
+        "text": "(Shotgun) U.Bentley left tackle to IND 34 for 10 yards (J.Jones).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 76,
+        "period": 4,
+        "clock": "13:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013572",
+        "text": "(Shotgun) U.Bentley left end pushed ob at BLT 32 for 34 yards (D.Igbinosun).PENALTY on IND-L.Treadwell, Offensive Holding, 10 yards, enforced at IND 39.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 66,
+        "period": 4,
+        "clock": "12:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013615",
+        "text": "(Shotgun) R.Leonard pass incomplete short left to K.Herbert.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 71,
+        "period": 4,
+        "clock": "12:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013647",
+        "text": "(Shotgun) R.Leonard pass incomplete short middle [M.Hamm].PENALTY on IND-R.Leonard, Intentional Grounding, 23 yards, enforced at IND 29.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 15,
+        "yard_line": 71,
+        "period": 4,
+        "clock": "12:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013681",
+        "text": "(Shotgun) U.Bentley left guard to IND 11 for 5 yards (J.Higgins).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 38,
+        "yard_line": 94,
+        "period": 4,
+        "clock": "11:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013703",
+        "text": "R.Sanchez punts 47 yards to BLT 42, Center-L.Rhodes. A.Miller pushed ob at BLT 47 for 5 yards (T.Goodson).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 33,
+        "yard_line": 89,
+        "period": 4,
+        "clock": "11:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013719",
+        "text": "Official Timeout at 11:11.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 4,
+        "clock": "11:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013734",
+        "text": "(Shotgun) D.Leary pass incomplete short middle to S.Washington (T.Smith).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 4,
+        "clock": "11:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013764",
+        "text": "(Shotgun) D.Leary left end to IND 48 for 5 yards (D.Scott; S.Olubi).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 4,
+        "clock": "11:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013786",
+        "text": "(Shotgun) D.Leary scrambles left end to IND 44 for 4 yards (D.Shelley).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 52,
+        "period": 4,
+        "clock": "10:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013808",
+        "text": " (No Huddle) PENALTY on BLT, Delay of Game, 5 yards, enforced at IND 44 - No Play.",
+        "type": "Penalty",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 56,
+        "period": 4,
+        "clock": "9:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013832",
+        "text": "J.Stout punts 31 yards to IND 18, Center-N.Moore, fair catch by C.Owen.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 6,
+        "yard_line": 51,
+        "period": 4,
+        "clock": "9:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013842",
+        "text": "Official Timeout at 09:08.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 82,
+        "period": 4,
+        "clock": "9:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013852",
+        "text": "(Shotgun) U.Bentley right tackle to IND 23 for 5 yards (T.Tampa).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 82,
+        "period": 4,
+        "clock": "9:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013881",
+        "text": "(Shotgun) R.Leonard pass short middle to J.Woods to IND 32 for 9 yards (D.Igbinosun).Baltimore challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 77,
+        "period": 4,
+        "clock": "8:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013906",
+        "text": "(Shotgun) R.Leonard pass short right to C.Owen to IND 35 for 3 yards (J.Higgins; R.Lowery).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 68,
+        "period": 4,
+        "clock": "8:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013971",
+        "text": "(Shotgun) R.Leonard pass incomplete short right to T.Kahmann.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "7:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730013994",
+        "text": "(Shotgun) R.Leonard pass short right intended for B.Taylor INTERCEPTED by J.Higgins [C.Ravenell] at IND 41. J.Higgins to IND 39 for 2 yards (K.Herbert).",
+        "type": "Pass Interception Return",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "7:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014021",
+        "text": "D.Johnson left guard to IND 28 for 11 yards (T.Washington; T.Herndon).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 61,
+        "period": 4,
+        "clock": "7:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014048",
+        "text": "D.Johnson left guard to IND 27 for 1 yard (D.Shelley; D.Nchami).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 4,
+        "clock": "6:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014070",
+        "text": "D.Johnson left guard to IND 25 for 2 yards (D.Little).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 73,
+        "period": 4,
+        "clock": "6:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014092",
+        "text": "(Shotgun) PENALTY on BLT-G.Christian-Lichtenhan, False Start, 5 yards, enforced at IND 25 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 75,
+        "period": 4,
+        "clock": "5:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014116",
+        "text": "(Shotgun) PENALTY on BLT-G.Dellinger, False Start, 5 yards, enforced at IND 30 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 12,
+        "yard_line": 70,
+        "period": 4,
+        "clock": "5:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014140",
+        "text": "D.Johnson right end to IND 35 for no gain (D.Little; E.Johnson).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 17,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "5:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014162",
+        "text": " T.Loop 52 yard field goal is GOOD, Center-N.Moore, Holder-J.Stout.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 17,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "4:41",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730014182",
+        "text": "T.Loop kicks 60 yards from BLT 35 to IND 5. K.Herbert to IND 25 for 20 yards (M.Robinson, C.Martin).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "4:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014205",
+        "text": "(Shotgun) R.Leonard pass short right to A.Ajou to IND 33 for 8 yards (T.Tampa; C.Martin).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 75,
+        "period": 4,
+        "clock": "4:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014230",
+        "text": "(No Huddle, Shotgun) U.Bentley left tackle to IND 36 for 3 yards (A.Odeleye).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 67,
+        "period": 4,
+        "clock": "4:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014252",
+        "text": " (Shotgun) R.Leonard pass incomplete deep right to A.Ajou (T.Tampa).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 64,
+        "period": 4,
+        "clock": "3:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014275",
+        "text": "(Shotgun) R.Leonard pass incomplete short left to U.Bentley (M.Robinson).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 64,
+        "period": 4,
+        "clock": "3:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014298",
+        "text": "(Shotgun) R.Leonard pass short left to A.Ajou to IND 42 for 6 yards (R.Lowery).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 64,
+        "period": 4,
+        "clock": "3:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014323",
+        "text": "(Shotgun) R.Leonard pass incomplete short left to L.Parker.The Replay Official reviewed the incomplete pass ruling, and the play was REVERSED.(Shotgun) R.Leonard pass short left to L.Parker to IND 46 for 4 yards.",
+        "type": "Pass Reception",
+        "down": 4,
+        "distance": 4,
+        "yard_line": 58,
+        "period": 4,
+        "clock": "2:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014358",
+        "text": "(Shotgun) R.Leonard pass short right to S.McKeon to BLT 49 for 5 yards (K.Jackson).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 4,
+        "clock": "2:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014424",
+        "text": "(Shotgun) R.Leonard pass short middle to A.Ajou to BLT 45 for 4 yards (M.Robinson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 49,
+        "period": 4,
+        "clock": "2:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014437",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 44,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014449",
+        "text": "(Shotgun) K.Herbert left end pushed ob at BLT 28 for 17 yards (R.Lowery).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 45,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014483",
+        "text": "(Shotgun) R.Leonard pass short middle to C.Owen to BLT 23 for 5 yards (K.Martin) [K.Rucker].",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 4,
+        "clock": "1:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014508",
+        "text": "(No Huddle, Shotgun) R.Leonard pass incomplete short left to A.Ajou (C.Martin).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 23,
+        "period": 4,
+        "clock": "1:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014531",
+        "text": "(Shotgun) R.Leonard pass incomplete short middle to J.Woods [K.Rucker].",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 23,
+        "period": 4,
+        "clock": "1:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014554",
+        "text": "(Shotgun) R.Leonard pass incomplete short middle to C.Owen (J.Higgins).",
+        "type": "Pass Incompletion",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 23,
+        "period": 4,
+        "clock": "1:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014577",
+        "text": "D.Johnson left tackle to BLT 30 for 7 yards (T.Smith).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 23,
+        "period": 4,
+        "clock": "1:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014588",
+        "text": "Timeout #1 by IND at 01:16.",
+        "type": "Timeout",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 30,
+        "period": 4,
+        "clock": "1:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014599",
+        "text": "D.Johnson right tackle to BLT 32 for 2 yards (S.DeShields).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 30,
+        "period": 4,
+        "clock": "1:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014614",
+        "text": "Timeout #2 by IND at 01:12.",
+        "type": "Timeout",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 32,
+        "period": 4,
+        "clock": "1:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014628",
+        "text": "D.Johnson left tackle to BLT 34 for 2 yards (D.Scott).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 32,
+        "period": 4,
+        "clock": "1:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014643",
+        "text": "Timeout #3 by IND at 01:06.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 34,
+        "period": 4,
+        "clock": "1:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014657",
+        "text": " D.Leary kneels to BLT 33 for -1 yards.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 34,
+        "period": 4,
+        "clock": "1:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014686",
+        "text": " D.Leary kneels to BLT 32 for -1 yards.",
+        "type": "Rush",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 33,
+        "period": 4,
+        "clock": "0:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730014708",
+        "text": "END GAME",
+        "type": "End of Game",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 32,
+        "period": 4,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      }
+    ],
+    "scoring_plays": [],
+    "touchdowns": [
+      {
+        "play_id": "401773001461",
+        "text": "K.Mitchell right tackle for 22 yards, TOUCHDOWN. T.Loop extra point is GOOD, Center-N.Moore, Holder-J.Stout.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "401773001813",
+        "text": "R.Sanchez punts 48 yards to BLT 13, Center-L.Rhodes. L.Wester for 87 yards, TOUCHDOWN. T.Loop extra point is GOOD, Center-N.Moore, Holder-J.Stout.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730012175",
+        "text": "(Shotgun) R.Ali left end for 2 yards, TOUCHDOWN. T.Loop extra point is GOOD, Center-N.Moore, Holder-J.Stout.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730012989",
+        "text": "(Shotgun) K.Herbert left guard for 1 yard, TOUCHDOWN. M.Trujillo extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      }
+    ],
+    "interceptions": [
+      {
+        "play_id": "40177300184",
+        "text": "(Shotgun) C.Rush pass deep right intended for D.Wade INTERCEPTED by A.Johnson at IND 47. A.Johnson pushed ob at IND 47 for no gain (D.Wade).Penalty on BLT-D.Wade, Offensive Pass Interference, declined.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730011439",
+        "text": "(Shotgun) D.Leary pass short middle intended for D.Wade INTERCEPTED by J.Bachie at IND 9. J.Bachie to IND 9 for no gain (D.Wade).",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730013994",
+        "text": "(Shotgun) R.Leonard pass short right intended for B.Taylor INTERCEPTED by J.Higgins [C.Ravenell] at IND 41. J.Higgins to IND 39 for 2 yards (K.Herbert).",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      }
+    ],
+    "fumbles": []
+  },
+  "processing_timestamp": "2025-08-20T10:49:31.284070"
+}

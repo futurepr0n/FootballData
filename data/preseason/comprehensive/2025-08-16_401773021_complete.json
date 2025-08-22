@@ -1,0 +1,3748 @@
+{
+  "game_id": "401773021",
+  "date": "2025-08-16",
+  "box_score": {
+    "game_info": {
+      "game_id": "401773021",
+      "date": "2025-08-16T23:00Z",
+      "status": {
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final"
+        },
+        "isTBDFlex": false
+      },
+      "venue": {},
+      "attendance": 0
+    },
+    "team_stats": {
+      "LAR": {
+        "score": 23,
+        "record": "0-0",
+        "home_away": "home"
+      },
+      "LAC": {
+        "score": 22,
+        "record": "0-0",
+        "home_away": "away"
+      }
+    },
+    "player_stats": {
+      "Trey Lance_LAC": {
+        "name": "Trey Lance",
+        "position": "",
+        "jersey": "5",
+        "team": "LAC",
+        "stats": {
+          "0": 4,
+          "1": 25,
+          "2": 6.3,
+          "3": 0,
+          "4": 12
+        }
+      },
+      "Taylor Heinicke_LAC": {
+        "name": "Taylor Heinicke",
+        "position": "",
+        "jersey": "4",
+        "team": "LAC",
+        "stats": {
+          "0": 2,
+          "1": 19,
+          "2": 9.5,
+          "3": 0,
+          "4": 14
+        }
+      },
+      "Justin Herbert_LAC": {
+        "name": "Justin Herbert",
+        "position": "",
+        "jersey": "10",
+        "team": "LAC",
+        "stats": {
+          "0": "2/5",
+          "1": 46,
+          "2": 9.2,
+          "3": 0,
+          "4": 0,
+          "5": "1-7",
+          "6": 73.8
+        }
+      },
+      "Kimani Vidal_LAC": {
+        "name": "Kimani Vidal",
+        "position": "",
+        "jersey": "30",
+        "team": "LAC",
+        "stats": {
+          "0": 10,
+          "1": 16,
+          "2": 1.6,
+          "3": 0,
+          "4": 4
+        }
+      },
+      "Omarion Hampton_LAC": {
+        "name": "Omarion Hampton",
+        "position": "",
+        "jersey": "8",
+        "team": "LAC",
+        "stats": {
+          "0": 2,
+          "1": 12,
+          "2": 6.0,
+          "3": 0,
+          "4": 7
+        }
+      },
+      "Raheim Sanders_LAC": {
+        "name": "Raheim Sanders",
+        "position": "",
+        "jersey": "35O",
+        "team": "LAC",
+        "stats": {
+          "0": 2,
+          "1": 17,
+          "2": 8.5,
+          "3": 0,
+          "4": 9,
+          "5": 2
+        }
+      },
+      "Tre Harris_LAC": {
+        "name": "Tre Harris",
+        "position": "",
+        "jersey": "9",
+        "team": "LAC",
+        "stats": {
+          "0": 6,
+          "1": 85,
+          "2": 14.2,
+          "3": 0,
+          "4": 34,
+          "5": 8
+        }
+      },
+      "KeAndre Lambert-Smith_LAC": {
+        "name": "KeAndre Lambert-Smith",
+        "position": "",
+        "jersey": "84",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 2,
+          "2": 2.0,
+          "3": 2,
+          "4": 0
+        }
+      },
+      "Ladd McConkey_LAC": {
+        "name": "Ladd McConkey",
+        "position": "",
+        "jersey": "15",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 17,
+          "2": 17.0,
+          "3": 0,
+          "4": 17,
+          "5": 1
+        }
+      },
+      "JaQuae Jackson_LAC": {
+        "name": "JaQuae Jackson",
+        "position": "",
+        "jersey": "27O",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 13,
+          "2": 13.0,
+          "3": 0,
+          "4": 13,
+          "5": 1
+        }
+      },
+      "Oronde Gadsden II_LAC": {
+        "name": "Oronde Gadsden II",
+        "position": "",
+        "jersey": "86",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 12,
+          "2": 12.0,
+          "3": 0,
+          "4": 12,
+          "5": 2
+        }
+      },
+      "Jaylen Johnson_LAC": {
+        "name": "Jaylen Johnson",
+        "position": "",
+        "jersey": "39O",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 7,
+          "2": 7.0,
+          "3": 0,
+          "4": 7,
+          "5": 3
+        }
+      },
+      "Luke Grimm_LAC": {
+        "name": "Luke Grimm",
+        "position": "",
+        "jersey": "37O",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 66,
+          "2": 66.0,
+          "3": 66,
+          "4": 1
+        }
+      },
+      "Nyheim Miller-Hines_LAC": {
+        "name": "Nyheim Miller-Hines",
+        "position": "",
+        "jersey": "31O",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 15,
+          "2": 15.0,
+          "3": 15,
+          "4": 0
+        }
+      },
+      "Quentin Johnston_LAC": {
+        "name": "Quentin Johnston",
+        "position": "",
+        "jersey": "1",
+        "team": "LAC",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 2
+        }
+      },
+      "Dalevon Campbell_LAC": {
+        "name": "Dalevon Campbell",
+        "position": "",
+        "jersey": "38O",
+        "team": "LAC",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 2
+        }
+      },
+      "Brenden Rice_LAC": {
+        "name": "Brenden Rice",
+        "position": "",
+        "jersey": "82",
+        "team": "LAC",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 2
+        }
+      },
+      "Myles Purchase_LAC": {
+        "name": "Myles Purchase",
+        "position": "",
+        "jersey": "49D",
+        "team": "LAC",
+        "stats": {
+          "0": 9,
+          "1": 6,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Trikweze Bridges_LAC": {
+        "name": "Trikweze Bridges",
+        "position": "",
+        "jersey": "31D",
+        "team": "LAC",
+        "stats": {
+          "0": 8,
+          "1": 7,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "RJ Mickens_LAC": {
+        "name": "RJ Mickens",
+        "position": "",
+        "jersey": "27D",
+        "team": "LAC",
+        "stats": {
+          "0": 8,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ja'Sir Taylor_LAC": {
+        "name": "Ja'Sir Taylor",
+        "position": "",
+        "jersey": "36",
+        "team": "LAC",
+        "stats": {
+          "0": 6,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Alohi Gilman_LAC": {
+        "name": "Alohi Gilman",
+        "position": "",
+        "jersey": "32",
+        "team": "LAC",
+        "stats": {
+          "0": 5,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kendall Williamson_LAC": {
+        "name": "Kendall Williamson",
+        "position": "",
+        "jersey": "40",
+        "team": "LAC",
+        "stats": {
+          "0": 5,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Marlowe Wax_LAC": {
+        "name": "Marlowe Wax",
+        "position": "",
+        "jersey": "58",
+        "team": "LAC",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tony Jefferson_LAC": {
+        "name": "Tony Jefferson",
+        "position": "",
+        "jersey": "23",
+        "team": "LAC",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Benjamin St-Juste_LAC": {
+        "name": "Benjamin St-Juste",
+        "position": "",
+        "jersey": "24",
+        "team": "LAC",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Junior Colson_LAC": {
+        "name": "Junior Colson",
+        "position": "",
+        "jersey": "25",
+        "team": "LAC",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Emany Johnson_LAC": {
+        "name": "Emany Johnson",
+        "position": "",
+        "jersey": "38D",
+        "team": "LAC",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nikko Reed_LAC": {
+        "name": "Nikko Reed",
+        "position": "",
+        "jersey": "46",
+        "team": "LAC",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jamaree Caldwell_LAC": {
+        "name": "Jamaree Caldwell",
+        "position": "",
+        "jersey": "99",
+        "team": "LAC",
+        "stats": {
+          "0": 3,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Christopher Hinton_LAC": {
+        "name": "Christopher Hinton",
+        "position": "",
+        "jersey": "98",
+        "team": "LAC",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tre'Mon Morris-Brash_LAC": {
+        "name": "Tre'Mon Morris-Brash",
+        "position": "",
+        "jersey": "57",
+        "team": "LAC",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 1,
+          "3": 0,
+          "4": 1,
+          "5": 2,
+          "6": 0
+        }
+      },
+      "Nesta Jade Silvera_LAC": {
+        "name": "Nesta Jade Silvera",
+        "position": "",
+        "jersey": "60",
+        "team": "LAC",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Daiyan Henley_LAC": {
+        "name": "Daiyan Henley",
+        "position": "",
+        "jersey": "0",
+        "team": "LAC",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Justin Eboigbe_LAC": {
+        "name": "Justin Eboigbe",
+        "position": "",
+        "jersey": "92",
+        "team": "LAC",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kylan Guidry_LAC": {
+        "name": "Kylan Guidry",
+        "position": "",
+        "jersey": "59",
+        "team": "LAC",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Denzel Perryman_LAC": {
+        "name": "Denzel Perryman",
+        "position": "",
+        "jersey": "6",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Da'Shawn Hand_LAC": {
+        "name": "Da'Shawn Hand",
+        "position": "",
+        "jersey": "91",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Troy Dye_LAC": {
+        "name": "Troy Dye",
+        "position": "",
+        "jersey": "43",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Harrison Hand_LAC": {
+        "name": "Harrison Hand",
+        "position": "",
+        "jersey": "37D",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Garmon Randolph_LAC": {
+        "name": "Garmon Randolph",
+        "position": "",
+        "jersey": "97",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Naquan Jones_LAC": {
+        "name": "Naquan Jones",
+        "position": "",
+        "jersey": "96",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kana'i Mauga_LAC": {
+        "name": "Kana'i Mauga",
+        "position": "",
+        "jersey": "56",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "TeRah Edwards_LAC": {
+        "name": "TeRah Edwards",
+        "position": "",
+        "jersey": "94",
+        "team": "LAC",
+        "stats": {
+          "0": 1,
+          "1": 27,
+          "2": 0
+        }
+      },
+      "Cameron Dicker_LAC": {
+        "name": "Cameron Dicker",
+        "position": "",
+        "jersey": "11",
+        "team": "LAC",
+        "stats": {
+          "0": "3/3",
+          "1": 100.0,
+          "2": 39,
+          "3": "1/1",
+          "4": 10
+        }
+      },
+      "JK Scott_LAC": {
+        "name": "JK Scott",
+        "position": "",
+        "jersey": "16",
+        "team": "LAC",
+        "stats": {
+          "0": 5,
+          "1": 213,
+          "2": 42.6,
+          "3": 0,
+          "4": 4,
+          "5": 59
+        }
+      },
+      "Stetson Bennett IV_LAR": {
+        "name": "Stetson Bennett IV",
+        "position": "",
+        "jersey": "13",
+        "team": "LAR",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jarquez Hunter_LAR": {
+        "name": "Jarquez Hunter",
+        "position": "",
+        "jersey": "35",
+        "team": "LAR",
+        "stats": {
+          "0": 1,
+          "1": 2,
+          "2": 2.0,
+          "3": 0,
+          "4": 2,
+          "5": 1
+        }
+      },
+      "Cody Schrader_LAR": {
+        "name": "Cody Schrader",
+        "position": "",
+        "jersey": "32",
+        "team": "LAR",
+        "stats": {
+          "0": 3,
+          "1": 73,
+          "2": 24.3,
+          "3": 26,
+          "4": 0
+        }
+      },
+      "Blake Corum_LAR": {
+        "name": "Blake Corum",
+        "position": "",
+        "jersey": "22",
+        "team": "LAR",
+        "stats": {
+          "0": 4,
+          "1": 22,
+          "2": 5.5,
+          "3": 0,
+          "4": 11
+        }
+      },
+      "Xavier Smith_LAR": {
+        "name": "Xavier Smith",
+        "position": "",
+        "jersey": "19",
+        "team": "LAR",
+        "stats": {
+          "0": 4,
+          "1": 49,
+          "2": 12.3,
+          "3": 0,
+          "4": 25,
+          "5": 4
+        }
+      },
+      "Brennan Presley_LAR": {
+        "name": "Brennan Presley",
+        "position": "",
+        "jersey": "81",
+        "team": "LAR",
+        "stats": {
+          "0": 6,
+          "1": 102,
+          "2": 17.0,
+          "3": 0,
+          "4": 40,
+          "5": 8
+        }
+      },
+      "Mario Williams_LAR": {
+        "name": "Mario Williams",
+        "position": "",
+        "jersey": "86",
+        "team": "LAR",
+        "stats": {
+          "0": 2,
+          "1": 40,
+          "2": 20.0,
+          "3": 21,
+          "4": 0
+        }
+      },
+      "Tru Edwards_LAR": {
+        "name": "Tru Edwards",
+        "position": "",
+        "jersey": "82",
+        "team": "LAR",
+        "stats": {
+          "0": 3,
+          "1": 32,
+          "2": 10.7,
+          "3": 1,
+          "4": 19,
+          "5": 4
+        }
+      },
+      "Drake Stoops_LAR": {
+        "name": "Drake Stoops",
+        "position": "",
+        "jersey": "6O",
+        "team": "LAR",
+        "stats": {
+          "0": 2,
+          "1": 23,
+          "2": 11.5,
+          "3": 0,
+          "4": 12,
+          "5": 3
+        }
+      },
+      "Mark Redman_LAR": {
+        "name": "Mark Redman",
+        "position": "",
+        "jersey": "83",
+        "team": "LAR",
+        "stats": {
+          "0": 3,
+          "1": 21,
+          "2": 7.0,
+          "3": 0,
+          "4": 15,
+          "5": 4
+        }
+      },
+      "Britain Covey_LAR": {
+        "name": "Britain Covey",
+        "position": "",
+        "jersey": "10",
+        "team": "LAR",
+        "stats": {
+          "0": 1,
+          "1": 2,
+          "2": 2.0,
+          "3": 2,
+          "4": 0
+        }
+      },
+      "Konata Mumpfield_LAR": {
+        "name": "Konata Mumpfield",
+        "position": "",
+        "jersey": "15",
+        "team": "LAR",
+        "stats": {
+          "0": 2,
+          "1": 12,
+          "2": 6.0,
+          "3": 1,
+          "4": 10,
+          "5": 4
+        }
+      },
+      "Shaun Dolac_LAR": {
+        "name": "Shaun Dolac",
+        "position": "",
+        "jersey": "56",
+        "team": "LAR",
+        "stats": {
+          "0": 7,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cam Lampkin_LAR": {
+        "name": "Cam Lampkin",
+        "position": "",
+        "jersey": "33",
+        "team": "LAR",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Elias Neal_LAR": {
+        "name": "Elias Neal",
+        "position": "",
+        "jersey": "58",
+        "team": "LAR",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jack Heflin_LAR": {
+        "name": "Jack Heflin",
+        "position": "",
+        "jersey": "93",
+        "team": "LAR",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Shaun Jolly_LAR": {
+        "name": "Shaun Jolly",
+        "position": "",
+        "jersey": "24",
+        "team": "LAR",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jamil Muhammad_LAR": {
+        "name": "Jamil Muhammad",
+        "position": "",
+        "jersey": "45",
+        "team": "LAR",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nate Valcarcel_LAR": {
+        "name": "Nate Valcarcel",
+        "position": "",
+        "jersey": "43",
+        "team": "LAR",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Larrell Murchison_LAR": {
+        "name": "Larrell Murchison",
+        "position": "",
+        "jersey": "52",
+        "team": "LAR",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Chris Paul Jr._LAR": {
+        "name": "Chris Paul Jr.",
+        "position": "",
+        "jersey": "54",
+        "team": "LAR",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Brennan Jackson_LAR": {
+        "name": "Brennan Jackson",
+        "position": "",
+        "jersey": "44",
+        "team": "LAR",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 2,
+          "3": 2,
+          "4": 0,
+          "5": 2,
+          "6": 0
+        }
+      },
+      "Derion Kendrick_LAR": {
+        "name": "Derion Kendrick",
+        "position": "",
+        "jersey": "1",
+        "team": "LAR",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Charles Woods_LAR": {
+        "name": "Charles Woods",
+        "position": "",
+        "jersey": "21",
+        "team": "LAR",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Malik Dixon-Williams_LAR": {
+        "name": "Malik Dixon-Williams",
+        "position": "",
+        "jersey": "39",
+        "team": "LAR",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "A.J. Green_LAR": {
+        "name": "A.J. Green",
+        "position": "",
+        "jersey": "27",
+        "team": "LAR",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nick Hampton_LAR": {
+        "name": "Nick Hampton",
+        "position": "",
+        "jersey": "6D",
+        "team": "LAR",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Josh Pearcy_LAR": {
+        "name": "Josh Pearcy",
+        "position": "",
+        "jersey": "59",
+        "team": "LAR",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Josh Wallace_LAR": {
+        "name": "Josh Wallace",
+        "position": "",
+        "jersey": "30",
+        "team": "LAR",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Keir Thomas_LAR": {
+        "name": "Keir Thomas",
+        "position": "",
+        "jersey": "96",
+        "team": "LAR",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Desjuan Johnson_LAR": {
+        "name": "Desjuan Johnson",
+        "position": "",
+        "jersey": "94",
+        "team": "LAR",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Tony Fields II_LAR": {
+        "name": "Tony Fields II",
+        "position": "",
+        "jersey": "40",
+        "team": "LAR",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tanner Ingle_LAR": {
+        "name": "Tanner Ingle",
+        "position": "",
+        "jersey": "34",
+        "team": "LAR",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jordan Waters_LAR": {
+        "name": "Jordan Waters",
+        "position": "",
+        "jersey": "36",
+        "team": "LAR",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Bill Norton_LAR": {
+        "name": "Bill Norton",
+        "position": "",
+        "jersey": "97",
+        "team": "LAR",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Joshua Karty_LAR": {
+        "name": "Joshua Karty",
+        "position": "",
+        "jersey": "16",
+        "team": "LAR",
+        "stats": {
+          "0": "1/1",
+          "1": 100.0,
+          "2": 38,
+          "3": "2/2",
+          "4": 5
+        }
+      },
+      "Ethan Evans_LAR": {
+        "name": "Ethan Evans",
+        "position": "",
+        "jersey": "42",
+        "team": "LAR",
+        "stats": {
+          "0": 3,
+          "1": 172,
+          "2": 57.3,
+          "3": 0,
+          "4": 0,
+          "5": 69
+        }
+      }
+    },
+    "scoring_summary": []
+  },
+  "play_by_play": {
+    "game_info": {
+      "game_id": "401773021",
+      "teams": [
+        {
+          "abbreviation": "LAR",
+          "name": "Los Angeles Rams",
+          "score": 23,
+          "home_away": "home"
+        },
+        {
+          "abbreviation": "LAC",
+          "name": "Los Angeles Chargers",
+          "score": 22,
+          "home_away": "away"
+        }
+      ],
+      "final_score": {}
+    },
+    "drives": [
+      {
+        "id": "4017730211",
+        "team": "LAC",
+        "plays_count": 12,
+        "result": "FG",
+        "yards": 51
+      },
+      {
+        "id": "4017730212",
+        "team": "LAR",
+        "plays_count": 11,
+        "result": "TD",
+        "yards": 60
+      },
+      {
+        "id": "4017730213",
+        "team": "LAC",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 5
+      },
+      {
+        "id": "4017730214",
+        "team": "LAR",
+        "plays_count": 4,
+        "result": "PUNT",
+        "yards": 6
+      },
+      {
+        "id": "4017730215",
+        "team": "LAC",
+        "plays_count": 18,
+        "result": "FG",
+        "yards": 47
+      },
+      {
+        "id": "4017730216",
+        "team": "LAR",
+        "plays_count": 16,
+        "result": "DOWNS",
+        "yards": 79
+      },
+      {
+        "id": "4017730217",
+        "team": "LAC",
+        "plays_count": 10,
+        "result": "PUNT",
+        "yards": 26
+      },
+      {
+        "id": "4017730218",
+        "team": "LAR",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 5
+      },
+      {
+        "id": "4017730219",
+        "team": "LAC",
+        "plays_count": 11,
+        "result": "FG",
+        "yards": 56
+      },
+      {
+        "id": "40177302110",
+        "team": "LAR",
+        "plays_count": 3,
+        "result": "END OF HALF",
+        "yards": -1
+      },
+      {
+        "id": "40177302111",
+        "team": "LAR",
+        "plays_count": 13,
+        "result": "FG",
+        "yards": 53
+      },
+      {
+        "id": "40177302112",
+        "team": "LAC",
+        "plays_count": 14,
+        "result": "TD",
+        "yards": 69
+      },
+      {
+        "id": "40177302113",
+        "team": "LAR",
+        "plays_count": 8,
+        "result": "TD",
+        "yards": 82
+      },
+      {
+        "id": "40177302114",
+        "team": "LAC",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 4
+      },
+      {
+        "id": "40177302115",
+        "team": "LAR",
+        "plays_count": 6,
+        "result": "PUNT TD",
+        "yards": 4
+      },
+      {
+        "id": "40177302116",
+        "team": "LAR",
+        "plays_count": 15,
+        "result": "INT",
+        "yards": 60
+      },
+      {
+        "id": "40177302117",
+        "team": "LAC",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 6
+      },
+      {
+        "id": "40177302118",
+        "team": "LAR",
+        "plays_count": 7,
+        "result": "DOWNS",
+        "yards": 36
+      },
+      {
+        "id": "40177302119",
+        "team": "LAC",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": -2
+      },
+      {
+        "id": "40177302120",
+        "team": "LAR",
+        "plays_count": 13,
+        "result": "TD",
+        "yards": 75
+      },
+      {
+        "id": "40177302121",
+        "team": "LAC",
+        "plays_count": 3,
+        "result": "END OF GAME",
+        "yards": 9
+      }
+    ],
+    "plays": [
+      {
+        "id": "40177302139",
+        "text": "E.Evans kicks 65 yards from LA 35 to end zone, Touchback to the LAC 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177302156",
+        "text": "J.Herbert pass incomplete short right to Q.Johnston.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177302179",
+        "text": "(Shotgun) J.Herbert pass short middle to L.McConkey to LA 48 for 17 yards (D.Kendrick).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "14:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021104",
+        "text": "(Shotgun) J.Herbert pass incomplete deep right to Q.Johnston (A.Green). LAC-Q.Johnston was injured during the play.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 48,
+        "period": 1,
+        "clock": "14:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021117",
+        "text": "Official Timeout at 14:12.",
+        "type": "Official Timeout",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 48,
+        "period": 1,
+        "clock": "14:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021130",
+        "text": "(Shotgun) O.Hampton right guard to LA 43 for 5 yards (S.Dolac; C.Paul).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 48,
+        "period": 1,
+        "clock": "14:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021159",
+        "text": "(Shotgun) J.Herbert pass deep left to K.Lambert-Smith pushed ob at LA 14 for 29 yards (S.Jolly).Penalty on LA-A.Green, Defensive Holding, declined.",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 43,
+        "period": 1,
+        "clock": "13:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021200",
+        "text": "J.Herbert sacked at LA 21 for -7 yards (B.Jackson).",
+        "type": "Sack",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 14,
+        "period": 1,
+        "clock": "13:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021229",
+        "text": "(Shotgun) J.Herbert pass incomplete deep right to K.Lambert-Smith (A.Green).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 17,
+        "yard_line": 21,
+        "period": 1,
+        "clock": "12:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021252",
+        "text": "(Shotgun) O.Hampton up the middle to LA 14 for 7 yards (J.Wallace; T.Ingle).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 17,
+        "yard_line": 21,
+        "period": 1,
+        "clock": "12:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021274",
+        "text": "C.Dicker 32 yard field goal is GOOD, Center-J.Harris, Holder-J.Scott.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 14,
+        "period": 1,
+        "clock": "11:48",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773021284",
+        "text": "Official Timeout at 11:48.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "11:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021294",
+        "text": "C.Dicker kicks 60 yards from LAC 35 to LA 5, out of bounds.PENALTY on LAC-C.Dicker, Kickoff Out of Bounds, placed at LA 40.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "11:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021328",
+        "text": "S.Bennett pass short right to D.Stoops to LAC 49 for 11 yards (D.Perryman).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 40,
+        "period": 1,
+        "clock": "11:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021353",
+        "text": "B.Corum up the middle to LAC 41 for 8 yards (A.Gilman; D.Henley).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 51,
+        "period": 1,
+        "clock": "11:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021375",
+        "text": "S.Bennett pass short right to X.Smith pushed ob at LAC 37 for 4 yards (A.Gilman).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 59,
+        "period": 1,
+        "clock": "10:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021405",
+        "text": "B.Corum right guard to LAC 37 for no gain (B.St-Juste; A.Gilman).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 63,
+        "period": 1,
+        "clock": "10:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021427",
+        "text": "(Shotgun) B.Corum up the middle to LAC 26 for 11 yards (B.St-Juste; A.Gilman).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 63,
+        "period": 1,
+        "clock": "9:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021449",
+        "text": "X.Smith right end to LAC 21 for 5 yards (B.St-Juste).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 1,
+        "clock": "8:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021471",
+        "text": "(Shotgun) S.Bennett pass short right to X.Smith to LAC 5 for 16 yards (B.St-Juste) [T.Morris-Brash].",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 79,
+        "period": 1,
+        "clock": "8:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021496",
+        "text": "B.Corum up the middle to LAC 2 for 3 yards (D.Henley; A.Gilman). LAC-A.Gilman was injured during the play.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 5,
+        "yard_line": 95,
+        "period": 1,
+        "clock": "7:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021520",
+        "text": "Official Timeout at 07:11.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 5,
+        "yard_line": 95,
+        "period": 1,
+        "clock": "7:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021528",
+        "text": "(Shotgun) S.Bennett pass short right to K.Mumpfield for 2 yards, TOUCHDOWN. J.Karty extra point is GOOD, Center-A.Ward, Holder-E.Evans.",
+        "type": "Passing Touchdown",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 98,
+        "period": 1,
+        "clock": "6:54",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773021569",
+        "text": "E.Evans kicks 60 yards from LA 35 to LAC 5, out of bounds.PENALTY on LA-E.Evans, Kickoff Out of Bounds, placed at LAC 40.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "6:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021596",
+        "text": "K.Vidal up the middle to LAC 42 for 2 yards (J.Heflin; L.Murchison).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 60,
+        "period": 1,
+        "clock": "6:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021618",
+        "text": "T.Heinicke pass incomplete deep left to K.Lambert-Smith. LAC-K.Lambert-Smith was injured during the play.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 58,
+        "period": 1,
+        "clock": "6:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021644",
+        "text": "(Shotgun) T.Heinicke pass short left to T.Harris to LAC 45 for 3 yards (A.Green).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 58,
+        "period": 1,
+        "clock": "6:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021669",
+        "text": "J.Scott punts 47 yards to LA 8, Center-J.Harris, fair catch by B.Covey.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 55,
+        "period": 1,
+        "clock": "5:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021689",
+        "text": "J.Hunter up the middle to LA 15 for 7 yards (T.Bridges).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 8,
+        "period": 1,
+        "clock": "5:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021711",
+        "text": "J.Hunter up the middle to LA 14 for -1 yards (D.Hand).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 15,
+        "period": 1,
+        "clock": "5:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021733",
+        "text": "(Shotgun) S.Bennett pass incomplete short left to K.Mumpfield (T.Dye).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 14,
+        "period": 1,
+        "clock": "4:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021756",
+        "text": "E.Evans punts 69 yards to LAC 17, Center-A.Ward. N.Miller-Hines to LAC 32 for 15 yards (J.Wallace; J.Pearcy). LA-A.Green was injured during the play.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 4,
+        "yard_line": 14,
+        "period": 1,
+        "clock": "4:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021785",
+        "text": "(Shotgun) T.Heinicke pass short left to J.Jackson pushed ob at LAC 45 for 13 yards (C.Lampkin).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 68,
+        "period": 1,
+        "clock": "4:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021815",
+        "text": "K.Vidal right tackle to LAC 45 for no gain (S.Dolac).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 55,
+        "period": 1,
+        "clock": "3:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021837",
+        "text": "(Shotgun) T.Heinicke pass short middle to J.Johnson to LA 48 for 7 yards (S.Dolac; C.Paul).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 55,
+        "period": 1,
+        "clock": "2:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021850",
+        "text": "Timeout #1 by LAC at 02:18.",
+        "type": "Timeout",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 48,
+        "period": 1,
+        "clock": "2:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021862",
+        "text": "(Shotgun) T.Heinicke scrambles up the middle to LA 43 for 5 yards (M.Dixon-Williams).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 48,
+        "period": 1,
+        "clock": "2:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021891",
+        "text": "(Shotgun) K.Vidal up the middle to LA 44 for -1 yards (K.Thomas).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 1,
+        "clock": "1:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021913",
+        "text": "(Shotgun) T.Heinicke scrambles left end ran ob at LA 30 for 14 yards (S.Dolac). LA-C.Paul was injured during the play.",
+        "type": "Rush",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 44,
+        "period": 1,
+        "clock": "0:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021928",
+        "text": "Official Timeout at 00:47.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 1,
+        "clock": "0:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021943",
+        "text": "(Shotgun) T.Heinicke pass short middle to R.Sanders to LA 22 for 8 yards (S.Dolac).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 1,
+        "clock": "0:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021975",
+        "text": "END QUARTER 1",
+        "type": "End Period",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 22,
+        "period": 1,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773021995",
+        "text": "** Injury Update: LAC-K.Lambert-Smith has returned to the game. ** Injury Update: LA-A.Green has returned to the game.  PENALTY on LAC-B.Taylor, False Start, 5 yards, enforced at LA 22 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 22,
+        "period": 2,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211024",
+        "text": "T.Heinicke pass short right to O.Gadsden to LA 15 for 12 yards (S.Dolac; L.Murchison).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 27,
+        "period": 2,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211055",
+        "text": "K.Vidal up the middle to LA 12 for 3 yards (J.Heflin; A.Green).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 15,
+        "period": 2,
+        "clock": "14:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211077",
+        "text": "K.Vidal right tackle to LA 8 for 4 yards (J.Heflin; N.Hampton).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 12,
+        "period": 2,
+        "clock": "13:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211099",
+        "text": "(Shotgun) PENALTY on LAC-D.Sharpe, False Start, 5 yards, enforced at LA 8 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 8,
+        "period": 2,
+        "clock": "13:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211123",
+        "text": "(Shotgun) T.Heinicke sacked at LA 21 for -8 yards (B.Jackson).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 13,
+        "period": 2,
+        "clock": "12:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211143",
+        "text": "C.Dicker 39 yard field goal is GOOD, Center-J.Harris, Holder-J.Scott.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 16,
+        "yard_line": 21,
+        "period": 2,
+        "clock": "12:04",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730211153",
+        "text": "Official Timeout at 12:04.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "12:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211163",
+        "text": "C.Dicker kicks 63 yards from LAC 35 to LA 2. C.Schrader to LA 36 for 34 yards (T.Jefferson). ** Injury Update: LA-C.Paul has returned to the game. PENALTY on LA-N.Valcarcel, Offensive Holding, 10 yards, enforced at LA 28.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "12:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211220",
+        "text": "J.Hunter up the middle to LA 23 for 5 yards (T.Jefferson; J.Caldwell).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 18,
+        "period": 2,
+        "clock": "11:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211242",
+        "text": "(Shotgun) S.Bennett pass short left to K.Mumpfield pushed ob at LA 33 for 10 yards (T.Dye).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 23,
+        "period": 2,
+        "clock": "11:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211275",
+        "text": "J.Hunter up the middle to LA 37 for 4 yards (T.Morris-Brash; J.Caldwell).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 33,
+        "period": 2,
+        "clock": "10:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211297",
+        "text": "S.Bennett sacked ob at LA 37 for 0 yards (T.Morris-Brash).",
+        "type": "Sack",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 37,
+        "period": 2,
+        "clock": "10:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211317",
+        "text": "(Shotgun) S.Bennett pass short middle to D.Stoops to LA 49 for 12 yards (R.Mickens).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 37,
+        "period": 2,
+        "clock": "9:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211342",
+        "text": "S.Bennett pass deep middle to X.Smith to LAC 26 for 25 yards (T.Jefferson).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 49,
+        "period": 2,
+        "clock": "8:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211367",
+        "text": "J.Hunter right guard to LAC 15 for 11 yards (R.Mickens).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 2,
+        "clock": "8:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211389",
+        "text": "J.Hunter up the middle to LAC 13 for 2 yards (R.Mickens).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 85,
+        "period": 2,
+        "clock": "7:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211411",
+        "text": "(Shotgun) S.Bennett pass short left to X.Smith to LAC 9 for 4 yards (C.Hinton).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 87,
+        "period": 2,
+        "clock": "6:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211436",
+        "text": "(Shotgun) J.Hunter up the middle to LAC 3 for 6 yards (J.Colson; K.Guidry).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 91,
+        "period": 2,
+        "clock": "6:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211458",
+        "text": "J.Hunter up the middle to LAC 3 for no gain (J.Colson, T.Jefferson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 3,
+        "yard_line": 97,
+        "period": 2,
+        "clock": "5:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211480",
+        "text": "(Shotgun) S.Bennett pass incomplete short right.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 97,
+        "period": 2,
+        "clock": "4:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211503",
+        "text": "J.Hunter right guard to LAC 3 for no gain (N.Reed; J.Eboigbe).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 97,
+        "period": 2,
+        "clock": "4:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211525",
+        "text": "(Shotgun) S.Bennett pass incomplete short right to K.Mumpfield (T.Jefferson).",
+        "type": "Pass Incompletion",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 97,
+        "period": 2,
+        "clock": "4:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211537",
+        "text": "Official Timeout at 04:01.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 97,
+        "period": 2,
+        "clock": "4:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211548",
+        "text": "R.Sanders right end to LAC 13 for 10 yards (M.Dixon-Williams).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 97,
+        "period": 2,
+        "clock": "4:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211577",
+        "text": "K.Vidal right tackle to LAC 17 for 4 yards (J.Heflin).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 87,
+        "period": 2,
+        "clock": "3:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211599",
+        "text": "T.Heinicke pass incomplete short left to T.Harris.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 83,
+        "period": 2,
+        "clock": "2:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211622",
+        "text": "(Shotgun) T.Heinicke pass short left to T.Harris to LAC 30 for 13 yards (S.Jolly).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 83,
+        "period": 2,
+        "clock": "2:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211647",
+        "text": "(No Huddle, Shotgun) T.Heinicke pass incomplete short left to T.Harris.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 70,
+        "period": 2,
+        "clock": "2:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211670",
+        "text": "(Shotgun) K.Vidal up the middle to LAC 29 for -1 yards (N.Hampton).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 70,
+        "period": 2,
+        "clock": "2:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211681",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 70,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211692",
+        "text": "(Shotgun) T.Heinicke pass incomplete deep middle to K.Lambert-Smith.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 11,
+        "yard_line": 71,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211722",
+        "text": "J.Scott punts 59 yards to LA 12, Center-J.Harris. B.Covey to LA 14 for 2 yards (K.Lambert-Smith).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 11,
+        "yard_line": 71,
+        "period": 2,
+        "clock": "1:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211735",
+        "text": "Official Timeout at 01:44.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 14,
+        "period": 2,
+        "clock": "1:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211748",
+        "text": "(Shotgun) S.Bennett pass short right to M.Redman pushed ob at LA 17 for 3 yards (N.Reed).The Replay Official reviewed the runner was out of bounds ruling, and the play was Upheld. The ruling on the field stands.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 14,
+        "period": 2,
+        "clock": "1:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211827",
+        "text": "(Shotgun) PENALTY on LA-B.Limmer, False Start, 5 yards, enforced at LA 17 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 17,
+        "period": 2,
+        "clock": "1:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211851",
+        "text": "(Shotgun) S.Bennett pass incomplete short right to D.Stoops.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 12,
+        "yard_line": 12,
+        "period": 2,
+        "clock": "1:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211874",
+        "text": "(Shotgun) J.Hunter up the middle to LA 19 for 7 yards (J.Taylor; R.Mickens).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 12,
+        "yard_line": 12,
+        "period": 2,
+        "clock": "1:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211885",
+        "text": "Timeout #2 by LAC at 01:29.",
+        "type": "Timeout",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 19,
+        "period": 2,
+        "clock": "1:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211896",
+        "text": "E.Evans punts 52 yards to LAC 29, Center-A.Ward. K.Lambert-Smith to LAC 31 for 2 yards (D.Kendrick).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 19,
+        "period": 2,
+        "clock": "1:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211929",
+        "text": "(Shotgun) T.Heinicke pass incomplete short middle to J.Johnson [D.Johnson].",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 2,
+        "clock": "1:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211952",
+        "text": "(Shotgun) T.Lance pass short left to T.Harris to LAC 43 for 12 yards (C.Woods).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 2,
+        "clock": "1:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211977",
+        "text": "(No Huddle, Shotgun) T.Lance scrambles right end to LA 45 for 12 yards (N.Valcarcel).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 57,
+        "period": 2,
+        "clock": "0:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211988",
+        "text": "Timeout #3 by LAC at 00:43.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 2,
+        "clock": "0:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730211999",
+        "text": "(Shotgun) T.Lance pass deep right to K.Lambert-Smith pushed ob at LA 8 for 37 yards (C.Lampkin).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 2,
+        "clock": "0:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212015",
+        "text": "Timeout #1 by LA at 00:35.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 8,
+        "yard_line": 8,
+        "period": 2,
+        "clock": "0:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212031",
+        "text": "(Shotgun) T.Lance pass incomplete short left to O.Gadsden.PENALTY on LAC-K.Lambert-Smith, Illegal Shift, 5 yards, enforced at LA 8 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 8,
+        "yard_line": 8,
+        "period": 2,
+        "clock": "0:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212077",
+        "text": "(Shotgun) T.Lance pass incomplete short right to N.Miller-Hines.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 13,
+        "yard_line": 13,
+        "period": 2,
+        "clock": "0:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212100",
+        "text": "(Shotgun) T.Lance pass incomplete short right to K.Lambert-Smith.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 13,
+        "period": 2,
+        "clock": "0:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212123",
+        "text": "(Shotgun) T.Lance pass incomplete short middle to O.Gadsden (T.Ingle).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 13,
+        "yard_line": 13,
+        "period": 2,
+        "clock": "0:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212151",
+        "text": "C.Dicker 31 yard field goal is GOOD, Center-J.Harris, Holder-J.Scott.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 13,
+        "yard_line": 13,
+        "period": 2,
+        "clock": "0:16",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730212171",
+        "text": "C.Dicker kicks 63 yards from LAC 35 to LA 2. C.Schrader to LA 23 for 21 yards (M.Wax).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "0:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212194",
+        "text": "S.Bennett kneels to LA 22 for -1 yards.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 23,
+        "period": 2,
+        "clock": "0:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212216",
+        "text": "END QUARTER 2",
+        "type": "End of Half",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212236",
+        "text": "C.Dicker kicks 64 yards from LAC 35 to LA 1. C.Schrader to LA 27 for 26 yards (K.Mauga; K.Williamson).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212259",
+        "text": "J.Hunter up the middle to LA 28 for 1 yard (J.Caldwell; R.Mickens).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 27,
+        "period": 3,
+        "clock": "14:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212281",
+        "text": "S.Bennett pass short right to J.Hunter to LA 30 for 2 yards (E.Johnson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 28,
+        "period": 3,
+        "clock": "14:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212306",
+        "text": "(Shotgun) S.Bennett pass short left to M.Williams to LA 38 for 8 yards (J.Colson; T.Bridges).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 30,
+        "period": 3,
+        "clock": "13:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212331",
+        "text": "J.Hunter left guard to LA 41 for 3 yards (K.Williamson; J.Taylor).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 38,
+        "period": 3,
+        "clock": "13:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212353",
+        "text": "J.Hunter right end to LA 49 for 8 yards (J.Colson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 41,
+        "period": 3,
+        "clock": "12:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212375",
+        "text": "S.Bennett pass deep left to B.Presley to LAC 25 for 26 yards (T.Bridges).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 49,
+        "period": 3,
+        "clock": "11:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212400",
+        "text": "(Shotgun) S.Bennett pass short left to B.Presley pushed ob at LAC 18 for 7 yards (T.Bridges).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 75,
+        "period": 3,
+        "clock": "10:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212430",
+        "text": "J.Hunter up the middle to LAC 16 for 2 yards (G.Randolph).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 82,
+        "period": 3,
+        "clock": "10:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212452",
+        "text": "J.Hunter up the middle to LAC 16 for no gain (M.Purchase; K.Williamson).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 84,
+        "period": 3,
+        "clock": "10:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212474",
+        "text": "(Run formation) PENALTY on LA-W.Lampkin, False Start, 4 yards, enforced at LAC 16 - No Play.",
+        "type": "Penalty",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 84,
+        "period": 3,
+        "clock": "9:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212498",
+        "text": "J.Karty 38 yard field goal is GOOD, Center-A.Ward, Holder-E.Evans.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 80,
+        "period": 3,
+        "clock": "8:58",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730212508",
+        "text": "Official Timeout at 08:58.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "8:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212518",
+        "text": "J.Karty kicks 55 yards from LA 35 to LAC 10. N.Miller-Hines to LAC 31 for 21 yards (S.Dolac).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "8:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212548",
+        "text": "K.Vidal up the middle to LAC 33 for 2 yards (N.Valcarcel).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 3,
+        "clock": "8:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212570",
+        "text": "(Shotgun) T.Lance pass incomplete deep left to J.Johnson.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 67,
+        "period": 3,
+        "clock": "8:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212593",
+        "text": "(Shotgun) T.Lance pass short left to T.Harris to LAC 43 for 10 yards (C.Lampkin).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 67,
+        "period": 3,
+        "clock": "8:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212618",
+        "text": "T.Lance scrambles right end ran ob at LA 46 for 11 yards (C.Paul).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 57,
+        "period": 3,
+        "clock": "7:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212645",
+        "text": "(Shotgun) T.Lance scrambles up the middle to LA 44 for 2 yards (L.Murchison).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 46,
+        "period": 3,
+        "clock": "6:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212667",
+        "text": "(Shotgun) K.Vidal up the middle to LA 45 for -1 yards (D.Johnson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 44,
+        "period": 3,
+        "clock": "6:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212689",
+        "text": "(Shotgun) T.Lance pass short left to T.Harris to LA 32 for 13 yards (N.Valcarcel; S.Jolly).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 9,
+        "yard_line": 45,
+        "period": 3,
+        "clock": "5:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212714",
+        "text": "R.Sanders right guard to LA 30 for 2 yards (E.Neal).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 32,
+        "period": 3,
+        "clock": "4:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212736",
+        "text": "(Shotgun) PENALTY on LAC, Offensive Too Many Men on Field, 5 yards, enforced at LA 30 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 30,
+        "period": 3,
+        "clock": "4:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212751",
+        "text": "Official Timeout at 04:12.",
+        "type": "Official Timeout",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "4:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212766",
+        "text": "(Shotgun) T.Lance pass deep right to T.Harris pushed ob at LA 1 for 34 yards (C.Woods).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "3:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212803",
+        "text": "(No Huddle, Shotgun) R.Sanders up the middle for 1 yard, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. T.Lance pass to T.Harris is incomplete. ATTEMPT FAILS.",
+        "type": "Rushing Touchdown",
+        "down": 1,
+        "distance": 1,
+        "yard_line": 1,
+        "period": 3,
+        "clock": "3:31",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730212833",
+        "text": "Official Timeout at 03:31.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "3:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212839",
+        "text": "C.Dicker kicks 58 yards from LAC 35 to LA 7. M.Williams ran ob at LA 34 for 27 yards (H.Hand).PENALTY on LA-T.Edwards, Offensive Holding, 10 yards, enforced at LA 28.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "3:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212885",
+        "text": "C.Schrader up the middle to LA 25 for 7 yards (T.Bridges).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 18,
+        "period": 3,
+        "clock": "3:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212907",
+        "text": "C.Schrader right tackle to LA 29 for 4 yards (M.Purchase).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 25,
+        "period": 3,
+        "clock": "2:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212929",
+        "text": "C.Schrader left tackle to LA 33 for 4 yards (Nq.Jones; M.Wax).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 29,
+        "period": 3,
+        "clock": "2:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212951",
+        "text": "(Shotgun) S.Bennett pass short left to B.Covey pushed ob at LA 40 for 7 yards (T.Bridges).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 33,
+        "period": 3,
+        "clock": "1:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730212981",
+        "text": "S.Bennett pass short right to B.Presley pushed ob at LAC 38 for 22 yards (J.Taylor).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 40,
+        "period": 3,
+        "clock": "0:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213016",
+        "text": "S.Bennett pass deep right to M.Williams for 38 yards, TOUCHDOWN. J.Karty extra point is GOOD, Center-A.Ward, Holder-E.Evans.",
+        "type": "Passing Touchdown",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 62,
+        "period": 3,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730213057",
+        "text": "END QUARTER 3",
+        "type": "End Period",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213075",
+        "text": "E.Evans kicks 65 yards from LA 35 to end zone, Touchback to the LAC 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213092",
+        "text": "(Shotgun) K.Vidal up the middle to LAC 39 for 4 yards (E.Neal).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213114",
+        "text": "(Shotgun) T.Lance pass incomplete short right to D.Campbell.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 61,
+        "period": 4,
+        "clock": "14:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213137",
+        "text": "(Shotgun) T.Lance pass incomplete short middle to B.Rice (D.Kendrick).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 61,
+        "period": 4,
+        "clock": "14:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213160",
+        "text": " J.Scott punts 50 yards to LA 11, Center-J.Harris, fair catch by D.Stoops.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 6,
+        "yard_line": 61,
+        "period": 4,
+        "clock": "14:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213170",
+        "text": "Official Timeout at 14:08.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 11,
+        "period": 4,
+        "clock": "14:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213180",
+        "text": " C.Schrader left tackle to LA 13 for 2 yards (M.Purchase; J.Eboigbe).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 11,
+        "period": 4,
+        "clock": "14:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213209",
+        "text": "(Shotgun) C.Schrader left tackle to LA 15 for 2 yards (M.Wax). LA-W.Lampkin was injured during the play.",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 13,
+        "period": 4,
+        "clock": "13:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213222",
+        "text": "Official Timeout at 13:16.",
+        "type": "Official Timeout",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 15,
+        "period": 4,
+        "clock": "13:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213234",
+        "text": "(Shotgun) S.Bennett pass incomplete short right to B.Covey.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 15,
+        "period": 4,
+        "clock": "12:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213264",
+        "text": "E.Evans punts 51 yards to LAC 34, Center-A.Ward. L.Grimm for 66 yards, TOUCHDOWN. C.Dicker extra point is GOOD, Center-J.Harris, Holder-J.Scott.",
+        "type": "Punt Return Touchdown",
+        "down": 4,
+        "distance": 6,
+        "yard_line": 15,
+        "period": 4,
+        "clock": "12:36",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730213299",
+        "text": "Official Timeout at 12:36.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "12:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213306",
+        "text": "C.Dicker kicks 54 yards from LAC 35 to LA 11. M.Williams pushed ob at LA 41 for 30 yards (M.Purchase).PENALTY on LA-J.Muhammad, Tripping, 15 yards, enforced at LA 30.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "12:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213352",
+        "text": "S.Bennett scrambles left end ran ob at LA 20 for 5 yards (M.Purchase).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 15,
+        "period": 4,
+        "clock": "12:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213379",
+        "text": "C.Schrader right guard to LA 24 for 4 yards (R.Mickens; M.Purchase).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 20,
+        "period": 4,
+        "clock": "11:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213401",
+        "text": "S.Bennett pass short right to M.Redman to LA 27 for 3 yards (R.Mickens).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 24,
+        "period": 4,
+        "clock": "11:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213426",
+        "text": "PENALTY on LA-A.Arcuri, False Start, 5 yards, enforced at LA 27 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 27,
+        "period": 4,
+        "clock": "10:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213450",
+        "text": "C.Schrader up the middle to LA 24 for 2 yards (N.Silvera).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 22,
+        "period": 4,
+        "clock": "10:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213472",
+        "text": "(Shotgun) S.Bennett pass deep left to T.Edwards to LA 43 for 19 yards (M.Purchase).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 24,
+        "period": 4,
+        "clock": "10:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213497",
+        "text": "C.Schrader up the middle to LA 45 for 2 yards (M.Purchase).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 4,
+        "clock": "9:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213519",
+        "text": "C.Schrader right end pushed ob at 50 for 5 yards (J.Taylor).PENALTY on LAC-J.Taylor, Face Mask, 15 yards, enforced at 50.",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 45,
+        "period": 4,
+        "clock": "8:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213557",
+        "text": "(Shotgun) S.Bennett pass short right to B.Covey to LAC 31 for 4 yards (T.Bridges).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "8:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213582",
+        "text": "(Shotgun) C.Schrader up the middle to LAC 26 for 5 yards (C.Hinton).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 69,
+        "period": 4,
+        "clock": "7:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213604",
+        "text": "(No Huddle) C.Schrader up the middle to LAC 25 for 1 yard (R.Mickens; N.Silvera).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 74,
+        "period": 4,
+        "clock": "7:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213626",
+        "text": "(Shotgun) S.Bennett pass incomplete deep right to T.Edwards (R.Mickens).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 75,
+        "period": 4,
+        "clock": "6:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213649",
+        "text": "(Shotgun) S.Bennett pass short right intended for B.Covey INTERCEPTED by T.Edwards at LAC 22. T.Edwards pushed ob at LAC 49 for 27 yards (S.Bennett).",
+        "type": "Pass Interception Return",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 75,
+        "period": 4,
+        "clock": "6:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213665",
+        "text": "Official Timeout at 06:35.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 49,
+        "period": 4,
+        "clock": "6:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213681",
+        "text": "(Shotgun) R.Sanders up the middle to LAC 49 for no gain (J.Muhammad).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 51,
+        "period": 4,
+        "clock": "6:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213710",
+        "text": "(Shotgun) T.Lance pass short right to L.Grimm to LA 45 for 6 yards (E.Neal; T.Fields).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 51,
+        "period": 4,
+        "clock": "5:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213739",
+        "text": "(Shotgun) T.Lance up the middle to LA 45 for no gain (E.Neal; J.Muhammad).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 45,
+        "period": 4,
+        "clock": "5:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213761",
+        "text": "J.Scott punts 33 yards to LA 12, Center-J.Harris, out of bounds.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 4,
+        "yard_line": 45,
+        "period": 4,
+        "clock": "4:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213771",
+        "text": "Official Timeout at 04:09.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 12,
+        "period": 4,
+        "clock": "4:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213780",
+        "text": "(Shotgun) C.Schrader left guard to LA 21 for 9 yards (M.Purchase).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 12,
+        "period": 4,
+        "clock": "4:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213809",
+        "text": "S.Bennett pass short left to C.Schrader pushed ob at LA 39 for 18 yards (E.Johnson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 21,
+        "period": 4,
+        "clock": "3:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213839",
+        "text": "C.Schrader up the middle to LA 40 for 1 yard (K.Guidry; K.Williamson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 39,
+        "period": 4,
+        "clock": "3:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213861",
+        "text": "(Shotgun) S.Bennett pass short middle to C.Schrader to LA 46 for 6 yards (M.Wax).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "2:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213886",
+        "text": "(Shotgun) S.Bennett pass incomplete deep left to B.Presley.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 46,
+        "period": 4,
+        "clock": "2:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213898",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 46,
+        "period": 4,
+        "clock": "1:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213909",
+        "text": " (Shotgun) S.Bennett pass short right to B.Covey to LA 48 for 2 yards (J.Taylor).",
+        "type": "Pass Reception",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 46,
+        "period": 4,
+        "clock": "1:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213941",
+        "text": "R.Sanders right guard to LA 49 for -2 yards (J.Pearcy).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 4,
+        "clock": "1:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213952",
+        "text": "Timeout #1 by LA at 01:44.",
+        "type": "Timeout",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 50,
+        "period": 4,
+        "clock": "1:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213963",
+        "text": "(Shotgun) T.Lance pass incomplete short right to B.Rice (B.Norton).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 12,
+        "yard_line": 49,
+        "period": 4,
+        "clock": "1:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730213993",
+        "text": "(Shotgun) T.Lance pass incomplete deep left to D.Campbell.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 12,
+        "yard_line": 49,
+        "period": 4,
+        "clock": "1:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214016",
+        "text": "J.Scott punts 24 yards to LA 25, Center-J.Harris, out of bounds.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 12,
+        "yard_line": 49,
+        "period": 4,
+        "clock": "1:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214035",
+        "text": "(Shotgun) S.Bennett pass short middle to M.Redman to LA 40 for 15 yards (T.Bridges).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 4,
+        "clock": "1:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214060",
+        "text": " (No Huddle, Shotgun) S.Bennett pass short left to B.Presley pushed ob at LA 41 for 1 yard (J.Taylor).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "1:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214090",
+        "text": "(No Huddle, Shotgun) S.Bennett pass short left to B.Presley to LA 47 for 6 yards (E.Johnson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 41,
+        "period": 4,
+        "clock": "1:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214115",
+        "text": "(No Huddle, Shotgun) S.Bennett pass incomplete short left to C.Schrader.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 47,
+        "period": 4,
+        "clock": "0:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214138",
+        "text": "(Shotgun) S.Bennett pass short right to T.Edwards to LAC 48 for 5 yards (N.Reed).",
+        "type": "Pass Reception",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 47,
+        "period": 4,
+        "clock": "0:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214151",
+        "text": "Timeout #2 by LA at 00:34.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 52,
+        "period": 4,
+        "clock": "0:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214163",
+        "text": "(Shotgun) S.Bennett pass incomplete deep right to B.Covey (R.Mickens).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 52,
+        "period": 4,
+        "clock": "0:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214205",
+        "text": "(Shotgun) S.Bennett pass incomplete short left to B.Presley (N.Reed).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 52,
+        "period": 4,
+        "clock": "0:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214228",
+        "text": "(Shotgun) S.Bennett sacked at LA 42 for -10 yards (T.Morris-Brash). FUMBLES (T.Morris-Brash), RECOVERED by LAC-E.Johnson at LAC 47. E.Johnson to LAC 48 for 1 yard.The Replay Official reviewed the fumble ruling, and the play was REVERSED.(Shotgun) S.Bennett pass incomplete short right to M.Redman (T.Morris-Brash) [T.Morris-Brash].",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 52,
+        "period": 4,
+        "clock": "0:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214265",
+        "text": "Timeout #1 by LAC at 00:20.",
+        "type": "Timeout",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 52,
+        "period": 4,
+        "clock": "0:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214302",
+        "text": "(Shotgun) S.Bennett pass deep middle to B.Presley to LAC 8 for 40 yards (K.Williamson).",
+        "type": "Pass Reception",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 52,
+        "period": 4,
+        "clock": "0:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214318",
+        "text": "Timeout #3 by LA at 00:11.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 8,
+        "yard_line": 92,
+        "period": 4,
+        "clock": "0:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214334",
+        "text": "(Shotgun) S.Bennett pass short left to T.Edwards for 8 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. C.Schrader rushes up the middle. ATTEMPT FAILS.",
+        "type": "Passing Touchdown",
+        "down": 1,
+        "distance": 8,
+        "yard_line": 92,
+        "period": 4,
+        "clock": "0:05",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730214380",
+        "text": "E.Evans kicks 71 yards from LA 35 to LAC -6. N.Miller-Hines to LAC 18 for 24 yards (J.Waters; C.Lampkin).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "0:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214403",
+        "text": "(Shotgun) T.Lance pass short middle to R.Sanders to LAC 27 for 9 yards (J.Muhammad) [B.Norton].",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 82,
+        "period": 4,
+        "clock": "0:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730214428",
+        "text": "END GAME",
+        "type": "End of Game",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 73,
+        "period": 4,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      }
+    ],
+    "scoring_plays": [],
+    "touchdowns": [
+      {
+        "play_id": "401773021528",
+        "text": "(Shotgun) S.Bennett pass short right to K.Mumpfield for 2 yards, TOUCHDOWN. J.Karty extra point is GOOD, Center-A.Ward, Holder-E.Evans.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730212803",
+        "text": "(No Huddle, Shotgun) R.Sanders up the middle for 1 yard, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. T.Lance pass to T.Harris is incomplete. ATTEMPT FAILS.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730213016",
+        "text": "S.Bennett pass deep right to M.Williams for 38 yards, TOUCHDOWN. J.Karty extra point is GOOD, Center-A.Ward, Holder-E.Evans.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730213264",
+        "text": "E.Evans punts 51 yards to LAC 34, Center-A.Ward. L.Grimm for 66 yards, TOUCHDOWN. C.Dicker extra point is GOOD, Center-J.Harris, Holder-J.Scott.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730214334",
+        "text": "(Shotgun) S.Bennett pass short left to T.Edwards for 8 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. C.Schrader rushes up the middle. ATTEMPT FAILS.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      }
+    ],
+    "interceptions": [
+      {
+        "play_id": "4017730213649",
+        "text": "(Shotgun) S.Bennett pass short right intended for B.Covey INTERCEPTED by T.Edwards at LAC 22. T.Edwards pushed ob at LAC 49 for 27 yards (S.Bennett).",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      }
+    ],
+    "fumbles": []
+  },
+  "processing_timestamp": "2025-08-20T10:50:23.510955"
+}

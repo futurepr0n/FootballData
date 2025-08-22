@@ -1,0 +1,1416 @@
+{
+  "game_info": {
+    "game_id": "401774591",
+    "date": "2025-08-16T02:00Z",
+    "status": {
+      "type": {
+        "id": "3",
+        "name": "STATUS_FINAL",
+        "state": "post",
+        "completed": true,
+        "description": "Final",
+        "detail": "Final",
+        "shortDetail": "Final"
+      },
+      "isTBDFlex": false
+    },
+    "venue": {},
+    "attendance": 0
+  },
+  "team_stats": {
+    "SEA": {
+      "score": 33,
+      "record": "0-0",
+      "home_away": "home"
+    },
+    "KC": {
+      "score": 16,
+      "record": "0-0",
+      "home_away": "away"
+    }
+  },
+  "player_stats": {
+    "Gardner Minshew_KC": {
+      "name": "Gardner Minshew",
+      "position": "",
+      "jersey": "17",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 5,
+        "2": 5.0,
+        "3": 0,
+        "4": 5
+      }
+    },
+    "Chris Oladokun_KC": {
+      "name": "Chris Oladokun",
+      "position": "",
+      "jersey": "19",
+      "team": "KC",
+      "stats": {
+        "0": "4/7",
+        "1": 31,
+        "2": 4.4,
+        "3": 0,
+        "4": 0,
+        "5": "1-10",
+        "6": 68.2
+      }
+    },
+    "Bailey Zappe_KC": {
+      "name": "Bailey Zappe",
+      "position": "",
+      "jersey": "14O",
+      "team": "KC",
+      "stats": {
+        "0": "3/4",
+        "1": 9,
+        "2": 2.3,
+        "3": 0,
+        "4": 0,
+        "5": "1-12",
+        "6": 77.1
+      }
+    },
+    "Brashard Smith_KC": {
+      "name": "Brashard Smith",
+      "position": "",
+      "jersey": "30O",
+      "team": "KC",
+      "stats": {
+        "0": 2,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0
+      }
+    },
+    "Carson Steele_KC": {
+      "name": "Carson Steele",
+      "position": "",
+      "jersey": "42O",
+      "team": "KC",
+      "stats": {
+        "0": 2,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Elijah Young_KC": {
+      "name": "Elijah Young",
+      "position": "",
+      "jersey": "34O",
+      "team": "KC",
+      "stats": {
+        "0": 2,
+        "1": 10,
+        "2": 5.0,
+        "3": 0,
+        "4": 7
+      }
+    },
+    "Elijah Mitchell_KC": {
+      "name": "Elijah Mitchell",
+      "position": "",
+      "jersey": "25O",
+      "team": "KC",
+      "stats": {
+        "0": 4,
+        "1": 9,
+        "2": 2.3,
+        "3": 0,
+        "4": 6
+      }
+    },
+    "Robert Tonyan_KC": {
+      "name": "Robert Tonyan",
+      "position": "",
+      "jersey": "85",
+      "team": "KC",
+      "stats": {
+        "0": 5,
+        "1": 41,
+        "2": 8.2,
+        "3": 1,
+        "4": 19,
+        "5": 5
+      }
+    },
+    "Isiah Pacheco_KC": {
+      "name": "Isiah Pacheco",
+      "position": "",
+      "jersey": "10",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 22,
+        "2": 22.0,
+        "3": 0,
+        "4": 22,
+        "5": 1
+      }
+    },
+    "Tyquan Thornton_KC": {
+      "name": "Tyquan Thornton",
+      "position": "",
+      "jersey": "2O",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 24,
+        "2": 24.0,
+        "3": 24,
+        "4": 0
+      }
+    },
+    "Jared Wiley_KC": {
+      "name": "Jared Wiley",
+      "position": "",
+      "jersey": "12",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 8,
+        "2": 8.0,
+        "3": 0,
+        "4": 8,
+        "5": 2
+      }
+    },
+    "Nikko Remigio_KC": {
+      "name": "Nikko Remigio",
+      "position": "",
+      "jersey": "81",
+      "team": "KC",
+      "stats": {
+        "0": 2,
+        "1": 7,
+        "2": 3.5,
+        "3": 0,
+        "4": 6,
+        "5": 2
+      }
+    },
+    "JuJu Smith-Schuster_KC": {
+      "name": "JuJu Smith-Schuster",
+      "position": "",
+      "jersey": "9",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 3,
+        "2": 3.0,
+        "3": 0,
+        "4": 3,
+        "5": 1
+      }
+    },
+    "Skyy Moore_KC": {
+      "name": "Skyy Moore",
+      "position": "",
+      "jersey": "24",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 88,
+        "2": 88.0,
+        "3": 88,
+        "4": 1
+      }
+    },
+    "Jason Brownlee_KC": {
+      "name": "Jason Brownlee",
+      "position": "",
+      "jersey": "89",
+      "team": "KC",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "Jack Cochrane_KC": {
+      "name": "Jack Cochrane",
+      "position": "",
+      "jersey": "43",
+      "team": "KC",
+      "stats": {
+        "0": 8,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Cooper McDonald_KC": {
+      "name": "Cooper McDonald",
+      "position": "",
+      "jersey": "59",
+      "team": "KC",
+      "stats": {
+        "0": 7,
+        "1": 5,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jeffrey Bassa_KC": {
+      "name": "Jeffrey Bassa",
+      "position": "",
+      "jersey": "31",
+      "team": "KC",
+      "stats": {
+        "0": 6,
+        "1": 4,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Cole Christiansen_KC": {
+      "name": "Cole Christiansen",
+      "position": "",
+      "jersey": "48",
+      "team": "KC",
+      "stats": {
+        "0": 5,
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Malik Herring_KC": {
+      "name": "Malik Herring",
+      "position": "",
+      "jersey": "94",
+      "team": "KC",
+      "stats": {
+        "0": 5,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Nohl Williams_KC": {
+      "name": "Nohl Williams",
+      "position": "",
+      "jersey": "20",
+      "team": "KC",
+      "stats": {
+        "0": 4,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jaden Hicks_KC": {
+      "name": "Jaden Hicks",
+      "position": "",
+      "jersey": "21",
+      "team": "KC",
+      "stats": {
+        "0": 4,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Bryan Cook_KC": {
+      "name": "Bryan Cook",
+      "position": "",
+      "jersey": "6",
+      "team": "KC",
+      "stats": {
+        "0": 4,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Brandon George_KC": {
+      "name": "Brandon George",
+      "position": "",
+      "jersey": "50",
+      "team": "KC",
+      "stats": {
+        "0": 4,
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ashton Gillotte_KC": {
+      "name": "Ashton Gillotte",
+      "position": "",
+      "jersey": "97",
+      "team": "KC",
+      "stats": {
+        "0": 4,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Chamarri Conner_KC": {
+      "name": "Chamarri Conner",
+      "position": "",
+      "jersey": "27",
+      "team": "KC",
+      "stats": {
+        "0": 3,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Mike Edwards_KC": {
+      "name": "Mike Edwards",
+      "position": "",
+      "jersey": "34D",
+      "team": "KC",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Marlon Tuipulotu_KC": {
+      "name": "Marlon Tuipulotu",
+      "position": "",
+      "jersey": "92",
+      "team": "KC",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Coziah Izzard_KC": {
+      "name": "Coziah Izzard",
+      "position": "",
+      "jersey": "93",
+      "team": "KC",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Christian Roland-Wallace_KC": {
+      "name": "Christian Roland-Wallace",
+      "position": "",
+      "jersey": "30D",
+      "team": "KC",
+      "stats": {
+        "0": 3,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Felix Anudike-Uzomah_KC": {
+      "name": "Felix Anudike-Uzomah",
+      "position": "",
+      "jersey": "91",
+      "team": "KC",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Joshua Williams_KC": {
+      "name": "Joshua Williams",
+      "position": "",
+      "jersey": "2D",
+      "team": "KC",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Cam Jones_KC": {
+      "name": "Cam Jones",
+      "position": "",
+      "jersey": "44",
+      "team": "KC",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Leo Chenal_KC": {
+      "name": "Leo Chenal",
+      "position": "",
+      "jersey": "54",
+      "team": "KC",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Nate Matlack_KC": {
+      "name": "Nate Matlack",
+      "position": "",
+      "jersey": "57",
+      "team": "KC",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Kevin Knowles_KC": {
+      "name": "Kevin Knowles",
+      "position": "",
+      "jersey": "38",
+      "team": "KC",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Charles Omenihu_KC": {
+      "name": "Charles Omenihu",
+      "position": "",
+      "jersey": "90",
+      "team": "KC",
+      "stats": {
+        "0": 2,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Nazeeh Johnson_KC": {
+      "name": "Nazeeh Johnson",
+      "position": "",
+      "jersey": "13D",
+      "team": "KC",
+      "stats": {
+        "0": 2,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Azizi Hearn_KC": {
+      "name": "Azizi Hearn",
+      "position": "",
+      "jersey": "47",
+      "team": "KC",
+      "stats": {
+        "0": 2,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "George Karlaftis_KC": {
+      "name": "George Karlaftis",
+      "position": "",
+      "jersey": "56",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Major Williams_KC": {
+      "name": "Major Williams",
+      "position": "",
+      "jersey": "42D",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Geor'Quarius Spivey_KC": {
+      "name": "Geor'Quarius Spivey",
+      "position": "",
+      "jersey": "45",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ajani Carter_KC": {
+      "name": "Ajani Carter",
+      "position": "",
+      "jersey": "46",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Glendon Miller_KC": {
+      "name": "Glendon Miller",
+      "position": "",
+      "jersey": "25D",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Hal Presley_KC": {
+      "name": "Hal Presley",
+      "position": "",
+      "jersey": "13O",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Omarr Norman-Lott_KC": {
+      "name": "Omarr Norman-Lott",
+      "position": "",
+      "jersey": "55",
+      "team": "KC",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Jalen Royals_KC": {
+      "name": "Jalen Royals",
+      "position": "",
+      "jersey": "11",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 49,
+        "2": 49.0,
+        "3": 49,
+        "4": 0
+      }
+    },
+    "Jimmy Holiday_KC": {
+      "name": "Jimmy Holiday",
+      "position": "",
+      "jersey": "82",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 34,
+        "2": 34.0,
+        "3": 34,
+        "4": 0
+      }
+    },
+    "Key'Shawn Smith_KC": {
+      "name": "Key'Shawn Smith",
+      "position": "",
+      "jersey": "8O",
+      "team": "KC",
+      "stats": {
+        "0": 1,
+        "1": 34,
+        "2": 34.0,
+        "3": 34,
+        "4": 0
+      }
+    },
+    "Harrison Butker_KC": {
+      "name": "Harrison Butker",
+      "position": "",
+      "jersey": "7",
+      "team": "KC",
+      "stats": {
+        "0": "1/1",
+        "1": 100.0,
+        "2": 34,
+        "3": "1/1",
+        "4": 4
+      }
+    },
+    "Matt Araiza_KC": {
+      "name": "Matt Araiza",
+      "position": "",
+      "jersey": "14S",
+      "team": "KC",
+      "stats": {
+        "0": 3,
+        "1": 169,
+        "2": 56.3,
+        "3": 0,
+        "4": 0,
+        "5": 67
+      }
+    },
+    "Drew Lock_SEA": {
+      "name": "Drew Lock",
+      "position": "",
+      "jersey": "2",
+      "team": "SEA",
+      "stats": {
+        "0": 2,
+        "1": 34,
+        "2": 17.0,
+        "3": 0,
+        "4": 30
+      }
+    },
+    "Jalen Milroe_SEA": {
+      "name": "Jalen Milroe",
+      "position": "",
+      "jersey": "6",
+      "team": "SEA",
+      "stats": {
+        "0": 5,
+        "1": 18,
+        "2": 3.6,
+        "3": 0,
+        "4": 5
+      }
+    },
+    "Sam Darnold_SEA": {
+      "name": "Sam Darnold",
+      "position": "",
+      "jersey": "14",
+      "team": "SEA",
+      "stats": {
+        "0": "4/4",
+        "1": 34,
+        "2": 8.5,
+        "3": 0,
+        "4": 0,
+        "5": "0-0",
+        "6": 102.1
+      }
+    },
+    "Damien Martinez_SEA": {
+      "name": "Damien Martinez",
+      "position": "",
+      "jersey": "22",
+      "team": "SEA",
+      "stats": {
+        "0": 2,
+        "1": 14,
+        "2": 7.0,
+        "3": 0,
+        "4": 13,
+        "5": 2
+      }
+    },
+    "George Holani_SEA": {
+      "name": "George Holani",
+      "position": "",
+      "jersey": "36O",
+      "team": "SEA",
+      "stats": {
+        "0": 3,
+        "1": 73,
+        "2": 24.3,
+        "3": 26,
+        "4": 0
+      }
+    },
+    "Jacardia Wright_SEA": {
+      "name": "Jacardia Wright",
+      "position": "",
+      "jersey": "31",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Zach Charbonnet_SEA": {
+      "name": "Zach Charbonnet",
+      "position": "",
+      "jersey": "26",
+      "team": "SEA",
+      "stats": {
+        "0": 5,
+        "1": 45,
+        "2": 9.0,
+        "3": 1,
+        "4": 15
+      }
+    },
+    "Anthony Tyus III_SEA": {
+      "name": "Anthony Tyus III",
+      "position": "",
+      "jersey": "35O",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 1
+      }
+    },
+    "Dareke Young_SEA": {
+      "name": "Dareke Young",
+      "position": "",
+      "jersey": "83",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 29,
+        "2": 29.0,
+        "3": 29,
+        "4": 0
+      }
+    },
+    "Cody White_SEA": {
+      "name": "Cody White",
+      "position": "",
+      "jersey": "82",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jake Bobo_SEA": {
+      "name": "Jake Bobo",
+      "position": "",
+      "jersey": "19",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 20,
+        "2": 20.0,
+        "3": 20,
+        "4": 0
+      }
+    },
+    "Ricky White III_SEA": {
+      "name": "Ricky White III",
+      "position": "",
+      "jersey": "86",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 20,
+        "2": 20.0,
+        "3": 0,
+        "4": 20,
+        "5": 1
+      }
+    },
+    "Elijah Arroyo_SEA": {
+      "name": "Elijah Arroyo",
+      "position": "",
+      "jersey": "18",
+      "team": "SEA",
+      "stats": {
+        "0": 2,
+        "1": 19,
+        "2": 9.5,
+        "3": 0,
+        "4": 10,
+        "5": 2
+      }
+    },
+    "Brady Russell_SEA": {
+      "name": "Brady Russell",
+      "position": "",
+      "jersey": "38",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Robbie Ouzts_SEA": {
+      "name": "Robbie Ouzts",
+      "position": "",
+      "jersey": "40",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 13,
+        "2": 13.0,
+        "3": 0,
+        "4": 13,
+        "5": 1
+      }
+    },
+    "Tory Horton_SEA": {
+      "name": "Tory Horton",
+      "position": "",
+      "jersey": "15",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 12,
+        "2": 12.0,
+        "3": 0,
+        "4": 12,
+        "5": 2
+      }
+    },
+    "Jaxon Smith-Njigba_SEA": {
+      "name": "Jaxon Smith-Njigba",
+      "position": "",
+      "jersey": "11",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 7,
+        "2": 7.0,
+        "3": 0,
+        "4": 7,
+        "5": 1
+      }
+    },
+    "AJ Barner_SEA": {
+      "name": "AJ Barner",
+      "position": "",
+      "jersey": "88",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 5,
+        "2": 5.0,
+        "3": 0,
+        "4": 5,
+        "5": 1
+      }
+    },
+    "Tyrone Broden_SEA": {
+      "name": "Tyrone Broden",
+      "position": "",
+      "jersey": "85",
+      "team": "SEA",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "Nick Kallerup_SEA": {
+      "name": "Nick Kallerup",
+      "position": "",
+      "jersey": "89",
+      "team": "SEA",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "Seth Coleman_SEA": {
+      "name": "Seth Coleman",
+      "position": "",
+      "jersey": "43D",
+      "team": "SEA",
+      "stats": {
+        "0": 4,
+        "1": 3,
+        "2": 1.5,
+        "3": 1,
+        "4": 0,
+        "5": 2,
+        "6": 0
+      }
+    },
+    "Ty Okada_SEA": {
+      "name": "Ty Okada",
+      "position": "",
+      "jersey": "39",
+      "team": "SEA",
+      "stats": {
+        "0": 4,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Drake Thomas_SEA": {
+      "name": "Drake Thomas",
+      "position": "",
+      "jersey": "42",
+      "team": "SEA",
+      "stats": {
+        "0": 4,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ernest Jones IV_SEA": {
+      "name": "Ernest Jones IV",
+      "position": "",
+      "jersey": "13",
+      "team": "SEA",
+      "stats": {
+        "0": 4,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Patrick O'Connell_SEA": {
+      "name": "Patrick O'Connell",
+      "position": "",
+      "jersey": "52",
+      "team": "SEA",
+      "stats": {
+        "0": 4,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Damarion Williams_SEA": {
+      "name": "Damarion Williams",
+      "position": "",
+      "jersey": "37",
+      "team": "SEA",
+      "stats": {
+        "0": 2,
+        "1": 21,
+        "2": 10.5,
+        "3": 12,
+        "4": 0
+      }
+    },
+    "D'Anthony Bell_SEA": {
+      "name": "D'Anthony Bell",
+      "position": "",
+      "jersey": "23",
+      "team": "SEA",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Tyler Hall_SEA": {
+      "name": "Tyler Hall",
+      "position": "",
+      "jersey": "33",
+      "team": "SEA",
+      "stats": {
+        "0": 3,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jamie Sheriff_SEA": {
+      "name": "Jamie Sheriff",
+      "position": "",
+      "jersey": "50",
+      "team": "SEA",
+      "stats": {
+        "0": 3,
+        "1": 1,
+        "2": 0.5,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Coby Bryant_SEA": {
+      "name": "Coby Bryant",
+      "position": "",
+      "jersey": "8",
+      "team": "SEA",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Nick Emmanwori_SEA": {
+      "name": "Nick Emmanwori",
+      "position": "",
+      "jersey": "3",
+      "team": "SEA",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Julian Love_SEA": {
+      "name": "Julian Love",
+      "position": "",
+      "jersey": "20",
+      "team": "SEA",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jerrick Reed II_SEA": {
+      "name": "Jerrick Reed II",
+      "position": "",
+      "jersey": "32",
+      "team": "SEA",
+      "stats": {
+        "0": 2,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jason Myers_SEA": {
+      "name": "Jason Myers",
+      "position": "",
+      "jersey": "5",
+      "team": "SEA",
+      "stats": {
+        "0": "1/1",
+        "1": 100.0,
+        "2": 23,
+        "3": "4/4",
+        "4": 7
+      }
+    },
+    "Brandon Pili_SEA": {
+      "name": "Brandon Pili",
+      "position": "",
+      "jersey": "95",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Connor O'Toole_SEA": {
+      "name": "Connor O'Toole",
+      "position": "",
+      "jersey": "57",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Boye Mafe_SEA": {
+      "name": "Boye Mafe",
+      "position": "",
+      "jersey": "53",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Alphonzo Tuputala_SEA": {
+      "name": "Alphonzo Tuputala",
+      "position": "",
+      "jersey": "35D",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Derick Hall_SEA": {
+      "name": "Derick Hall",
+      "position": "",
+      "jersey": "58",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "J.R. Singleton_SEA": {
+      "name": "J.R. Singleton",
+      "position": "",
+      "jersey": "70",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Anthony Campbell_SEA": {
+      "name": "Anthony Campbell",
+      "position": "",
+      "jersey": "93",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Mike Morris_SEA": {
+      "name": "Mike Morris",
+      "position": "",
+      "jersey": "94",
+      "team": "SEA",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Isas Waxter_SEA": {
+      "name": "Isas Waxter",
+      "position": "",
+      "jersey": "36D",
+      "team": "SEA",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "John Rhys Plumlee_SEA": {
+      "name": "John Rhys Plumlee",
+      "position": "",
+      "jersey": "17O",
+      "team": "SEA",
+      "stats": {
+        "0": 1,
+        "1": 22,
+        "2": 22.0,
+        "3": 22,
+        "4": 0
+      }
+    },
+    "Michael Dickson_SEA": {
+      "name": "Michael Dickson",
+      "position": "",
+      "jersey": "4",
+      "team": "SEA",
+      "stats": {
+        "0": 3,
+        "1": 160,
+        "2": 53.3,
+        "3": 0,
+        "4": 2,
+        "5": 69
+      }
+    }
+  },
+  "scoring_summary": []
+}

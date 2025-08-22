@@ -1,0 +1,27 @@
+{
+  "processed_date": "2025-08-14T09:14:09.711540",
+  "weeks_processed": [
+    1
+  ],
+  "total_weeks": 1,
+  "data_directories": {
+    "csv_source": "/Users/futurepr0n/Development/Capping.Pro/Claude-Code/FootballData/CSV_BACKUPS",
+    "json_output": "/Users/futurepr0n/Development/Capping.Pro/Claude-Code/FootballData/data",
+    "weekly_data": "/Users/futurepr0n/Development/Capping.Pro/Claude-Code/FootballData/data/weekly",
+    "player_stats": "/Users/futurepr0n/Development/Capping.Pro/Claude-Code/FootballData/data/player_stats",
+    "team_stats": "/Users/futurepr0n/Development/Capping.Pro/Claude-Code/FootballData/data/team_stats"
+  },
+  "nfl_teams": 32,
+  "stat_categories": [
+    "passing",
+    "rushing",
+    "receiving",
+    "fumbles",
+    "defense",
+    "interceptions",
+    "kick returns",
+    "punt returns",
+    "kicking",
+    "punting"
+  ]
+}

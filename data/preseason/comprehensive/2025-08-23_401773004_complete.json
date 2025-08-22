@@ -1,0 +1,65 @@
+{
+  "game_id": "401773004",
+  "date": "2025-08-23",
+  "box_score": {
+    "game_info": {
+      "game_id": "401773004",
+      "date": "2025-08-23T00:20Z",
+      "status": {
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Fri, August 22nd at 8:20 PM EDT",
+          "shortDetail": "8/22 - 8:20 PM EDT"
+        },
+        "isTBDFlex": false
+      },
+      "venue": {},
+      "attendance": 0
+    },
+    "team_stats": {
+      "KC": {
+        "score": 0,
+        "record": "0-0",
+        "home_away": "home"
+      },
+      "CHI": {
+        "score": 0,
+        "record": "0-0",
+        "home_away": "away"
+      }
+    },
+    "player_stats": {},
+    "scoring_summary": []
+  },
+  "play_by_play": {
+    "game_info": {
+      "game_id": "401773004",
+      "teams": [
+        {
+          "abbreviation": "KC",
+          "name": "Kansas City Chiefs",
+          "score": 0,
+          "home_away": "home"
+        },
+        {
+          "abbreviation": "CHI",
+          "name": "Chicago Bears",
+          "score": 0,
+          "home_away": "away"
+        }
+      ],
+      "final_score": {}
+    },
+    "drives": [],
+    "plays": [],
+    "scoring_plays": [],
+    "touchdowns": [],
+    "interceptions": [],
+    "fumbles": []
+  },
+  "processing_timestamp": "2025-08-20T10:49:51.866903"
+}

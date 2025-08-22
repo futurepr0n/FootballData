@@ -1,0 +1,3492 @@
+{
+  "window_name": "week_1",
+  "weeks_included": [
+    1
+  ],
+  "season": 2025,
+  "total_weeks": 1,
+  "generated_date": "2025-08-14T09:20:02.478301",
+  "player_aggregates": {
+    "Spencer Shrader": {
+      "name": "Spencer Shrader",
+      "team": "IND",
+      "position": "K",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "kicking": {
+          "pct": 75.0,
+          "long": 53,
+          "pts": 9
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "kicking",
+          "stats": {
+            "player": "Spencer Shrader",
+            "team": "IND",
+            "stat_category": "kicking",
+            "game_id": 401773001,
+            "fg": "3/4",
+            "pct": 75.0,
+            "long": 53,
+            "xp": "0/0",
+            "pts": 9
+          }
+        }
+      ],
+      "per_game_averages": {
+        "kicking": {
+          "pct": 75.0,
+          "long": 53.0,
+          "pts": 9.0
+        }
+      }
+    },
+    "Maddux Trujillo": {
+      "name": "Maddux Trujillo",
+      "team": "IND",
+      "position": "K",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "kicking": {
+          "pct": 0.0,
+          "long": 0,
+          "pts": 1
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "kicking",
+          "stats": {
+            "player": "Maddux Trujillo",
+            "team": "IND",
+            "stat_category": "kicking",
+            "game_id": 401773001,
+            "fg": "0/0",
+            "pct": 0.0,
+            "long": 0,
+            "xp": "1/1",
+            "pts": 1
+          }
+        }
+      ],
+      "per_game_averages": {
+        "kicking": {
+          "pct": 0.0,
+          "long": 0.0,
+          "pts": 1.0
+        }
+      }
+    },
+    "Rigoberto Sanchez": {
+      "name": "Rigoberto Sanchez",
+      "team": "IND",
+      "position": "P",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "punting": {
+          "no": 6,
+          "yds": 278,
+          "avg": 46.3,
+          "tb": 0,
+          "in_20": 2,
+          "long": 55
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "punting",
+          "stats": {
+            "player": "Rigoberto Sanchez",
+            "team": "IND",
+            "stat_category": "punting",
+            "game_id": 401773001,
+            "no": 6,
+            "yds": 278,
+            "avg": 46.3,
+            "tb": 0,
+            "in_20": 2,
+            "long": 55
+          }
+        }
+      ],
+      "per_game_averages": {
+        "punting": {
+          "no": 6.0,
+          "yds": 278.0,
+          "avg": 46.3,
+          "tb": 0.0,
+          "in_20": 2.0,
+          "long": 55.0
+        }
+      }
+    },
+    "Anthony Gould": {
+      "name": "Anthony Gould",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "punt returns": {
+          "no": 1,
+          "yds": 20,
+          "avg": 20.0,
+          "long": 20,
+          "td": 0
+        },
+        "receiving": {
+          "rec": 2,
+          "yds": 12,
+          "avg": 6.0,
+          "td": 0,
+          "long": 8,
+          "tgts": 4
+        },
+        "kick returns": {
+          "no": 1,
+          "yds": 36,
+          "avg": 36.0,
+          "long": 36,
+          "td": 0
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "punt returns",
+          "stats": {
+            "player": "Anthony Gould",
+            "team": "IND",
+            "stat_category": "punt returns",
+            "game_id": 401773001,
+            "no": 1,
+            "yds": 20,
+            "avg": 20.0,
+            "long": 20,
+            "td": 0
+          }
+        },
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Anthony Gould",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 2,
+            "yds": 12,
+            "avg": 6.0,
+            "td": 0,
+            "long": 8,
+            "tgts": 4
+          }
+        },
+        {
+          "week": 1,
+          "category": "kick returns",
+          "stats": {
+            "player": "Anthony Gould",
+            "team": "IND",
+            "stat_category": "kick returns",
+            "game_id": 401773001,
+            "no": 1,
+            "yds": 36,
+            "avg": 36.0,
+            "long": 36,
+            "td": 0
+          }
+        }
+      ],
+      "per_game_averages": {
+        "punt returns": {
+          "no": 1.0,
+          "yds": 20.0,
+          "avg": 20.0,
+          "long": 20.0,
+          "td": 0.0
+        },
+        "receiving": {
+          "rec": 2.0,
+          "yds": 12.0,
+          "avg": 6.0,
+          "td": 0.0,
+          "long": 8.0,
+          "tgts": 4.0
+        },
+        "kick returns": {
+          "no": 1.0,
+          "yds": 36.0,
+          "avg": 36.0,
+          "long": 36.0,
+          "td": 0.0
+        }
+      }
+    },
+    "Coleman Owen": {
+      "name": "Coleman Owen",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "punt returns": {
+          "no": 2,
+          "yds": 17,
+          "avg": 8.5,
+          "long": 14,
+          "td": 0
+        },
+        "receiving": {
+          "rec": 4,
+          "yds": 18,
+          "avg": 4.5,
+          "td": 0,
+          "long": 6,
+          "tgts": 6
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "punt returns",
+          "stats": {
+            "player": "Coleman Owen",
+            "team": "IND",
+            "stat_category": "punt returns",
+            "game_id": 401773001,
+            "no": 2,
+            "yds": 17,
+            "avg": 8.5,
+            "long": 14,
+            "td": 0
+          }
+        },
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Coleman Owen",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 4,
+            "yds": 18,
+            "avg": 4.5,
+            "td": 0,
+            "long": 6,
+            "tgts": 6
+          }
+        }
+      ],
+      "per_game_averages": {
+        "punt returns": {
+          "no": 2.0,
+          "yds": 17.0,
+          "avg": 8.5,
+          "long": 14.0,
+          "td": 0.0
+        },
+        "receiving": {
+          "rec": 4.0,
+          "yds": 18.0,
+          "avg": 4.5,
+          "td": 0.0,
+          "long": 6.0,
+          "tgts": 6.0
+        }
+      }
+    },
+    "Ashton Dulin": {
+      "name": "Ashton Dulin",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 3,
+          "yds": 54,
+          "avg": 18.0,
+          "td": 0,
+          "long": 25,
+          "tgts": 7
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Ashton Dulin",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 3,
+            "yds": 54,
+            "avg": 18.0,
+            "td": 0,
+            "long": 25,
+            "tgts": 7
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 3.0,
+          "yds": 54.0,
+          "avg": 18.0,
+          "td": 0.0,
+          "long": 25.0,
+          "tgts": 7.0
+        }
+      }
+    },
+    "Tyler Warren": {
+      "name": "Tyler Warren",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 3,
+          "yds": 40,
+          "avg": 13.3,
+          "td": 0,
+          "long": 23,
+          "tgts": 3
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Tyler Warren",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 3,
+            "yds": 40,
+            "avg": 13.3,
+            "td": 0,
+            "long": 23,
+            "tgts": 3
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 3.0,
+          "yds": 40.0,
+          "avg": 13.3,
+          "td": 0.0,
+          "long": 23.0,
+          "tgts": 3.0
+        }
+      }
+    },
+    "Adonai Mitchell": {
+      "name": "Adonai Mitchell",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 2,
+          "yds": 37,
+          "avg": 18.5,
+          "td": 0,
+          "long": 22,
+          "tgts": 6
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Adonai Mitchell",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 2,
+            "yds": 37,
+            "avg": 18.5,
+            "td": 0,
+            "long": 22,
+            "tgts": 6
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 2.0,
+          "yds": 37.0,
+          "avg": 18.5,
+          "td": 0.0,
+          "long": 22.0,
+          "tgts": 6.0
+        }
+      }
+    },
+    "Laquon Treadwell": {
+      "name": "Laquon Treadwell",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 1,
+          "yds": 24,
+          "avg": 24.0,
+          "td": 0,
+          "long": 24,
+          "tgts": 3
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Laquon Treadwell",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 24,
+            "avg": 24.0,
+            "td": 0,
+            "long": 24,
+            "tgts": 3
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 1.0,
+          "yds": 24.0,
+          "avg": 24.0,
+          "td": 0.0,
+          "long": 24.0,
+          "tgts": 3.0
+        }
+      }
+    },
+    "Jelani Woods": {
+      "name": "Jelani Woods",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 2,
+          "yds": 23,
+          "avg": 11.5,
+          "td": 0,
+          "long": 14,
+          "tgts": 3
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Jelani Woods",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 2,
+            "yds": 23,
+            "avg": 11.5,
+            "td": 0,
+            "long": 14,
+            "tgts": 3
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 2.0,
+          "yds": 23.0,
+          "avg": 11.5,
+          "td": 0.0,
+          "long": 14.0,
+          "tgts": 3.0
+        }
+      }
+    },
+    "Ajou Ajou": {
+      "name": "Ajou Ajou",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 3,
+          "yds": 18,
+          "avg": 6.0,
+          "td": 0,
+          "long": 8,
+          "tgts": 5
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Ajou Ajou",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 3,
+            "yds": 18,
+            "avg": 6.0,
+            "td": 0,
+            "long": 8,
+            "tgts": 5
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 3.0,
+          "yds": 18.0,
+          "avg": 6.0,
+          "td": 0.0,
+          "long": 8.0,
+          "tgts": 5.0
+        }
+      }
+    },
+    "Will Mallory": {
+      "name": "Will Mallory",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 1,
+          "yds": 15,
+          "avg": 15.0,
+          "td": 0,
+          "long": 15,
+          "tgts": 2
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Will Mallory",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 15,
+            "avg": 15.0,
+            "td": 0,
+            "long": 15,
+            "tgts": 2
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 1.0,
+          "yds": 15.0,
+          "avg": 15.0,
+          "td": 0.0,
+          "long": 15.0,
+          "tgts": 2.0
+        }
+      }
+    },
+    "Drew Ogletree": {
+      "name": "Drew Ogletree",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 1,
+          "yds": 7,
+          "avg": 7.0,
+          "td": 0,
+          "long": 7,
+          "tgts": 1
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Drew Ogletree",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 7,
+            "avg": 7.0,
+            "td": 0,
+            "long": 7,
+            "tgts": 1
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 1.0,
+          "yds": 7.0,
+          "avg": 7.0,
+          "td": 0.0,
+          "long": 7.0,
+          "tgts": 1.0
+        }
+      }
+    },
+    "Sean McKeon": {
+      "name": "Sean McKeon",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 1,
+          "yds": 5,
+          "avg": 5.0,
+          "td": 0,
+          "long": 5,
+          "tgts": 1
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Sean McKeon",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 5,
+            "avg": 5.0,
+            "td": 0,
+            "long": 5,
+            "tgts": 1
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 1.0,
+          "yds": 5.0,
+          "avg": 5.0,
+          "td": 0.0,
+          "long": 5.0,
+          "tgts": 1.0
+        }
+      }
+    },
+    "Landon Parker": {
+      "name": "Landon Parker",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 1,
+          "yds": 4,
+          "avg": 4.0,
+          "td": 0,
+          "long": 4,
+          "tgts": 1
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Landon Parker",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 4,
+            "avg": 4.0,
+            "td": 0,
+            "long": 4,
+            "tgts": 1
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 1.0,
+          "yds": 4.0,
+          "avg": 4.0,
+          "td": 0.0,
+          "long": 4.0,
+          "tgts": 1.0
+        }
+      }
+    },
+    "Khalil Herbert": {
+      "name": "Khalil Herbert",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 0,
+          "yds": 0,
+          "avg": 0.0,
+          "td": 0,
+          "long": 0,
+          "tgts": 1
+        },
+        "kick returns": {
+          "no": 2,
+          "yds": 51,
+          "avg": 25.5,
+          "long": 31,
+          "td": 0
+        },
+        "rushing": {
+          "car": 7,
+          "yds": 29,
+          "avg": 4.1,
+          "td": 1,
+          "long": 17
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Khalil Herbert",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          }
+        },
+        {
+          "week": 1,
+          "category": "kick returns",
+          "stats": {
+            "player": "Khalil Herbert",
+            "team": "IND",
+            "stat_category": "kick returns",
+            "game_id": 401773001,
+            "no": 2,
+            "yds": 51,
+            "avg": 25.5,
+            "long": 31,
+            "td": 0
+          }
+        },
+        {
+          "week": 1,
+          "category": "rushing",
+          "stats": {
+            "player": "Khalil Herbert",
+            "team": "IND",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 7,
+            "yds": 29,
+            "avg": 4.1,
+            "td": 1,
+            "long": 17
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 0.0,
+          "yds": 0.0,
+          "avg": 0.0,
+          "td": 0.0,
+          "long": 0.0,
+          "tgts": 1.0
+        },
+        "kick returns": {
+          "no": 2.0,
+          "yds": 51.0,
+          "avg": 25.5,
+          "long": 31.0,
+          "td": 0.0
+        },
+        "rushing": {
+          "car": 7.0,
+          "yds": 29.0,
+          "avg": 4.1,
+          "td": 1.0,
+          "long": 17.0
+        }
+      }
+    },
+    "Ulysses Bentley IV": {
+      "name": "Ulysses Bentley IV",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 0,
+          "yds": 0,
+          "avg": 0.0,
+          "td": 0,
+          "long": 0,
+          "tgts": 1
+        },
+        "rushing": {
+          "car": 7,
+          "yds": 35,
+          "avg": 5.0,
+          "td": 0,
+          "long": 10
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Ulysses Bentley IV",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          }
+        },
+        {
+          "week": 1,
+          "category": "rushing",
+          "stats": {
+            "player": "Ulysses Bentley IV",
+            "team": "IND",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 7,
+            "yds": 35,
+            "avg": 5.0,
+            "td": 0,
+            "long": 10
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 0.0,
+          "yds": 0.0,
+          "avg": 0.0,
+          "td": 0.0,
+          "long": 0.0,
+          "tgts": 1.0
+        },
+        "rushing": {
+          "car": 7.0,
+          "yds": 35.0,
+          "avg": 5.0,
+          "td": 0.0,
+          "long": 10.0
+        }
+      }
+    },
+    "DJ Giddens": {
+      "name": "DJ Giddens",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 0,
+          "yds": 0,
+          "avg": 0.0,
+          "td": 0,
+          "long": 0,
+          "tgts": 1
+        },
+        "kick returns": {
+          "no": 1,
+          "yds": 21,
+          "avg": 21.0,
+          "long": 21,
+          "td": 0
+        },
+        "rushing": {
+          "car": 6,
+          "yds": 17,
+          "avg": 2.8,
+          "td": 0,
+          "long": 7
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "DJ Giddens",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          }
+        },
+        {
+          "week": 1,
+          "category": "kick returns",
+          "stats": {
+            "player": "DJ Giddens",
+            "team": "IND",
+            "stat_category": "kick returns",
+            "game_id": 401773001,
+            "no": 1,
+            "yds": 21,
+            "avg": 21.0,
+            "long": 21,
+            "td": 0
+          }
+        },
+        {
+          "week": 1,
+          "category": "rushing",
+          "stats": {
+            "player": "DJ Giddens",
+            "team": "IND",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 6,
+            "yds": 17,
+            "avg": 2.8,
+            "td": 0,
+            "long": 7
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 0.0,
+          "yds": 0.0,
+          "avg": 0.0,
+          "td": 0.0,
+          "long": 0.0,
+          "tgts": 1.0
+        },
+        "kick returns": {
+          "no": 1.0,
+          "yds": 21.0,
+          "avg": 21.0,
+          "long": 21.0,
+          "td": 0.0
+        },
+        "rushing": {
+          "car": 6.0,
+          "yds": 17.0,
+          "avg": 2.8,
+          "td": 0.0,
+          "long": 7.0
+        }
+      }
+    },
+    "Blayne Taylor": {
+      "name": "Blayne Taylor",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 0,
+          "yds": 0,
+          "avg": 0.0,
+          "td": 0,
+          "long": 0,
+          "tgts": 1
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Blayne Taylor",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 0.0,
+          "yds": 0.0,
+          "avg": 0.0,
+          "td": 0.0,
+          "long": 0.0,
+          "tgts": 1.0
+        }
+      }
+    },
+    "Tyler Kahmann": {
+      "name": "Tyler Kahmann",
+      "team": "IND",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 0,
+          "yds": 0,
+          "avg": 0.0,
+          "td": 0,
+          "long": 0,
+          "tgts": 1
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Tyler Kahmann",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 0.0,
+          "yds": 0.0,
+          "avg": 0.0,
+          "td": 0.0,
+          "long": 0.0,
+          "tgts": 1.0
+        }
+      }
+    },
+    "Joe Bachie": {
+      "name": "Joe Bachie",
+      "team": "IND",
+      "position": "DEF",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "interceptions": {
+          "int": 1,
+          "yds": 0,
+          "td": 0
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "interceptions",
+          "stats": {
+            "player": "Joe Bachie",
+            "team": "IND",
+            "stat_category": "interceptions",
+            "game_id": 401773001,
+            "int": 1,
+            "yds": 0,
+            "td": 0
+          }
+        }
+      ],
+      "per_game_averages": {
+        "interceptions": {
+          "int": 1.0,
+          "yds": 0.0,
+          "td": 0.0
+        }
+      }
+    },
+    "Alex Johnson": {
+      "name": "Alex Johnson",
+      "team": "IND",
+      "position": "DEF",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "interceptions": {
+          "int": 1,
+          "yds": 0,
+          "td": 0
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "interceptions",
+          "stats": {
+            "player": "Alex Johnson",
+            "team": "IND",
+            "stat_category": "interceptions",
+            "game_id": 401773001,
+            "int": 1,
+            "yds": 0,
+            "td": 0
+          }
+        }
+      ],
+      "per_game_averages": {
+        "interceptions": {
+          "int": 1.0,
+          "yds": 0.0,
+          "td": 0.0
+        }
+      }
+    },
+    "Daniel Jones": {
+      "name": "Daniel Jones",
+      "team": "IND",
+      "position": "QB",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "passing": {
+          "yds": 144,
+          "avg": 6.9,
+          "td": 0,
+          "int": 0,
+          "rtg": 70.3
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "passing",
+          "stats": {
+            "player": "Daniel Jones",
+            "team": "IND",
+            "stat_category": "passing",
+            "game_id": 401773001,
+            "c_att": "10/21",
+            "yds": 144,
+            "avg": 6.9,
+            "td": 0,
+            "int": 0,
+            "sacks": "1-9",
+            "rtg": 70.3,
+            "": ""
+          }
+        }
+      ],
+      "per_game_averages": {
+        "passing": {
+          "yds": 144.0,
+          "avg": 6.9,
+          "td": 0.0,
+          "int": 0.0,
+          "rtg": 70.3
+        }
+      }
+    },
+    "Riley Leonard": {
+      "name": "Riley Leonard",
+      "team": "IND",
+      "position": "QB",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "passing": {
+          "yds": 92,
+          "avg": 3.8,
+          "td": 0,
+          "int": 1,
+          "rtg": 42.4
+        },
+        "rushing": {
+          "car": 4,
+          "yds": 34,
+          "avg": 8.5,
+          "td": 0,
+          "long": 21
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "passing",
+          "stats": {
+            "player": "Riley Leonard",
+            "team": "IND",
+            "stat_category": "passing",
+            "game_id": 401773001,
+            "c_att": "12/24",
+            "yds": 92,
+            "avg": 3.8,
+            "td": 0,
+            "int": 1,
+            "sacks": "0-0",
+            "rtg": 42.4,
+            "": ""
+          }
+        },
+        {
+          "week": 1,
+          "category": "rushing",
+          "stats": {
+            "player": "Riley Leonard",
+            "team": "IND",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 4,
+            "yds": 34,
+            "avg": 8.5,
+            "td": 0,
+            "long": 21
+          }
+        }
+      ],
+      "per_game_averages": {
+        "passing": {
+          "yds": 92.0,
+          "avg": 3.8,
+          "td": 0.0,
+          "int": 1.0,
+          "rtg": 42.4
+        },
+        "rushing": {
+          "car": 4.0,
+          "yds": 34.0,
+          "avg": 8.5,
+          "td": 0.0,
+          "long": 21.0
+        }
+      }
+    },
+    "Anthony Richardson Sr.": {
+      "name": "Anthony Richardson Sr.",
+      "team": "IND",
+      "position": "QB",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "passing": {
+          "yds": 21,
+          "avg": 7.0,
+          "td": 0,
+          "int": 0,
+          "rtg": 86.8
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "passing",
+          "stats": {
+            "player": "Anthony Richardson Sr.",
+            "team": "IND",
+            "stat_category": "passing",
+            "game_id": 401773001,
+            "c_att": "2/3",
+            "yds": 21,
+            "avg": 7.0,
+            "td": 0,
+            "int": 0,
+            "sacks": "1-8",
+            "rtg": 86.8,
+            "": ""
+          }
+        }
+      ],
+      "per_game_averages": {
+        "passing": {
+          "yds": 21.0,
+          "avg": 7.0,
+          "td": 0.0,
+          "int": 0.0,
+          "rtg": 86.8
+        }
+      }
+    },
+    "Tyler Goodson": {
+      "name": "Tyler Goodson",
+      "team": "IND",
+      "position": "RB",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "rushing": {
+          "car": 4,
+          "yds": 11,
+          "avg": 2.8,
+          "td": 0,
+          "long": 5
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "rushing",
+          "stats": {
+            "player": "Tyler Goodson",
+            "team": "IND",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 4,
+            "yds": 11,
+            "avg": 2.8,
+            "td": 0,
+            "long": 5
+          }
+        }
+      ],
+      "per_game_averages": {
+        "rushing": {
+          "car": 4.0,
+          "yds": 11.0,
+          "avg": 2.8,
+          "td": 0.0,
+          "long": 5.0
+        }
+      }
+    },
+    "Devin Leary": {
+      "name": "Devin Leary",
+      "team": "BAL",
+      "position": "QB",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "passing": {
+          "yds": 43,
+          "avg": 3.6,
+          "td": 0,
+          "int": 1,
+          "rtg": 7.3
+        },
+        "rushing": {
+          "car": 6,
+          "yds": 15,
+          "avg": 2.5,
+          "td": 0,
+          "long": 6
+        },
+        "fumbles": {
+          "fum": 1,
+          "lost": 0,
+          "rec": 0
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "passing",
+          "stats": {
+            "player": "Devin Leary",
+            "team": "BAL",
+            "stat_category": "passing",
+            "game_id": 401773001,
+            "c_att": "3/12",
+            "yds": 43,
+            "avg": 3.6,
+            "td": 0,
+            "int": 1,
+            "sacks": "1-2",
+            "rtg": 7.3,
+            "": ""
+          }
+        },
+        {
+          "week": 1,
+          "category": "rushing",
+          "stats": {
+            "player": "Devin Leary",
+            "team": "BAL",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 6,
+            "yds": 15,
+            "avg": 2.5,
+            "td": 0,
+            "long": 6
+          }
+        },
+        {
+          "week": 1,
+          "category": "fumbles",
+          "stats": {
+            "player": "Devin Leary",
+            "team": "BAL",
+            "stat_category": "fumbles",
+            "game_id": 401773001,
+            "fum": 1,
+            "lost": 0,
+            "rec": 0
+          }
+        }
+      ],
+      "per_game_averages": {
+        "passing": {
+          "yds": 43.0,
+          "avg": 3.6,
+          "td": 0.0,
+          "int": 1.0,
+          "rtg": 7.3
+        },
+        "rushing": {
+          "car": 6.0,
+          "yds": 15.0,
+          "avg": 2.5,
+          "td": 0.0,
+          "long": 6.0
+        },
+        "fumbles": {
+          "fum": 1.0,
+          "lost": 0.0,
+          "rec": 0.0
+        }
+      }
+    },
+    "Cooper Rush": {
+      "name": "Cooper Rush",
+      "team": "BAL",
+      "position": "QB",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "passing": {
+          "yds": 16,
+          "avg": 4.0,
+          "td": 0,
+          "int": 1,
+          "rtg": 20.8
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "passing",
+          "stats": {
+            "player": "Cooper Rush",
+            "team": "BAL",
+            "stat_category": "passing",
+            "game_id": 401773001,
+            "c_att": "2/4",
+            "yds": 16,
+            "avg": 4.0,
+            "td": 0,
+            "int": 1,
+            "sacks": "1-8",
+            "rtg": 20.8,
+            "": ""
+          }
+        }
+      ],
+      "per_game_averages": {
+        "passing": {
+          "yds": 16.0,
+          "avg": 4.0,
+          "td": 0.0,
+          "int": 1.0,
+          "rtg": 20.8
+        }
+      }
+    },
+    "LaJohntay Wester": {
+      "name": "LaJohntay Wester",
+      "team": "BAL",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "punt returns": {
+          "no": 3,
+          "yds": 104,
+          "avg": 34.7,
+          "long": 87,
+          "td": 1
+        },
+        "receiving": {
+          "rec": 2,
+          "yds": 41,
+          "avg": 20.5,
+          "td": 0,
+          "long": 30,
+          "tgts": 3
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "punt returns",
+          "stats": {
+            "player": "LaJohntay Wester",
+            "team": "BAL",
+            "stat_category": "punt returns",
+            "game_id": 401773001,
+            "no": 3,
+            "yds": 104,
+            "avg": 34.7,
+            "long": 87,
+            "td": 1
+          }
+        },
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "LaJohntay Wester",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 2,
+            "yds": 41,
+            "avg": 20.5,
+            "td": 0,
+            "long": 30,
+            "tgts": 3
+          }
+        }
+      ],
+      "per_game_averages": {
+        "punt returns": {
+          "no": 3.0,
+          "yds": 104.0,
+          "avg": 34.7,
+          "long": 87.0,
+          "td": 1.0
+        },
+        "receiving": {
+          "rec": 2.0,
+          "yds": 41.0,
+          "avg": 20.5,
+          "td": 0.0,
+          "long": 30.0,
+          "tgts": 3.0
+        }
+      }
+    },
+    "Anthony Miller": {
+      "name": "Anthony Miller",
+      "team": "BAL",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "punt returns": {
+          "no": 1,
+          "yds": 5,
+          "avg": 5.0,
+          "long": 5,
+          "td": 0
+        },
+        "receiving": {
+          "rec": 0,
+          "yds": 0,
+          "avg": 0.0,
+          "td": 0,
+          "long": 0,
+          "tgts": 2
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "punt returns",
+          "stats": {
+            "player": "Anthony Miller",
+            "team": "BAL",
+            "stat_category": "punt returns",
+            "game_id": 401773001,
+            "no": 1,
+            "yds": 5,
+            "avg": 5.0,
+            "long": 5,
+            "td": 0
+          }
+        },
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Anthony Miller",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 2
+          }
+        }
+      ],
+      "per_game_averages": {
+        "punt returns": {
+          "no": 1.0,
+          "yds": 5.0,
+          "avg": 5.0,
+          "long": 5.0,
+          "td": 0.0
+        },
+        "receiving": {
+          "rec": 0.0,
+          "yds": 0.0,
+          "avg": 0.0,
+          "td": 0.0,
+          "long": 0.0,
+          "tgts": 2.0
+        }
+      }
+    },
+    "Keaton Mitchell": {
+      "name": "Keaton Mitchell",
+      "team": "BAL",
+      "position": "RB",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "rushing": {
+          "car": 9,
+          "yds": 68,
+          "avg": 7.6,
+          "td": 1,
+          "long": 23
+        },
+        "kick returns": {
+          "no": 3,
+          "yds": 64,
+          "avg": 21.3,
+          "long": 25,
+          "td": 0
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "rushing",
+          "stats": {
+            "player": "Keaton Mitchell",
+            "team": "BAL",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 9,
+            "yds": 68,
+            "avg": 7.6,
+            "td": 1,
+            "long": 23
+          }
+        },
+        {
+          "week": 1,
+          "category": "kick returns",
+          "stats": {
+            "player": "Keaton Mitchell",
+            "team": "BAL",
+            "stat_category": "kick returns",
+            "game_id": 401773001,
+            "no": 3,
+            "yds": 64,
+            "avg": 21.3,
+            "long": 25,
+            "td": 0
+          }
+        }
+      ],
+      "per_game_averages": {
+        "rushing": {
+          "car": 9.0,
+          "yds": 68.0,
+          "avg": 7.6,
+          "td": 1.0,
+          "long": 23.0
+        },
+        "kick returns": {
+          "no": 3.0,
+          "yds": 64.0,
+          "avg": 21.3,
+          "long": 25.0,
+          "td": 0.0
+        }
+      }
+    },
+    "D'Ernest Johnson": {
+      "name": "D'Ernest Johnson",
+      "team": "BAL",
+      "position": "RB",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "rushing": {
+          "car": 18,
+          "yds": 57,
+          "avg": 3.2,
+          "td": 0,
+          "long": 11
+        },
+        "receiving": {
+          "rec": 1,
+          "yds": 2,
+          "avg": 2.0,
+          "td": 0,
+          "long": 2,
+          "tgts": 1
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "rushing",
+          "stats": {
+            "player": "D'Ernest Johnson",
+            "team": "BAL",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 18,
+            "yds": 57,
+            "avg": 3.2,
+            "td": 0,
+            "long": 11
+          }
+        },
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "D'Ernest Johnson",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 2,
+            "avg": 2.0,
+            "td": 0,
+            "long": 2,
+            "tgts": 1
+          }
+        }
+      ],
+      "per_game_averages": {
+        "rushing": {
+          "car": 18.0,
+          "yds": 57.0,
+          "avg": 3.2,
+          "td": 0.0,
+          "long": 11.0
+        },
+        "receiving": {
+          "rec": 1.0,
+          "yds": 2.0,
+          "avg": 2.0,
+          "td": 0.0,
+          "long": 2.0,
+          "tgts": 1.0
+        }
+      }
+    },
+    "Rasheen Ali": {
+      "name": "Rasheen Ali",
+      "team": "BAL",
+      "position": "RB",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "rushing": {
+          "car": 9,
+          "yds": 37,
+          "avg": 4.1,
+          "td": 1,
+          "long": 19
+        },
+        "kick returns": {
+          "no": 1,
+          "yds": 69,
+          "avg": 69.0,
+          "long": 69,
+          "td": 0
+        },
+        "receiving": {
+          "rec": 0,
+          "yds": 0,
+          "avg": 0.0,
+          "td": 0,
+          "long": 0,
+          "tgts": 1
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "rushing",
+          "stats": {
+            "player": "Rasheen Ali",
+            "team": "BAL",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 9,
+            "yds": 37,
+            "avg": 4.1,
+            "td": 1,
+            "long": 19
+          }
+        },
+        {
+          "week": 1,
+          "category": "kick returns",
+          "stats": {
+            "player": "Rasheen Ali",
+            "team": "BAL",
+            "stat_category": "kick returns",
+            "game_id": 401773001,
+            "no": 1,
+            "yds": 69,
+            "avg": 69.0,
+            "long": 69,
+            "td": 0
+          }
+        },
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Rasheen Ali",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          }
+        }
+      ],
+      "per_game_averages": {
+        "rushing": {
+          "car": 9.0,
+          "yds": 37.0,
+          "avg": 4.1,
+          "td": 1.0,
+          "long": 19.0
+        },
+        "kick returns": {
+          "no": 1.0,
+          "yds": 69.0,
+          "avg": 69.0,
+          "long": 69.0,
+          "td": 0.0
+        },
+        "receiving": {
+          "rec": 0.0,
+          "yds": 0.0,
+          "avg": 0.0,
+          "td": 0.0,
+          "long": 0.0,
+          "tgts": 1.0
+        }
+      }
+    },
+    "Dayton Wade": {
+      "name": "Dayton Wade",
+      "team": "BAL",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "kick returns": {
+          "no": 1,
+          "yds": 23,
+          "avg": 23.0,
+          "long": 23,
+          "td": 0
+        },
+        "receiving": {
+          "rec": 0,
+          "yds": 0,
+          "avg": 0.0,
+          "td": 0,
+          "long": 0,
+          "tgts": 3
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "kick returns",
+          "stats": {
+            "player": "Dayton Wade",
+            "team": "BAL",
+            "stat_category": "kick returns",
+            "game_id": 401773001,
+            "no": 1,
+            "yds": 23,
+            "avg": 23.0,
+            "long": 23,
+            "td": 0
+          }
+        },
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Dayton Wade",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 3
+          }
+        }
+      ],
+      "per_game_averages": {
+        "kick returns": {
+          "no": 1.0,
+          "yds": 23.0,
+          "avg": 23.0,
+          "long": 23.0,
+          "td": 0.0
+        },
+        "receiving": {
+          "rec": 0.0,
+          "yds": 0.0,
+          "avg": 0.0,
+          "td": 0.0,
+          "long": 0.0,
+          "tgts": 3.0
+        }
+      }
+    },
+    "Ben Cleveland": {
+      "name": "Ben Cleveland",
+      "team": "BAL",
+      "position": "RB",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "fumbles": {
+          "fum": 0,
+          "lost": 0,
+          "rec": 1
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "fumbles",
+          "stats": {
+            "player": "Ben Cleveland",
+            "team": "BAL",
+            "stat_category": "fumbles",
+            "game_id": 401773001,
+            "fum": 0,
+            "lost": 0,
+            "rec": 1
+          }
+        }
+      ],
+      "per_game_averages": {
+        "fumbles": {
+          "fum": 0.0,
+          "lost": 0.0,
+          "rec": 1.0
+        }
+      }
+    },
+    "Jordan Stout": {
+      "name": "Jordan Stout",
+      "team": "BAL",
+      "position": "P",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "punting": {
+          "no": 5,
+          "yds": 241,
+          "avg": 48.2,
+          "tb": 0,
+          "in_20": 1,
+          "long": 63
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "punting",
+          "stats": {
+            "player": "Jordan Stout",
+            "team": "BAL",
+            "stat_category": "punting",
+            "game_id": 401773001,
+            "no": 5,
+            "yds": 241,
+            "avg": 48.2,
+            "tb": 0,
+            "in_20": 1,
+            "long": 63
+          }
+        }
+      ],
+      "per_game_averages": {
+        "punting": {
+          "no": 5.0,
+          "yds": 241.0,
+          "avg": 48.2,
+          "tb": 0.0,
+          "in_20": 1.0,
+          "long": 63.0
+        }
+      }
+    },
+    "Tyler Loop": {
+      "name": "Tyler Loop",
+      "team": "BAL",
+      "position": "K",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "kicking": {
+          "pct": 50.0,
+          "long": 52,
+          "pts": 6
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "kicking",
+          "stats": {
+            "player": "Tyler Loop",
+            "team": "BAL",
+            "stat_category": "kicking",
+            "game_id": 401773001,
+            "fg": "1/2",
+            "pct": 50.0,
+            "long": 52,
+            "xp": "3/3",
+            "pts": 6
+          }
+        }
+      ],
+      "per_game_averages": {
+        "kicking": {
+          "pct": 50.0,
+          "long": 52.0,
+          "pts": 6.0
+        }
+      }
+    },
+    "Tylan Wallace": {
+      "name": "Tylan Wallace",
+      "team": "BAL",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 1,
+          "yds": 9,
+          "avg": 9.0,
+          "td": 0,
+          "long": 9,
+          "tgts": 1
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Tylan Wallace",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 9,
+            "avg": 9.0,
+            "td": 0,
+            "long": 9,
+            "tgts": 1
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 1.0,
+          "yds": 9.0,
+          "avg": 9.0,
+          "td": 0.0,
+          "long": 9.0,
+          "tgts": 1.0
+        }
+      }
+    },
+    "Charlie Kolar": {
+      "name": "Charlie Kolar",
+      "team": "BAL",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 1,
+          "yds": 7,
+          "avg": 7.0,
+          "td": 0,
+          "long": 7,
+          "tgts": 1
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Charlie Kolar",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 7,
+            "avg": 7.0,
+            "td": 0,
+            "long": 7,
+            "tgts": 1
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 1.0,
+          "yds": 7.0,
+          "avg": 7.0,
+          "td": 0.0,
+          "long": 7.0,
+          "tgts": 1.0
+        }
+      }
+    },
+    "Keith Kirkwood": {
+      "name": "Keith Kirkwood",
+      "team": "BAL",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 0,
+          "yds": 0,
+          "avg": 0.0,
+          "td": 0,
+          "long": 0,
+          "tgts": 1
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Keith Kirkwood",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 0.0,
+          "yds": 0.0,
+          "avg": 0.0,
+          "td": 0.0,
+          "long": 0.0,
+          "tgts": 1.0
+        }
+      }
+    },
+    "Scotty Washington": {
+      "name": "Scotty Washington",
+      "team": "BAL",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 0,
+          "yds": 0,
+          "avg": 0.0,
+          "td": 0,
+          "long": 0,
+          "tgts": 1
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Scotty Washington",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 0.0,
+          "yds": 0.0,
+          "avg": 0.0,
+          "td": 0.0,
+          "long": 0.0,
+          "tgts": 1.0
+        }
+      }
+    },
+    "Devontez Walker": {
+      "name": "Devontez Walker",
+      "team": "BAL",
+      "position": "WR",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "receiving": {
+          "rec": 0,
+          "yds": 0,
+          "avg": 0.0,
+          "td": 0,
+          "long": 0,
+          "tgts": 2
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "receiving",
+          "stats": {
+            "player": "Devontez Walker",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 2
+          }
+        }
+      ],
+      "per_game_averages": {
+        "receiving": {
+          "rec": 0.0,
+          "yds": 0.0,
+          "avg": 0.0,
+          "td": 0.0,
+          "long": 0.0,
+          "tgts": 2.0
+        }
+      }
+    },
+    "Jay Higgins IV": {
+      "name": "Jay Higgins IV",
+      "team": "BAL",
+      "position": "DEF",
+      "games_played": 1,
+      "weeks_active": 1,
+      "total_stats": {
+        "interceptions": {
+          "int": 1,
+          "yds": 2,
+          "td": 0
+        }
+      },
+      "weekly_breakdown": [
+        {
+          "week": 1,
+          "category": "interceptions",
+          "stats": {
+            "player": "Jay Higgins IV",
+            "team": "BAL",
+            "stat_category": "interceptions",
+            "game_id": 401773001,
+            "int": 1,
+            "yds": 2,
+            "td": 0
+          }
+        }
+      ],
+      "per_game_averages": {
+        "interceptions": {
+          "int": 1.0,
+          "yds": 2.0,
+          "td": 0.0
+        }
+      }
+    }
+  },
+  "team_aggregates": {
+    "ARI": {
+      "team": "ARI",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "ATL": {
+      "team": "ATL",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "BAL": {
+      "team": "BAL",
+      "games_played": 1,
+      "weeks_active": 1,
+      "offensive_stats": {
+        "total_points": 6,
+        "total_yards": 236,
+        "passing_yards": 59,
+        "rushing_yards": 177,
+        "touchdowns": 2,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      },
+      "per_game_averages": {
+        "offensive": {
+          "total_points_per_game": 6.0,
+          "total_yards_per_game": 236.0,
+          "passing_yards_per_game": 59.0,
+          "rushing_yards_per_game": 177.0,
+          "touchdowns_per_game": 2.0,
+          "turnovers_per_game": 0.0
+        },
+        "defensive": {
+          "points_allowed_per_game": 0.0,
+          "yards_allowed_per_game": 0.0,
+          "sacks_per_game": 0.0,
+          "interceptions_per_game": 0.0,
+          "fumbles_recovered_per_game": 0.0
+        },
+        "special_teams": {
+          "field_goals_made_per_game": 0.0,
+          "field_goals_attempted_per_game": 0.0,
+          "extra_points_made_per_game": 0.0
+        }
+      }
+    },
+    "BUF": {
+      "team": "BUF",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "CAR": {
+      "team": "CAR",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "CHI": {
+      "team": "CHI",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "CIN": {
+      "team": "CIN",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "CLE": {
+      "team": "CLE",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "DAL": {
+      "team": "DAL",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "DEN": {
+      "team": "DEN",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "DET": {
+      "team": "DET",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "GB": {
+      "team": "GB",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "HOU": {
+      "team": "HOU",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "IND": {
+      "team": "IND",
+      "games_played": 1,
+      "weeks_active": 1,
+      "offensive_stats": {
+        "total_points": 10,
+        "total_yards": 383,
+        "passing_yards": 257,
+        "rushing_yards": 126,
+        "touchdowns": 1,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      },
+      "per_game_averages": {
+        "offensive": {
+          "total_points_per_game": 10.0,
+          "total_yards_per_game": 383.0,
+          "passing_yards_per_game": 257.0,
+          "rushing_yards_per_game": 126.0,
+          "touchdowns_per_game": 1.0,
+          "turnovers_per_game": 0.0
+        },
+        "defensive": {
+          "points_allowed_per_game": 0.0,
+          "yards_allowed_per_game": 0.0,
+          "sacks_per_game": 0.0,
+          "interceptions_per_game": 0.0,
+          "fumbles_recovered_per_game": 0.0
+        },
+        "special_teams": {
+          "field_goals_made_per_game": 0.0,
+          "field_goals_attempted_per_game": 0.0,
+          "extra_points_made_per_game": 0.0
+        }
+      }
+    },
+    "JAX": {
+      "team": "JAX",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "KC": {
+      "team": "KC",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "LV": {
+      "team": "LV",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "LAC": {
+      "team": "LAC",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "LAR": {
+      "team": "LAR",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "MIA": {
+      "team": "MIA",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "MIN": {
+      "team": "MIN",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "NE": {
+      "team": "NE",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "NO": {
+      "team": "NO",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "NYG": {
+      "team": "NYG",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "NYJ": {
+      "team": "NYJ",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "PHI": {
+      "team": "PHI",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "PIT": {
+      "team": "PIT",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "SF": {
+      "team": "SF",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "SEA": {
+      "team": "SEA",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "TB": {
+      "team": "TB",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "TEN": {
+      "team": "TEN",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    },
+    "WSH": {
+      "team": "WSH",
+      "games_played": 0,
+      "weeks_active": 0,
+      "offensive_stats": {
+        "total_points": 0,
+        "total_yards": 0,
+        "passing_yards": 0,
+        "rushing_yards": 0,
+        "touchdowns": 0,
+        "turnovers": 0
+      },
+      "defensive_stats": {
+        "points_allowed": 0,
+        "yards_allowed": 0,
+        "sacks": 0,
+        "interceptions": 0,
+        "fumbles_recovered": 0
+      },
+      "special_teams_stats": {
+        "field_goals_made": 0,
+        "field_goals_attempted": 0,
+        "extra_points_made": 0,
+        "punting_average": 0
+      }
+    }
+  },
+  "position_leaders": {
+    "passing_leaders": [
+      {
+        "player": "Daniel Jones",
+        "team": "IND",
+        "position": "QB",
+        "total_yards": 144,
+        "total_touchdowns": 0,
+        "yards_per_game": 144.0,
+        "touchdowns_per_game": 0.0,
+        "games_played": 1
+      },
+      {
+        "player": "Riley Leonard",
+        "team": "IND",
+        "position": "QB",
+        "total_yards": 92,
+        "total_touchdowns": 0,
+        "yards_per_game": 92.0,
+        "touchdowns_per_game": 0.0,
+        "games_played": 1
+      },
+      {
+        "player": "Devin Leary",
+        "team": "BAL",
+        "position": "QB",
+        "total_yards": 43,
+        "total_touchdowns": 0,
+        "yards_per_game": 43.0,
+        "touchdowns_per_game": 0.0,
+        "games_played": 1
+      },
+      {
+        "player": "Anthony Richardson Sr.",
+        "team": "IND",
+        "position": "QB",
+        "total_yards": 21,
+        "total_touchdowns": 0,
+        "yards_per_game": 21.0,
+        "touchdowns_per_game": 0.0,
+        "games_played": 1
+      },
+      {
+        "player": "Cooper Rush",
+        "team": "BAL",
+        "position": "QB",
+        "total_yards": 16,
+        "total_touchdowns": 0,
+        "yards_per_game": 16.0,
+        "touchdowns_per_game": 0.0,
+        "games_played": 1
+      }
+    ],
+    "rushing_leaders": [
+      {
+        "player": "Keaton Mitchell",
+        "team": "BAL",
+        "position": "RB",
+        "total_yards": 68,
+        "total_touchdowns": 1,
+        "yards_per_game": 68.0,
+        "touchdowns_per_game": 1.0,
+        "games_played": 1
+      },
+      {
+        "player": "D'Ernest Johnson",
+        "team": "BAL",
+        "position": "RB",
+        "total_yards": 57,
+        "total_touchdowns": 0,
+        "yards_per_game": 57.0,
+        "touchdowns_per_game": 0.0,
+        "games_played": 1
+      },
+      {
+        "player": "Rasheen Ali",
+        "team": "BAL",
+        "position": "RB",
+        "total_yards": 37,
+        "total_touchdowns": 1,
+        "yards_per_game": 37.0,
+        "touchdowns_per_game": 1.0,
+        "games_played": 1
+      },
+      {
+        "player": "Tyler Goodson",
+        "team": "IND",
+        "position": "RB",
+        "total_yards": 11,
+        "total_touchdowns": 0,
+        "yards_per_game": 11.0,
+        "touchdowns_per_game": 0.0,
+        "games_played": 1
+      }
+    ],
+    "receiving_leaders": [
+      {
+        "player": "Ashton Dulin",
+        "team": "IND",
+        "position": "WR",
+        "total_yards": 54,
+        "total_touchdowns": 0,
+        "total_receptions": 3,
+        "yards_per_game": 54.0,
+        "receptions_per_game": 3.0,
+        "games_played": 1
+      },
+      {
+        "player": "LaJohntay Wester",
+        "team": "BAL",
+        "position": "WR",
+        "total_yards": 41,
+        "total_touchdowns": 0,
+        "total_receptions": 2,
+        "yards_per_game": 41.0,
+        "receptions_per_game": 2.0,
+        "games_played": 1
+      },
+      {
+        "player": "Tyler Warren",
+        "team": "IND",
+        "position": "WR",
+        "total_yards": 40,
+        "total_touchdowns": 0,
+        "total_receptions": 3,
+        "yards_per_game": 40.0,
+        "receptions_per_game": 3.0,
+        "games_played": 1
+      },
+      {
+        "player": "Adonai Mitchell",
+        "team": "IND",
+        "position": "WR",
+        "total_yards": 37,
+        "total_touchdowns": 0,
+        "total_receptions": 2,
+        "yards_per_game": 37.0,
+        "receptions_per_game": 2.0,
+        "games_played": 1
+      },
+      {
+        "player": "Laquon Treadwell",
+        "team": "IND",
+        "position": "WR",
+        "total_yards": 24,
+        "total_touchdowns": 0,
+        "total_receptions": 1,
+        "yards_per_game": 24.0,
+        "receptions_per_game": 1.0,
+        "games_played": 1
+      },
+      {
+        "player": "Jelani Woods",
+        "team": "IND",
+        "position": "WR",
+        "total_yards": 23,
+        "total_touchdowns": 0,
+        "total_receptions": 2,
+        "yards_per_game": 23.0,
+        "receptions_per_game": 2.0,
+        "games_played": 1
+      },
+      {
+        "player": "Coleman Owen",
+        "team": "IND",
+        "position": "WR",
+        "total_yards": 18,
+        "total_touchdowns": 0,
+        "total_receptions": 4,
+        "yards_per_game": 18.0,
+        "receptions_per_game": 4.0,
+        "games_played": 1
+      },
+      {
+        "player": "Ajou Ajou",
+        "team": "IND",
+        "position": "WR",
+        "total_yards": 18,
+        "total_touchdowns": 0,
+        "total_receptions": 3,
+        "yards_per_game": 18.0,
+        "receptions_per_game": 3.0,
+        "games_played": 1
+      },
+      {
+        "player": "Will Mallory",
+        "team": "IND",
+        "position": "WR",
+        "total_yards": 15,
+        "total_touchdowns": 0,
+        "total_receptions": 1,
+        "yards_per_game": 15.0,
+        "receptions_per_game": 1.0,
+        "games_played": 1
+      },
+      {
+        "player": "Anthony Gould",
+        "team": "IND",
+        "position": "WR",
+        "total_yards": 12,
+        "total_touchdowns": 0,
+        "total_receptions": 2,
+        "yards_per_game": 12.0,
+        "receptions_per_game": 2.0,
+        "games_played": 1
+      }
+    ],
+    "scoring_leaders": [],
+    "kicking_leaders": []
+  },
+  "summary": {
+    "total_players": 43,
+    "total_teams": 2,
+    "weeks_processed": 1
+  }
+}

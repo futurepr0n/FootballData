@@ -1,0 +1,3798 @@
+{
+  "game_id": "401773017",
+  "date": "2025-08-15",
+  "box_score": {
+    "game_info": {
+      "game_id": "401773017",
+      "date": "2025-08-15T23:00Z",
+      "status": {
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final"
+        },
+        "isTBDFlex": false
+      },
+      "venue": {},
+      "attendance": 0
+    },
+    "team_stats": {
+      "ATL": {
+        "score": 20,
+        "record": "0-0",
+        "home_away": "home"
+      },
+      "TEN": {
+        "score": 23,
+        "record": "0-0",
+        "home_away": "away"
+      }
+    },
+    "player_stats": {
+      "Brandon Allen_TEN": {
+        "name": "Brandon Allen",
+        "position": "",
+        "jersey": "10",
+        "team": "TEN",
+        "stats": {
+          "0": 2,
+          "1": 8,
+          "2": 4.0,
+          "3": 0,
+          "4": 8
+        }
+      },
+      "Cam Ward_TEN": {
+        "name": "Cam Ward",
+        "position": "",
+        "jersey": "1",
+        "team": "TEN",
+        "stats": {
+          "0": "2/7",
+          "1": 42,
+          "2": 6.0,
+          "3": 0,
+          "4": 0,
+          "5": "0-0",
+          "6": 52.1
+        }
+      },
+      "Trevor Siemian_TEN": {
+        "name": "Trevor Siemian",
+        "position": "",
+        "jersey": "15",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": -1,
+          "2": -1.0,
+          "3": 0,
+          "4": -1
+        }
+      },
+      "Jordan Mims_TEN": {
+        "name": "Jordan Mims",
+        "position": "",
+        "jersey": "24O",
+        "team": "TEN",
+        "stats": {
+          "0": 2,
+          "1": 12,
+          "2": 6.0,
+          "3": 0,
+          "4": 11,
+          "5": 2
+        }
+      },
+      "Kalel Mullings_TEN": {
+        "name": "Kalel Mullings",
+        "position": "",
+        "jersey": "28O",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jermar Jefferson_TEN": {
+        "name": "Jermar Jefferson",
+        "position": "",
+        "jersey": "32O",
+        "team": "TEN",
+        "stats": {
+          "0": 4,
+          "1": 18,
+          "2": 4.5,
+          "3": 1,
+          "4": 16
+        }
+      },
+      "Julius Chestnut_TEN": {
+        "name": "Julius Chestnut",
+        "position": "",
+        "jersey": "36O",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 7,
+          "2": 7.0,
+          "3": 0,
+          "4": 7,
+          "5": 1
+        }
+      },
+      "Elic Ayomanor_TEN": {
+        "name": "Elic Ayomanor",
+        "position": "",
+        "jersey": "5",
+        "team": "TEN",
+        "stats": {
+          "0": 2,
+          "1": 47,
+          "2": 23.5,
+          "3": 0,
+          "4": 35,
+          "5": 4
+        }
+      },
+      "Gunnar Helm_TEN": {
+        "name": "Gunnar Helm",
+        "position": "",
+        "jersey": "84",
+        "team": "TEN",
+        "stats": {
+          "0": 4,
+          "1": 48,
+          "2": 12.0,
+          "3": 1,
+          "4": 25,
+          "5": 4
+        }
+      },
+      "James Proche II_TEN": {
+        "name": "James Proche II",
+        "position": "",
+        "jersey": "13",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 11,
+          "2": 11.0,
+          "3": 11,
+          "4": 0
+        }
+      },
+      "Xavier Restrepo_TEN": {
+        "name": "Xavier Restrepo",
+        "position": "",
+        "jersey": "87",
+        "team": "TEN",
+        "stats": {
+          "0": 2,
+          "1": 18,
+          "2": 9.0,
+          "3": 0,
+          "4": 13,
+          "5": 2
+        }
+      },
+      "Josh Whyle_TEN": {
+        "name": "Josh Whyle",
+        "position": "",
+        "jersey": "81",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Mason Kinsey_TEN": {
+        "name": "Mason Kinsey",
+        "position": "",
+        "jersey": "12",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Bryce Oliver_TEN": {
+        "name": "Bryce Oliver",
+        "position": "",
+        "jersey": "80",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 7,
+          "2": 7.0,
+          "3": 0,
+          "4": 7,
+          "5": 1
+        }
+      },
+      "Van Jefferson_TEN": {
+        "name": "Van Jefferson",
+        "position": "",
+        "jersey": "11",
+        "team": "TEN",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 2
+        }
+      },
+      "David Martin-Robinson_TEN": {
+        "name": "David Martin-Robinson",
+        "position": "",
+        "jersey": "88",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Thomas Odukoya_TEN": {
+        "name": "Thomas Odukoya",
+        "position": "",
+        "jersey": "89",
+        "team": "TEN",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Jha'Quan Jackson_TEN": {
+        "name": "Jha'Quan Jackson",
+        "position": "",
+        "jersey": "19",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 5,
+          "2": 5.0,
+          "3": 5,
+          "4": 0
+        }
+      },
+      "Chimere Dike_TEN": {
+        "name": "Chimere Dike",
+        "position": "",
+        "jersey": "17",
+        "team": "TEN",
+        "stats": {
+          "0": 2,
+          "1": 43,
+          "2": 21.5,
+          "3": 22,
+          "4": 0
+        }
+      },
+      "TJ Sheffield_TEN": {
+        "name": "TJ Sheffield",
+        "position": "",
+        "jersey": "82",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 20,
+          "2": 20.0,
+          "3": 20,
+          "4": 0
+        }
+      },
+      "Cedric Gray_TEN": {
+        "name": "Cedric Gray",
+        "position": "",
+        "jersey": "51",
+        "team": "TEN",
+        "stats": {
+          "0": 7,
+          "1": 5,
+          "2": 0.5,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Amari Burney_TEN": {
+        "name": "Amari Burney",
+        "position": "",
+        "jersey": "58",
+        "team": "TEN",
+        "stats": {
+          "0": 6,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Amani Oruwariye_TEN": {
+        "name": "Amani Oruwariye",
+        "position": "",
+        "jersey": "31",
+        "team": "TEN",
+        "stats": {
+          "0": 5,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Gabe Jeudy-Lally_TEN": {
+        "name": "Gabe Jeudy-Lally",
+        "position": "",
+        "jersey": "32D",
+        "team": "TEN",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Marcus Harris_TEN": {
+        "name": "Marcus Harris",
+        "position": "",
+        "jersey": "26",
+        "team": "TEN",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jermari Harris_TEN": {
+        "name": "Jermari Harris",
+        "position": "",
+        "jersey": "30",
+        "team": "TEN",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "James Williams Sr._TEN": {
+        "name": "James Williams Sr.",
+        "position": "",
+        "jersey": "52",
+        "team": "TEN",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Carlos Watkins_TEN": {
+        "name": "Carlos Watkins",
+        "position": "",
+        "jersey": "96",
+        "team": "TEN",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0.5,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Mike Brown_TEN": {
+        "name": "Mike Brown",
+        "position": "",
+        "jersey": "44",
+        "team": "TEN",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Curtis Jacobs_TEN": {
+        "name": "Curtis Jacobs",
+        "position": "",
+        "jersey": "57",
+        "team": "TEN",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cody Barton_TEN": {
+        "name": "Cody Barton",
+        "position": "",
+        "jersey": "50",
+        "team": "TEN",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joshuah Bledsoe_TEN": {
+        "name": "Joshuah Bledsoe",
+        "position": "",
+        "jersey": "42",
+        "team": "TEN",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Desmond Evans_TEN": {
+        "name": "Desmond Evans",
+        "position": "",
+        "jersey": "56",
+        "team": "TEN",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Oluwafemi Oladejo_TEN": {
+        "name": "Oluwafemi Oladejo",
+        "position": "",
+        "jersey": "7",
+        "team": "TEN",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joe Gaziano_TEN": {
+        "name": "Joe Gaziano",
+        "position": "",
+        "jersey": "90",
+        "team": "TEN",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Arden Key_TEN": {
+        "name": "Arden Key",
+        "position": "",
+        "jersey": "49",
+        "team": "TEN",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "James Lynch_TEN": {
+        "name": "James Lynch",
+        "position": "",
+        "jersey": "97",
+        "team": "TEN",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jalen Kimber_TEN": {
+        "name": "Jalen Kimber",
+        "position": "",
+        "jersey": "35",
+        "team": "TEN",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Blake Lynch_TEN": {
+        "name": "Blake Lynch",
+        "position": "",
+        "jersey": "54",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Julius Wood_TEN": {
+        "name": "Julius Wood",
+        "position": "",
+        "jersey": "24D",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Xavier Woods_TEN": {
+        "name": "Xavier Woods",
+        "position": "",
+        "jersey": "25",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ali Gaye_TEN": {
+        "name": "Ali Gaye",
+        "position": "",
+        "jersey": "99",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Clarence Lewis_TEN": {
+        "name": "Clarence Lewis",
+        "position": "",
+        "jersey": "36D",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kendell Brooks_TEN": {
+        "name": "Kendell Brooks",
+        "position": "",
+        "jersey": "33",
+        "team": "TEN",
+        "stats": {
+          "0": 1,
+          "1": 53,
+          "2": 1
+        }
+      },
+      "Cam Horsley_TEN": {
+        "name": "Cam Horsley",
+        "position": "",
+        "jersey": "72D",
+        "team": "TEN",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Joey Slye_TEN": {
+        "name": "Joey Slye",
+        "position": "",
+        "jersey": "6",
+        "team": "TEN",
+        "stats": {
+          "0": "1/1",
+          "1": 100.0,
+          "2": 23,
+          "3": "2/3",
+          "4": 5
+        }
+      },
+      "Johnny Hekker_TEN": {
+        "name": "Johnny Hekker",
+        "position": "",
+        "jersey": "3",
+        "team": "TEN",
+        "stats": {
+          "0": 6,
+          "1": 286,
+          "2": 47.7,
+          "3": 0,
+          "4": 1,
+          "5": 53
+        }
+      },
+      "Easton Stick_ATL": {
+        "name": "Easton Stick",
+        "position": "",
+        "jersey": "12",
+        "team": "ATL",
+        "stats": {
+          "0": 2,
+          "1": 14,
+          "2": 7.0,
+          "3": 0,
+          "4": 12
+        }
+      },
+      "Emory Jones_ATL": {
+        "name": "Emory Jones",
+        "position": "",
+        "jersey": "15",
+        "team": "ATL",
+        "stats": {
+          "0": 3,
+          "1": 10,
+          "2": 3.3,
+          "3": 0,
+          "4": 6
+        }
+      },
+      "Nathan Carter_ATL": {
+        "name": "Nathan Carter",
+        "position": "",
+        "jersey": "38O",
+        "team": "ATL",
+        "stats": {
+          "0": 2,
+          "1": 9,
+          "2": 4.5,
+          "3": 0,
+          "4": 5,
+          "5": 2
+        }
+      },
+      "Dylan Drummond_ATL": {
+        "name": "Dylan Drummond",
+        "position": "",
+        "jersey": "81",
+        "team": "ATL",
+        "stats": {
+          "0": 2,
+          "1": 19,
+          "2": 9.5,
+          "3": 14,
+          "4": 0
+        }
+      },
+      "Jashaun Corbin_ATL": {
+        "name": "Jashaun Corbin",
+        "position": "",
+        "jersey": "30O",
+        "team": "ATL",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nick Nash_ATL": {
+        "name": "Nick Nash",
+        "position": "",
+        "jersey": "80",
+        "team": "ATL",
+        "stats": {
+          "0": 3,
+          "1": 14,
+          "2": 4.7,
+          "3": 0,
+          "4": 10,
+          "5": 7
+        }
+      },
+      "Elijah Dotson_ATL": {
+        "name": "Elijah Dotson",
+        "position": "",
+        "jersey": "41O",
+        "team": "ATL",
+        "stats": {
+          "0": 1,
+          "1": 6,
+          "2": 6.0,
+          "3": 0,
+          "4": 6,
+          "5": 1
+        }
+      },
+      "Chris Blair_ATL": {
+        "name": "Chris Blair",
+        "position": "",
+        "jersey": "19",
+        "team": "ATL",
+        "stats": {
+          "0": 3,
+          "1": 78,
+          "2": 26.0,
+          "3": 1,
+          "4": 52,
+          "5": 5
+        }
+      },
+      "Quincy Skinner Jr._ATL": {
+        "name": "Quincy Skinner Jr.",
+        "position": "",
+        "jersey": "83",
+        "team": "ATL",
+        "stats": {
+          "0": 2,
+          "1": 15,
+          "2": 7.5,
+          "3": 0,
+          "4": 10,
+          "5": 3
+        }
+      },
+      "David Sills V_ATL": {
+        "name": "David Sills V",
+        "position": "",
+        "jersey": "87",
+        "team": "ATL",
+        "stats": {
+          "0": 2,
+          "1": 13,
+          "2": 6.5,
+          "3": 0,
+          "4": 7,
+          "5": 2
+        }
+      },
+      "Jesse Matthews_ATL": {
+        "name": "Jesse Matthews",
+        "position": "",
+        "jersey": "86",
+        "team": "ATL",
+        "stats": {
+          "0": 2,
+          "1": 12,
+          "2": 6.0,
+          "3": 0,
+          "4": 6,
+          "5": 4
+        }
+      },
+      "DJ Chark_ATL": {
+        "name": "DJ Chark",
+        "position": "",
+        "jersey": "16",
+        "team": "ATL",
+        "stats": {
+          "0": 1,
+          "1": 11,
+          "2": 11.0,
+          "3": 0,
+          "4": 11,
+          "5": 3
+        }
+      },
+      "Feleipe Franks_ATL": {
+        "name": "Feleipe Franks",
+        "position": "",
+        "jersey": "84",
+        "team": "ATL",
+        "stats": {
+          "0": 1,
+          "1": 9,
+          "2": 9.0,
+          "3": 0,
+          "4": 9,
+          "5": 1
+        }
+      },
+      "Joshua Simon_ATL": {
+        "name": "Joshua Simon",
+        "position": "",
+        "jersey": "47",
+        "team": "ATL",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Teagan Quitoriano_ATL": {
+        "name": "Teagan Quitoriano",
+        "position": "",
+        "jersey": "85",
+        "team": "ATL",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Lamar Jackson_ATL": {
+        "name": "Lamar Jackson",
+        "position": "",
+        "jersey": "38D",
+        "team": "ATL",
+        "stats": {
+          "0": 8,
+          "1": 6,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Caleb Johnson_ATL": {
+        "name": "Caleb Johnson",
+        "position": "",
+        "jersey": "53",
+        "team": "ATL",
+        "stats": {
+          "0": 7,
+          "1": 4,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Josh Thompson_ATL": {
+        "name": "Josh Thompson",
+        "position": "",
+        "jersey": "45",
+        "team": "ATL",
+        "stats": {
+          "0": 5,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ronnie Harrison Jr._ATL": {
+        "name": "Ronnie Harrison Jr.",
+        "position": "",
+        "jersey": "36D",
+        "team": "ATL",
+        "stats": {
+          "0": 5,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Xavier Watts_ATL": {
+        "name": "Xavier Watts",
+        "position": "",
+        "jersey": "31",
+        "team": "ATL",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "James Pearce Jr._ATL": {
+        "name": "James Pearce Jr.",
+        "position": "",
+        "jersey": "27",
+        "team": "ATL",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "DeAngelo Malone_ATL": {
+        "name": "DeAngelo Malone",
+        "position": "",
+        "jersey": "51",
+        "team": "ATL",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Jordan Fuller_ATL": {
+        "name": "Jordan Fuller",
+        "position": "",
+        "jersey": "29",
+        "team": "ATL",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Brandon Dorlus_ATL": {
+        "name": "Brandon Dorlus",
+        "position": "",
+        "jersey": "54",
+        "team": "ATL",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nick Kubitz_ATL": {
+        "name": "Nick Kubitz",
+        "position": "",
+        "jersey": "59",
+        "team": "ATL",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "JD Bertrand_ATL": {
+        "name": "JD Bertrand",
+        "position": "",
+        "jersey": "40",
+        "team": "ATL",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Dontae Manning_ATL": {
+        "name": "Dontae Manning",
+        "position": "",
+        "jersey": "41D",
+        "team": "ATL",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Mike Ford Jr._ATL": {
+        "name": "Mike Ford Jr.",
+        "position": "",
+        "jersey": "28",
+        "team": "ATL",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Morgan Fox_ATL": {
+        "name": "Morgan Fox",
+        "position": "",
+        "jersey": "99",
+        "team": "ATL",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "LaCale London_ATL": {
+        "name": "LaCale London",
+        "position": "",
+        "jersey": "94",
+        "team": "ATL",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Zach Harrison_ATL": {
+        "name": "Zach Harrison",
+        "position": "",
+        "jersey": "96",
+        "team": "ATL",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Billy Bowman Jr._ATL": {
+        "name": "Billy Bowman Jr.",
+        "position": "",
+        "jersey": "33",
+        "team": "ATL",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kentavius Street_ATL": {
+        "name": "Kentavius Street",
+        "position": "",
+        "jersey": "93",
+        "team": "ATL",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Henry Black_ATL": {
+        "name": "Henry Black",
+        "position": "",
+        "jersey": "32",
+        "team": "ATL",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Bralen Trice_ATL": {
+        "name": "Bralen Trice",
+        "position": "",
+        "jersey": "48",
+        "team": "ATL",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Simeon Barrow Jr._ATL": {
+        "name": "Simeon Barrow Jr.",
+        "position": "",
+        "jersey": "91",
+        "team": "ATL",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Natrone Brooks_ATL": {
+        "name": "Natrone Brooks",
+        "position": "",
+        "jersey": "35",
+        "team": "ATL",
+        "stats": {
+          "0": 2,
+          "1": 52,
+          "2": 26.0,
+          "3": 29,
+          "4": 0
+        }
+      },
+      "Dee Alford_ATL": {
+        "name": "Dee Alford",
+        "position": "",
+        "jersey": "20",
+        "team": "ATL",
+        "stats": {
+          "0": 2,
+          "1": 9,
+          "2": 4.5,
+          "3": 9,
+          "4": 0
+        }
+      },
+      "Younghoe Koo_ATL": {
+        "name": "Younghoe Koo",
+        "position": "",
+        "jersey": "6",
+        "team": "ATL",
+        "stats": {
+          "0": "2/2",
+          "1": 100.0,
+          "2": 42,
+          "3": "2/2",
+          "4": 8
+        }
+      },
+      "Bradley Pinion_ATL": {
+        "name": "Bradley Pinion",
+        "position": "",
+        "jersey": "13",
+        "team": "ATL",
+        "stats": {
+          "0": 6,
+          "1": 291,
+          "2": 48.5,
+          "3": 0,
+          "4": 3,
+          "5": 55
+        }
+      }
+    },
+    "scoring_summary": []
+  },
+  "play_by_play": {
+    "game_info": {
+      "game_id": "401773017",
+      "teams": [
+        {
+          "abbreviation": "ATL",
+          "name": "Atlanta Falcons",
+          "score": 20,
+          "home_away": "home"
+        },
+        {
+          "abbreviation": "TEN",
+          "name": "Tennessee Titans",
+          "score": 23,
+          "home_away": "away"
+        }
+      ],
+      "final_score": {}
+    },
+    "drives": [
+      {
+        "id": "4017730171",
+        "team": "ATL",
+        "plays_count": 12,
+        "result": "PUNT",
+        "yards": 15
+      },
+      {
+        "id": "4017730172",
+        "team": "TEN",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": 36
+      },
+      {
+        "id": "4017730173",
+        "team": "ATL",
+        "plays_count": 9,
+        "result": "INT TD",
+        "yards": 36
+      },
+      {
+        "id": "4017730174",
+        "team": "ATL",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 7
+      },
+      {
+        "id": "4017730175",
+        "team": "TEN",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": -3
+      },
+      {
+        "id": "4017730176",
+        "team": "ATL",
+        "plays_count": 7,
+        "result": "PUNT",
+        "yards": -11
+      },
+      {
+        "id": "4017730177",
+        "team": "TEN",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 7
+      },
+      {
+        "id": "4017730178",
+        "team": "ATL",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": 5
+      },
+      {
+        "id": "4017730179",
+        "team": "TEN",
+        "plays_count": 8,
+        "result": "INT",
+        "yards": 27
+      },
+      {
+        "id": "40177301710",
+        "team": "ATL",
+        "plays_count": 7,
+        "result": "FG",
+        "yards": 3
+      },
+      {
+        "id": "40177301711",
+        "team": "TEN",
+        "plays_count": 11,
+        "result": "TD",
+        "yards": 80
+      },
+      {
+        "id": "40177301712",
+        "team": "ATL",
+        "plays_count": 7,
+        "result": "PUNT",
+        "yards": 9
+      },
+      {
+        "id": "40177301713",
+        "team": "TEN",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 8
+      },
+      {
+        "id": "40177301714",
+        "team": "ATL",
+        "plays_count": 6,
+        "result": "TD",
+        "yards": 60
+      },
+      {
+        "id": "40177301715",
+        "team": "TEN",
+        "plays_count": 1,
+        "result": "FUMBLE",
+        "yards": 0
+      },
+      {
+        "id": "40177301716",
+        "team": "ATL",
+        "plays_count": 5,
+        "result": "FG",
+        "yards": 4
+      },
+      {
+        "id": "40177301717",
+        "team": "TEN",
+        "plays_count": 16,
+        "result": "TD",
+        "yards": 87
+      },
+      {
+        "id": "40177301718",
+        "team": "ATL",
+        "plays_count": 6,
+        "result": "TD",
+        "yards": 65
+      },
+      {
+        "id": "40177301719",
+        "team": "TEN",
+        "plays_count": 15,
+        "result": "FG",
+        "yards": 56
+      },
+      {
+        "id": "40177301720",
+        "team": "ATL",
+        "plays_count": 7,
+        "result": "PUNT",
+        "yards": 5
+      },
+      {
+        "id": "40177301721",
+        "team": "TEN",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": -1
+      },
+      {
+        "id": "40177301722",
+        "team": "ATL",
+        "plays_count": 11,
+        "result": "DOWNS",
+        "yards": 41
+      },
+      {
+        "id": "40177301723",
+        "team": "TEN",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 5
+      },
+      {
+        "id": "40177301724",
+        "team": "ATL",
+        "plays_count": 8,
+        "result": "DOWNS",
+        "yards": 20
+      },
+      {
+        "id": "40177301725",
+        "team": "TEN",
+        "plays_count": 2,
+        "result": "END OF GAME",
+        "yards": -1
+      }
+    ],
+    "plays": [
+      {
+        "id": "40177301738",
+        "text": "J.Slye kicks 64 yards from TEN 35 to ATL 1. N.Brooks to ATL 24 for 23 yards (M.Kinsey).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177301761",
+        "text": "(Shotgun) N.Carter left tackle to ATL 27 for 3 yards (C.Barton).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 24,
+        "period": 1,
+        "clock": "14:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177301783",
+        "text": "E.Stick pass short right to D.Sills pushed ob at ATL 33 for 6 yards (F.Oladejo).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 27,
+        "period": 1,
+        "clock": "14:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017113",
+        "text": "E.Stick up the middle to ATL 35 for 2 yards (C.Gray).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 33,
+        "period": 1,
+        "clock": "13:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017135",
+        "text": "(Shotgun) E.Stick pass short left to D.Drummond to ATL 37 for 2 yards (C.Barton, X.Woods).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "13:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017160",
+        "text": "(Shotgun) N.Carter right guard to ATL 38 for 1 yard (J.Lynch).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 37,
+        "period": 1,
+        "clock": "12:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017182",
+        "text": "(Shotgun) E.Stick pass short right to D.Sills ran ob at ATL 45 for 7 yards.",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 38,
+        "period": 1,
+        "clock": "11:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017212",
+        "text": "N.Carter right tackle to ATL 47 for 2 yards (A.Key; C.Watkins).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 1,
+        "clock": "11:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017234",
+        "text": "(Shotgun) E.Stick sacked at ATL 40 for -7 yards (sack split by C.Gray and C.Watkins).",
+        "type": "Sack",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 47,
+        "period": 1,
+        "clock": "10:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017254",
+        "text": "(Shotgun) E.Stick pass short left to N.Nash to ATL 39 for -1 yards (A.Key).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 15,
+        "yard_line": 40,
+        "period": 1,
+        "clock": "9:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017279",
+        "text": "B.Pinion punts 55 yards to TEN 6, Center-L.McCullough, downed by ATL-X.Watts.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 16,
+        "yard_line": 39,
+        "period": 1,
+        "clock": "9:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017289",
+        "text": "Official Timeout at 09:00.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 94,
+        "period": 1,
+        "clock": "9:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017299",
+        "text": "J.Chestnut left tackle to TEN 10 for 4 yards (J.Fuller).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 94,
+        "period": 1,
+        "clock": "9:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017328",
+        "text": "(Shotgun) C.Ward pass short right to E.Ayomanor pushed ob at TEN 45 for 35 yards (X.Watts).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 90,
+        "period": 1,
+        "clock": "8:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017358",
+        "text": "K.Mullings left end to ATL 48 for 7 yards (X.Watts).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 55,
+        "period": 1,
+        "clock": "7:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017380",
+        "text": "C.Ward pass incomplete deep right to V.Jefferson.PENALTY on TEN-K.Mullings, Offensive Holding, 10 yards, enforced at ATL 48 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 48,
+        "period": 1,
+        "clock": "7:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017414",
+        "text": "(Shotgun) C.Ward pass incomplete deep right to V.Jefferson.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 58,
+        "period": 1,
+        "clock": "7:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017437",
+        "text": "(Shotgun) C.Ward pass incomplete short right to C.Dike.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 13,
+        "yard_line": 58,
+        "period": 1,
+        "clock": "6:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017460",
+        "text": "J.Hekker punts 53 yards to ATL 5, Center-M.Cox. D.Alford to ATL 14 for 9 yards (M.Brown; J.Whyle).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 13,
+        "yard_line": 58,
+        "period": 1,
+        "clock": "6:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017473",
+        "text": "Official Timeout at 06:39.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 14,
+        "period": 1,
+        "clock": "6:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017486",
+        "text": "N.Carter left end to ATL 15 for 1 yard (M.Harris).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 14,
+        "period": 1,
+        "clock": "6:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017515",
+        "text": "(No Huddle, Shotgun) E.Stick pass short middle to N.Nash to ATL 25 for 10 yards (C.Gray; K.Brooks).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 15,
+        "period": 1,
+        "clock": "6:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017540",
+        "text": "D.Drummond right end to ATL 37 for 12 yards (C.Gray).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 1,
+        "clock": "5:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017562",
+        "text": "N.Carter left tackle to ATL 45 for 8 yards (M.Brown).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 37,
+        "period": 1,
+        "clock": "4:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017584",
+        "text": "(No Huddle) N.Carter right guard to ATL 46 for 1 yard (G.Jeudy-Lally).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 45,
+        "period": 1,
+        "clock": "4:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017606",
+        "text": "(Shotgun) E.Stick pass short right to N.Carter to TEN 49 for 5 yards (J.Williams).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 46,
+        "period": 1,
+        "clock": "3:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017631",
+        "text": "(Shotgun) J.Corbin left end to 50 for -1 yards (F.Oladejo, G.Jeudy-Lally).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 51,
+        "period": 1,
+        "clock": "3:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017653",
+        "text": "(Shotgun) E.Stick pass short left intended for N.Nash INTERCEPTED by K.Brooks at TEN 47. K.Brooks for 53 yards, TOUCHDOWN. J.Slye extra point is No Good, Wide Left, Center-M.Cox, Holder-J.Hekker.",
+        "type": "Interception Return Touchdown",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 50,
+        "period": 1,
+        "clock": "2:29",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773017689",
+        "text": "Official Timeout at 02:29.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "2:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017696",
+        "text": "J.Slye kicks 65 yards from TEN 35 to end zone, Touchback to the ATL 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "2:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017720",
+        "text": "E.Stick pass short right to D.Drummond to ATL 40 for 5 yards (A.Oruwariye).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "2:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017745",
+        "text": "E.Dotson left tackle to ATL 42 for 2 yards (C.Gray).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 40,
+        "period": 1,
+        "clock": "1:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017767",
+        "text": "(Shotgun) E.Stick pass incomplete deep right to D.Drummond.Penalty on ATL-D.Drummond, Offensive Pass Interference, declined.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 42,
+        "period": 1,
+        "clock": "1:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017801",
+        "text": "B.Pinion punts 47 yards to TEN 11, Center-L.McCullough, fair catch by J.Jackson.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 42,
+        "period": 1,
+        "clock": "1:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017811",
+        "text": "Official Timeout at 00:59.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 89,
+        "period": 1,
+        "clock": "0:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017821",
+        "text": "(Shotgun) J.Chestnut right guard to TEN 11 for no gain (J.Bertrand). TEN-D.Moore was injured during the play.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 89,
+        "period": 1,
+        "clock": "0:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017850",
+        "text": "(Shotgun) E.Ayomanor left end pushed ob at TEN 13 for 2 yards (J.Bertrand).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 89,
+        "period": 1,
+        "clock": "0:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017883",
+        "text": "END QUARTER 1",
+        "type": "End Period",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 87,
+        "period": 1,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017903",
+        "text": "(Shotgun) ** Injury Update: TEN-D.Moore has returned to the game.  PENALTY on TEN-J.Latham, False Start, 5 yards, enforced at TEN 13 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 87,
+        "period": 2,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017927",
+        "text": "(Shotgun) C.Ward pass incomplete short middle to C.Dike.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 13,
+        "yard_line": 92,
+        "period": 2,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017950",
+        "text": "J.Hekker punts 52 yards to ATL 40, Center-M.Cox. D.Alford ran ob at TEN 48 for 12 yards (A.Burney).PENALTY on ATL-N.Brooks, Offensive Holding, 10 yards, enforced at ATL 40.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 13,
+        "yard_line": 92,
+        "period": 2,
+        "clock": "14:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773017995",
+        "text": "PENALTY on ATL-K.Hinton, False Start, 5 yards, enforced at ATL 30 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 2,
+        "clock": "14:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171019",
+        "text": "E.Dotson right tackle to ATL 24 for -1 yards (J.Williams, J.Lynch).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 25,
+        "period": 2,
+        "clock": "14:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171041",
+        "text": "(Shotgun) E.Stick pass incomplete deep right to J.Simon.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 16,
+        "yard_line": 24,
+        "period": 2,
+        "clock": "14:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171064",
+        "text": "(Shotgun) PENALTY on ATL-E.Wilkinson, False Start, 5 yards, enforced at ATL 24 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 16,
+        "yard_line": 24,
+        "period": 2,
+        "clock": "14:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171088",
+        "text": "(Shotgun) E.Stick pass incomplete deep right to C.Blair (M.Harris).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 21,
+        "yard_line": 19,
+        "period": 2,
+        "clock": "14:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171111",
+        "text": "B.Pinion punts 50 yards to TEN 31, Center-L.McCullough, downed by ATL-L.McCullough.PENALTY on TEN-C.Jacobs, Offensive Holding, 10 yards, enforced at TEN 31.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 21,
+        "yard_line": 19,
+        "period": 2,
+        "clock": "13:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171128",
+        "text": "Official Timeout at 13:42.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 2,
+        "clock": "13:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171145",
+        "text": "C.Ward pass incomplete short left to E.Ayomanor.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 2,
+        "clock": "13:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171192",
+        "text": "(Shotgun) C.Ward pass short right to B.Oliver to TEN 28 for 7 yards (J.Fuller).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 2,
+        "clock": "13:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171217",
+        "text": "(Shotgun) C.Ward pass incomplete deep left to E.Ayomanor.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 72,
+        "period": 2,
+        "clock": "12:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171240",
+        "text": "J.Hekker punts 43 yards to ATL 29, Center-M.Cox, fair catch by D.Drummond.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 72,
+        "period": 2,
+        "clock": "12:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171250",
+        "text": "Official Timeout at 12:41.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 29,
+        "period": 2,
+        "clock": "12:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171260",
+        "text": "(Shotgun) N.Carter right guard to TEN 47 for 24 yards (A.Oruwariye).PENALTY on ATL-D.Drummond, Offensive Holding, 10 yards, enforced at ATL 33.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 29,
+        "period": 2,
+        "clock": "12:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171300",
+        "text": "(Shotgun) E.Stick pass short right to N.Carter to ATL 27 for 4 yards (G.Jeudy-Lally).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 16,
+        "yard_line": 23,
+        "period": 2,
+        "clock": "12:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171325",
+        "text": "(No Huddle, Shotgun) E.Stick pass incomplete deep left to C.Blair (A.Oruwariye).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 12,
+        "yard_line": 27,
+        "period": 2,
+        "clock": "11:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171348",
+        "text": "(Shotgun) PENALTY on ATL-J.Nelson, False Start, 5 yards, enforced at ATL 27 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 12,
+        "yard_line": 27,
+        "period": 2,
+        "clock": "11:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171372",
+        "text": "(Shotgun) E.Stick pass deep right intended for N.Nash INTERCEPTED by C.Gray at ATL 42. C.Gray pushed ob at ATL 36 for 6 yards (N.Carter).Penalty on ATL-J.Gray, Ineligible Downfield Pass, offsetting, enforced at ATL 22 - No Play.Penalty on TEN-A.Oruwariye, Defensive Holding, offsetting.",
+        "type": "Pass Interception Return",
+        "down": 3,
+        "distance": 17,
+        "yard_line": 22,
+        "period": 2,
+        "clock": "11:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171415",
+        "text": "(Shotgun) E.Stick pass short right to C.Blair to ATL 34 for 12 yards (M.Harris; M.Brown).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 17,
+        "yard_line": 22,
+        "period": 2,
+        "clock": "11:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171440",
+        "text": "B.Pinion punts 55 yards to TEN 11, Center-L.McCullough. J.Jackson to TEN 16 for 5 yards (J.Thompson).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 34,
+        "period": 2,
+        "clock": "10:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171453",
+        "text": "Official Timeout at 10:40.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 84,
+        "period": 2,
+        "clock": "10:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171466",
+        "text": "B.Allen pass incomplete short right to D.Martin-Robinson.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 84,
+        "period": 2,
+        "clock": "10:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171496",
+        "text": "K.Mullings left end to TEN 20 for 4 yards (C.Johnson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 84,
+        "period": 2,
+        "clock": "10:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171518",
+        "text": "(Shotgun) B.Allen pass short right to E.Ayomanor to TEN 32 for 12 yards (L.Jackson).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 80,
+        "period": 2,
+        "clock": "9:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171543",
+        "text": "K.Mullings right tackle to TEN 31 for -1 yards (M.Fox, B.Trice).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 68,
+        "period": 2,
+        "clock": "9:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171565",
+        "text": "(Shotgun) B.Allen pass short right to G.Helm to TEN 41 for 10 yards (R.Harrison; L.Jackson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 69,
+        "period": 2,
+        "clock": "8:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171595",
+        "text": "B.Allen left guard to TEN 41 for no gain (J.Pearce).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 59,
+        "period": 2,
+        "clock": "7:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171617",
+        "text": "K.Mullings up the middle to TEN 43 for 2 yards (Z.Harrison).",
+        "type": "Rush",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 59,
+        "period": 2,
+        "clock": "6:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171666",
+        "text": "B.Allen pass deep left intended for V.Jefferson INTERCEPTED by N.Brooks at ATL 40. N.Brooks to TEN 27 for 33 yards (K.Mullings).",
+        "type": "Pass Interception Return",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 57,
+        "period": 2,
+        "clock": "5:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171693",
+        "text": "(Shotgun) E.Stick scrambles right end ran ob at TEN 20 for 7 yards (C.Gray).PENALTY on ATL-J.Nelson, Offensive Holding, 10 yards, enforced at TEN 27 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 73,
+        "period": 2,
+        "clock": "5:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171726",
+        "text": "(Shotgun) PENALTY on ATL-E.Wilkinson, False Start, 5 yards, enforced at TEN 37 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 20,
+        "yard_line": 63,
+        "period": 2,
+        "clock": "4:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171750",
+        "text": "(Shotgun) E.Stick pass short right to N.Nash to TEN 37 for 5 yards (C.Watkins).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 25,
+        "yard_line": 58,
+        "period": 2,
+        "clock": "4:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171775",
+        "text": "(Shotgun) J.Corbin right tackle to TEN 38 for -1 yards (C.Gray).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 20,
+        "yard_line": 63,
+        "period": 2,
+        "clock": "3:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171797",
+        "text": "(Shotgun) E.Stick pass short right to C.Blair to TEN 24 for 14 yards (M.Harris). TEN-K.Brooks was injured during the play.",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 21,
+        "yard_line": 62,
+        "period": 2,
+        "clock": "3:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171822",
+        "text": "Y.Koo 42 yard field goal is GOOD, Center-L.McCullough, Holder-B.Pinion.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 7,
+        "yard_line": 76,
+        "period": 2,
+        "clock": "2:30",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730171834",
+        "text": "Official Timeout at 02:30.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "2:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171845",
+        "text": "L.Krieg kicks 65 yards from ATL 35 to landing zone to end zone, Touchback to the TEN 20.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "2:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171869",
+        "text": "(Shotgun) J.Chestnut right guard to TEN 24 for 4 yards (R.Harrison; C.Johnson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 2,
+        "clock": "2:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171880",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 76,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171891",
+        "text": "(Shotgun) B.Allen pass short right to G.Helm to TEN 28 for 4 yards (J.Fuller).The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 76,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171923",
+        "text": "(Shotgun) B.Allen pass short right to J.Chestnut ran ob at TEN 35 for 7 yards (L.Jackson).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 72,
+        "period": 2,
+        "clock": "1:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730171983",
+        "text": "(Shotgun) B.Allen pass short right to J.Proche to TEN 46 for 11 yards (L.Jackson).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "1:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172013",
+        "text": "(No Huddle, Shotgun) B.Allen pass short right to J.Proche ran ob at ATL 42 for 12 yards.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 2,
+        "clock": "0:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172038",
+        "text": "(Shotgun) B.Allen pass short right to G.Helm pushed ob at ATL 33 for 9 yards (R.Harrison).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 42,
+        "period": 2,
+        "clock": "0:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172068",
+        "text": "(Shotgun) J.Chestnut right guard to ATL 25 for 8 yards (C.Johnson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 33,
+        "period": 2,
+        "clock": "0:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172079",
+        "text": "Timeout #1 by TEN at 00:43.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 2,
+        "clock": "0:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172090",
+        "text": "(Shotgun) B.Allen pass deep right to G.Helm for 25 yards, TOUCHDOWN. J.Slye extra point is GOOD, Center-M.Cox, Holder-J.Hekker.",
+        "type": "Passing Touchdown",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 2,
+        "clock": "0:38",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730172138",
+        "text": "J.Slye kicks 63 yards from TEN 35 to ATL 2. N.Brooks to ATL 31 for 29 yards (G.Jeudy-Lally).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "0:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172166",
+        "text": "(Shotgun) E.Stick pass incomplete deep right to D.Drummond (M.Harris). ** Injury Update: TEN-K.Brooks has returned to the game.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 31,
+        "period": 2,
+        "clock": "0:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172189",
+        "text": "(Shotgun) E.Stick pass short left to F.Franks to ATL 40 for 9 yards (C.Gray).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 31,
+        "period": 2,
+        "clock": "0:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172203",
+        "text": "Timeout #1 by ATL at 00:18.",
+        "type": "Timeout",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 40,
+        "period": 2,
+        "clock": "0:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172217",
+        "text": "(Shotgun) E.Stick pass incomplete deep right to N.Nash.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 40,
+        "period": 2,
+        "clock": "0:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172247",
+        "text": "B.Pinion punts 48 yards to TEN 12, Center-L.McCullough. J.Proche to TEN 23 for 11 yards (J.Thompson).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 40,
+        "period": 2,
+        "clock": "0:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172273",
+        "text": "END QUARTER 2",
+        "type": "End of Half",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172293",
+        "text": "L.Krieg kicks 64 yards from ATL 35 to TEN 1. C.Dike to TEN 30 for 29 yards (J.Corbin).PENALTY on TEN-J.Chestnut, Offensive Holding, 10 yards, enforced at TEN 23.Penalty on TEN-M.Kinsey, Offensive Holding, declined.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172332",
+        "text": "K.Mullings right guard to TEN 17 for 4 yards (R.Harrison; D.Malone).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 87,
+        "period": 3,
+        "clock": "14:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172354",
+        "text": "(Shotgun) K.Mullings right end to TEN 21 for 4 yards (L.Jackson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 83,
+        "period": 3,
+        "clock": "14:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172376",
+        "text": "(Shotgun) B.Allen pass incomplete short middle to J.Proche.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 79,
+        "period": 3,
+        "clock": "13:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172399",
+        "text": "J.Hekker punts 39 yards to ATL 40, Center-M.Cox, out of bounds.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 79,
+        "period": 3,
+        "clock": "13:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172418",
+        "text": "N.Nash left end to ATL 46 for 6 yards (A.Oruwariye; J.Williams).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 40,
+        "period": 3,
+        "clock": "13:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172440",
+        "text": "(No Huddle, Shotgun) E.Stick pass short right to D.Drummond to TEN 43 for 11 yards (M.Harris; A.Burney).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 46,
+        "period": 3,
+        "clock": "12:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172465",
+        "text": "(No Huddle, Shotgun) E.Stick pass incomplete deep right to D.Drummond.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 57,
+        "period": 3,
+        "clock": "12:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172488",
+        "text": "(Shotgun) E.Stick pass incomplete short left to N.Nash.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 57,
+        "period": 3,
+        "clock": "12:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172511",
+        "text": "(Shotgun) N.Carter right guard for 43 yards, TOUCHDOWN. Y.Koo extra point is GOOD, Center-L.McCullough, Holder-B.Pinion.",
+        "type": "Rushing Touchdown",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 57,
+        "period": 3,
+        "clock": "12:21",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730172542",
+        "text": "Official Timeout at 12:21.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "12:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172549",
+        "text": "L.Krieg kicks 62 yards from ATL 35 to TEN 3. T.Sheffield to TEN 23 for 20 yards (T.Quitoriano; X.Watts). FUMBLES (T.Quitoriano), RECOVERED by ATL-T.Quitoriano at TEN 25.Penalty on TEN-A.Burney, Offensive Holding, declined.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "12:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172607",
+        "text": "(Shotgun) E.Stick pass short left to D.Drummond to TEN 21 for 4 yards (A.Oruwariye).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 75,
+        "period": 3,
+        "clock": "12:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172632",
+        "text": "N.Carter left guard to TEN 21 for no gain (A.Oruwariye; J.Gaziano).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 79,
+        "period": 3,
+        "clock": "11:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172654",
+        "text": "(Shotgun) E.Stick pass incomplete deep right to N.Nash.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 79,
+        "period": 3,
+        "clock": "10:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172677",
+        "text": "Y.Koo 39 yard field goal is GOOD, Center-L.McCullough, Holder-B.Pinion.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 6,
+        "yard_line": 79,
+        "period": 3,
+        "clock": "10:49",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730172687",
+        "text": "Official Timeout at 10:49.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "10:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172697",
+        "text": "L.Krieg kicks 63 yards from ATL 35 to TEN 2. C.Dike to TEN 26 for 24 yards (X.Watts).PENALTY on TEN-D.Dabney, Illegal Block Above the Waist, 10 yards, enforced at TEN 23.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "10:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172738",
+        "text": "J.Mims right guard to TEN 16 for 3 yards (B.Dorlus).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 87,
+        "period": 3,
+        "clock": "10:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172760",
+        "text": "J.Mims left tackle to TEN 17 for 1 yard (B.Dorlus).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 84,
+        "period": 3,
+        "clock": "10:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172782",
+        "text": "(Shotgun) B.Allen pass incomplete short left to J.Jackson.PENALTY on ATL-L.Jackson, Defensive Pass Interference, 3 yards, enforced at TEN 17 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 83,
+        "period": 3,
+        "clock": "9:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172816",
+        "text": "B.Allen pass short left to J.Mims to TEN 31 for 11 yards (C.Johnson).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 3,
+        "clock": "9:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172841",
+        "text": "(Shotgun) B.Allen pass short left to X.Restrepo ran ob at TEN 36 for 5 yards (D.Manning).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 3,
+        "clock": "8:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172871",
+        "text": "(Shotgun) J.Mims right guard to TEN 42 for 6 yards (C.Johnson; D.Malone). ATL-H.Black was injured during the play.",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 64,
+        "period": 3,
+        "clock": "7:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172896",
+        "text": "(Shotgun) J.Mims right end pushed ob at ATL 49 for 9 yards (J.Thompson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 3,
+        "clock": "7:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172923",
+        "text": "J.Mims right end to ATL 43 for 6 yards (D.Malone).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 49,
+        "period": 3,
+        "clock": "6:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172945",
+        "text": "(Shotgun) J.Jefferson right tackle to ATL 44 for -1 yards (B.Dorlus).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 3,
+        "clock": "6:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172967",
+        "text": "(Shotgun) B.Allen scrambles right tackle to ATL 36 for 8 yards (B.Bowman).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 44,
+        "period": 3,
+        "clock": "5:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730172989",
+        "text": "(Shotgun) J.Mims right guard to ATL 32 for 4 yards (J.Pearce).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 36,
+        "period": 3,
+        "clock": "4:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173011",
+        "text": "(Shotgun) J.Mims right guard to ATL 29 for 3 yards (M.Fox; K.Street).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 32,
+        "period": 3,
+        "clock": "3:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173033",
+        "text": "(Shotgun) B.Allen pass short right to X.Restrepo pushed ob at ATL 16 for 13 yards (J.Thompson) [Z.Harrison].",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 29,
+        "period": 3,
+        "clock": "3:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173063",
+        "text": "J.Jefferson right guard for 16 yards, TOUCHDOWN. J.Slye extra point is GOOD, Center-M.Cox, Holder-J.Hekker.",
+        "type": "Rushing Touchdown",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 16,
+        "period": 3,
+        "clock": "2:35",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730173101",
+        "text": "Official Timeout at 02:35.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "2:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173108",
+        "text": "J.Slye kicks 65 yards from TEN 35 to end zone, Touchback to the ATL 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "2:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173125",
+        "text": "(Shotgun) E.Dotson right end to ATL 37 for 2 yards (D.Evans).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "2:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173147",
+        "text": "(Shotgun) E.Stick right end to ATL 49 for 12 yards (J.Bledsoe).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 37,
+        "period": 3,
+        "clock": "1:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173174",
+        "text": "(Shotgun) J.Corbin left guard to ATL 48 for -1 yards (D.Evans).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 49,
+        "period": 3,
+        "clock": "1:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173196",
+        "text": "(Shotgun) E.Stick pass deep left to C.Blair for 52 yards, TOUCHDOWN. Y.Koo extra point is GOOD, Center-L.McCullough, Holder-B.Pinion.",
+        "type": "Passing Touchdown",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 48,
+        "period": 3,
+        "clock": "0:34",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730173230",
+        "text": "Official Timeout at 00:34.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "0:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173237",
+        "text": "L.Krieg kicks 34 yards from ATL 35 to TEN 31, short of landing zone.PENALTY on ATL-L.Krieg, Kickoff Short of Landing Zone, placed at TEN 40.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "0:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173273",
+        "text": "J.Mims left end pushed ob at ATL 48 for 12 yards (J.Thompson; H.Black). ** Injury Update: ATL-H.Black has returned to the game.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 60,
+        "period": 3,
+        "clock": "0:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173300",
+        "text": "END QUARTER 3",
+        "type": "End Period",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 48,
+        "period": 3,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173320",
+        "text": "(Shotgun) J.Mims left end to ATL 45 for 3 yards (L.Jackson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 48,
+        "period": 4,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173345",
+        "text": "J.Mims right tackle to ATL 49 for -4 yards (L.London).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 45,
+        "period": 4,
+        "clock": "14:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173367",
+        "text": "(Shotgun) T.Siemian pass short left to J.Proche to ATL 37 for 12 yards (C.Johnson; M.Ford).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 11,
+        "yard_line": 49,
+        "period": 4,
+        "clock": "13:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173392",
+        "text": "J.Jefferson left guard to ATL 33 for 4 yards (D.Malone; L.Jackson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 37,
+        "period": 4,
+        "clock": "13:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173414",
+        "text": "(Shotgun) T.Siemian pass incomplete short left to T.Odukoya (H.Black).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 33,
+        "period": 4,
+        "clock": "12:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173437",
+        "text": "(Shotgun) T.Siemian pass short middle to M.Kinsey to ATL 23 for 10 yards (M.Ford).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 33,
+        "period": 4,
+        "clock": "12:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173462",
+        "text": "(Shotgun) T.Siemian pass short right to J.Whyle pushed ob at ATL 12 for 11 yards (J.Pearce).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 23,
+        "period": 4,
+        "clock": "11:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173492",
+        "text": "(Shotgun) J.Mims left guard to ATL 3 for 9 yards (L.Jackson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 12,
+        "period": 4,
+        "clock": "11:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173514",
+        "text": "J.Mims left end to ATL 5 for -2 yards (C.Johnson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 3,
+        "period": 4,
+        "clock": "10:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173536",
+        "text": "(Shotgun) T.Siemian pass short left to J.Mims to ATL 4 for 1 yard (R.Harrison).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 5,
+        "period": 4,
+        "clock": "9:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173561",
+        "text": "J.Slye 23 yard field goal is GOOD, Center-M.Cox, Holder-J.Hekker.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 4,
+        "period": 4,
+        "clock": "9:03",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730173571",
+        "text": "Official Timeout at 09:03.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "9:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173581",
+        "text": "J.Slye kicks 65 yards from TEN 35 to end zone, Touchback to the ATL 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "9:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173610",
+        "text": "(Shotgun) J.Corbin left tackle to ATL 38 for 3 yards (A.Burney).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "9:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173632",
+        "text": "(Shotgun) E.Jones right end to TEN 46 for 16 yards (J.Bledsoe).PENALTY on ATL-J.Williams, Offensive Holding, 10 yards, enforced at ATL 40.",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 38,
+        "period": 4,
+        "clock": "8:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173665",
+        "text": "(Shotgun) E.Jones pass short right to Q.Skinner to ATL 40 for 10 yards (C.Jacobs).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 15,
+        "yard_line": 30,
+        "period": 4,
+        "clock": "7:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173690",
+        "text": "(Shotgun) E.Jones pass incomplete deep right to D.Chark (C.Lewis).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "7:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173713",
+        "text": "B.Pinion punts 36 yards to TEN 24, Center-L.McCullough, fair catch by C.Dike.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "7:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173723",
+        "text": "Official Timeout at 07:00.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 76,
+        "period": 4,
+        "clock": "7:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173733",
+        "text": "J.Jefferson left end pushed ob at TEN 23 for -1 yards (N.Kubitz).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 76,
+        "period": 4,
+        "clock": "7:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173768",
+        "text": "(Shotgun) T.Siemian pass incomplete short left to J.Jackson (L.Jackson).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 77,
+        "period": 4,
+        "clock": "6:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173791",
+        "text": "(Shotgun) T.Siemian pass incomplete short left [D.Malone].",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 11,
+        "yard_line": 77,
+        "period": 4,
+        "clock": "6:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173814",
+        "text": "J.Hekker punts 51 yards to ATL 26, Center-M.Cox. D.Drummond to ATL 40 for 14 yards (D.Martin-Robinson).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 11,
+        "yard_line": 77,
+        "period": 4,
+        "clock": "6:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173827",
+        "text": "Official Timeout at 05:59.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "5:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173840",
+        "text": "(Shotgun) E.Jones pass incomplete deep left to Je.Matthews.PENALTY on TEN-D.Ross, Defensive Pass Interference, 20 yards, enforced at ATL 40 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "5:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173881",
+        "text": "E.Jones pass incomplete short left to Q.Skinner (J.Harris) [C.Horsley].",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 60,
+        "period": 4,
+        "clock": "5:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173904",
+        "text": "(Shotgun) E.Jones pass short right to Je.Matthews pushed ob at TEN 34 for 6 yards (J.Harris).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 60,
+        "period": 4,
+        "clock": "5:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173931",
+        "text": "(Shotgun) J.Corbin right guard to TEN 28 for 6 yards (J.Harris).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 66,
+        "period": 4,
+        "clock": "5:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173953",
+        "text": "(Shotgun) J.Corbin left end to TEN 27 for 1 yard (A.Gaye; C.Lewis).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 4,
+        "clock": "4:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173975",
+        "text": "(Shotgun) E.Jones scrambles left guard to TEN 21 for 6 yards (C.Jacobs; A.Burney).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 73,
+        "period": 4,
+        "clock": "3:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730173990",
+        "text": "Timeout #1 by ATL at 03:06.",
+        "type": "Timeout",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 79,
+        "period": 4,
+        "clock": "3:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174005",
+        "text": "(Shotgun) E.Jones pass incomplete deep right to D.Chark (J.Bledsoe) [J.Wood].",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 79,
+        "period": 4,
+        "clock": "3:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174020",
+        "text": "Timeout #2 by ATL at 03:02.",
+        "type": "Timeout",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 79,
+        "period": 4,
+        "clock": "3:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174028",
+        "text": "Timeout #1 by TEN at 03:02.",
+        "type": "Timeout",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 79,
+        "period": 4,
+        "clock": "3:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174035",
+        "text": "E.Jones scrambles right end to TEN 19 for 2 yards (A.Burney, J.Harris). ATL-E.Jones was injured during the play.",
+        "type": "Rush",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 79,
+        "period": 4,
+        "clock": "3:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174074",
+        "text": "K.Mullings right end to TEN 20 for no gain (D.Manning).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "2:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174096",
+        "text": "(Shotgun) K.Mullings right end to TEN 25 for 5 yards (J.Pearce; S.Barrow).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "2:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174107",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 75,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174118",
+        "text": "(Shotgun) T.Siemian sacked at TEN 25 for 0 yards (N.Kubitz).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 75,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174136",
+        "text": "Timeout #3 by ATL at 01:50.",
+        "type": "Timeout",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 75,
+        "period": 4,
+        "clock": "1:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174154",
+        "text": "J.Hekker punts 48 yards to ATL 27, Center-M.Cox. D.Drummond to ATL 32 for 5 yards (B.Lynch).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 75,
+        "period": 4,
+        "clock": "1:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174187",
+        "text": "(Shotgun) E.Stick pass short left to Q.Skinner to ATL 37 for 5 yards (J.Kimber).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 32,
+        "period": 4,
+        "clock": "1:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174212",
+        "text": "(No Huddle, Shotgun) E.Stick pass short left to Je.Matthews pushed ob at ATL 43 for 6 yards (J.Wood).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 37,
+        "period": 4,
+        "clock": "1:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174242",
+        "text": "(Shotgun) E.Stick pass short middle to E.Dotson to ATL 49 for 6 yards (A.Burney).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 4,
+        "clock": "1:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174267",
+        "text": "(No Huddle, Shotgun) E.Stick pass short left to D.Chark to TEN 40 for 11 yards (J.Kimber; C.Jacobs).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 49,
+        "period": 4,
+        "clock": "0:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174292",
+        "text": "(No Huddle) E.Stick spiked the ball to stop the clock.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 60,
+        "period": 4,
+        "clock": "0:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174315",
+        "text": "(Shotgun) E.Stick sacked at TEN 48 for -8 yards (J.Gaziano).",
+        "type": "Sack",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 60,
+        "period": 4,
+        "clock": "0:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174335",
+        "text": "(No Huddle, Shotgun) E.Stick pass incomplete short left to Je.Matthews.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 18,
+        "yard_line": 52,
+        "period": 4,
+        "clock": "0:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174358",
+        "text": "(Shotgun) E.Stick pass incomplete deep right to Je.Matthews.",
+        "type": "Pass Incompletion",
+        "down": 4,
+        "distance": 18,
+        "yard_line": 52,
+        "period": 4,
+        "clock": "0:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174381",
+        "text": "T.Siemian kneels to TEN 47 for -1 yards.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 52,
+        "period": 4,
+        "clock": "0:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730174403",
+        "text": "END GAME",
+        "type": "End of Game",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 53,
+        "period": 4,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      }
+    ],
+    "scoring_plays": [],
+    "touchdowns": [
+      {
+        "play_id": "401773017653",
+        "text": "(Shotgun) E.Stick pass short left intended for N.Nash INTERCEPTED by K.Brooks at TEN 47. K.Brooks for 53 yards, TOUCHDOWN. J.Slye extra point is No Good, Wide Left, Center-M.Cox, Holder-J.Hekker.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730172090",
+        "text": "(Shotgun) B.Allen pass deep right to G.Helm for 25 yards, TOUCHDOWN. J.Slye extra point is GOOD, Center-M.Cox, Holder-J.Hekker.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730172511",
+        "text": "(Shotgun) N.Carter right guard for 43 yards, TOUCHDOWN. Y.Koo extra point is GOOD, Center-L.McCullough, Holder-B.Pinion.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730173063",
+        "text": "J.Jefferson right guard for 16 yards, TOUCHDOWN. J.Slye extra point is GOOD, Center-M.Cox, Holder-J.Hekker.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730173196",
+        "text": "(Shotgun) E.Stick pass deep left to C.Blair for 52 yards, TOUCHDOWN. Y.Koo extra point is GOOD, Center-L.McCullough, Holder-B.Pinion.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      }
+    ],
+    "interceptions": [
+      {
+        "play_id": "401773017653",
+        "text": "(Shotgun) E.Stick pass short left intended for N.Nash INTERCEPTED by K.Brooks at TEN 47. K.Brooks for 53 yards, TOUCHDOWN. J.Slye extra point is No Good, Wide Left, Center-M.Cox, Holder-J.Hekker.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730171372",
+        "text": "(Shotgun) E.Stick pass deep right intended for N.Nash INTERCEPTED by C.Gray at ATL 42. C.Gray pushed ob at ATL 36 for 6 yards (N.Carter).Penalty on ATL-J.Gray, Ineligible Downfield Pass, offsetting, enforced at ATL 22 - No Play.Penalty on TEN-A.Oruwariye, Defensive Holding, offsetting.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730171666",
+        "text": "B.Allen pass deep left intended for V.Jefferson INTERCEPTED by N.Brooks at ATL 40. N.Brooks to TEN 27 for 33 yards (K.Mullings).",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      }
+    ],
+    "fumbles": []
+  },
+  "processing_timestamp": "2025-08-20T10:49:06.792359"
+}

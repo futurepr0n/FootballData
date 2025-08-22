@@ -1,0 +1,3514 @@
+{
+  "game_id": "401774591",
+  "date": "2025-08-16",
+  "box_score": {
+    "game_info": {
+      "game_id": "401774591",
+      "date": "2025-08-16T02:00Z",
+      "status": {
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final"
+        },
+        "isTBDFlex": false
+      },
+      "venue": {},
+      "attendance": 0
+    },
+    "team_stats": {
+      "SEA": {
+        "score": 33,
+        "record": "0-0",
+        "home_away": "home"
+      },
+      "KC": {
+        "score": 16,
+        "record": "0-0",
+        "home_away": "away"
+      }
+    },
+    "player_stats": {
+      "Gardner Minshew_KC": {
+        "name": "Gardner Minshew",
+        "position": "",
+        "jersey": "17",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 5,
+          "2": 5.0,
+          "3": 0,
+          "4": 5
+        }
+      },
+      "Chris Oladokun_KC": {
+        "name": "Chris Oladokun",
+        "position": "",
+        "jersey": "19",
+        "team": "KC",
+        "stats": {
+          "0": "4/7",
+          "1": 31,
+          "2": 4.4,
+          "3": 0,
+          "4": 0,
+          "5": "1-10",
+          "6": 68.2
+        }
+      },
+      "Bailey Zappe_KC": {
+        "name": "Bailey Zappe",
+        "position": "",
+        "jersey": "14O",
+        "team": "KC",
+        "stats": {
+          "0": "3/4",
+          "1": 9,
+          "2": 2.3,
+          "3": 0,
+          "4": 0,
+          "5": "1-12",
+          "6": 77.1
+        }
+      },
+      "Brashard Smith_KC": {
+        "name": "Brashard Smith",
+        "position": "",
+        "jersey": "30O",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0
+        }
+      },
+      "Carson Steele_KC": {
+        "name": "Carson Steele",
+        "position": "",
+        "jersey": "42O",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Elijah Young_KC": {
+        "name": "Elijah Young",
+        "position": "",
+        "jersey": "34O",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 10,
+          "2": 5.0,
+          "3": 0,
+          "4": 7
+        }
+      },
+      "Elijah Mitchell_KC": {
+        "name": "Elijah Mitchell",
+        "position": "",
+        "jersey": "25O",
+        "team": "KC",
+        "stats": {
+          "0": 4,
+          "1": 9,
+          "2": 2.3,
+          "3": 0,
+          "4": 6
+        }
+      },
+      "Robert Tonyan_KC": {
+        "name": "Robert Tonyan",
+        "position": "",
+        "jersey": "85",
+        "team": "KC",
+        "stats": {
+          "0": 5,
+          "1": 41,
+          "2": 8.2,
+          "3": 1,
+          "4": 19,
+          "5": 5
+        }
+      },
+      "Isiah Pacheco_KC": {
+        "name": "Isiah Pacheco",
+        "position": "",
+        "jersey": "10",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 22,
+          "2": 22.0,
+          "3": 0,
+          "4": 22,
+          "5": 1
+        }
+      },
+      "Tyquan Thornton_KC": {
+        "name": "Tyquan Thornton",
+        "position": "",
+        "jersey": "2O",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 24,
+          "2": 24.0,
+          "3": 24,
+          "4": 0
+        }
+      },
+      "Jared Wiley_KC": {
+        "name": "Jared Wiley",
+        "position": "",
+        "jersey": "12",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 8,
+          "2": 8.0,
+          "3": 0,
+          "4": 8,
+          "5": 2
+        }
+      },
+      "Nikko Remigio_KC": {
+        "name": "Nikko Remigio",
+        "position": "",
+        "jersey": "81",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 7,
+          "2": 3.5,
+          "3": 0,
+          "4": 6,
+          "5": 2
+        }
+      },
+      "JuJu Smith-Schuster_KC": {
+        "name": "JuJu Smith-Schuster",
+        "position": "",
+        "jersey": "9",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 3,
+          "2": 3.0,
+          "3": 0,
+          "4": 3,
+          "5": 1
+        }
+      },
+      "Skyy Moore_KC": {
+        "name": "Skyy Moore",
+        "position": "",
+        "jersey": "24",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 88,
+          "2": 88.0,
+          "3": 88,
+          "4": 1
+        }
+      },
+      "Jason Brownlee_KC": {
+        "name": "Jason Brownlee",
+        "position": "",
+        "jersey": "89",
+        "team": "KC",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Jack Cochrane_KC": {
+        "name": "Jack Cochrane",
+        "position": "",
+        "jersey": "43",
+        "team": "KC",
+        "stats": {
+          "0": 8,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cooper McDonald_KC": {
+        "name": "Cooper McDonald",
+        "position": "",
+        "jersey": "59",
+        "team": "KC",
+        "stats": {
+          "0": 7,
+          "1": 5,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jeffrey Bassa_KC": {
+        "name": "Jeffrey Bassa",
+        "position": "",
+        "jersey": "31",
+        "team": "KC",
+        "stats": {
+          "0": 6,
+          "1": 4,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cole Christiansen_KC": {
+        "name": "Cole Christiansen",
+        "position": "",
+        "jersey": "48",
+        "team": "KC",
+        "stats": {
+          "0": 5,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Malik Herring_KC": {
+        "name": "Malik Herring",
+        "position": "",
+        "jersey": "94",
+        "team": "KC",
+        "stats": {
+          "0": 5,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nohl Williams_KC": {
+        "name": "Nohl Williams",
+        "position": "",
+        "jersey": "20",
+        "team": "KC",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jaden Hicks_KC": {
+        "name": "Jaden Hicks",
+        "position": "",
+        "jersey": "21",
+        "team": "KC",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Bryan Cook_KC": {
+        "name": "Bryan Cook",
+        "position": "",
+        "jersey": "6",
+        "team": "KC",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Brandon George_KC": {
+        "name": "Brandon George",
+        "position": "",
+        "jersey": "50",
+        "team": "KC",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ashton Gillotte_KC": {
+        "name": "Ashton Gillotte",
+        "position": "",
+        "jersey": "97",
+        "team": "KC",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Chamarri Conner_KC": {
+        "name": "Chamarri Conner",
+        "position": "",
+        "jersey": "27",
+        "team": "KC",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Mike Edwards_KC": {
+        "name": "Mike Edwards",
+        "position": "",
+        "jersey": "34D",
+        "team": "KC",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Marlon Tuipulotu_KC": {
+        "name": "Marlon Tuipulotu",
+        "position": "",
+        "jersey": "92",
+        "team": "KC",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Coziah Izzard_KC": {
+        "name": "Coziah Izzard",
+        "position": "",
+        "jersey": "93",
+        "team": "KC",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Christian Roland-Wallace_KC": {
+        "name": "Christian Roland-Wallace",
+        "position": "",
+        "jersey": "30D",
+        "team": "KC",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Felix Anudike-Uzomah_KC": {
+        "name": "Felix Anudike-Uzomah",
+        "position": "",
+        "jersey": "91",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joshua Williams_KC": {
+        "name": "Joshua Williams",
+        "position": "",
+        "jersey": "2D",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cam Jones_KC": {
+        "name": "Cam Jones",
+        "position": "",
+        "jersey": "44",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Leo Chenal_KC": {
+        "name": "Leo Chenal",
+        "position": "",
+        "jersey": "54",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nate Matlack_KC": {
+        "name": "Nate Matlack",
+        "position": "",
+        "jersey": "57",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kevin Knowles_KC": {
+        "name": "Kevin Knowles",
+        "position": "",
+        "jersey": "38",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Charles Omenihu_KC": {
+        "name": "Charles Omenihu",
+        "position": "",
+        "jersey": "90",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nazeeh Johnson_KC": {
+        "name": "Nazeeh Johnson",
+        "position": "",
+        "jersey": "13D",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Azizi Hearn_KC": {
+        "name": "Azizi Hearn",
+        "position": "",
+        "jersey": "47",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "George Karlaftis_KC": {
+        "name": "George Karlaftis",
+        "position": "",
+        "jersey": "56",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Major Williams_KC": {
+        "name": "Major Williams",
+        "position": "",
+        "jersey": "42D",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Geor'Quarius Spivey_KC": {
+        "name": "Geor'Quarius Spivey",
+        "position": "",
+        "jersey": "45",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ajani Carter_KC": {
+        "name": "Ajani Carter",
+        "position": "",
+        "jersey": "46",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Glendon Miller_KC": {
+        "name": "Glendon Miller",
+        "position": "",
+        "jersey": "25D",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Hal Presley_KC": {
+        "name": "Hal Presley",
+        "position": "",
+        "jersey": "13O",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Omarr Norman-Lott_KC": {
+        "name": "Omarr Norman-Lott",
+        "position": "",
+        "jersey": "55",
+        "team": "KC",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Jalen Royals_KC": {
+        "name": "Jalen Royals",
+        "position": "",
+        "jersey": "11",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 49,
+          "2": 49.0,
+          "3": 49,
+          "4": 0
+        }
+      },
+      "Jimmy Holiday_KC": {
+        "name": "Jimmy Holiday",
+        "position": "",
+        "jersey": "82",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 34,
+          "2": 34.0,
+          "3": 34,
+          "4": 0
+        }
+      },
+      "Key'Shawn Smith_KC": {
+        "name": "Key'Shawn Smith",
+        "position": "",
+        "jersey": "8O",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 34,
+          "2": 34.0,
+          "3": 34,
+          "4": 0
+        }
+      },
+      "Harrison Butker_KC": {
+        "name": "Harrison Butker",
+        "position": "",
+        "jersey": "7",
+        "team": "KC",
+        "stats": {
+          "0": "1/1",
+          "1": 100.0,
+          "2": 34,
+          "3": "1/1",
+          "4": 4
+        }
+      },
+      "Matt Araiza_KC": {
+        "name": "Matt Araiza",
+        "position": "",
+        "jersey": "14S",
+        "team": "KC",
+        "stats": {
+          "0": 3,
+          "1": 169,
+          "2": 56.3,
+          "3": 0,
+          "4": 0,
+          "5": 67
+        }
+      },
+      "Drew Lock_SEA": {
+        "name": "Drew Lock",
+        "position": "",
+        "jersey": "2",
+        "team": "SEA",
+        "stats": {
+          "0": 2,
+          "1": 34,
+          "2": 17.0,
+          "3": 0,
+          "4": 30
+        }
+      },
+      "Jalen Milroe_SEA": {
+        "name": "Jalen Milroe",
+        "position": "",
+        "jersey": "6",
+        "team": "SEA",
+        "stats": {
+          "0": 5,
+          "1": 18,
+          "2": 3.6,
+          "3": 0,
+          "4": 5
+        }
+      },
+      "Sam Darnold_SEA": {
+        "name": "Sam Darnold",
+        "position": "",
+        "jersey": "14",
+        "team": "SEA",
+        "stats": {
+          "0": "4/4",
+          "1": 34,
+          "2": 8.5,
+          "3": 0,
+          "4": 0,
+          "5": "0-0",
+          "6": 102.1
+        }
+      },
+      "Damien Martinez_SEA": {
+        "name": "Damien Martinez",
+        "position": "",
+        "jersey": "22",
+        "team": "SEA",
+        "stats": {
+          "0": 2,
+          "1": 14,
+          "2": 7.0,
+          "3": 0,
+          "4": 13,
+          "5": 2
+        }
+      },
+      "George Holani_SEA": {
+        "name": "George Holani",
+        "position": "",
+        "jersey": "36O",
+        "team": "SEA",
+        "stats": {
+          "0": 3,
+          "1": 73,
+          "2": 24.3,
+          "3": 26,
+          "4": 0
+        }
+      },
+      "Jacardia Wright_SEA": {
+        "name": "Jacardia Wright",
+        "position": "",
+        "jersey": "31",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Zach Charbonnet_SEA": {
+        "name": "Zach Charbonnet",
+        "position": "",
+        "jersey": "26",
+        "team": "SEA",
+        "stats": {
+          "0": 5,
+          "1": 45,
+          "2": 9.0,
+          "3": 1,
+          "4": 15
+        }
+      },
+      "Anthony Tyus III_SEA": {
+        "name": "Anthony Tyus III",
+        "position": "",
+        "jersey": "35O",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 1
+        }
+      },
+      "Dareke Young_SEA": {
+        "name": "Dareke Young",
+        "position": "",
+        "jersey": "83",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 29,
+          "2": 29.0,
+          "3": 29,
+          "4": 0
+        }
+      },
+      "Cody White_SEA": {
+        "name": "Cody White",
+        "position": "",
+        "jersey": "82",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jake Bobo_SEA": {
+        "name": "Jake Bobo",
+        "position": "",
+        "jersey": "19",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 20,
+          "2": 20.0,
+          "3": 20,
+          "4": 0
+        }
+      },
+      "Ricky White III_SEA": {
+        "name": "Ricky White III",
+        "position": "",
+        "jersey": "86",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 20,
+          "2": 20.0,
+          "3": 0,
+          "4": 20,
+          "5": 1
+        }
+      },
+      "Elijah Arroyo_SEA": {
+        "name": "Elijah Arroyo",
+        "position": "",
+        "jersey": "18",
+        "team": "SEA",
+        "stats": {
+          "0": 2,
+          "1": 19,
+          "2": 9.5,
+          "3": 0,
+          "4": 10,
+          "5": 2
+        }
+      },
+      "Brady Russell_SEA": {
+        "name": "Brady Russell",
+        "position": "",
+        "jersey": "38",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Robbie Ouzts_SEA": {
+        "name": "Robbie Ouzts",
+        "position": "",
+        "jersey": "40",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 13,
+          "2": 13.0,
+          "3": 0,
+          "4": 13,
+          "5": 1
+        }
+      },
+      "Tory Horton_SEA": {
+        "name": "Tory Horton",
+        "position": "",
+        "jersey": "15",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 12,
+          "2": 12.0,
+          "3": 0,
+          "4": 12,
+          "5": 2
+        }
+      },
+      "Jaxon Smith-Njigba_SEA": {
+        "name": "Jaxon Smith-Njigba",
+        "position": "",
+        "jersey": "11",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 7,
+          "2": 7.0,
+          "3": 0,
+          "4": 7,
+          "5": 1
+        }
+      },
+      "AJ Barner_SEA": {
+        "name": "AJ Barner",
+        "position": "",
+        "jersey": "88",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 5,
+          "2": 5.0,
+          "3": 0,
+          "4": 5,
+          "5": 1
+        }
+      },
+      "Tyrone Broden_SEA": {
+        "name": "Tyrone Broden",
+        "position": "",
+        "jersey": "85",
+        "team": "SEA",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Nick Kallerup_SEA": {
+        "name": "Nick Kallerup",
+        "position": "",
+        "jersey": "89",
+        "team": "SEA",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Seth Coleman_SEA": {
+        "name": "Seth Coleman",
+        "position": "",
+        "jersey": "43D",
+        "team": "SEA",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 1.5,
+          "3": 1,
+          "4": 0,
+          "5": 2,
+          "6": 0
+        }
+      },
+      "Ty Okada_SEA": {
+        "name": "Ty Okada",
+        "position": "",
+        "jersey": "39",
+        "team": "SEA",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Drake Thomas_SEA": {
+        "name": "Drake Thomas",
+        "position": "",
+        "jersey": "42",
+        "team": "SEA",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ernest Jones IV_SEA": {
+        "name": "Ernest Jones IV",
+        "position": "",
+        "jersey": "13",
+        "team": "SEA",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Patrick O'Connell_SEA": {
+        "name": "Patrick O'Connell",
+        "position": "",
+        "jersey": "52",
+        "team": "SEA",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Damarion Williams_SEA": {
+        "name": "Damarion Williams",
+        "position": "",
+        "jersey": "37",
+        "team": "SEA",
+        "stats": {
+          "0": 2,
+          "1": 21,
+          "2": 10.5,
+          "3": 12,
+          "4": 0
+        }
+      },
+      "D'Anthony Bell_SEA": {
+        "name": "D'Anthony Bell",
+        "position": "",
+        "jersey": "23",
+        "team": "SEA",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tyler Hall_SEA": {
+        "name": "Tyler Hall",
+        "position": "",
+        "jersey": "33",
+        "team": "SEA",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jamie Sheriff_SEA": {
+        "name": "Jamie Sheriff",
+        "position": "",
+        "jersey": "50",
+        "team": "SEA",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0.5,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Coby Bryant_SEA": {
+        "name": "Coby Bryant",
+        "position": "",
+        "jersey": "8",
+        "team": "SEA",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nick Emmanwori_SEA": {
+        "name": "Nick Emmanwori",
+        "position": "",
+        "jersey": "3",
+        "team": "SEA",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Julian Love_SEA": {
+        "name": "Julian Love",
+        "position": "",
+        "jersey": "20",
+        "team": "SEA",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jerrick Reed II_SEA": {
+        "name": "Jerrick Reed II",
+        "position": "",
+        "jersey": "32",
+        "team": "SEA",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jason Myers_SEA": {
+        "name": "Jason Myers",
+        "position": "",
+        "jersey": "5",
+        "team": "SEA",
+        "stats": {
+          "0": "1/1",
+          "1": 100.0,
+          "2": 23,
+          "3": "4/4",
+          "4": 7
+        }
+      },
+      "Brandon Pili_SEA": {
+        "name": "Brandon Pili",
+        "position": "",
+        "jersey": "95",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Connor O'Toole_SEA": {
+        "name": "Connor O'Toole",
+        "position": "",
+        "jersey": "57",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Boye Mafe_SEA": {
+        "name": "Boye Mafe",
+        "position": "",
+        "jersey": "53",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Alphonzo Tuputala_SEA": {
+        "name": "Alphonzo Tuputala",
+        "position": "",
+        "jersey": "35D",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Derick Hall_SEA": {
+        "name": "Derick Hall",
+        "position": "",
+        "jersey": "58",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "J.R. Singleton_SEA": {
+        "name": "J.R. Singleton",
+        "position": "",
+        "jersey": "70",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Anthony Campbell_SEA": {
+        "name": "Anthony Campbell",
+        "position": "",
+        "jersey": "93",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Mike Morris_SEA": {
+        "name": "Mike Morris",
+        "position": "",
+        "jersey": "94",
+        "team": "SEA",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Isas Waxter_SEA": {
+        "name": "Isas Waxter",
+        "position": "",
+        "jersey": "36D",
+        "team": "SEA",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "John Rhys Plumlee_SEA": {
+        "name": "John Rhys Plumlee",
+        "position": "",
+        "jersey": "17O",
+        "team": "SEA",
+        "stats": {
+          "0": 1,
+          "1": 22,
+          "2": 22.0,
+          "3": 22,
+          "4": 0
+        }
+      },
+      "Michael Dickson_SEA": {
+        "name": "Michael Dickson",
+        "position": "",
+        "jersey": "4",
+        "team": "SEA",
+        "stats": {
+          "0": 3,
+          "1": 160,
+          "2": 53.3,
+          "3": 0,
+          "4": 2,
+          "5": 69
+        }
+      }
+    },
+    "scoring_summary": []
+  },
+  "play_by_play": {
+    "game_info": {
+      "game_id": "401774591",
+      "teams": [
+        {
+          "abbreviation": "SEA",
+          "name": "Seattle Seahawks",
+          "score": 33,
+          "home_away": "home"
+        },
+        {
+          "abbreviation": "KC",
+          "name": "Kansas City Chiefs",
+          "score": 16,
+          "home_away": "away"
+        }
+      ],
+      "final_score": {}
+    },
+    "drives": [
+      {
+        "id": "4017745911",
+        "team": "SEA",
+        "plays_count": 12,
+        "result": "TD",
+        "yards": 81
+      },
+      {
+        "id": "4017745912",
+        "team": "KC",
+        "plays_count": 13,
+        "result": "DOWNS",
+        "yards": 60
+      },
+      {
+        "id": "4017745913",
+        "team": "SEA",
+        "plays_count": 12,
+        "result": "TD",
+        "yards": 85
+      },
+      {
+        "id": "4017745914",
+        "team": "KC",
+        "plays_count": 11,
+        "result": "TD",
+        "yards": 50
+      },
+      {
+        "id": "4017745915",
+        "team": "SEA",
+        "plays_count": 15,
+        "result": "DOWNS",
+        "yards": 64
+      },
+      {
+        "id": "4017745916",
+        "team": "KC",
+        "plays_count": 1,
+        "result": "SF",
+        "yards": -2
+      },
+      {
+        "id": "4017745917",
+        "team": "SEA",
+        "plays_count": 11,
+        "result": "TD",
+        "yards": 69
+      },
+      {
+        "id": "4017745918",
+        "team": "KC",
+        "plays_count": 3,
+        "result": "END OF HALF",
+        "yards": 6
+      },
+      {
+        "id": "4017745919",
+        "team": "KC",
+        "plays_count": 11,
+        "result": "FG",
+        "yards": 49
+      },
+      {
+        "id": "40177459110",
+        "team": "SEA",
+        "plays_count": 12,
+        "result": "TD",
+        "yards": 71
+      },
+      {
+        "id": "40177459111",
+        "team": "KC",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": -11
+      },
+      {
+        "id": "40177459112",
+        "team": "SEA",
+        "plays_count": 11,
+        "result": "PUNT",
+        "yards": 26
+      },
+      {
+        "id": "40177459113",
+        "team": "KC",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 9
+      },
+      {
+        "id": "40177459114",
+        "team": "SEA",
+        "plays_count": 15,
+        "result": "FG",
+        "yards": 55
+      },
+      {
+        "id": "40177459115",
+        "team": "KC",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": -5
+      },
+      {
+        "id": "40177459116",
+        "team": "SEA",
+        "plays_count": 6,
+        "result": "PUNT TD",
+        "yards": 6
+      },
+      {
+        "id": "40177459117",
+        "team": "SEA",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 0
+      },
+      {
+        "id": "40177459118",
+        "team": "KC",
+        "plays_count": 3,
+        "result": "END OF GAME",
+        "yards": 10
+      }
+    ],
+    "plays": [
+      {
+        "id": "40177459139",
+        "text": "H.Butker kicks 60 yards from KC 35 to SEA 5. G.Holani pushed ob at KC 45 for 50 yards (J.Cochrane).PENALTY on SEA-D.Thomas, Offensive Holding, 10 yards, enforced at SEA 29.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177459178",
+        "text": "Z.Charbonnet left guard to SEA 32 for 13 yards (C.Conner).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 19,
+        "period": 1,
+        "clock": "14:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591100",
+        "text": "Z.Charbonnet left tackle to SEA 36 for 4 yards (J.Cochrane; B.Cook).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 32,
+        "period": 1,
+        "clock": "14:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591122",
+        "text": "(Shotgun) S.Darnold pass short left to A.Barner to SEA 41 for 5 yards (J.Hicks, L.Chenal).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 36,
+        "period": 1,
+        "clock": "13:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591147",
+        "text": "J.Milroe up the middle to SEA 43 for 2 yards (J.Cochrane).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 41,
+        "period": 1,
+        "clock": "13:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591169",
+        "text": "Z.Charbonnet right end to 50 for 7 yards (G.Karlaftis).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 1,
+        "clock": "12:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591191",
+        "text": "S.Darnold pass short left to J.Smith-Njigba pushed ob at KC 43 for 7 yards (C.Christiansen).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 50,
+        "period": 1,
+        "clock": "11:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591226",
+        "text": "(Shotgun) Z.Charbonnet right tackle to KC 37 for 6 yards (C.Omenihu; N.Johnson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 57,
+        "period": 1,
+        "clock": "11:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591248",
+        "text": "S.Darnold pass short left to R.Ouzts pushed ob at KC 24 for 13 yards (C.Conner).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 63,
+        "period": 1,
+        "clock": "10:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591278",
+        "text": "S.Darnold pass short right to E.Arroyo to KC 15 for 9 yards (C.Christiansen).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 76,
+        "period": 1,
+        "clock": "10:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591303",
+        "text": "Z.Charbonnet up the middle for 15 yards, TOUCHDOWN. J.Myers extra point is GOOD, Center-Z.Triner, Holder-M.Dickson.",
+        "type": "Rushing Touchdown",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 85,
+        "period": 1,
+        "clock": "9:31",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401774591334",
+        "text": "Official Timeout at 09:31.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "9:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591341",
+        "text": "J.Myers kicks 64 yards from SEA 35 to KC 1. T.Thornton to KC 25 for 24 yards (B.Russell).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "9:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591371",
+        "text": "(Shotgun) PENALTY on KC-T.Smith, False Start, 5 yards, enforced at KC 25 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 75,
+        "period": 1,
+        "clock": "9:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591395",
+        "text": "(Shotgun) G.Minshew scrambles up the middle to KC 25 for 5 yards (E.Jones).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 80,
+        "period": 1,
+        "clock": "9:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591417",
+        "text": "(Shotgun) G.Minshew pass short right to J.Wiley pushed ob at KC 33 for 8 yards (N.Emmanwori).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 75,
+        "period": 1,
+        "clock": "8:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591452",
+        "text": "(Shotgun) G.Minshew pass short right to I.Pacheco pushed ob at SEA 45 for 22 yards (J.Love; E.Jones).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 67,
+        "period": 1,
+        "clock": "7:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591482",
+        "text": "(Shotgun) C.Steele up the middle to SEA 43 for 2 yards (B.Mafe; D.Hall).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 1,
+        "clock": "7:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591504",
+        "text": "(Shotgun) C.Steele up the middle to SEA 38 for 5 yards (P.O'Connell; E.Jones).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 43,
+        "period": 1,
+        "clock": "6:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591526",
+        "text": "(Shotgun) G.Minshew pass short right to T.Thornton to SEA 24 for 14 yards (C.Bryant).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 38,
+        "period": 1,
+        "clock": "5:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591551",
+        "text": "(Shotgun) C.Steele left guard to SEA 18 for 6 yards (P.O'Connell).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 24,
+        "period": 1,
+        "clock": "5:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591573",
+        "text": "(Shotgun) G.Minshew pass incomplete short right to J.Wiley.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 18,
+        "period": 1,
+        "clock": "4:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591596",
+        "text": "(Shotgun) G.Minshew pass short right to J.Smith-Schuster to SEA 15 for 3 yards (C.Bryant).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 18,
+        "period": 1,
+        "clock": "4:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591621",
+        "text": "C.Steele right guard to SEA 15 for no gain (J.Love, E.Jones).",
+        "type": "Rush",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 15,
+        "period": 1,
+        "clock": "4:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591635",
+        "text": "Official Timeout at 04:00.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 15,
+        "period": 1,
+        "clock": "4:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591648",
+        "text": "2-D.Lock in at QB. G.Holani left tackle to SEA 45 for 30 yards (B.Cook).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 15,
+        "period": 1,
+        "clock": "4:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591677",
+        "text": "G.Holani left tackle to KC 49 for 6 yards (C.Conner).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 1,
+        "clock": "3:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591699",
+        "text": "G.Holani right tackle to KC 43 for 6 yards (J.Cochrane; J.Bassa).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 51,
+        "period": 1,
+        "clock": "2:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591721",
+        "text": "D.Lock scrambles left guard to KC 39 for 4 yards (L.Chenal).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 57,
+        "period": 1,
+        "clock": "2:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591743",
+        "text": "(Shotgun) G.Holani right tackle to KC 35 for 4 yards (M.Tuipulotu).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 61,
+        "period": 1,
+        "clock": "1:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591765",
+        "text": "(Shotgun) G.Holani right guard to KC 32 for 3 yards (J.Cochrane). KC-O.Norman-Lott was injured during the play.",
+        "type": "Rush",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "0:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591776",
+        "text": "Official Timeout at 00:36.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 68,
+        "period": 1,
+        "clock": "0:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591787",
+        "text": "D.Martinez right tackle to KC 13 for 19 yards (B.Cook; A.Gillotte).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 68,
+        "period": 1,
+        "clock": "0:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591823",
+        "text": "END QUARTER 1",
+        "type": "End Period",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 87,
+        "period": 1,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591843",
+        "text": "D.Martinez up the middle to KC 12 for 1 yard (C.McDonald).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 87,
+        "period": 2,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591869",
+        "text": "(Shotgun) D.Lock pass short left to J.Bobo for 12 yards, TOUCHDOWN. J.Myers extra point is GOOD, Center-Z.Triner, Holder-M.Dickson.",
+        "type": "Passing Touchdown",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 88,
+        "period": 2,
+        "clock": "14:16",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401774591903",
+        "text": "Official Timeout at 14:16.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "14:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591910",
+        "text": "J.Myers kicks 64 yards from SEA 35 to KC 1. J.Royals to 50 for 49 yards (J.Myers).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "14:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591940",
+        "text": "(Shotgun) G.Minshew pass short middle to B.Smith to SEA 38 for 12 yards (D.Thomas).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 50,
+        "period": 2,
+        "clock": "14:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591976",
+        "text": "C.Steele right guard to SEA 34 for 4 yards (N.Emmanwori).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 38,
+        "period": 2,
+        "clock": "13:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774591998",
+        "text": "(Shotgun) G.Minshew pass short left to R.Tonyan to SEA 24 for 10 yards (D.Bell).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 34,
+        "period": 2,
+        "clock": "12:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911023",
+        "text": "C.Steele right guard to SEA 21 for 3 yards (P.O'Connell; D.Thomas).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 24,
+        "period": 2,
+        "clock": "12:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911045",
+        "text": "(Shotgun) G.Minshew pass incomplete short right.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 21,
+        "period": 2,
+        "clock": "11:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911068",
+        "text": "(Shotgun) G.Minshew pass incomplete deep left to N.Remigio.PENALTY on SEA-T.Okada, Defensive Pass Interference, 15 yards, enforced at SEA 21 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 21,
+        "period": 2,
+        "clock": "11:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911102",
+        "text": "(Shotgun) E.Mitchell up the middle to SEA 3 for 3 yards (D.Bell).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 6,
+        "yard_line": 6,
+        "period": 2,
+        "clock": "11:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911124",
+        "text": "C.Steele left guard to SEA 1 for 2 yards (D.Bell; P.O'Connell).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 3,
+        "period": 2,
+        "clock": "10:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911146",
+        "text": "G.Minshew pass short right to R.Tonyan for 1 yard, TOUCHDOWN. H.Butker extra point is GOOD, Center-J.Winchester, Holder-M.Araiza.",
+        "type": "Passing Touchdown",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 1,
+        "period": 2,
+        "clock": "9:54",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017745911180",
+        "text": "Official Timeout at 09:54.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "9:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911187",
+        "text": "H.Butker kicks 60 yards from KC 35 to SEA 5. D.Young to SEA 34 for 29 yards (A.Gillotte).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "9:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911217",
+        "text": "D.Lock pass short middle to D.Martinez to SEA 47 for 13 yards (J.Hicks; J.Cochrane). ** Injury Update: KC-O.Norman-Lott has returned to the game.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 34,
+        "period": 2,
+        "clock": "9:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911242",
+        "text": "D.Martinez right end to KC 46 for 7 yards (J.Cochrane; N.Johnson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 2,
+        "clock": "9:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911264",
+        "text": "J.Wright right end pushed ob at KC 41 for 5 yards (B.Cook).PENALTY on SEA-A.Kight, Offensive Holding, 10 yards, enforced at KC 46 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 54,
+        "period": 2,
+        "clock": "8:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911305",
+        "text": "(Shotgun) J.Wright right tackle to SEA 44 for no gain (J.Bassa).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 44,
+        "period": 2,
+        "clock": "8:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911327",
+        "text": "(Shotgun) D.Lock pass short left to D.Young to KC 42 for 14 yards (B.Cook).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 13,
+        "yard_line": 44,
+        "period": 2,
+        "clock": "7:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911352",
+        "text": "(Shotgun) D.Martinez right end to KC 38 for 4 yards (F.Anudike-Uzomah).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 2,
+        "clock": "7:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911374",
+        "text": "D.Martinez up the middle to KC 36 for 2 yards (C.McDonald).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 62,
+        "period": 2,
+        "clock": "6:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911396",
+        "text": "(Shotgun) D.Lock scrambles up the middle to KC 6 for 30 yards (J.Hicks, C.Roland-Wallace). SEA-B.Cabeldue was injured during the play.",
+        "type": "Rush",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 64,
+        "period": 2,
+        "clock": "5:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911407",
+        "text": "Official Timeout at 05:26.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 6,
+        "yard_line": 94,
+        "period": 2,
+        "clock": "5:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911418",
+        "text": "D.Lock pass incomplete short right to T.Horton (N.Johnson).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 6,
+        "yard_line": 94,
+        "period": 2,
+        "clock": "5:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911451",
+        "text": "D.Martinez left guard to KC 4 for 2 yards (C.Omenihu; M.Tuipulotu).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 94,
+        "period": 2,
+        "clock": "5:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911473",
+        "text": "J.Wright left guard to KC 2 for 2 yards (J.Cochrane; N.Williams).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 2,
+        "clock": "4:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911495",
+        "text": "M.Richman reported in as eligible.  D.Lock pass incomplete short right to N.Kallerup (B.Cook).",
+        "type": "Pass Incompletion",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 98,
+        "period": 2,
+        "clock": "3:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911508",
+        "text": "Official Timeout at 03:43.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 98,
+        "period": 2,
+        "clock": "3:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911520",
+        "text": "E.Mitchell left guard tackled in End Zone for -2 yards, SAFETY (B.Pili, D.Thomas).",
+        "type": "Safety",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 98,
+        "period": 2,
+        "clock": "3:38",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017745911549",
+        "text": "H.Butker kicks 75 yards from KC 20 to SEA 5. G.Holani to SEA 31 for 26 yards (H.Presley; C.Steele).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 80,
+        "period": 2,
+        "clock": "3:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911572",
+        "text": "D.Lock pass short left to T.Horton pushed ob at SEA 43 for 12 yards (N.Williams).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 31,
+        "period": 2,
+        "clock": "3:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911602",
+        "text": "D.Martinez left end to SEA 47 for 4 yards (C.Christiansen; A.Gillotte).PENALTY on SEA-S.Laumea, Offensive Holding, 10 yards, enforced at SEA 43 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 2,
+        "clock": "2:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911635",
+        "text": "(Shotgun) D.Lock pass short middle to D.Young to KC 43 for 24 yards (J.Williams).Penalty on KC-N.Williams, Illegal Use of Hands, declined.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 20,
+        "yard_line": 33,
+        "period": 2,
+        "clock": "2:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911653",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 57,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911671",
+        "text": "J.Wright left guard to KC 40 for 3 yards (C.Christiansen).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 57,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911700",
+        "text": "D.Lock pass incomplete short left to E.Arroyo.PENALTY on KC-N.Williams, Illegal Use of Hands, 5 yards, enforced at KC 40 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 60,
+        "period": 2,
+        "clock": "1:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911734",
+        "text": "(Shotgun) D.Martinez right guard to KC 31 for 4 yards (C.Christiansen; M.Edwards).PENALTY on KC-M.Tuipulotu, Defensive Holding, 5 yards, enforced at KC 31.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "1:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911767",
+        "text": "(Shotgun) D.Lock pass short left to D.Young to KC 12 for 14 yards (J.Hicks).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 2,
+        "clock": "1:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911780",
+        "text": "Timeout #1 by SEA at 00:38.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 88,
+        "period": 2,
+        "clock": "0:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911792",
+        "text": "(Shotgun) D.Lock pass short right to J.Bobo for 12 yards, TOUCHDOWN. J.Myers extra point is GOOD, Center-Z.Triner, Holder-M.Dickson.",
+        "type": "Passing Touchdown",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 88,
+        "period": 2,
+        "clock": "0:34",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017745911840",
+        "text": "J.Myers kicks 71 yards from SEA 35 to KC -6. B.Smith to KC 20 for 26 yards (C.White).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911863",
+        "text": "(Shotgun) E.Mitchell up the middle to KC 26 for 6 yards (S.Coleman, T.Okada).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 2,
+        "clock": "0:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911885",
+        "text": "END QUARTER 2",
+        "type": "End of Half",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911915",
+        "text": "J.Myers kicks 64 yards from SEA 35 to KC 1. K.Smith to KC 35 for 34 yards (T.Okada).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911938",
+        "text": "(Shotgun) E.Mitchell right tackle to KC 37 for 2 yards (C.O'Toole).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "14:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911960",
+        "text": "(Shotgun) C.Oladokun pass short right to B.Smith pushed ob at KC 41 for 4 yards (J.Sheriff).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 63,
+        "period": 3,
+        "clock": "14:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745911990",
+        "text": "(Shotgun) C.Oladokun pass short right to R.Tonyan to SEA 40 for 19 yards (T.Okada).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 59,
+        "period": 3,
+        "clock": "13:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912015",
+        "text": "C.Oladokun pass short right to R.Tonyan pushed ob at SEA 31 for 9 yards (D.Williams) [M.Morris].",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 40,
+        "period": 3,
+        "clock": "12:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912045",
+        "text": "B.Smith right end pushed ob at SEA 21 for 10 yards (D.Williams).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 31,
+        "period": 3,
+        "clock": "12:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912072",
+        "text": "(Shotgun) B.Smith left tackle to SEA 16 for 5 yards (D.Thomas, J.Sheriff).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 21,
+        "period": 3,
+        "clock": "11:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912094",
+        "text": "C.Oladokun pass incomplete short right to S.Moore.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 16,
+        "period": 3,
+        "clock": "11:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912129",
+        "text": "(Shotgun) C.Oladokun pass incomplete deep left.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 16,
+        "period": 3,
+        "clock": "10:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912152",
+        "text": "H.Butker 34 yard field goal is GOOD, Center-J.Winchester, Holder-M.Araiza.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 16,
+        "period": 3,
+        "clock": "10:47",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017745912162",
+        "text": "Official Timeout at 10:47.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "10:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912172",
+        "text": "H.Butker kicks 59 yards from KC 35 to SEA 6. G.Holani to SEA 29 for 23 yards (A.Gillotte; C.Steele).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "10:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912202",
+        "text": "(Shotgun) D.Lock pass short left to D.Martinez pushed ob at SEA 30 for 1 yard (N.Williams, C.Roland-Wallace). ** Injury Update: SEA-B.Cabeldue has returned to the game.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 29,
+        "period": 3,
+        "clock": "10:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912236",
+        "text": "D.Lock pass short left to C.White to SEA 47 for 17 yards (N.Williams) [O.Norman-Lott].",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 30,
+        "period": 3,
+        "clock": "10:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912264",
+        "text": "D.Martinez right end to KC 49 for 4 yards (J.Williams).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 3,
+        "clock": "9:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912291",
+        "text": "J.Wright left end pushed ob at KC 30 for 19 yards (J.Bassa).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 51,
+        "period": 3,
+        "clock": "9:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912318",
+        "text": "J.Wright left end pushed ob at KC 21 for 9 yards (M.Edwards).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 70,
+        "period": 3,
+        "clock": "8:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912345",
+        "text": "J.Wright up the middle to KC 17 for 4 yards (M.Tuipulotu).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 79,
+        "period": 3,
+        "clock": "7:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912367",
+        "text": "D.Lock pass short left to E.Arroyo pushed ob at KC 7 for 10 yards (J.Bassa).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 83,
+        "period": 3,
+        "clock": "7:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912397",
+        "text": "D.Martinez left guard to KC 2 for 5 yards (M.Herring).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 7,
+        "yard_line": 93,
+        "period": 3,
+        "clock": "6:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912419",
+        "text": "D.Martinez up the middle to KC 1 for 1 yard (M.Herring; Ca.Jones).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 98,
+        "period": 3,
+        "clock": "5:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912441",
+        "text": "D.Martinez right guard for 1 yard, TOUCHDOWN. J.Myers extra point is GOOD, Center-Z.Triner, Holder-M.Dickson.",
+        "type": "Rushing Touchdown",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 3,
+        "clock": "5:13",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017745912472",
+        "text": "Official Timeout at 05:13.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "5:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912479",
+        "text": "J.Myers kicks 65 yards from SEA 35 to end zone, Touchback to the KC 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "5:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912503",
+        "text": "C.Oladokun pass short left to C.Steele to KC 34 for -1 yards (D.Williams, J.Singleton).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "5:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912528",
+        "text": "(Shotgun) C.Oladokun pass incomplete short left to S.Moore.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 66,
+        "period": 3,
+        "clock": "4:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912551",
+        "text": "(Shotgun) C.Oladokun sacked at KC 24 for -10 yards (sack split by J.Sheriff and S.Coleman).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 11,
+        "yard_line": 66,
+        "period": 3,
+        "clock": "4:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912571",
+        "text": "M.Araiza punts 67 yards to SEA 9, Center-J.Winchester. J.Bobo to SEA 29 for 20 yards (A.Gillotte).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 21,
+        "yard_line": 76,
+        "period": 3,
+        "clock": "3:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912584",
+        "text": "Official Timeout at 03:30.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 29,
+        "period": 3,
+        "clock": "3:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912597",
+        "text": "6-J.Milroe in at QB. A.Tyus right tackle to SEA 28 for -1 yards (Ca.Jones). FUMBLES (Ca.Jones), and recovers at SEA 28.",
+        "type": "Fumble Recovery (Own)",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 29,
+        "period": 3,
+        "clock": "3:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912634",
+        "text": "(Shotgun) J.Milroe up the middle to SEA 33 for 5 yards (C.Christiansen).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 28,
+        "period": 3,
+        "clock": "2:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912661",
+        "text": "(Shotgun) J.Milroe pass short left to R.White to KC 47 for 20 yards (M.Edwards).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 33,
+        "period": 3,
+        "clock": "2:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912686",
+        "text": "(Shotgun) A.Tyus up the middle to KC 44 for 3 yards (C.Izzard, M.Herring).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 53,
+        "period": 3,
+        "clock": "1:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912708",
+        "text": "A.Tyus left tackle to KC 42 for 2 yards (C.McDonald).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 56,
+        "period": 3,
+        "clock": "0:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912730",
+        "text": "(Shotgun) J.Milroe scrambles up the middle to KC 40 for 2 yards (C.Izzard).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 58,
+        "period": 3,
+        "clock": "0:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912759",
+        "text": "END QUARTER 3",
+        "type": "End Period",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 60,
+        "period": 3,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912779",
+        "text": "(Run formation) PENALTY on SEA, Delay of Game, 5 yards, enforced at KC 40 - No Play.",
+        "type": "Penalty",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 60,
+        "period": 4,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912803",
+        "text": "M.Dickson punts 37 yards to KC 8, Center-Z.Triner, out of bounds.Penalty on KC-J.Williams, Offensive Holding, offsetting, enforced at KC 45 - No Play.Penalty on SEA-D.Jackson, Illegal Formation, offsetting.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 8,
+        "yard_line": 55,
+        "period": 4,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912833",
+        "text": "M.Dickson punts 38 yards to KC 7, Center-Z.Triner. B.Smith ran ob at KC 7 for no gain.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 8,
+        "yard_line": 55,
+        "period": 4,
+        "clock": "14:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912849",
+        "text": "Official Timeout at 14:44.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 93,
+        "period": 4,
+        "clock": "14:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912864",
+        "text": "(Shotgun) B.Zappe pass short left to N.Remigio to KC 8 for 1 yard (Je.Reed; T.Hall).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 93,
+        "period": 4,
+        "clock": "14:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912901",
+        "text": "(Shotgun) B.Zappe pass short right to N.Remigio to KC 14 for 6 yards (T.Hall; A.Campbell).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 92,
+        "period": 4,
+        "clock": "14:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912926",
+        "text": "(Shotgun) B.Zappe pass short right to R.Tonyan to KC 16 for 2 yards (T.Okada).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 86,
+        "period": 4,
+        "clock": "13:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912951",
+        "text": " M.Araiza punts 56 yards to SEA 28, Center-J.Winchester. D.Williams to SEA 40 for 12 yards (K.Knowles).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 84,
+        "period": 4,
+        "clock": "12:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912964",
+        "text": "Official Timeout at 12:23.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "12:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745912977",
+        "text": "A.Tyus left guard to SEA 45 for 5 yards (C.Izzard; B.George).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "12:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913006",
+        "text": "J.Milroe pass short left to C.White pushed ob at KC 46 for 9 yards (C.McDonald).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 45,
+        "period": 4,
+        "clock": "11:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913036",
+        "text": "A.Tyus right end pushed ob at KC 35 for 11 yards (M.Williams).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 4,
+        "clock": "11:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913050",
+        "text": "Timeout #1 by SEA at 10:45.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "10:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913063",
+        "text": "A.Tyus right tackle to KC 33 for 2 yards (M.Herring; C.McDonald).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "10:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913092",
+        "text": "(Shotgun) J.Milroe pass short middle to B.Russell to KC 16 for 17 yards (B.George).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 67,
+        "period": 4,
+        "clock": "10:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913117",
+        "text": "J.Milroe scrambles left end pushed ob at KC 11 for 5 yards (F.Anudike-Uzomah). KC-F.Anudike-Uzomah was injured during the play.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 84,
+        "period": 4,
+        "clock": "9:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913132",
+        "text": "Official Timeout at 09:04.",
+        "type": "Official Timeout",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 89,
+        "period": 4,
+        "clock": "9:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913147",
+        "text": "J.Milroe scrambles right end pushed ob at KC 7 for 4 yards (C.McDonald).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 89,
+        "period": 4,
+        "clock": "8:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913198",
+        "text": "A.Tyus right guard to KC 3 for 4 yards (C.Roland-Wallace).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 93,
+        "period": 4,
+        "clock": "8:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913220",
+        "text": "(Shotgun) J.Milroe pass incomplete short right to A.Tyus.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 3,
+        "yard_line": 97,
+        "period": 4,
+        "clock": "7:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913243",
+        "text": "A.Tyus up the middle to KC 5 for -2 yards (J.Bassa).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 97,
+        "period": 4,
+        "clock": "7:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913265",
+        "text": "(Shotgun) J.Milroe pass incomplete short left to T.Broden.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 95,
+        "period": 4,
+        "clock": "7:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913288",
+        "text": "J.Myers 23 yard field goal is GOOD, Center-Z.Triner, Holder-M.Dickson.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 95,
+        "period": 4,
+        "clock": "6:58",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017745913301",
+        "text": "Official Timeout at 06:58.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "6:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913314",
+        "text": "J.Myers kicks 60 yards from SEA 35 to KC 5. J.Holiday to KC 39 for 34 yards (J.Wright).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "6:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913344",
+        "text": "(Shotgun) B.Smith left tackle to KC 46 for 7 yards (T.Hall).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 61,
+        "period": 4,
+        "clock": "6:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913366",
+        "text": "(Shotgun) B.Zappe pass incomplete deep left to J.Brownlee (I.Waxter) [A.Campbell].",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 54,
+        "period": 4,
+        "clock": "6:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913389",
+        "text": "(Shotgun) B.Zappe sacked at KC 34 for -12 yards (S.Coleman).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 54,
+        "period": 4,
+        "clock": "6:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913409",
+        "text": "M.Araiza punts 46 yards to SEA 20, Center-J.Winchester. D.Williams to SEA 29 for 9 yards (B.George; G.Spivey).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 15,
+        "yard_line": 66,
+        "period": 4,
+        "clock": "5:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913435",
+        "text": "J.Wright up the middle to SEA 31 for 2 yards (M.Herring).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 29,
+        "period": 4,
+        "clock": "5:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913457",
+        "text": "J.Wright left tackle to SEA 33 for 2 yards (C.McDonald; G.Miller).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 31,
+        "period": 4,
+        "clock": "4:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913479",
+        "text": "(Shotgun) PENALTY on SEA-S.Laumea, False Start, 5 yards, enforced at SEA 33 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 33,
+        "period": 4,
+        "clock": "4:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913503",
+        "text": "(Shotgun) J.Wright left end to SEA 35 for 7 yards (A.Hearn; N.Matlack).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 11,
+        "yard_line": 28,
+        "period": 4,
+        "clock": "4:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913525",
+        "text": "M.Dickson punts 53 yards to KC 12, Center-Z.Triner. S.Moore for 88 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. B.Zappe pass to J.Holiday is incomplete. ATTEMPT FAILS.",
+        "type": "Punt Return Touchdown",
+        "down": 4,
+        "distance": 4,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "3:03",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017745913539",
+        "text": "Timeout #2 by SEA at 03:03.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 15,
+        "period": 4,
+        "clock": "3:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913572",
+        "text": "H.Butker kicks 59 yards from KC 35 to SEA 6. J.Plumlee to SEA 31 for 25 yards (K.Knowles; A.Hearn).PENALTY on SEA-M.Lang, Offensive Holding, 10 yards, enforced at SEA 28.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "3:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913606",
+        "text": "(Shotgun) A.Tyus right guard to SEA 18 for no gain (N.Matlack).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 18,
+        "period": 4,
+        "clock": "2:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913628",
+        "text": "A.Tyus right guard to SEA 21 for 3 yards (A.Carter; J.Bassa).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 18,
+        "period": 4,
+        "clock": "2:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913639",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 21,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913650",
+        "text": "A.Tyus right tackle to SEA 18 for -3 yards (B.George).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 21,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913679",
+        "text": "M.Dickson punts 62 yards to KC 20, Center-Z.Triner. B.Smith MUFFS catch, ball out of bounds at KC 13.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 18,
+        "period": 4,
+        "clock": "1:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913707",
+        "text": "(Shotgun) E.Young up the middle to KC 20 for 7 yards (A.Tuputala; Je.Reed).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 87,
+        "period": 4,
+        "clock": "0:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913729",
+        "text": "(Shotgun) E.Young right guard to KC 23 for 3 yards (S.Coleman).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "0:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017745913751",
+        "text": "END GAME",
+        "type": "End of Game",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 77,
+        "period": 4,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      }
+    ],
+    "scoring_plays": [],
+    "touchdowns": [
+      {
+        "play_id": "401774591303",
+        "text": "Z.Charbonnet up the middle for 15 yards, TOUCHDOWN. J.Myers extra point is GOOD, Center-Z.Triner, Holder-M.Dickson.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "401774591869",
+        "text": "(Shotgun) D.Lock pass short left to J.Bobo for 12 yards, TOUCHDOWN. J.Myers extra point is GOOD, Center-Z.Triner, Holder-M.Dickson.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017745911146",
+        "text": "G.Minshew pass short right to R.Tonyan for 1 yard, TOUCHDOWN. H.Butker extra point is GOOD, Center-J.Winchester, Holder-M.Araiza.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017745911792",
+        "text": "(Shotgun) D.Lock pass short right to J.Bobo for 12 yards, TOUCHDOWN. J.Myers extra point is GOOD, Center-Z.Triner, Holder-M.Dickson.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017745912441",
+        "text": "D.Martinez right guard for 1 yard, TOUCHDOWN. J.Myers extra point is GOOD, Center-Z.Triner, Holder-M.Dickson.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017745913525",
+        "text": "M.Dickson punts 53 yards to KC 12, Center-Z.Triner. S.Moore for 88 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. B.Zappe pass to J.Holiday is incomplete. ATTEMPT FAILS.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      }
+    ],
+    "interceptions": [],
+    "fumbles": []
+  },
+  "processing_timestamp": "2025-08-20T10:50:08.229369"
+}

@@ -1,0 +1,3933 @@
+{
+  "game_id": "401773013",
+  "date": "2025-08-16",
+  "box_score": {
+    "game_info": {
+      "game_id": "401773013",
+      "date": "2025-08-16T17:00Z",
+      "status": {
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final"
+        },
+        "isTBDFlex": false
+      },
+      "venue": {},
+      "attendance": 0
+    },
+    "team_stats": {
+      "MIN": {
+        "score": 12,
+        "record": "0-0",
+        "home_away": "home"
+      },
+      "NE": {
+        "score": 20,
+        "record": "0-0",
+        "home_away": "away"
+      }
+    },
+    "player_stats": {
+      "Joshua Dobbs_NE": {
+        "name": "Joshua Dobbs",
+        "position": "",
+        "jersey": "11",
+        "team": "NE",
+        "stats": {
+          "0": "11/16",
+          "1": 106,
+          "2": 6.6,
+          "3": 1,
+          "4": 0,
+          "5": "0-0",
+          "6": 107.8
+        }
+      },
+      "Ben Wooldridge_NE": {
+        "name": "Ben Wooldridge",
+        "position": "",
+        "jersey": "17O",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 1.0,
+          "3": 0,
+          "4": 1
+        }
+      },
+      "Drake Maye_NE": {
+        "name": "Drake Maye",
+        "position": "",
+        "jersey": "10",
+        "team": "NE",
+        "stats": {
+          "0": "4/7",
+          "1": 46,
+          "2": 6.6,
+          "3": 0,
+          "4": 0,
+          "5": "0-0",
+          "6": 77.1
+        }
+      },
+      "JaMycal Hasty_NE": {
+        "name": "JaMycal Hasty",
+        "position": "",
+        "jersey": "39O",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 22,
+          "2": 22.0,
+          "3": 22,
+          "4": 0
+        }
+      },
+      "TreVeyon Henderson_NE": {
+        "name": "TreVeyon Henderson",
+        "position": "",
+        "jersey": "32",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 26,
+          "2": 26.0,
+          "3": 26,
+          "4": 0
+        }
+      },
+      "Antonio Gibson_NE": {
+        "name": "Antonio Gibson",
+        "position": "",
+        "jersey": "4",
+        "team": "NE",
+        "stats": {
+          "0": 7,
+          "1": 17,
+          "2": 2.4,
+          "3": 0,
+          "4": 8
+        }
+      },
+      "Shane Watts_NE": {
+        "name": "Shane Watts",
+        "position": "",
+        "jersey": "30O",
+        "team": "NE",
+        "stats": {
+          "0": 10,
+          "1": 15,
+          "2": 1.5,
+          "3": 0,
+          "4": 4
+        }
+      },
+      "John Jiles_NE": {
+        "name": "John Jiles",
+        "position": "",
+        "jersey": "83",
+        "team": "NE",
+        "stats": {
+          "0": 4,
+          "1": 24,
+          "2": 6.0,
+          "3": 0,
+          "4": 12,
+          "5": 5
+        }
+      },
+      "Efton Chism III_NE": {
+        "name": "Efton Chism III",
+        "position": "",
+        "jersey": "86",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 9,
+          "2": 9.0,
+          "3": 9,
+          "4": 0
+        }
+      },
+      "Mack Hollins_NE": {
+        "name": "Mack Hollins",
+        "position": "",
+        "jersey": "13",
+        "team": "NE",
+        "stats": {
+          "0": 3,
+          "1": 38,
+          "2": 12.7,
+          "3": 0,
+          "4": 20,
+          "5": 3
+        }
+      },
+      "Kyle Williams_NE": {
+        "name": "Kyle Williams",
+        "position": "",
+        "jersey": "18",
+        "team": "NE",
+        "stats": {
+          "0": 3,
+          "1": 24,
+          "2": 8.0,
+          "3": 0,
+          "4": 13,
+          "5": 3
+        }
+      },
+      "Javon Baker_NE": {
+        "name": "Javon Baker",
+        "position": "",
+        "jersey": "6",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 13,
+          "2": 13.0,
+          "3": 0,
+          "4": 13,
+          "5": 7
+        }
+      },
+      "Jaheim Bell_NE": {
+        "name": "Jaheim Bell",
+        "position": "",
+        "jersey": "88",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 10,
+          "2": 10.0,
+          "3": 0,
+          "4": 10,
+          "5": 1
+        }
+      },
+      "Kayshon Boutte_NE": {
+        "name": "Kayshon Boutte",
+        "position": "",
+        "jersey": "9",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 8,
+          "2": 8.0,
+          "3": 0,
+          "4": 8,
+          "5": 1
+        }
+      },
+      "Jeremiah Webb_NE": {
+        "name": "Jeremiah Webb",
+        "position": "",
+        "jersey": "29O",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 82,
+          "2": 41.0,
+          "3": 59,
+          "4": 0
+        }
+      },
+      "Cole Fotheringham_NE": {
+        "name": "Cole Fotheringham",
+        "position": "",
+        "jersey": "49",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 6,
+          "2": 6.0,
+          "3": 0,
+          "4": 6,
+          "5": 1
+        }
+      },
+      "DeMario Douglas_NE": {
+        "name": "DeMario Douglas",
+        "position": "",
+        "jersey": "3",
+        "team": "NE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "CJ Dippre_NE": {
+        "name": "CJ Dippre",
+        "position": "",
+        "jersey": "82",
+        "team": "NE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Kobee Minor_NE": {
+        "name": "Kobee Minor",
+        "position": "",
+        "jersey": "19",
+        "team": "NE",
+        "stats": {
+          "0": 6,
+          "1": 6,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kyle Dugger_NE": {
+        "name": "Kyle Dugger",
+        "position": "",
+        "jersey": "23",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "Dell Pettus_NE": {
+        "name": "Dell Pettus",
+        "position": "",
+        "jersey": "24",
+        "team": "NE",
+        "stats": {
+          "0": 4,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Brandon Crossley_NE": {
+        "name": "Brandon Crossley",
+        "position": "",
+        "jersey": "37D",
+        "team": "NE",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Anfernee Jennings_NE": {
+        "name": "Anfernee Jennings",
+        "position": "",
+        "jersey": "33",
+        "team": "NE",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 3,
+          "3": 3,
+          "4": 0,
+          "5": 3,
+          "6": 0
+        }
+      },
+      "Jordan Polk_NE": {
+        "name": "Jordan Polk",
+        "position": "",
+        "jersey": "39D",
+        "team": "NE",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Tre Avery_NE": {
+        "name": "Tre Avery",
+        "position": "",
+        "jersey": "26D",
+        "team": "NE",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Miles Battle_NE": {
+        "name": "Miles Battle",
+        "position": "",
+        "jersey": "35",
+        "team": "NE",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Isaiah Iton_NE": {
+        "name": "Isaiah Iton",
+        "position": "",
+        "jersey": "68",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Alex Austin_NE": {
+        "name": "Alex Austin",
+        "position": "",
+        "jersey": "28",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "Craig Woodson_NE": {
+        "name": "Craig Woodson",
+        "position": "",
+        "jersey": "31",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jeremiah Pharms Jr._NE": {
+        "name": "Jeremiah Pharms Jr.",
+        "position": "",
+        "jersey": "98",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Robert Spillane_NE": {
+        "name": "Robert Spillane",
+        "position": "",
+        "jersey": "14",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Monty Rice_NE": {
+        "name": "Monty Rice",
+        "position": "",
+        "jersey": "45",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Harold Landry III_NE": {
+        "name": "Harold Landry III",
+        "position": "",
+        "jersey": "2",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jaylinn Hawkins_NE": {
+        "name": "Jaylinn Hawkins",
+        "position": "",
+        "jersey": "21",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Christian Elliss_NE": {
+        "name": "Christian Elliss",
+        "position": "",
+        "jersey": "53",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jack Gibbens_NE": {
+        "name": "Jack Gibbens",
+        "position": "",
+        "jersey": "51",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jack Westover_NE": {
+        "name": "Jack Westover",
+        "position": "",
+        "jersey": "87",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Truman Jones_NE": {
+        "name": "Truman Jones",
+        "position": "",
+        "jersey": "54",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "R.J. Moten_NE": {
+        "name": "R.J. Moten",
+        "position": "",
+        "jersey": "46",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Bradyn Swinson_NE": {
+        "name": "Bradyn Swinson",
+        "position": "",
+        "jersey": "43",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joshua Farmer_NE": {
+        "name": "Joshua Farmer",
+        "position": "",
+        "jersey": "92",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Elijah Ponder_NE": {
+        "name": "Elijah Ponder",
+        "position": "",
+        "jersey": "91",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Khyiris Tonga_NE": {
+        "name": "Khyiris Tonga",
+        "position": "",
+        "jersey": "95",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cam Riley_NE": {
+        "name": "Cam Riley",
+        "position": "",
+        "jersey": "42",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kyle Peko_NE": {
+        "name": "Kyle Peko",
+        "position": "",
+        "jersey": "72",
+        "team": "NE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Carlton Davis III_NE": {
+        "name": "Carlton Davis III",
+        "position": "",
+        "jersey": "7",
+        "team": "NE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "K'Lavon Chaisson_NE": {
+        "name": "K'Lavon Chaisson",
+        "position": "",
+        "jersey": "44",
+        "team": "NE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "David Olajiga_NE": {
+        "name": "David Olajiga",
+        "position": "",
+        "jersey": "96",
+        "team": "NE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Marcus Jones_NE": {
+        "name": "Marcus Jones",
+        "position": "",
+        "jersey": "25",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 37,
+          "2": 37.0,
+          "3": 37,
+          "4": 0
+        }
+      },
+      "Andy Borregales_NE": {
+        "name": "Andy Borregales",
+        "position": "",
+        "jersey": "36",
+        "team": "NE",
+        "stats": {
+          "0": "1/2",
+          "1": 50.0,
+          "2": 51,
+          "3": "2/2",
+          "4": 5
+        }
+      },
+      "Parker Romo_NE": {
+        "name": "Parker Romo",
+        "position": "",
+        "jersey": "37S",
+        "team": "NE",
+        "stats": {
+          "0": "1/1",
+          "1": 100.0,
+          "2": 28,
+          "3": "0/0",
+          "4": 3
+        }
+      },
+      "Bryce Baringer_NE": {
+        "name": "Bryce Baringer",
+        "position": "",
+        "jersey": "17S",
+        "team": "NE",
+        "stats": {
+          "0": 4,
+          "1": 208,
+          "2": 52.0,
+          "3": 0,
+          "4": 2,
+          "5": 64
+        }
+      },
+      "Max Brosmer_MIN": {
+        "name": "Max Brosmer",
+        "position": "",
+        "jersey": "12",
+        "team": "MIN",
+        "stats": {
+          "0": "15/27",
+          "1": 156,
+          "2": 5.8,
+          "3": 0,
+          "4": 1,
+          "5": "4-33",
+          "6": 57.0
+        }
+      },
+      "Brett Rypien_MIN": {
+        "name": "Brett Rypien",
+        "position": "",
+        "jersey": "11",
+        "team": "MIN",
+        "stats": {
+          "0": "7/11",
+          "1": 83,
+          "2": 7.5,
+          "3": 0,
+          "4": 0,
+          "5": "0-0",
+          "6": 86.6
+        }
+      },
+      "Sam Howell_MIN": {
+        "name": "Sam Howell",
+        "position": "",
+        "jersey": "8",
+        "team": "MIN",
+        "stats": {
+          "0": 3,
+          "1": 14,
+          "2": 4.7,
+          "3": 0,
+          "4": 6
+        }
+      },
+      "Zavier Scott_MIN": {
+        "name": "Zavier Scott",
+        "position": "",
+        "jersey": "36",
+        "team": "MIN",
+        "stats": {
+          "0": 1,
+          "1": 20,
+          "2": 20.0,
+          "3": 20,
+          "4": 0
+        }
+      },
+      "Ty Chandler_MIN": {
+        "name": "Ty Chandler",
+        "position": "",
+        "jersey": "32",
+        "team": "MIN",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Tim Jones_MIN": {
+        "name": "Tim Jones",
+        "position": "",
+        "jersey": "14",
+        "team": "MIN",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "Jeshaun Jones_MIN": {
+        "name": "Jeshaun Jones",
+        "position": "",
+        "jersey": "82",
+        "team": "MIN",
+        "stats": {
+          "0": 4,
+          "1": 39,
+          "2": 9.8,
+          "3": 0,
+          "4": 25,
+          "5": 6
+        }
+      },
+      "Tai Felton_MIN": {
+        "name": "Tai Felton",
+        "position": "",
+        "jersey": "13",
+        "team": "MIN",
+        "stats": {
+          "0": 1,
+          "1": 21,
+          "2": 21.0,
+          "3": 21,
+          "4": 0
+        }
+      },
+      "Nick Vannett_MIN": {
+        "name": "Nick Vannett",
+        "position": "",
+        "jersey": "45",
+        "team": "MIN",
+        "stats": {
+          "0": 2,
+          "1": 21,
+          "2": 10.5,
+          "3": 0,
+          "4": 13,
+          "5": 2
+        }
+      },
+      "Bryson Nesbit_MIN": {
+        "name": "Bryson Nesbit",
+        "position": "",
+        "jersey": "46",
+        "team": "MIN",
+        "stats": {
+          "0": 1,
+          "1": 14,
+          "2": 14.0,
+          "3": 0,
+          "4": 14,
+          "5": 3
+        }
+      },
+      "Myles Price_MIN": {
+        "name": "Myles Price",
+        "position": "",
+        "jersey": "31",
+        "team": "MIN",
+        "stats": {
+          "0": 2,
+          "1": 33,
+          "2": 16.5,
+          "3": 20,
+          "4": 0
+        }
+      },
+      "Lucky Jackson_MIN": {
+        "name": "Lucky Jackson",
+        "position": "",
+        "jersey": "81",
+        "team": "MIN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Thayer Thomas_MIN": {
+        "name": "Thayer Thomas",
+        "position": "",
+        "jersey": "89",
+        "team": "MIN",
+        "stats": {
+          "0": 1,
+          "1": 8,
+          "2": 8.0,
+          "3": 0,
+          "4": 8,
+          "5": 4
+        }
+      },
+      "Tre Stewart_MIN": {
+        "name": "Tre Stewart",
+        "position": "",
+        "jersey": "38",
+        "team": "MIN",
+        "stats": {
+          "0": 2,
+          "1": 6,
+          "2": 3.0,
+          "3": 0,
+          "4": 4,
+          "5": 2
+        }
+      },
+      "Dontae Fleming_MIN": {
+        "name": "Dontae Fleming",
+        "position": "",
+        "jersey": "19",
+        "team": "MIN",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Austin Keys_MIN": {
+        "name": "Austin Keys",
+        "position": "",
+        "jersey": "56",
+        "team": "MIN",
+        "stats": {
+          "0": 7,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tavierre Thomas_MIN": {
+        "name": "Tavierre Thomas",
+        "position": "",
+        "jersey": "37",
+        "team": "MIN",
+        "stats": {
+          "0": 6,
+          "1": 6,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jay Ward_MIN": {
+        "name": "Jay Ward",
+        "position": "",
+        "jersey": "24",
+        "team": "MIN",
+        "stats": {
+          "0": 6,
+          "1": 5,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Dorian Mausi_MIN": {
+        "name": "Dorian Mausi",
+        "position": "",
+        "jersey": "52",
+        "team": "MIN",
+        "stats": {
+          "0": 6,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kobe King_MIN": {
+        "name": "Kobe King",
+        "position": "",
+        "jersey": "41",
+        "team": "MIN",
+        "stats": {
+          "0": 5,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Mekhi Blackmon_MIN": {
+        "name": "Mekhi Blackmon",
+        "position": "",
+        "jersey": "5",
+        "team": "MIN",
+        "stats": {
+          "0": 5,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Elijah Williams_MIN": {
+        "name": "Elijah Williams",
+        "position": "",
+        "jersey": "99",
+        "team": "MIN",
+        "stats": {
+          "0": 5,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jonathan Harris_MIN": {
+        "name": "Jonathan Harris",
+        "position": "",
+        "jersey": "92",
+        "team": "MIN",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Mishael Powell_MIN": {
+        "name": "Mishael Powell",
+        "position": "",
+        "jersey": "40",
+        "team": "MIN",
+        "stats": {
+          "0": 4,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tyler Batty_MIN": {
+        "name": "Tyler Batty",
+        "position": "",
+        "jersey": "96",
+        "team": "MIN",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Bo Richter_MIN": {
+        "name": "Bo Richter",
+        "position": "",
+        "jersey": "54",
+        "team": "MIN",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Taki Taimani_MIN": {
+        "name": "Taki Taimani",
+        "position": "",
+        "jersey": "94",
+        "team": "MIN",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Chaz Chambliss_MIN": {
+        "name": "Chaz Chambliss",
+        "position": "",
+        "jersey": "57",
+        "team": "MIN",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cam Gill_MIN": {
+        "name": "Cam Gill",
+        "position": "",
+        "jersey": "28",
+        "team": "MIN",
+        "stats": {
+          "0": 3,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Zemaiah Vaughn_MIN": {
+        "name": "Zemaiah Vaughn",
+        "position": "",
+        "jersey": "34",
+        "team": "MIN",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Kahlef Hailassie_MIN": {
+        "name": "Kahlef Hailassie",
+        "position": "",
+        "jersey": "25",
+        "team": "MIN",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Dwight McGlothern_MIN": {
+        "name": "Dwight McGlothern",
+        "position": "",
+        "jersey": "29",
+        "team": "MIN",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ryan Wright_MIN": {
+        "name": "Ryan Wright",
+        "position": "",
+        "jersey": "17",
+        "team": "MIN",
+        "stats": {
+          "0": 2,
+          "1": 101,
+          "2": 50.5,
+          "3": 0,
+          "4": 0,
+          "5": 56
+        }
+      },
+      "Gabriel Murphy_MIN": {
+        "name": "Gabriel Murphy",
+        "position": "",
+        "jersey": "59",
+        "team": "MIN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 3,
+          "6": 0
+        }
+      },
+      "Tyrion Ingram-Dawkins_MIN": {
+        "name": "Tyrion Ingram-Dawkins",
+        "position": "",
+        "jersey": "90",
+        "team": "MIN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Travis Bell_MIN": {
+        "name": "Travis Bell",
+        "position": "",
+        "jersey": "95",
+        "team": "MIN",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Gervarrius Owens_MIN": {
+        "name": "Gervarrius Owens",
+        "position": "",
+        "jersey": "39",
+        "team": "MIN",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Silas Bolden_MIN": {
+        "name": "Silas Bolden",
+        "position": "",
+        "jersey": "83",
+        "team": "MIN",
+        "stats": {
+          "0": 1,
+          "1": 19,
+          "2": 19.0,
+          "3": 19,
+          "4": 0
+        }
+      },
+      "Will Reichard_MIN": {
+        "name": "Will Reichard",
+        "position": "",
+        "jersey": "16",
+        "team": "MIN",
+        "stats": {
+          "0": "4/4",
+          "1": 100.0,
+          "2": 54,
+          "3": "0/0",
+          "4": 12
+        }
+      },
+      "Oscar Chapman_MIN": {
+        "name": "Oscar Chapman",
+        "position": "",
+        "jersey": "91",
+        "team": "MIN",
+        "stats": {
+          "0": 2,
+          "1": 105,
+          "2": 52.5,
+          "3": 0,
+          "4": 0,
+          "5": 58
+        }
+      }
+    },
+    "scoring_summary": []
+  },
+  "play_by_play": {
+    "game_info": {
+      "game_id": "401773013",
+      "teams": [
+        {
+          "abbreviation": "MIN",
+          "name": "Minnesota Vikings",
+          "score": 12,
+          "home_away": "home"
+        },
+        {
+          "abbreviation": "NE",
+          "name": "New England Patriots",
+          "score": 20,
+          "home_away": "away"
+        }
+      ],
+      "final_score": {}
+    },
+    "drives": [
+      {
+        "id": "4017730131",
+        "team": "NE",
+        "plays_count": 10,
+        "result": "PUNT",
+        "yards": 26
+      },
+      {
+        "id": "4017730132",
+        "team": "MIN",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": 20
+      },
+      {
+        "id": "4017730133",
+        "team": "NE",
+        "plays_count": 10,
+        "result": "TD",
+        "yards": 52
+      },
+      {
+        "id": "4017730134",
+        "team": "MIN",
+        "plays_count": 3,
+        "result": "INT",
+        "yards": 0
+      },
+      {
+        "id": "4017730135",
+        "team": "NE",
+        "plays_count": 9,
+        "result": "DOWNS",
+        "yards": 30
+      },
+      {
+        "id": "4017730136",
+        "team": "MIN",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": 20
+      },
+      {
+        "id": "4017730137",
+        "team": "NE",
+        "plays_count": 8,
+        "result": "MISSED FG",
+        "yards": 19
+      },
+      {
+        "id": "4017730138",
+        "team": "MIN",
+        "plays_count": 10,
+        "result": "DOWNS",
+        "yards": 41
+      },
+      {
+        "id": "4017730139",
+        "team": "NE",
+        "plays_count": 16,
+        "result": "TD",
+        "yards": 88
+      },
+      {
+        "id": "40177301310",
+        "team": "MIN",
+        "plays_count": 9,
+        "result": "FG",
+        "yards": 53
+      },
+      {
+        "id": "40177301311",
+        "team": "NE",
+        "plays_count": 2,
+        "result": "END OF HALF",
+        "yards": 0
+      },
+      {
+        "id": "40177301312",
+        "team": "MIN",
+        "plays_count": 15,
+        "result": "FG",
+        "yards": 48
+      },
+      {
+        "id": "40177301313",
+        "team": "NE",
+        "plays_count": 7,
+        "result": "PUNT",
+        "yards": 2
+      },
+      {
+        "id": "40177301314",
+        "team": "MIN",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": -25
+      },
+      {
+        "id": "40177301315",
+        "team": "NE",
+        "plays_count": 13,
+        "result": "FG",
+        "yards": 37
+      },
+      {
+        "id": "40177301316",
+        "team": "MIN",
+        "plays_count": 9,
+        "result": "FG",
+        "yards": 31
+      },
+      {
+        "id": "40177301317",
+        "team": "NE",
+        "plays_count": 12,
+        "result": "FG",
+        "yards": 32
+      },
+      {
+        "id": "40177301318",
+        "team": "MIN",
+        "plays_count": 6,
+        "result": "FG",
+        "yards": -1
+      },
+      {
+        "id": "40177301319",
+        "team": "NE",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 13
+      },
+      {
+        "id": "40177301320",
+        "team": "MIN",
+        "plays_count": 4,
+        "result": "PUNT",
+        "yards": 5
+      },
+      {
+        "id": "40177301321",
+        "team": "NE",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": -6
+      },
+      {
+        "id": "40177301322",
+        "team": "MIN",
+        "plays_count": 16,
+        "result": "INT",
+        "yards": 56
+      }
+    ],
+    "plays": [
+      {
+        "id": "40177301340",
+        "text": "W.Reichard kicks 64 yards from MIN 35 to NE 1. T.Henderson to NE 27 for 26 yards (C.Gill; C.Chambliss).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177301363",
+        "text": "D.Maye pass short middle to M.Hollins to NE 39 for 12 yards (Ta.Thomas).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 73,
+        "period": 1,
+        "clock": "14:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177301388",
+        "text": "A.Gibson left end to NE 47 for 8 yards (Ta.Thomas).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 61,
+        "period": 1,
+        "clock": "14:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013110",
+        "text": "(No Huddle) A.Gibson up the middle to 50 for 3 yards (T.Taimani).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 53,
+        "period": 1,
+        "clock": "13:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013132",
+        "text": "D.Maye pass incomplete deep right to D.Douglas.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 50,
+        "period": 1,
+        "clock": "13:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013155",
+        "text": "(Shotgun) PENALTY on NE, Delay of Game, 5 yards, enforced at 50 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 50,
+        "period": 1,
+        "clock": "12:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013179",
+        "text": "(Shotgun) D.Maye pass short left to K.Boutte to MIN 47 for 8 yards (Z.Vaughn).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 15,
+        "yard_line": 55,
+        "period": 1,
+        "clock": "12:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013204",
+        "text": "(Shotgun) D.Maye pass incomplete short left to T.Henderson (K.King).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 47,
+        "period": 1,
+        "clock": "12:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013227",
+        "text": "B.Baringer punts 34 yards to MIN 13, Center-J.Ashby, fair catch by T.Felton.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 7,
+        "yard_line": 47,
+        "period": 1,
+        "clock": "12:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013237",
+        "text": "Official Timeout at 12:04.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 13,
+        "period": 1,
+        "clock": "12:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013247",
+        "text": "T.Chandler right tackle to MIN 18 for 5 yards (A.Austin, R.Spillane).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 13,
+        "period": 1,
+        "clock": "12:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013276",
+        "text": "(No Huddle, Shotgun) T.Chandler up the middle to MIN 22 for 4 yards (C.Elliss).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 18,
+        "period": 1,
+        "clock": "11:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013298",
+        "text": "(No Huddle) S.Howell up the middle to MIN 25 for 3 yards (K.Tonga; R.Spillane).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 22,
+        "period": 1,
+        "clock": "11:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013320",
+        "text": "S.Howell scrambles up the middle to MIN 30 for 5 yards (H.Landry).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 1,
+        "clock": "10:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013342",
+        "text": "T.Chandler up the middle to MIN 33 for 3 yards (J.Pharms).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 30,
+        "period": 1,
+        "clock": "10:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013364",
+        "text": "(Shotgun) S.Howell pass incomplete short right to L.Jackson (C.Davis).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 33,
+        "period": 1,
+        "clock": "9:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013387",
+        "text": "R.Wright punts 56 yards to NE 11, Center-A.DePaola. M.Jones pushed ob at NE 48 for 37 yards (R.Wright).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 33,
+        "period": 1,
+        "clock": "9:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013403",
+        "text": "Official Timeout at 09:07.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 52,
+        "period": 1,
+        "clock": "9:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013418",
+        "text": "T.Henderson right end to NE 49 for 1 yard (T.Taimani; B.Richter).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 52,
+        "period": 1,
+        "clock": "9:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013447",
+        "text": "(Shotgun) D.Maye pass short middle to M.Hollins to MIN 45 for 6 yards (K.King).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 51,
+        "period": 1,
+        "clock": "8:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013472",
+        "text": "(Shotgun) D.Maye pass deep right to M.Hollins ran ob at MIN 25 for 20 yards.",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 45,
+        "period": 1,
+        "clock": "7:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013502",
+        "text": "T.Henderson left tackle to MIN 25 for no gain (E.Williams).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 1,
+        "clock": "7:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013524",
+        "text": "(Shotgun) D.Maye pass incomplete short left [T.Batty].",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 1,
+        "clock": "6:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013547",
+        "text": "(Shotgun) T.Henderson up the middle to MIN 14 for 11 yards (Ta.Thomas).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 1,
+        "clock": "6:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013569",
+        "text": "A.Gibson right end to MIN 7 for 7 yards (M.Blackmon).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 14,
+        "period": 1,
+        "clock": "5:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013591",
+        "text": "A.Gibson right guard to MIN 8 for -1 yards (T.Ingram-Dawkins).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 7,
+        "period": 1,
+        "clock": "5:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013613",
+        "text": "T.Henderson left end for 8 yards, TOUCHDOWN. A.Borregales extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "type": "Rushing Touchdown",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 8,
+        "period": 1,
+        "clock": "4:32",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773013644",
+        "text": "Official Timeout at 04:32.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "4:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013651",
+        "text": "A.Borregales kicks 62 yards from NE 35 to MIN 3. T.Felton to MIN 24 for 21 yards (J.Gibbens). FUMBLES (J.Gibbens), touched at MIN 26, recovered by MIN-A.Keys at MIN 21.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "4:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013697",
+        "text": "(Shotgun) S.Howell pass incomplete short middle to T.Chandler.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 21,
+        "period": 1,
+        "clock": "4:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013720",
+        "text": "(Shotgun) S.Howell pass short left intended for L.Jackson INTERCEPTED by A.Austin [K.Chaisson] at MIN 35. A.Austin to MIN 35 for no gain (L.Jackson).",
+        "type": "Pass Interception Return",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 21,
+        "period": 1,
+        "clock": "4:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013747",
+        "text": "(Shotgun) A.Gibson right guard to MIN 34 for 1 yard (T.Batty).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "4:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013769",
+        "text": "J.Dobbs pass short middle to K.Williams to MIN 21 for 13 yards (J.Ward).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 34,
+        "period": 1,
+        "clock": "3:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013794",
+        "text": "(Shotgun) J.Dobbs pass short right to E.Chism to MIN 18 for 3 yards (A.Keys).PENALTY on MIN-A.Keys, Face Mask, 9 yards, enforced at MIN 18.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 21,
+        "period": 1,
+        "clock": "2:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013830",
+        "text": "A.Gibson left end to MIN 7 for 2 yards (Ta.Thomas).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 9,
+        "yard_line": 9,
+        "period": 1,
+        "clock": "2:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013852",
+        "text": "(Shotgun) J.Dobbs pass short middle to E.Chism to MIN 2 for 5 yards (B.Richter).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 7,
+        "period": 1,
+        "clock": "1:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013877",
+        "text": "A.Gibson right end to MIN 5 for -3 yards (G.Murphy, J.Ward).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 2,
+        "period": 1,
+        "clock": "1:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013888",
+        "text": "Timeout #1 by MIN at 00:26.",
+        "type": "Timeout",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 5,
+        "period": 1,
+        "clock": "0:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013899",
+        "text": "(Shotgun) J.Dobbs pass incomplete short middle to J.Baker [G.Murphy].",
+        "type": "Pass Incompletion",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 5,
+        "period": 1,
+        "clock": "0:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013914",
+        "text": "Official Timeout at 00:21.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 5,
+        "period": 1,
+        "clock": "0:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013929",
+        "text": "Z.Scott right guard to MIN 7 for 2 yards (K.Minor).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 5,
+        "period": 1,
+        "clock": "0:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013958",
+        "text": "END QUARTER 1",
+        "type": "End Period",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 7,
+        "period": 1,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773013978",
+        "text": "S.Howell pass short right to N.Vannett to MIN 20 for 13 yards (K.Dugger).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 7,
+        "period": 2,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131003",
+        "text": "Z.Scott left tackle to MIN 19 for -1 yards (I.Iton).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 2,
+        "clock": "14:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131025",
+        "text": "(Shotgun) S.Howell pass incomplete short left to L.Jackson.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 19,
+        "period": 2,
+        "clock": "13:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131048",
+        "text": "(Shotgun) S.Howell scrambles left end pushed ob at MIN 25 for 6 yards (D.Pettus).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 11,
+        "yard_line": 19,
+        "period": 2,
+        "clock": "13:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131075",
+        "text": " O.Chapman punts 47 yards to NE 28, Center-A.DePaola. E.Chism to NE 37 for 9 yards (T.Batty).\nPENALTY on MIN-T.Jones, Player Out of Bounds on Kick, 5 yards, enforced at NE 37.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 25,
+        "period": 2,
+        "clock": "13:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131094",
+        "text": "Official Timeout at 12:52.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 2,
+        "clock": "12:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131112",
+        "text": "(Shotgun) J.Dobbs pass short right to J.Hasty pushed ob at NE 47 for 5 yards (J.Ward).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 2,
+        "clock": "12:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131149",
+        "text": "(Shotgun) J.Dobbs pass incomplete short left to J.Baker (B.Richter).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 53,
+        "period": 2,
+        "clock": "12:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131172",
+        "text": "(Shotgun) J.Dobbs pass short middle to C.Fotheringham to MIN 47 for 6 yards (K.Hailassie) [G.Murphy].Penalty on MIN-G.Murphy, Defensive Offside, declined.",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 53,
+        "period": 2,
+        "clock": "12:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131208",
+        "text": "(Shotgun) J.Hasty left guard to MIN 40 for 7 yards (J.Ward).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 2,
+        "clock": "12:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131230",
+        "text": "J.Hasty right tackle to MIN 39 for 1 yard (B.Richter).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 40,
+        "period": 2,
+        "clock": "11:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131252",
+        "text": "(Shotgun) J.Dobbs pass incomplete deep right to J.Baker.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 39,
+        "period": 2,
+        "clock": "10:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131275",
+        "text": "A.Borregales 57 yard field goal is No Good, Wide Left, Center-J.Ashby, Holder-B.Baringer.",
+        "type": "Field Goal Missed",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 39,
+        "period": 2,
+        "clock": "10:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131288",
+        "text": "Official Timeout at 10:46.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 2,
+        "clock": "10:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131300",
+        "text": "Z.Scott up the middle to MIN 49 for 2 yards (C.Woodson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 2,
+        "clock": "10:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131329",
+        "text": "B.Rypien pass short right to Z.Scott ran ob at NE 33 for 18 yards (K.Minor).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 49,
+        "period": 2,
+        "clock": "10:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131359",
+        "text": " Z.Scott left guard to NE 29 for 4 yards (J.Farmer).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 67,
+        "period": 2,
+        "clock": "9:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131381",
+        "text": "(No Huddle, Shotgun) B.Rypien pass short right to N.Vannett to NE 21 for 8 yards (C.Riley; A.Austin).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 71,
+        "period": 2,
+        "clock": "9:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131406",
+        "text": "(No Huddle, Shotgun) PENALTY on MIN-J.Huber, False Start, 5 yards, enforced at NE 21 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 2,
+        "clock": "8:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131430",
+        "text": "(Shotgun) B.Rypien pass short left to L.Jackson pushed ob at NE 17 for 9 yards (K.Minor).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 74,
+        "period": 2,
+        "clock": "8:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131460",
+        "text": "Z.Scott up the middle to NE 12 for 5 yards (I.Iton, C.Woodson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 83,
+        "period": 2,
+        "clock": "7:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131482",
+        "text": "B.Rypien pass incomplete short right to Z.Scott.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 88,
+        "period": 2,
+        "clock": "6:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131505",
+        "text": " (Shotgun) B.Rypien pass incomplete short right to Th.Thomas.",
+        "type": "Pass Incompletion",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 88,
+        "period": 2,
+        "clock": "6:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131517",
+        "text": "Official Timeout at 06:49.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 88,
+        "period": 2,
+        "clock": "6:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131528",
+        "text": "J.Hasty left end to NE 13 for 1 yard (M.Blackmon; T.Batty).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 88,
+        "period": 2,
+        "clock": "6:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131557",
+        "text": "(Shotgun) J.Dobbs pass short left to K.Williams to NE 18 for 5 yards (A.Keys; C.Chambliss).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 87,
+        "period": 2,
+        "clock": "6:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131582",
+        "text": "(Shotgun) J.Dobbs pass short left to K.Williams to NE 24 for 6 yards (A.Keys). NE-K.Williams was injured during the play.",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 82,
+        "period": 2,
+        "clock": "5:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131610",
+        "text": "J.Hasty up the middle to NE 31 for 7 yards (J.Ward).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 76,
+        "period": 2,
+        "clock": "5:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131632",
+        "text": "J.Dobbs pass incomplete short right to J.Baker [K.King].",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 69,
+        "period": 2,
+        "clock": "4:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131655",
+        "text": "(Shotgun) J.Dobbs pass short left to E.Chism to NE 42 for 11 yards (Z.Vaughn).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 69,
+        "period": 2,
+        "clock": "4:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131680",
+        "text": "J.Dobbs pass deep left to E.Chism to MIN 25 for 33 yards (Ta.Thomas).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 2,
+        "clock": "3:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131705",
+        "text": "S.Watts right tackle to MIN 23 for 2 yards (J.Harris).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 2,
+        "clock": "3:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131727",
+        "text": "S.Watts left tackle to MIN 20 for 3 yards (Ta.Thomas).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 23,
+        "period": 2,
+        "clock": "2:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131738",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 20,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131749",
+        "text": "(Shotgun) J.Dobbs pass short middle to E.Chism to MIN 13 for 7 yards (K.King).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 20,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131781",
+        "text": "J.Hasty left end to MIN 7 for 6 yards (M.Blackmon; A.Keys).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 13,
+        "period": 2,
+        "clock": "1:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131792",
+        "text": "Timeout #2 by MIN at 01:12.",
+        "type": "Timeout",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 7,
+        "period": 2,
+        "clock": "1:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131803",
+        "text": "(Shotgun) PENALTY on NE-J.Baker, False Start, 5 yards, enforced at MIN 7 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 7,
+        "period": 2,
+        "clock": "1:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131834",
+        "text": "(Shotgun) J.Dobbs pass incomplete short left to J.Baker.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 12,
+        "period": 2,
+        "clock": "1:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131857",
+        "text": "(Shotgun) J.Dobbs pass short left to E.Chism for 12 yards, TOUCHDOWN. A.Borregales extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "type": "Passing Touchdown",
+        "down": 3,
+        "distance": 9,
+        "yard_line": 12,
+        "period": 2,
+        "clock": "1:01",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730131898",
+        "text": "J.Romo kicks 54 yards from NE 35 to MIN 11. Z.Scott to MIN 31 for 20 yards (J.Hawkins).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "1:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131921",
+        "text": "(Shotgun) B.Rypien pass short left to T.Felton pushed ob at MIN 43 for 12 yards (K.Minor).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 31,
+        "period": 2,
+        "clock": "0:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131951",
+        "text": "(Shotgun) B.Rypien pass incomplete short right to Th.Thomas.PENALTY on NE-A.Austin, Illegal Contact, 5 yards, enforced at MIN 43 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 2,
+        "clock": "0:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730131985",
+        "text": "(Shotgun) B.Rypien pass short left to Z.Scott to NE 44 for 8 yards (D.Pettus).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 48,
+        "period": 2,
+        "clock": "0:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132010",
+        "text": "(No Huddle, Shotgun) B.Rypien pass deep middle to T.Felton to NE 24 for 20 yards (M.Battle).Penalty on NE-A.Austin, Illegal Contact, declined.",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 56,
+        "period": 2,
+        "clock": "0:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132046",
+        "text": "(Shotgun) B.Rypien pass short left to Th.Thomas ran ob at NE 16 for 8 yards.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 76,
+        "period": 2,
+        "clock": "0:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132076",
+        "text": "(Shotgun) B.Rypien pass incomplete deep middle to Th.Thomas.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 84,
+        "period": 2,
+        "clock": "0:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132099",
+        "text": "(Shotgun) B.Rypien pass incomplete short left to L.Jackson.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 84,
+        "period": 2,
+        "clock": "0:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132122",
+        "text": " W.Reichard 34 yard field goal is GOOD, Center-A.DePaola, Holder-R.Wright.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 84,
+        "period": 2,
+        "clock": "0:05",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730132142",
+        "text": "W.Reichard kicks 66 yards from MIN 35 to NE -1. J.Webb to MIN 42 for 59 yards (M.Price).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132165",
+        "text": "END QUARTER 2",
+        "type": "End of Half",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132185",
+        "text": "A.Borregales kicks 58 yards from NE 35 to MIN 7. S.Bolden to MIN 26 for 19 yards (J.Westover).PENALTY on MIN-M.Tooley, Offensive Holding, 10 yards, enforced at MIN 26.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132219",
+        "text": "(Shotgun) M.Brosmer pass short left to J.Jones pushed ob at MIN 21 for 5 yards (M.Battle).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 16,
+        "period": 3,
+        "clock": "14:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132249",
+        "text": "Z.Scott right tackle to MIN 24 for 3 yards (T.Jones). NE-I.Iton was injured during the play.",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 21,
+        "period": 3,
+        "clock": "14:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132262",
+        "text": "Official Timeout at 14:13.",
+        "type": "Official Timeout",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 24,
+        "period": 3,
+        "clock": "14:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132274",
+        "text": "(Shotgun) M.Brosmer pass short right to T.Jones to MIN 32 for 8 yards (K.Minor).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 24,
+        "period": 3,
+        "clock": "13:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132306",
+        "text": "(No Huddle, Shotgun) M.Brosmer pass short left to M.Price pushed ob at MIN 38 for 6 yards (K.Dugger).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 32,
+        "period": 3,
+        "clock": "13:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132336",
+        "text": "Z.Scott up the middle to MIN 39 for 1 yard (K.Dugger).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 38,
+        "period": 3,
+        "clock": "12:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132358",
+        "text": "(Shotgun) M.Brosmer pass short left to J.Jones to MIN 45 for 6 yards (M.Battle).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 39,
+        "period": 3,
+        "clock": "12:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132383",
+        "text": "Z.Scott left tackle to MIN 47 for 2 yards (M.Rice; J.Pharms).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 3,
+        "clock": "11:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132405",
+        "text": "M.Brosmer pass short right to Z.Scott to NE 35 for 18 yards (K.Dugger).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 47,
+        "period": 3,
+        "clock": "10:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132430",
+        "text": "(No Huddle, Shotgun) M.Brosmer sacked at NE 40 for -5 yards (Jo.Polk).",
+        "type": "Sack",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "10:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132450",
+        "text": "(Shotgun) Z.Scott right end to NE 36 for 4 yards (K.Minor).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 15,
+        "yard_line": 60,
+        "period": 3,
+        "clock": "9:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132472",
+        "text": "(Shotgun) M.Brosmer pass incomplete deep right.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 11,
+        "yard_line": 64,
+        "period": 3,
+        "clock": "9:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132495",
+        "text": "W.Reichard 54 yard field goal is GOOD, Center-A.DePaola, Holder-O.Chapman.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 11,
+        "yard_line": 64,
+        "period": 3,
+        "clock": "8:47",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730132505",
+        "text": "Official Timeout at 08:47.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "8:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132515",
+        "text": "W.Reichard kicks 66 yards from MIN 35 to NE -1. J.Webb to NE 22 for 23 yards (G.Owens; K.King).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "8:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132545",
+        "text": "J.Hasty up the middle to NE 27 for 5 yards (J.Ward; B.Richter).PENALTY on NE-S.Sow, Offensive Holding, 10 yards, enforced at NE 22 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 78,
+        "period": 3,
+        "clock": "8:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132578",
+        "text": "(Shotgun) B.Wooldridge pass short left to J.Jiles to NE 16 for 4 yards (M.Blackmon).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 20,
+        "yard_line": 88,
+        "period": 3,
+        "clock": "8:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132603",
+        "text": "B.Wooldridge pass short middle to J.Webb to NE 24 for 8 yards (D.Mausi).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 16,
+        "yard_line": 84,
+        "period": 3,
+        "clock": "7:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132628",
+        "text": "(Shotgun) B.Wooldridge pass incomplete short right to J.Baker [G.Murphy].",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 76,
+        "period": 3,
+        "clock": "6:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132651",
+        "text": "B.Baringer punts 64 yards to MIN 12, Center-J.Ashby. M.Price to MIN 32 for 20 yards (E.Ponder).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 8,
+        "yard_line": 76,
+        "period": 3,
+        "clock": "6:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132664",
+        "text": "Official Timeout at 06:39.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 33,
+        "period": 3,
+        "clock": "6:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132677",
+        "text": "M.Brosmer pass deep right to M.Price ran ob at 50 for 18 yards.PENALTY on MIN-M.Price, Illegal Formation, 5 yards, enforced at MIN 32 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 32,
+        "period": 3,
+        "clock": "6:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132725",
+        "text": "(Shotgun) T.Stewart right tackle to MIN 27 for no gain (B.Swinson).PENALTY on NE-J.Ritzie, Defensive Holding, 5 yards, enforced at MIN 27 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 27,
+        "period": 3,
+        "clock": "6:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132758",
+        "text": "M.Brosmer pass incomplete deep right to J.Jones.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 32,
+        "period": 3,
+        "clock": "5:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132781",
+        "text": "M.Brosmer sacked at MIN 18 for -14 yards (A.Jennings).",
+        "type": "Sack",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 32,
+        "period": 3,
+        "clock": "5:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132801",
+        "text": "(Shotgun) PENALTY on MIN, Delay of Game, 5 yards, enforced at MIN 18 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 24,
+        "yard_line": 18,
+        "period": 3,
+        "clock": "4:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132825",
+        "text": "(Shotgun) M.Brosmer sacked at MIN 7 for -6 yards (A.Jennings).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 29,
+        "yard_line": 13,
+        "period": 3,
+        "clock": "4:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132845",
+        "text": "R.Wright punts 45 yards to NE 48, Center-A.DePaola, fair catch by J.Webb.PENALTY on MIN-D.Mausi, Illegal Formation, 5 yards, enforced at NE 48.Penalty on MIN-D.McGlothern, Player Out of Bounds on Kick, declined.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 35,
+        "yard_line": 7,
+        "period": 3,
+        "clock": "3:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132861",
+        "text": "Official Timeout at 03:48.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 3,
+        "clock": "3:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132876",
+        "text": "B.Wooldridge pass short middle to J.Jiles to MIN 35 for 12 yards (J.Ward).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 3,
+        "clock": "3:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132908",
+        "text": "B.Wooldridge pass incomplete short right to C.Dippre.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "3:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132931",
+        "text": "(Shotgun) J.Hasty right guard to MIN 28 for 7 yards (K.King).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "3:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132953",
+        "text": "(Shotgun) B.Wooldridge pass short left to J.Jiles to MIN 25 for 3 yards (M.Blackmon) [Z.Vaughn].",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 28,
+        "period": 3,
+        "clock": "2:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730132978",
+        "text": "J.Hasty right tackle to MIN 19 for 6 yards (E.Williams).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 3,
+        "clock": "1:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133000",
+        "text": "S.Watts right tackle to MIN 16 for 3 yards (D.Mausi; D.McGlothern).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 19,
+        "period": 3,
+        "clock": "1:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133022",
+        "text": "S.Watts left guard to MIN 15 for 1 yard (K.King).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 16,
+        "period": 3,
+        "clock": "0:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133044",
+        "text": "END QUARTER 3",
+        "type": "End Period",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 15,
+        "period": 3,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133064",
+        "text": "(Shotgun) B.Wooldridge pass short left to J.Jiles to MIN 10 for 5 yards (C.Gill; E.Williams).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 15,
+        "period": 4,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133090",
+        "text": "(Shotgun) B.Wooldridge pass incomplete short middle to J.Jiles.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 10,
+        "period": 4,
+        "clock": "14:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133113",
+        "text": "(Shotgun) B.Wooldridge pass incomplete short left to J.Webb (Z.Vaughn).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 10,
+        "period": 4,
+        "clock": "14:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133136",
+        "text": "Parker Romo 28 Yd Field Goal ",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 10,
+        "period": 4,
+        "clock": "14:11",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730133146",
+        "text": "Official Timeout at 14:11.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "14:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133156",
+        "text": "J.Romo kicks 32 yards from NE 35 to MIN 33, short of landing zone.PENALTY on NE-J.Romo, Kickoff Short of Landing Zone, placed at MIN 40.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "14:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133203",
+        "text": "Z.Scott up the middle to MIN 46 for 6 yards (B.Swinson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "14:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133225",
+        "text": "(Shotgun) M.Brosmer pass incomplete short left to T.Jones.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 46,
+        "period": 4,
+        "clock": "13:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133248",
+        "text": "(Shotgun) M.Brosmer pass deep left to T.Jones pushed ob at NE 26 for 28 yards (T.Avery).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 46,
+        "period": 4,
+        "clock": "13:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133278",
+        "text": "(Shotgun) M.Brosmer pass short middle to M.Price to NE 21 for 5 yards (Jo.Polk).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 4,
+        "clock": "12:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133303",
+        "text": "M.Brosmer pass incomplete short right to B.Nesbit.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 79,
+        "period": 4,
+        "clock": "12:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133330",
+        "text": "(Shotgun) M.Brosmer sacked at NE 29 for -8 yards (A.Jennings).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 79,
+        "period": 4,
+        "clock": "12:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133350",
+        "text": "W.Reichard 47 yard field goal is GOOD, Center-A.DePaola, Holder-O.Chapman.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 13,
+        "yard_line": 71,
+        "period": 4,
+        "clock": "11:24",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730133360",
+        "text": "Official Timeout at 11:24.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "11:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133370",
+        "text": "W.Reichard kicks 65 yards from MIN 35 to end zone, Touchback to the NE 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "11:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133394",
+        "text": "S.Watts left tackle to NE 38 for 3 yards (D.Mausi; K.Hailassie).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "11:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133416",
+        "text": "(Shotgun) S.Watts left end to NE 42 for 4 yards (A.Keys).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 62,
+        "period": 4,
+        "clock": "10:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133438",
+        "text": "(Shotgun) J.Hasty left tackle to NE 47 for 5 yards (D.Mausi; M.Powell).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 58,
+        "period": 4,
+        "clock": "10:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133460",
+        "text": "(Shotgun) B.Wooldridge pass incomplete short left to J.Webb.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 53,
+        "period": 4,
+        "clock": "9:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133483",
+        "text": "(Shotgun) S.Watts up the middle to 50 for 3 yards (M.Powell; T.Bell).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 53,
+        "period": 4,
+        "clock": "9:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133505",
+        "text": "(Shotgun) B.Wooldridge pass short left to J.Baker ran ob at MIN 37 for 13 yards.Penalty on MIN-C.Gill, Defensive Offside, declined.",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 50,
+        "period": 4,
+        "clock": "8:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133546",
+        "text": "J.Hasty up the middle to MIN 36 for 1 yard (E.Williams; D.Mausi).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 37,
+        "period": 4,
+        "clock": "8:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133568",
+        "text": "J.Jiles left end to MIN 29 for 7 yards (D.Mausi).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 36,
+        "period": 4,
+        "clock": "7:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133590",
+        "text": "S.Watts left tackle to MIN 33 for -4 yards (D.McGlothern, T.Taimani).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 29,
+        "period": 4,
+        "clock": "7:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133612",
+        "text": " A.Borregales 51 yard field goal is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 6,
+        "yard_line": 33,
+        "period": 4,
+        "clock": "6:24",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730133622",
+        "text": "Official Timeout at 06:24.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "6:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133632",
+        "text": "A.Borregales kicks 54 yards from NE 35 to MIN 11. M.Price to NE 8 for 81 yards (Jo.Polk).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "6:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133662",
+        "text": "(Shotgun) M.Brosmer pass short right to T.Stewart to NE 4 for 4 yards (R.Moten).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 8,
+        "yard_line": 92,
+        "period": 4,
+        "clock": "6:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133687",
+        "text": "(Shotgun) M.Brosmer pass incomplete short right to J.Jones [R.Moten].",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 4,
+        "clock": "5:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133710",
+        "text": "(Shotgun) M.Brosmer pass incomplete short left to M.Price [D.Olajiga].",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 4,
+        "clock": "5:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133733",
+        "text": "(Shotgun) PENALTY on MIN-L.Watson, False Start, 5 yards, enforced at NE 4 - No Play.",
+        "type": "Penalty",
+        "down": 4,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 4,
+        "clock": "5:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133757",
+        "text": "W.Reichard 27 yard field goal is GOOD, Center-A.DePaola, Holder-O.Chapman.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 9,
+        "yard_line": 91,
+        "period": 4,
+        "clock": "5:20",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730133777",
+        "text": "W.Reichard kicks 59 yards from MIN 35 to NE 6. J.Hasty to NE 28 for 22 yards (C.Chambliss).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "5:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133800",
+        "text": "B.Wooldridge pass short right to J.Bell to NE 38 for 10 yards (M.Powell; A.Keys).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 4,
+        "clock": "5:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133825",
+        "text": "J.Hasty left guard to NE 39 for 1 yard (J.Harris).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 62,
+        "period": 4,
+        "clock": "4:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133847",
+        "text": "S.Watts right end to NE 41 for 2 yards (C.Gill; M.Powell).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 61,
+        "period": 4,
+        "clock": "3:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133869",
+        "text": "(Shotgun) B.Wooldridge pass incomplete short right [C.Gill].",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 59,
+        "period": 4,
+        "clock": "3:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133892",
+        "text": "B.Baringer punts 53 yards to MIN 6, Center-J.Ashby, downed by NE-M.Battle.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 7,
+        "yard_line": 59,
+        "period": 4,
+        "clock": "3:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133912",
+        "text": "(Shotgun) M.Brosmer pass short right to J.Jones pushed ob at MIN 9 for 3 yards (B.Crossley).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 6,
+        "period": 4,
+        "clock": "2:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133942",
+        "text": "(Shotgun) M.Brosmer pass incomplete deep left to T.Jones.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 9,
+        "period": 4,
+        "clock": "2:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133965",
+        "text": "(Shotgun) M.Brosmer pass short right to T.Stewart pushed ob at MIN 11 for 2 yards (D.Pettus).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 9,
+        "period": 4,
+        "clock": "2:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730133995",
+        "text": "O.Chapman punts 58 yards to NE 31, Center-A.DePaola, downed by MIN-R.Steward.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 11,
+        "period": 4,
+        "clock": "2:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134015",
+        "text": "S.Watts left guard to NE 33 for 2 yards (G.Owens).PENALTY on NE-T.Robinson, Offensive Holding, 10 yards, enforced at NE 31 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 4,
+        "clock": "2:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134048",
+        "text": "S.Watts left end to NE 19 for -2 yards (J.Harris).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 20,
+        "yard_line": 79,
+        "period": 4,
+        "clock": "2:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134059",
+        "text": "Timeout #1 by MIN at 02:16.",
+        "type": "Timeout",
+        "down": 2,
+        "distance": 22,
+        "yard_line": 81,
+        "period": 4,
+        "clock": "2:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134070",
+        "text": "B.Wooldridge scrambles left tackle to NE 20 for 1 yard (E.Williams).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 22,
+        "yard_line": 81,
+        "period": 4,
+        "clock": "2:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134085",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 3,
+        "distance": 21,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134099",
+        "text": "J.Hasty right tackle to NE 25 for 5 yards (J.Harris; A.Keys).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 21,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134114",
+        "text": "Timeout #2 by MIN at 01:56.",
+        "type": "Timeout",
+        "down": 4,
+        "distance": 16,
+        "yard_line": 75,
+        "period": 4,
+        "clock": "1:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134128",
+        "text": "B.Baringer punts 57 yards to MIN 18, Center-J.Ashby. M.Price ran ob at MIN 31 for 13 yards (D.Pettus).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 16,
+        "yard_line": 75,
+        "period": 4,
+        "clock": "1:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134166",
+        "text": "(Shotgun) M.Brosmer pass incomplete short left to T.Jones (T.Avery).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 31,
+        "period": 4,
+        "clock": "1:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134198",
+        "text": "(Shotgun) M.Brosmer pass short right to T.Jones to MIN 34 for 3 yards (B.Crossley).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 31,
+        "period": 4,
+        "clock": "1:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134230",
+        "text": "(No Huddle, Shotgun) M.Brosmer pass short left to B.Nesbit pushed ob at MIN 37 for 3 yards (Jo.Polk).PENALTY on MIN-J.Huber, Illegal Use of Hands, 10 yards, enforced at MIN 34 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 34,
+        "period": 4,
+        "clock": "1:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134271",
+        "text": "(Shotgun) M.Brosmer pass incomplete deep left to D.Fleming.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 17,
+        "yard_line": 24,
+        "period": 4,
+        "clock": "1:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134294",
+        "text": "(Shotgun) M.Brosmer pass deep left to J.Jones to MIN 49 for 25 yards (T.Avery) [K.Peko].",
+        "type": "Pass Reception",
+        "down": 4,
+        "distance": 17,
+        "yard_line": 24,
+        "period": 4,
+        "clock": "1:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134319",
+        "text": "(No Huddle, Shotgun) M.Brosmer pass deep left to T.Jones pushed ob at NE 29 for 22 yards (T.Avery).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 49,
+        "period": 4,
+        "clock": "0:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134354",
+        "text": "(Shotgun) M.Brosmer pass short right to T.Jones to NE 22 for 7 yards (B.Crossley). FUMBLES (B.Crossley), ball out of bounds at NE 22.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 71,
+        "period": 4,
+        "clock": "0:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134412",
+        "text": "(No Huddle, Shotgun) M.Brosmer pass incomplete short left to Th.Thomas.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 78,
+        "period": 4,
+        "clock": "0:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134424",
+        "text": "Timeout #1 by NE at 00:14.",
+        "type": "Timeout",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 78,
+        "period": 4,
+        "clock": "0:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134436",
+        "text": "(Shotgun) M.Brosmer pass short middle to B.Nesbit to NE 8 for 14 yards (B.Crossley; M.Rice).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 78,
+        "period": 4,
+        "clock": "0:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134454",
+        "text": "Timeout #3 by MIN at 00:06.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 8,
+        "yard_line": 92,
+        "period": 4,
+        "clock": "0:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134471",
+        "text": "(Shotgun) PENALTY on MIN-L.Brown, False Start, 5 yards, enforced at NE 8 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 8,
+        "yard_line": 92,
+        "period": 4,
+        "clock": "0:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134502",
+        "text": "(Shotgun) M.Brosmer pass incomplete short middle to M.Price.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 13,
+        "yard_line": 87,
+        "period": 4,
+        "clock": "0:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134514",
+        "text": "Timeout #2 by NE at 00:03.",
+        "type": "Timeout",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 87,
+        "period": 4,
+        "clock": "0:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134525",
+        "text": "(Shotgun) M.Brosmer pass deep middle intended for B.Nesbit INTERCEPTED by K.Dugger [E.Ponder] at NE -5. Touchback.The Replay Official reviewed the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands.",
+        "type": "Pass Interception Return",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 87,
+        "period": 4,
+        "clock": "0:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730134608",
+        "text": "END GAME",
+        "type": "End of Game",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      }
+    ],
+    "scoring_plays": [],
+    "touchdowns": [
+      {
+        "play_id": "401773013613",
+        "text": "T.Henderson left end for 8 yards, TOUCHDOWN. A.Borregales extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730131857",
+        "text": "(Shotgun) J.Dobbs pass short left to E.Chism for 12 yards, TOUCHDOWN. A.Borregales extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      }
+    ],
+    "interceptions": [
+      {
+        "play_id": "401773013720",
+        "text": "(Shotgun) S.Howell pass short left intended for L.Jackson INTERCEPTED by A.Austin [K.Chaisson] at MIN 35. A.Austin to MIN 35 for no gain (L.Jackson).",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730134525",
+        "text": "(Shotgun) M.Brosmer pass deep middle intended for B.Nesbit INTERCEPTED by K.Dugger [E.Ponder] at NE -5. Touchback.The Replay Official reviewed the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      }
+    ],
+    "fumbles": []
+  },
+  "processing_timestamp": "2025-08-20T10:50:13.938008"
+}

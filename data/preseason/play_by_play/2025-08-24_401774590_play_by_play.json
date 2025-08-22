@@ -1,0 +1,26 @@
+{
+  "game_info": {
+    "game_id": "401774590",
+    "teams": [
+      {
+        "abbreviation": "ARI",
+        "name": "Arizona Cardinals",
+        "score": 0,
+        "home_away": "home"
+      },
+      {
+        "abbreviation": "LV",
+        "name": "Las Vegas Raiders",
+        "score": 0,
+        "home_away": "away"
+      }
+    ],
+    "final_score": {}
+  },
+  "drives": [],
+  "plays": [],
+  "scoring_plays": [],
+  "touchdowns": [],
+  "interceptions": [],
+  "fumbles": []
+}

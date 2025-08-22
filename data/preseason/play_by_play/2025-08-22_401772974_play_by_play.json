@@ -1,0 +1,26 @@
+{
+  "game_info": {
+    "game_id": "401772974",
+    "teams": [
+      {
+        "abbreviation": "NYG",
+        "name": "New York Giants",
+        "score": 0,
+        "home_away": "home"
+      },
+      {
+        "abbreviation": "NE",
+        "name": "New England Patriots",
+        "score": 0,
+        "home_away": "away"
+      }
+    ],
+    "final_score": {}
+  },
+  "drives": [],
+  "plays": [],
+  "scoring_plays": [],
+  "touchdowns": [],
+  "interceptions": [],
+  "fumbles": []
+}

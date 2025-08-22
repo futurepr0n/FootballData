@@ -1,0 +1,4117 @@
+{
+  "game_id": "401773005",
+  "date": "2025-08-07",
+  "box_score": {
+    "game_info": {
+      "game_id": "401773005",
+      "date": "2025-08-07T23:30Z",
+      "status": {
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final"
+        },
+        "isTBDFlex": false
+      },
+      "venue": {},
+      "attendance": 0
+    },
+    "team_stats": {
+      "PHI": {
+        "score": 34,
+        "record": "0-0",
+        "home_away": "home"
+      },
+      "CIN": {
+        "score": 27,
+        "record": "0-0",
+        "home_away": "away"
+      }
+    },
+    "player_stats": {
+      "Joe Burrow_CIN": {
+        "name": "Joe Burrow",
+        "position": "",
+        "jersey": "9",
+        "team": "CIN",
+        "stats": {
+          "0": "9/10",
+          "1": 123,
+          "2": 12.3,
+          "3": 2,
+          "4": 0,
+          "5": "0-0",
+          "6": 157.5
+        }
+      },
+      "Desmond Ridder_CIN": {
+        "name": "Desmond Ridder",
+        "position": "",
+        "jersey": "4",
+        "team": "CIN",
+        "stats": {
+          "0": "7/16",
+          "1": 91,
+          "2": 5.7,
+          "3": 1,
+          "4": 0,
+          "5": "0-0",
+          "6": 83.1
+        }
+      },
+      "Jake Browning_CIN": {
+        "name": "Jake Browning",
+        "position": "",
+        "jersey": "6",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": -1,
+          "2": -1.0,
+          "3": 0,
+          "4": -1
+        }
+      },
+      "Tahj Brooks_CIN": {
+        "name": "Tahj Brooks",
+        "position": "",
+        "jersey": "25",
+        "team": "CIN",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Chase Brown_CIN": {
+        "name": "Chase Brown",
+        "position": "",
+        "jersey": "30",
+        "team": "CIN",
+        "stats": {
+          "0": 3,
+          "1": 25,
+          "2": 8.3,
+          "3": 0,
+          "4": 13,
+          "5": 3
+        }
+      },
+      "Gary Brightwell_CIN": {
+        "name": "Gary Brightwell",
+        "position": "",
+        "jersey": "32",
+        "team": "CIN",
+        "stats": {
+          "0": 3,
+          "1": 93,
+          "2": 31.0,
+          "3": 35,
+          "4": 0
+        }
+      },
+      "Ja'Marr Chase_CIN": {
+        "name": "Ja'Marr Chase",
+        "position": "",
+        "jersey": "1",
+        "team": "CIN",
+        "stats": {
+          "0": 4,
+          "1": 77,
+          "2": 19.3,
+          "3": 1,
+          "4": 36,
+          "5": 4
+        }
+      },
+      "Tanner Hudson_CIN": {
+        "name": "Tanner Hudson",
+        "position": "",
+        "jersey": "87",
+        "team": "CIN",
+        "stats": {
+          "0": 6,
+          "1": 62,
+          "2": 10.3,
+          "3": 2,
+          "4": 21,
+          "5": 8
+        }
+      },
+      "Jamoi Mayes_CIN": {
+        "name": "Jamoi Mayes",
+        "position": "",
+        "jersey": "16",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 48,
+          "2": 48.0,
+          "3": 0,
+          "4": 48,
+          "5": 4
+        }
+      },
+      "Charlie Jones_CIN": {
+        "name": "Charlie Jones",
+        "position": "",
+        "jersey": "15",
+        "team": "CIN",
+        "stats": {
+          "0": 3,
+          "1": 41,
+          "2": 13.7,
+          "3": 0,
+          "4": 21,
+          "5": 6
+        }
+      },
+      "Mitchell Tinsley_CIN": {
+        "name": "Mitchell Tinsley",
+        "position": "",
+        "jersey": "82",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 15,
+          "2": 15.0,
+          "3": 0,
+          "4": 15,
+          "5": 1
+        }
+      },
+      "Jermaine Burton_CIN": {
+        "name": "Jermaine Burton",
+        "position": "",
+        "jersey": "81",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 32,
+          "2": 32.0,
+          "3": 32,
+          "4": 0
+        }
+      },
+      "Jordan Moore_CIN": {
+        "name": "Jordan Moore",
+        "position": "",
+        "jersey": "14",
+        "team": "CIN",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 1.0,
+          "3": 0,
+          "4": 2,
+          "5": 3
+        }
+      },
+      "Kendric Pryor_CIN": {
+        "name": "Kendric Pryor",
+        "position": "",
+        "jersey": "19",
+        "team": "CIN",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Tee Higgins_CIN": {
+        "name": "Tee Higgins",
+        "position": "",
+        "jersey": "5",
+        "team": "CIN",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Tanner McLachlan_CIN": {
+        "name": "Tanner McLachlan",
+        "position": "",
+        "jersey": "84",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Rashod Owens_CIN": {
+        "name": "Rashod Owens",
+        "position": "",
+        "jersey": "12",
+        "team": "CIN",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Isaiah Williams_CIN": {
+        "name": "Isaiah Williams",
+        "position": "",
+        "jersey": "18",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 16,
+          "2": 16.0,
+          "3": 16,
+          "4": 0
+        }
+      },
+      "Cole Burgess_CIN": {
+        "name": "Cole Burgess",
+        "position": "",
+        "jersey": "17",
+        "team": "CIN",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "PJ Jules_CIN": {
+        "name": "PJ Jules",
+        "position": "",
+        "jersey": "37",
+        "team": "CIN",
+        "stats": {
+          "0": 6,
+          "1": 6,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Shaka Heyward_CIN": {
+        "name": "Shaka Heyward",
+        "position": "",
+        "jersey": "50",
+        "team": "CIN",
+        "stats": {
+          "0": 6,
+          "1": 5,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Maema Njongmeta_CIN": {
+        "name": "Maema Njongmeta",
+        "position": "",
+        "jersey": "45",
+        "team": "CIN",
+        "stats": {
+          "0": 5,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kris Jenkins Jr._CIN": {
+        "name": "Kris Jenkins Jr.",
+        "position": "",
+        "jersey": "90",
+        "team": "CIN",
+        "stats": {
+          "0": 5,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "DJ Ivey_CIN": {
+        "name": "DJ Ivey",
+        "position": "",
+        "jersey": "38",
+        "team": "CIN",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "McKinnley Jackson_CIN": {
+        "name": "McKinnley Jackson",
+        "position": "",
+        "jersey": "93",
+        "team": "CIN",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 3,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jaylen Key_CIN": {
+        "name": "Jaylen Key",
+        "position": "",
+        "jersey": "43",
+        "team": "CIN",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Oren Burks_CIN": {
+        "name": "Oren Burks",
+        "position": "",
+        "jersey": "42",
+        "team": "CIN",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Raymond Johnson III_CIN": {
+        "name": "Raymond Johnson III",
+        "position": "",
+        "jersey": "56",
+        "team": "CIN",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tycen Anderson_CIN": {
+        "name": "Tycen Anderson",
+        "position": "",
+        "jersey": "26",
+        "team": "CIN",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nate Brooks_CIN": {
+        "name": "Nate Brooks",
+        "position": "",
+        "jersey": "41",
+        "team": "CIN",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Bralyn Lux_CIN": {
+        "name": "Bralyn Lux",
+        "position": "",
+        "jersey": "21",
+        "team": "CIN",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Taven Bryan_CIN": {
+        "name": "Taven Bryan",
+        "position": "",
+        "jersey": "70",
+        "team": "CIN",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Isaiah Thomas_CIN": {
+        "name": "Isaiah Thomas",
+        "position": "",
+        "jersey": "51",
+        "team": "CIN",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Josh Newton_CIN": {
+        "name": "Josh Newton",
+        "position": "",
+        "jersey": "28",
+        "team": "CIN",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jordan Battle_CIN": {
+        "name": "Jordan Battle",
+        "position": "",
+        "jersey": "27",
+        "team": "CIN",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Barrett Carter_CIN": {
+        "name": "Barrett Carter",
+        "position": "",
+        "jersey": "49",
+        "team": "CIN",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Joe Giles-Harris_CIN": {
+        "name": "Joe Giles-Harris",
+        "position": "",
+        "jersey": "53",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 2,
+          "2": 0
+        }
+      },
+      "Demetrius Knight Jr._CIN": {
+        "name": "Demetrius Knight Jr.",
+        "position": "",
+        "jersey": "44",
+        "team": "CIN",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Myles Murphy_CIN": {
+        "name": "Myles Murphy",
+        "position": "",
+        "jersey": "99",
+        "team": "CIN",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jalen Davis_CIN": {
+        "name": "Jalen Davis",
+        "position": "",
+        "jersey": "35",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Logan Wilson_CIN": {
+        "name": "Logan Wilson",
+        "position": "",
+        "jersey": "55",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cal Adomitis_CIN": {
+        "name": "Cal Adomitis",
+        "position": "",
+        "jersey": "48",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cam Sample_CIN": {
+        "name": "Cam Sample",
+        "position": "",
+        "jersey": "96",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "DJ Turner II_CIN": {
+        "name": "DJ Turner II",
+        "position": "",
+        "jersey": "20",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "William Wagner_CIN": {
+        "name": "William Wagner",
+        "position": "",
+        "jersey": "46",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Shaquan Loyal_CIN": {
+        "name": "Shaquan Loyal",
+        "position": "",
+        "jersey": "47",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Shemar Stewart_CIN": {
+        "name": "Shemar Stewart",
+        "position": "",
+        "jersey": "97",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Daijahn Anthony_CIN": {
+        "name": "Daijahn Anthony",
+        "position": "",
+        "jersey": "33",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joseph Ossai_CIN": {
+        "name": "Joseph Ossai",
+        "position": "",
+        "jersey": "58",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Howard Cross III_CIN": {
+        "name": "Howard Cross III",
+        "position": "",
+        "jersey": "95",
+        "team": "CIN",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Craig Young_CIN": {
+        "name": "Craig Young",
+        "position": "",
+        "jersey": "59",
+        "team": "CIN",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Evan McPherson_CIN": {
+        "name": "Evan McPherson",
+        "position": "",
+        "jersey": "2",
+        "team": "CIN",
+        "stats": {
+          "0": "2/2",
+          "1": 100.0,
+          "2": 51,
+          "3": "3/3",
+          "4": 9
+        }
+      },
+      "Ryan Rehkow_CIN": {
+        "name": "Ryan Rehkow",
+        "position": "",
+        "jersey": "8",
+        "team": "CIN",
+        "stats": {
+          "0": 5,
+          "1": 226,
+          "2": 45.2,
+          "3": 0,
+          "4": 2,
+          "5": 54
+        }
+      },
+      "Tanner McKee_PHI": {
+        "name": "Tanner McKee",
+        "position": "",
+        "jersey": "16",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 1.0,
+          "3": 1,
+          "4": 1
+        }
+      },
+      "Dorian Thompson-Robinson_PHI": {
+        "name": "Dorian Thompson-Robinson",
+        "position": "",
+        "jersey": "14",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "Kyle McCord_PHI": {
+        "name": "Kyle McCord",
+        "position": "",
+        "jersey": "19",
+        "team": "PHI",
+        "stats": {
+          "0": "1/5",
+          "1": 8,
+          "2": 1.6,
+          "3": 0,
+          "4": 1,
+          "5": "0-0",
+          "6": 0.0
+        }
+      },
+      "Will Shipley_PHI": {
+        "name": "Will Shipley",
+        "position": "",
+        "jersey": "28",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 4,
+          "2": 4.0,
+          "3": 0,
+          "4": 4,
+          "5": 1
+        }
+      },
+      "ShunDerrick Powell_PHI": {
+        "name": "ShunDerrick Powell",
+        "position": "",
+        "jersey": "39O",
+        "team": "PHI",
+        "stats": {
+          "0": 6,
+          "1": 32,
+          "2": 5.3,
+          "3": 1,
+          "4": 19
+        }
+      },
+      "AJ Dillon_PHI": {
+        "name": "AJ Dillon",
+        "position": "",
+        "jersey": "29",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 27,
+          "2": 9.0,
+          "3": 0,
+          "4": 11,
+          "5": 3
+        }
+      },
+      "Keilan Robinson_PHI": {
+        "name": "Keilan Robinson",
+        "position": "",
+        "jersey": "35O",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 74,
+          "2": 24.7,
+          "3": 32,
+          "4": 0
+        }
+      },
+      "Darius Cooper_PHI": {
+        "name": "Darius Cooper",
+        "position": "",
+        "jersey": "41O",
+        "team": "PHI",
+        "stats": {
+          "0": 6,
+          "1": 82,
+          "2": 13.7,
+          "3": 1,
+          "4": 20,
+          "5": 7
+        }
+      },
+      "Johnny Wilson_PHI": {
+        "name": "Johnny Wilson",
+        "position": "",
+        "jersey": "89",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 73,
+          "2": 24.3,
+          "3": 0,
+          "4": 28,
+          "5": 6
+        }
+      },
+      "Taylor Morin_PHI": {
+        "name": "Taylor Morin",
+        "position": "",
+        "jersey": "45O",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 30,
+          "2": 15.0,
+          "3": 0,
+          "4": 24,
+          "5": 4
+        }
+      },
+      "Kylen Granson_PHI": {
+        "name": "Kylen Granson",
+        "position": "",
+        "jersey": "83",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 28,
+          "2": 9.3,
+          "3": 0,
+          "4": 16,
+          "5": 3
+        }
+      },
+      "Jahan Dotson_PHI": {
+        "name": "Jahan Dotson",
+        "position": "",
+        "jersey": "2",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 27,
+          "2": 13.5,
+          "3": 0,
+          "4": 15,
+          "5": 2
+        }
+      },
+      "E.J. Jenkins_PHI": {
+        "name": "E.J. Jenkins",
+        "position": "",
+        "jersey": "84",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ainias Smith_PHI": {
+        "name": "Ainias Smith",
+        "position": "",
+        "jersey": "82",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 46,
+          "2": 46.0,
+          "3": 46,
+          "4": 0
+        }
+      },
+      "Giles Jackson_PHI": {
+        "name": "Giles Jackson",
+        "position": "",
+        "jersey": "42O",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 8,
+          "2": 8.0,
+          "3": 0,
+          "4": 8,
+          "5": 1
+        }
+      },
+      "Nick Muse_PHI": {
+        "name": "Nick Muse",
+        "position": "",
+        "jersey": "87",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 6,
+          "2": 6.0,
+          "3": 0,
+          "4": 6,
+          "5": 1
+        }
+      },
+      "Grant Calcaterra_PHI": {
+        "name": "Grant Calcaterra",
+        "position": "",
+        "jersey": "81",
+        "team": "PHI",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Cameron Williams_PHI": {
+        "name": "Cameron Williams",
+        "position": "",
+        "jersey": "73",
+        "team": "PHI",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 1
+        }
+      },
+      "Jeremiah Trotter Jr._PHI": {
+        "name": "Jeremiah Trotter Jr.",
+        "position": "",
+        "jersey": "54",
+        "team": "PHI",
+        "stats": {
+          "0": 6,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Adoree' Jackson_PHI": {
+        "name": "Adoree' Jackson",
+        "position": "",
+        "jersey": "8",
+        "team": "PHI",
+        "stats": {
+          "0": 4,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Andre' Sam_PHI": {
+        "name": "Andre' Sam",
+        "position": "",
+        "jersey": "31",
+        "team": "PHI",
+        "stats": {
+          "0": 4,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Dallas Gant_PHI": {
+        "name": "Dallas Gant",
+        "position": "",
+        "jersey": "57",
+        "team": "PHI",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Smael Mondon Jr._PHI": {
+        "name": "Smael Mondon Jr.",
+        "position": "",
+        "jersey": "42D",
+        "team": "PHI",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Parry Nickerson_PHI": {
+        "name": "Parry Nickerson",
+        "position": "",
+        "jersey": "34D",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Maxen Hook_PHI": {
+        "name": "Maxen Hook",
+        "position": "",
+        "jersey": "37D",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Sydney Brown_PHI": {
+        "name": "Sydney Brown",
+        "position": "",
+        "jersey": "21",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kelee Ringo_PHI": {
+        "name": "Kelee Ringo",
+        "position": "",
+        "jersey": "7",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Gabe Hall_PHI": {
+        "name": "Gabe Hall",
+        "position": "",
+        "jersey": "96",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jihaad Campbell_PHI": {
+        "name": "Jihaad Campbell",
+        "position": "",
+        "jersey": "30",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ty Robinson_PHI": {
+        "name": "Ty Robinson",
+        "position": "",
+        "jersey": "95",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Ogbo Okoronkwo_PHI": {
+        "name": "Ogbo Okoronkwo",
+        "position": "",
+        "jersey": "50",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jacob Sykes_PHI": {
+        "name": "Jacob Sykes",
+        "position": "",
+        "jersey": "93",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ben VanSumeren_PHI": {
+        "name": "Ben VanSumeren",
+        "position": "",
+        "jersey": "43",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "A.J. Woods_PHI": {
+        "name": "A.J. Woods",
+        "position": "",
+        "jersey": "39D",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Brandon Johnson_PHI": {
+        "name": "Brandon Johnson",
+        "position": "",
+        "jersey": "35D",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joshua Uche_PHI": {
+        "name": "Joshua Uche",
+        "position": "",
+        "jersey": "0",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Lance Dixon_PHI": {
+        "name": "Lance Dixon",
+        "position": "",
+        "jersey": "41D",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tariq Castro-Fields_PHI": {
+        "name": "Tariq Castro-Fields",
+        "position": "",
+        "jersey": "46D",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cameron Latu_PHI": {
+        "name": "Cameron Latu",
+        "position": "",
+        "jersey": "49O",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Eli Ricks_PHI": {
+        "name": "Eli Ricks",
+        "position": "",
+        "jersey": "23",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ochaun Mathis_PHI": {
+        "name": "Ochaun Mathis",
+        "position": "",
+        "jersey": "45D",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Azeez Ojulari_PHI": {
+        "name": "Azeez Ojulari",
+        "position": "",
+        "jersey": "13",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Lewis Cine_PHI": {
+        "name": "Lewis Cine",
+        "position": "",
+        "jersey": "38",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joe Evans_PHI": {
+        "name": "Joe Evans",
+        "position": "",
+        "jersey": "61",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Mac McWilliams_PHI": {
+        "name": "Mac McWilliams",
+        "position": "",
+        "jersey": "22",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Patrick Johnson_PHI": {
+        "name": "Patrick Johnson",
+        "position": "",
+        "jersey": "48D",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 15,
+          "2": 0
+        }
+      },
+      "Avery Williams_PHI": {
+        "name": "Avery Williams",
+        "position": "",
+        "jersey": "18",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 15,
+          "2": 5.0,
+          "3": 7,
+          "4": 0
+        }
+      },
+      "Jake Elliott_PHI": {
+        "name": "Jake Elliott",
+        "position": "",
+        "jersey": "4",
+        "team": "PHI",
+        "stats": {
+          "0": "2/2",
+          "1": 100.0,
+          "2": 44,
+          "3": "3/3",
+          "4": 9
+        }
+      },
+      "Braden Mann_PHI": {
+        "name": "Braden Mann",
+        "position": "",
+        "jersey": "10",
+        "team": "PHI",
+        "stats": {
+          "0": 4,
+          "1": 189,
+          "2": 47.3,
+          "3": 0,
+          "4": 2,
+          "5": 65
+        }
+      }
+    },
+    "scoring_summary": []
+  },
+  "play_by_play": {
+    "game_info": {
+      "game_id": "401773005",
+      "teams": [
+        {
+          "abbreviation": "PHI",
+          "name": "Philadelphia Eagles",
+          "score": 34,
+          "home_away": "home"
+        },
+        {
+          "abbreviation": "CIN",
+          "name": "Cincinnati Bengals",
+          "score": 27,
+          "home_away": "away"
+        }
+      ],
+      "final_score": {}
+    },
+    "drives": [
+      {
+        "id": "4017730051",
+        "team": "CIN",
+        "plays_count": 13,
+        "result": "TD",
+        "yards": 71
+      },
+      {
+        "id": "4017730052",
+        "team": "PHI",
+        "plays_count": 11,
+        "result": "TD",
+        "yards": 75
+      },
+      {
+        "id": "4017730053",
+        "team": "CIN",
+        "plays_count": 7,
+        "result": "TD",
+        "yards": 65
+      },
+      {
+        "id": "4017730054",
+        "team": "PHI",
+        "plays_count": 9,
+        "result": "FG",
+        "yards": 47
+      },
+      {
+        "id": "4017730055",
+        "team": "CIN",
+        "plays_count": 11,
+        "result": "PUNT",
+        "yards": 26
+      },
+      {
+        "id": "4017730056",
+        "team": "PHI",
+        "plays_count": 7,
+        "result": "PUNT",
+        "yards": 39
+      },
+      {
+        "id": "4017730057",
+        "team": "CIN",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": 27
+      },
+      {
+        "id": "4017730058",
+        "team": "PHI",
+        "plays_count": 14,
+        "result": "TD",
+        "yards": 72
+      },
+      {
+        "id": "4017730059",
+        "team": "CIN",
+        "plays_count": 7,
+        "result": "PUNT",
+        "yards": 8
+      },
+      {
+        "id": "40177300510",
+        "team": "PHI",
+        "plays_count": 2,
+        "result": "TD",
+        "yards": 29
+      },
+      {
+        "id": "40177300511",
+        "team": "CIN",
+        "plays_count": 3,
+        "result": "END OF HALF",
+        "yards": -1
+      },
+      {
+        "id": "40177300512",
+        "team": "PHI",
+        "plays_count": 16,
+        "result": "FG",
+        "yards": 61
+      },
+      {
+        "id": "40177300513",
+        "team": "CIN",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 4
+      },
+      {
+        "id": "40177300514",
+        "team": "PHI",
+        "plays_count": 4,
+        "result": "PUNT",
+        "yards": 5
+      },
+      {
+        "id": "40177300515",
+        "team": "CIN",
+        "plays_count": 5,
+        "result": "FG",
+        "yards": 5
+      },
+      {
+        "id": "40177300516",
+        "team": "PHI",
+        "plays_count": 9,
+        "result": "DOWNS",
+        "yards": 42
+      },
+      {
+        "id": "40177300517",
+        "team": "CIN",
+        "plays_count": 4,
+        "result": "INT",
+        "yards": 2
+      },
+      {
+        "id": "40177300518",
+        "team": "PHI",
+        "plays_count": 8,
+        "result": "TD",
+        "yards": 20
+      },
+      {
+        "id": "40177300519",
+        "team": "CIN",
+        "plays_count": 9,
+        "result": "PUNT",
+        "yards": 19
+      },
+      {
+        "id": "40177300520",
+        "team": "PHI",
+        "plays_count": 6,
+        "result": "INT",
+        "yards": -1
+      },
+      {
+        "id": "40177300521",
+        "team": "CIN",
+        "plays_count": 4,
+        "result": "FG",
+        "yards": 2
+      },
+      {
+        "id": "40177300522",
+        "team": "PHI",
+        "plays_count": 7,
+        "result": "PUNT",
+        "yards": 16
+      },
+      {
+        "id": "40177300523",
+        "team": "CIN",
+        "plays_count": 8,
+        "result": "TD",
+        "yards": 92
+      },
+      {
+        "id": "40177300524",
+        "team": "PHI",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": -3
+      },
+      {
+        "id": "40177300525",
+        "team": "CIN",
+        "plays_count": 5,
+        "result": "DOWNS",
+        "yards": 1
+      },
+      {
+        "id": "40177300526",
+        "team": "PHI",
+        "plays_count": 4,
+        "result": "END OF GAME",
+        "yards": -2
+      }
+    ],
+    "plays": [
+      {
+        "id": "40177300539",
+        "text": "J.Elliott kicks 60 yards from PHI 35 to CIN 5. J.Burton to CIN 29 for 24 yards (C.Latu).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177300562",
+        "text": "(Shotgun) C.Brown left guard to CIN 34 for 5 yards (T.Robinson; S.Brown).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 71,
+        "period": 1,
+        "clock": "14:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177300584",
+        "text": "(Shotgun) J.Burrow pass incomplete deep left to T.Higgins.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 66,
+        "period": 1,
+        "clock": "14:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005107",
+        "text": "(Shotgun) J.Burrow pass short right to J.Chase ran ob at CIN 46 for 12 yards (A.Jackson).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 66,
+        "period": 1,
+        "clock": "14:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005137",
+        "text": "(Shotgun) C.Brown left guard to PHI 46 for 8 yards (J.Uche; J.Trotter).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 1,
+        "clock": "13:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005159",
+        "text": "(Shotgun) J.Burrow pass short left to J.Chase to PHI 40 for 6 yards (K.Ringo; J.Trotter).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 46,
+        "period": 1,
+        "clock": "13:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005184",
+        "text": "J.Burrow pass deep left to J.Chase ran ob at PHI 17 for 23 yards.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 40,
+        "period": 1,
+        "clock": "12:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005214",
+        "text": "(No Huddle, Shotgun) J.Burrow pass short left to C.Brown ran ob at PHI 8 for 9 yards (S.Brown).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 17,
+        "period": 1,
+        "clock": "12:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005244",
+        "text": "(Shotgun) C.Brown left guard to PHI 6 for 2 yards (G.Hall; A.Ojulari).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 8,
+        "period": 1,
+        "clock": "11:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005266",
+        "text": "(Shotgun) J.Burrow pass short right to J.Chase for 6 yards, TOUCHDOWN NULLIFIED by Penalty.PENALTY on CIN-L.Patrick, Chop Block, 15 yards, enforced at PHI 6 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 6,
+        "yard_line": 6,
+        "period": 1,
+        "clock": "10:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005303",
+        "text": "(Shotgun) J.Burrow pass short right to C.Jones to PHI 12 for 9 yards (A.Jackson).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 21,
+        "yard_line": 21,
+        "period": 1,
+        "clock": "10:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005328",
+        "text": "(Shotgun) J.Burrow pass short left to T.Hudson for 12 yards, TOUCHDOWN. E.McPherson extra point is GOOD, Center-C.Adomitis, Holder-R.Rehkow.",
+        "type": "Passing Touchdown",
+        "down": 2,
+        "distance": 12,
+        "yard_line": 12,
+        "period": 1,
+        "clock": "9:56",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773005367",
+        "text": "Official Timeout at 09:56.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "9:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005374",
+        "text": "E.McPherson kicks 65 yards from CIN 35 to PHI 0. A.Williams to PHI 25 for 25 yards (J.Giles-Harris).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "9:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005409",
+        "text": "(Shotgun) W.Shipley right end to PHI 29 for 4 yards (D.Knight).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 1,
+        "clock": "9:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005431",
+        "text": "(Shotgun) T.McKee pass short left to J.Dotson to PHI 41 for 12 yards (J.Newton).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 29,
+        "period": 1,
+        "clock": "9:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005456",
+        "text": "W.Shipley right tackle to CIN 21 for 38 yards (J.Battle).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 41,
+        "period": 1,
+        "clock": "8:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005478",
+        "text": "(Shotgun) W.Shipley right guard to CIN 20 for 1 yard (K.Jenkins; O.Burks).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 1,
+        "clock": "7:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005500",
+        "text": "(Shotgun) T.McKee pass short right to J.Dotson to CIN 5 for 15 yards (J.Battle).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 80,
+        "period": 1,
+        "clock": "7:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005525",
+        "text": "(Shotgun) W.Shipley left tackle to CIN 3 for 2 yards (K.Jenkins; D.Knight).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 5,
+        "yard_line": 95,
+        "period": 1,
+        "clock": "6:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005547",
+        "text": "(Shotgun) W.Shipley left guard to CIN 1 for 2 yards (K.Jenkins; J.Ossai).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 97,
+        "period": 1,
+        "clock": "6:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005569",
+        "text": "(Shotgun) W.Shipley left tackle to CIN 1 for no gain (M.Murphy; K.Jenkins).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 1,
+        "clock": "5:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005591",
+        "text": "T.McKee up the middle for 1 yard, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Johnstone, Holder-B.Mann.",
+        "type": "Rushing Touchdown",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 1,
+        "clock": "5:00",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773005622",
+        "text": "Official Timeout at 05:00.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "5:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005629",
+        "text": "J.Elliott kicks 65 yards from PHI 35 to CIN 0. G.Brightwell to CIN 35 for 35 yards (A.Sam).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "5:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005659",
+        "text": "(Shotgun) J.Burrow pass short right to C.Brown to CIN 48 for 13 yards (J.Campbell; J.Trotter).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "4:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005684",
+        "text": "C.Brown left tackle to PHI 46 for 6 yards (S.Brown).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 52,
+        "period": 1,
+        "clock": "4:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005706",
+        "text": "J.Burrow pass short right to C.Brown to PHI 43 for 3 yards (A.Jackson, J.Trotter).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 46,
+        "period": 1,
+        "clock": "3:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005731",
+        "text": "C.Brown right guard to PHI 41 for 2 yards (J.Evans; J.Campbell).PENALTY on PHI-J.Campbell, Illegal Use of Hands, 5 yards, enforced at PHI 41.",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 43,
+        "period": 1,
+        "clock": "2:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005764",
+        "text": "(Shotgun) J.Burrow pass short left to J.Chase for 36 yards, TOUCHDOWN [J.Trotter]. E.McPherson extra point is GOOD, Center-C.Adomitis, Holder-R.Rehkow.",
+        "type": "Passing Touchdown",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 36,
+        "period": 1,
+        "clock": "2:28",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773005798",
+        "text": "Official Timeout at 02:28.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "2:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005805",
+        "text": "E.McPherson kicks 58 yards from CIN 35 to PHI 7. A.Smith to PHI 27 for 20 yards (S.Heyward; O.Burks).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "2:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005835",
+        "text": "(Shotgun) T.McKee pass deep left to J.Wilson to CIN 46 for 27 yards (J.Newton).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 27,
+        "period": 1,
+        "clock": "2:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005860",
+        "text": "T.McKee pass short right to D.Cooper ran ob at CIN 31 for 15 yards (L.Wilson).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 1,
+        "clock": "1:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005890",
+        "text": "(Shotgun) W.Shipley up the middle to CIN 30 for 1 yard (M.Murphy; K.Jenkins).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 1,
+        "clock": "1:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005912",
+        "text": "(Shotgun) T.McKee pass short right to W.Shipley to CIN 26 for 4 yards (D.Turner).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 70,
+        "period": 1,
+        "clock": "0:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005937",
+        "text": "END QUARTER 1",
+        "type": "End Period",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 74,
+        "period": 1,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005957",
+        "text": "(Shotgun) T.McKee pass incomplete short right to G.Calcaterra.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 74,
+        "period": 2,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773005980",
+        "text": " J.Elliott 44 yard field goal is GOOD, Center-C.Johnstone, Holder-B.Mann.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 74,
+        "period": 2,
+        "clock": "14:48",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773005990",
+        "text": "Official Timeout at 14:48.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "14:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051000",
+        "text": "J.Elliott kicks 64 yards from PHI 35 to CIN 1. G.Brightwell to PHI 28 for 71 yards (A.Sam).PENALTY on CIN-C.Grandy, Offensive Holding, 10 yards, enforced at CIN 30.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "14:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051041",
+        "text": "(Shotgun) J.Browning pass short left to T.Hudson to CIN 29 for 9 yards (K.Ringo; S.Mondon).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 2,
+        "clock": "14:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051066",
+        "text": "(Shotgun) T.Brooks left guard to CIN 31 for 2 yards (M.McWilliams; J.Uche).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 71,
+        "period": 2,
+        "clock": "14:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051088",
+        "text": "(Shotgun) J.Browning pass short right to C.Jones to CIN 42 for 11 yards (K.Ringo).Penalty on PHI-M.McWilliams, Illegal Contact, declined.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 2,
+        "clock": "13:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051124",
+        "text": "T.Brooks right guard to PHI 48 for 10 yards (A.Jackson; J.Campbell).PENALTY on CIN-J.Rivers, Offensive Holding, 10 yards, enforced at CIN 42 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 2,
+        "clock": "12:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051157",
+        "text": "(Shotgun) J.Browning pass deep right to C.Jones pushed ob at PHI 47 for 21 yards (A.Jackson).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 20,
+        "yard_line": 68,
+        "period": 2,
+        "clock": "12:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051187",
+        "text": "T.Brooks right guard to PHI 46 for 1 yard (G.Hall).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 2,
+        "clock": "11:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051209",
+        "text": "(Shotgun) J.Browning sacked at CIN 46 for -8 yards (T.Robinson).",
+        "type": "Sack",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 46,
+        "period": 2,
+        "clock": "11:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051229",
+        "text": "(Shotgun) J.Browning pass incomplete short middle to I.Williams.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 17,
+        "yard_line": 54,
+        "period": 2,
+        "clock": "10:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051252",
+        "text": "R.Rehkow punts 44 yards to PHI 10, Center-C.Adomitis, out of bounds.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 17,
+        "yard_line": 54,
+        "period": 2,
+        "clock": "10:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051262",
+        "text": "Official Timeout at 10:18.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 10,
+        "period": 2,
+        "clock": "10:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051271",
+        "text": "(Shotgun) T.McKee pass deep right to J.Wilson to PHI 38 for 28 yards (J.Davis).Penalty on CIN-J.Davis, Defensive Pass Interference, declined.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 10,
+        "period": 2,
+        "clock": "10:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051323",
+        "text": "A.Dillon left guard to PHI 48 for 10 yards (C.Sample).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 38,
+        "period": 2,
+        "clock": "9:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051345",
+        "text": "(Shotgun) A.Dillon left guard to PHI 45 for -3 yards (S.Stewart).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 48,
+        "period": 2,
+        "clock": "9:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051367",
+        "text": "(Shotgun) T.McKee sacked at PHI 38 for -7 yards (T.Bryan).",
+        "type": "Sack",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 45,
+        "period": 2,
+        "clock": "8:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051387",
+        "text": "(Shotgun) T.McKee pass short middle to A.Dillon to PHI 49 for 11 yards (B.Carter; T.Anderson).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 20,
+        "yard_line": 38,
+        "period": 2,
+        "clock": "8:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051412",
+        "text": " B.Mann punts 41 yards to CIN 10, Center-C.Johnstone, out of bounds.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 9,
+        "yard_line": 49,
+        "period": 2,
+        "clock": "7:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051422",
+        "text": "Official Timeout at 07:17.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 90,
+        "period": 2,
+        "clock": "7:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051431",
+        "text": "(Shotgun) T.Brooks up the middle to CIN 15 for 5 yards (A.Sam, J.Campbell).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 90,
+        "period": 2,
+        "clock": "7:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051460",
+        "text": "(Shotgun) T.Brooks up the middle to CIN 15 for no gain (J.Sykes).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 85,
+        "period": 2,
+        "clock": "6:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051482",
+        "text": "(Shotgun) J.Browning pass short middle to M.Tinsley to CIN 30 for 15 yards (E.Ricks).Penalty on PHI-E.Ricks, Defensive Pass Interference, declined.",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 85,
+        "period": 2,
+        "clock": "6:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051518",
+        "text": "(Shotgun) T.Brooks up the middle to CIN 34 for 4 yards (O.Okoronkwo).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 70,
+        "period": 2,
+        "clock": "5:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051540",
+        "text": "(Shotgun) J.Browning pass short left to T.Brooks to CIN 37 for 3 yards (B.Johnson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 66,
+        "period": 2,
+        "clock": "5:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051565",
+        "text": "(Shotgun) J.Browning pass incomplete deep left to C.Jones (E.Ricks).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 63,
+        "period": 2,
+        "clock": "4:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051588",
+        "text": "R.Rehkow punts 38 yards to PHI 25, Center-C.Adomitis. A.Williams to PHI 28 for 3 yards (D.Ivey).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 63,
+        "period": 2,
+        "clock": "4:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051601",
+        "text": "Official Timeout at 04:19.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 2,
+        "clock": "4:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051614",
+        "text": "T.McKee pass incomplete short right to D.Cooper (D.Ivey).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 2,
+        "clock": "4:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051644",
+        "text": "(Shotgun) T.McKee pass short left to A.Smith pushed ob at PHI 33 for 5 yards (N.Brooks).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 2,
+        "clock": "4:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051669",
+        "text": "(Shotgun) T.McKee pass deep left to J.Wilson ran ob at CIN 49 for 18 yards.",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 33,
+        "period": 2,
+        "clock": "3:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051704",
+        "text": "(Shotgun) T.McKee pass short left to A.Dillon to CIN 42 for 7 yards (O.Burks).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 51,
+        "period": 2,
+        "clock": "3:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051729",
+        "text": "(Shotgun) T.McKee pass short right to D.Cooper pushed ob at CIN 26 for 16 yards (T.Anderson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 58,
+        "period": 2,
+        "clock": "2:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051744",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051759",
+        "text": "A.Dillon left tackle to CIN 18 for 8 yards (T.Bryan; H.Cross).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051774",
+        "text": "Timeout #1 by CIN at 01:52.",
+        "type": "Timeout",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 82,
+        "period": 2,
+        "clock": "1:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051788",
+        "text": "(Shotgun) A.Dillon up the middle to CIN 9 for 9 yards (D.Anthony).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 82,
+        "period": 2,
+        "clock": "1:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051803",
+        "text": "Timeout #2 by CIN at 01:45.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 9,
+        "yard_line": 91,
+        "period": 2,
+        "clock": "1:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051817",
+        "text": "(Shotgun) A.Dillon left guard to CIN 6 for 3 yards (T.Anderson; O.Burks).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 9,
+        "yard_line": 91,
+        "period": 2,
+        "clock": "1:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051832",
+        "text": "Timeout #3 by CIN at 01:39.",
+        "type": "Timeout",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 94,
+        "period": 2,
+        "clock": "1:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051846",
+        "text": "T.McKee pass incomplete short right.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 94,
+        "period": 2,
+        "clock": "1:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051876",
+        "text": "(Shotgun) T.McKee pass short middle to A.Smith for 6 yards, TOUCHDOWN. B.Mann extra point is GOOD, Center-C.Johnstone, Holder-J.Elliott.",
+        "type": "Passing Touchdown",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 94,
+        "period": 2,
+        "clock": "1:33",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730051917",
+        "text": "J.Elliott kicks 60 yards from PHI 35 to CIN 5. J.Burton to CIN 23 for 18 yards (L.Cine; D.Gant).PENALTY on CIN-J.Key, Offensive Holding, 10 yards, enforced at CIN 23.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "1:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051951",
+        "text": "(Shotgun) J.Browning pass incomplete short right [J.Uche].PENALTY on PHI-B.Johnson, Defensive Holding, 5 yards, enforced at CIN 13 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 87,
+        "period": 2,
+        "clock": "1:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730051985",
+        "text": "(Shotgun) J.Browning pass incomplete short middle to C.Jones.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 82,
+        "period": 2,
+        "clock": "1:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052008",
+        "text": "(Shotgun) J.Browning pass incomplete short left to J.Burton (E.Ricks).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 82,
+        "period": 2,
+        "clock": "1:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052031",
+        "text": "(Shotgun) J.Browning pass short right to J.Burton to CIN 21 for 3 yards (S.Mondon).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 82,
+        "period": 2,
+        "clock": "1:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052044",
+        "text": "Timeout #1 by PHI at 01:02.",
+        "type": "Timeout",
+        "down": 4,
+        "distance": 7,
+        "yard_line": 79,
+        "period": 2,
+        "clock": "1:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052056",
+        "text": "R.Rehkow punts 54 yards to PHI 25, Center-C.Adomitis. A.Smith pushed ob at CIN 29 for 46 yards (C.Adomitis).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 7,
+        "yard_line": 79,
+        "period": 2,
+        "clock": "1:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052094",
+        "text": "(Shotgun) T.McKee pass short right to A.Dillon ran ob at CIN 20 for 9 yards (D.Ivey).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 71,
+        "period": 2,
+        "clock": "0:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052124",
+        "text": "(Shotgun) T.McKee pass deep right to D.Cooper for 20 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Johnstone, Holder-B.Mann.",
+        "type": "Passing Touchdown",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 80,
+        "period": 2,
+        "clock": "0:35",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730052165",
+        "text": "J.Elliott kicks 64 yards from PHI 35 to CIN 1. G.Brightwell to CIN 30 for 29 yards (B.VanSumeren).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052188",
+        "text": "J.Browning kneels to CIN 29 for -1 yards.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 70,
+        "period": 2,
+        "clock": "0:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052210",
+        "text": "END QUARTER 2",
+        "type": "End of Half",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052230",
+        "text": "E.McPherson kicks 65 yards from CIN 35 to end zone, Touchback to the PHI 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052256",
+        "text": "(Shotgun) K.Robinson left end to PHI 46 for 11 yards (D.Ivey; T.Anderson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052278",
+        "text": "(Shotgun) T.McKee pass incomplete short right.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 46,
+        "period": 3,
+        "clock": "14:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052301",
+        "text": "K.Robinson right guard to PHI 45 for -1 yards (S.Heyward, R.Johnson).Penalty on PHI-M.Pryor, Offensive Holding, declined.",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 46,
+        "period": 3,
+        "clock": "14:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052334",
+        "text": "(Shotgun) T.McKee pass short right to D.Cooper to CIN 40 for 15 yards (D.Ivey).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 11,
+        "yard_line": 45,
+        "period": 3,
+        "clock": "13:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052359",
+        "text": "(No Huddle, Shotgun) T.McKee sacked at CIN 49 for -9 yards (B.Carter).",
+        "type": "Sack",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 60,
+        "period": 3,
+        "clock": "13:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052379",
+        "text": "(Shotgun) T.McKee pass short right to K.Granson to CIN 44 for 5 yards (P.Jules).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 19,
+        "yard_line": 51,
+        "period": 3,
+        "clock": "12:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052404",
+        "text": "(Shotgun) T.McKee pass short right to K.Granson to CIN 37 for 7 yards (S.Heyward).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 14,
+        "yard_line": 56,
+        "period": 3,
+        "clock": "12:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052429",
+        "text": "J.Elliott 55 yard field goal is No Good, Wide Right, Center-C.Johnstone, Holder-B.Mann.PENALTY on CIN-D.Ivey, Defensive Offside, 5 yards, enforced at CIN 37 - No Play.",
+        "type": "Penalty",
+        "down": 4,
+        "distance": 7,
+        "yard_line": 63,
+        "period": 3,
+        "clock": "11:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052461",
+        "text": "(Shotgun) T.McKee pass short right to D.Cooper to CIN 26 for 6 yards (B.Lux).",
+        "type": "Pass Reception",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 68,
+        "period": 3,
+        "clock": "11:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052486",
+        "text": "(No Huddle, Shotgun) T.McKee pass short right to K.Granson pushed ob at CIN 10 for 16 yards (P.Jules).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 3,
+        "clock": "11:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052516",
+        "text": "(No Huddle, Shotgun) K.Robinson right tackle to CIN 14 for -4 yards (M.Jackson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 90,
+        "period": 3,
+        "clock": "10:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052538",
+        "text": "(Shotgun) T.McKee pass short right to D.Cooper to CIN 4 for 10 yards (N.Brooks).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 14,
+        "yard_line": 86,
+        "period": 3,
+        "clock": "10:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052563",
+        "text": "(Shotgun) T.McKee pass incomplete short left to A.Smith. CIN-T.Anderson was injured during the play.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 3,
+        "clock": "9:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052586",
+        "text": "J.Elliott 23 yard field goal is GOOD, Center-C.Johnstone, Holder-B.Mann.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 3,
+        "clock": "9:24",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730052598",
+        "text": "Official Timeout at 09:24.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "9:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052609",
+        "text": "J.Elliott kicks 64 yards from PHI 35 to CIN 1. I.Williams to CIN 31 for 30 yards (P.Nickerson).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "9:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052639",
+        "text": "T.Brooks left end to CIN 35 for 4 yards (S.Mondon; J.Trotter).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 3,
+        "clock": "9:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052661",
+        "text": "(Shotgun) J.Browning pass incomplete short left.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "8:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052684",
+        "text": "(Shotgun) J.Browning pass incomplete deep left to C.Jones.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "8:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052707",
+        "text": "R.Rehkow punts 51 yards to PHI 14, Center-W.Wagner. A.Williams to PHI 19 for 5 yards (T.McLachlan; J.Key).PENALTY on PHI-P.Nickerson, Offensive Holding, 9 yards, enforced at PHI 19.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 6,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "8:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052726",
+        "text": "Official Timeout at 08:19.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 10,
+        "period": 3,
+        "clock": "8:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052744",
+        "text": "K.Robinson left tackle to PHI 9 for -1 yards (M.Jackson, J.Giles-Harris).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 10,
+        "period": 3,
+        "clock": "8:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052773",
+        "text": "(Shotgun) D.Thompson-Robinson pass short middle to N.Muse to PHI 15 for 6 yards (S.Heyward).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 9,
+        "period": 3,
+        "clock": "7:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052798",
+        "text": "(Shotgun) D.Thompson-Robinson pass incomplete short left to J.Wilson.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 15,
+        "period": 3,
+        "clock": "7:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052821",
+        "text": " B.Mann punts 40 yards to CIN 45, Center-C.Johnstone. J.Burton to PHI 23 for 32 yards (B.VanSumeren; A.Woods).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 15,
+        "period": 3,
+        "clock": "7:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052847",
+        "text": "(Shotgun) T.Brooks left guard to PHI 21 for 2 yards (J.Trotter; S.Mondon).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 23,
+        "period": 3,
+        "clock": "6:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052869",
+        "text": "(Shotgun) T.Brooks up the middle to PHI 18 for 3 yards (A.Sam).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 21,
+        "period": 3,
+        "clock": "6:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052891",
+        "text": "(Shotgun) J.Browning pass incomplete short middle to T.Hudson.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 18,
+        "period": 3,
+        "clock": "5:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052914",
+        "text": " E.McPherson 36 yard field goal is GOOD, Center-W.Wagner, Holder-R.Rehkow.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 18,
+        "period": 3,
+        "clock": "5:19",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730052924",
+        "text": "Official Timeout at 05:19.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "5:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052934",
+        "text": "E.McPherson kicks 58 yards from CIN 35 to PHI 7. K.Robinson to PHI 30 for 23 yards (T.Brooks; N.Brooks).PENALTY on PHI-N.Muse, Offensive Holding, 10 yards, enforced at PHI 25.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "5:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730052975",
+        "text": "(Shotgun) S.Powell left end ran ob at PHI 34 for 19 yards (P.Jules).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 15,
+        "period": 3,
+        "clock": "5:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053002",
+        "text": "(Shotgun) S.Powell left end to PHI 35 for 1 yard (J.Key).PENALTY on PHI-K.Green, Offensive Holding, 10 yards, enforced at PHI 35.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 34,
+        "period": 3,
+        "clock": "4:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053035",
+        "text": "(Shotgun) D.Thompson-Robinson pass deep middle to T.Morin to PHI 49 for 24 yards (P.Jules).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 19,
+        "yard_line": 25,
+        "period": 3,
+        "clock": "4:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053060",
+        "text": "(Shotgun) D.Thompson-Robinson pass short middle to T.Morin to CIN 45 for 6 yards (B.Lux).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 49,
+        "period": 3,
+        "clock": "3:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053085",
+        "text": "D.Thompson-Robinson FUMBLES (Aborted) at PHI 47, recovered by PHI-C.Williams at 50.",
+        "type": "Fumble Recovery (Own)",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 55,
+        "period": 3,
+        "clock": "3:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053123",
+        "text": "(Shotgun) D.Thompson-Robinson pass short right to E.Jenkins to CIN 43 for 7 yards (S.Heyward).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 9,
+        "yard_line": 50,
+        "period": 3,
+        "clock": "2:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053148",
+        "text": "(Shotgun) D.Thompson-Robinson pass incomplete short left to J.Wilson.",
+        "type": "Pass Incompletion",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 57,
+        "period": 3,
+        "clock": "1:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053163",
+        "text": "Official Timeout at 01:46.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 57,
+        "period": 3,
+        "clock": "1:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053177",
+        "text": "(Shotgun) T.Brooks right tackle to CIN 46 for 2 yards (O.Okoronkwo; G.Hall).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 56,
+        "period": 3,
+        "clock": "1:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053206",
+        "text": "(Shotgun) PENALTY on CIN-A.Raym, False Start, 5 yards, enforced at CIN 46 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 54,
+        "period": 3,
+        "clock": "1:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053230",
+        "text": "J.Browning sacked at CIN 37 for -4 yards (P.Johnson).PENALTY on PHI-A.Woods, Illegal Contact, 5 yards, enforced at CIN 41 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 59,
+        "period": 3,
+        "clock": "0:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053261",
+        "text": "J.Browning pass short left intended for T.Brooks INTERCEPTED by P.Johnson at CIN 35. P.Johnson to CIN 20 for 15 yards (T.Brooks).Penalty on CIN-M.Tinsley, Illegal Shift, declined.",
+        "type": "Pass Interception Return",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 3,
+        "clock": "0:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053299",
+        "text": "D.Thompson-Robinson pass short right to E.Jenkins pushed ob at CIN 7 for 13 yards (S.Heyward).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 3,
+        "clock": "0:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053329",
+        "text": "END QUARTER 3",
+        "type": "End Period",
+        "down": 1,
+        "distance": 7,
+        "yard_line": 93,
+        "period": 3,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053349",
+        "text": "(Shotgun) D.Thompson-Robinson up the middle to CIN 7 for no gain (I.Thomas).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 7,
+        "yard_line": 93,
+        "period": 4,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053371",
+        "text": "(Shotgun) S.Powell left guard to CIN 5 for 2 yards (R.Johnson; M.Njongmeta).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 93,
+        "period": 4,
+        "clock": "14:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053393",
+        "text": "(Shotgun) D.Thompson-Robinson pass incomplete short left to J.Wilson.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 95,
+        "period": 4,
+        "clock": "13:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053421",
+        "text": "J.Elliott 23 yard field goal is GOOD, NULLIFIED by Penalty, Center-C.Johnstone, Holder-B.Mann.PENALTY on CIN-M.Jackson, Unnecessary Roughness, 3 yards, enforced at CIN 5 - No Play.",
+        "type": "Penalty",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 95,
+        "period": 4,
+        "clock": "13:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053452",
+        "text": "(Shotgun) S.Powell right end for 2 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Johnstone, Holder-B.Mann.",
+        "type": "Rushing Touchdown",
+        "down": 1,
+        "distance": 2,
+        "yard_line": 98,
+        "period": 4,
+        "clock": "13:39",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730053483",
+        "text": "Official Timeout at 13:39.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "13:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053490",
+        "text": "J.Elliott kicks 64 yards from PHI 35 to CIN 1. I.Williams to CIN 24 for 23 yards (A.Woods).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "13:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053520",
+        "text": "(Shotgun) T.Brooks right guard to CIN 27 for 3 yards (D.Gant).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 76,
+        "period": 4,
+        "clock": "13:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053542",
+        "text": "(Shotgun) D.Ridder pass incomplete short right to T.McLachlan.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 73,
+        "period": 4,
+        "clock": "12:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053565",
+        "text": "(Shotgun) D.Ridder pass incomplete short right to C.Burgess.PENALTY on PHI-P.Nickerson, Defensive Pass Interference, 11 yards, enforced at CIN 27 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 73,
+        "period": 4,
+        "clock": "12:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053599",
+        "text": "(Shotgun) G.Brightwell left tackle to CIN 43 for 5 yards (D.Gant).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 62,
+        "period": 4,
+        "clock": "12:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053621",
+        "text": "D.Ridder pass short left to J.Moore to CIN 43 for no gain (P.Nickerson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 57,
+        "period": 4,
+        "clock": "12:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053646",
+        "text": "(Shotgun) D.Ridder pass incomplete short left to T.Hudson (T.Castro-Fields).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 57,
+        "period": 4,
+        "clock": "11:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053669",
+        "text": "R.Rehkow punts 39 yards to PHI 18, Center-W.Wagner. A.Williams to PHI 25 for 7 yards (W.Wagner).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 57,
+        "period": 4,
+        "clock": "11:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053682",
+        "text": "Official Timeout at 11:13.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 4,
+        "clock": "11:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053695",
+        "text": "(Shotgun) PENALTY on PHI-M.Hinton, False Start, 5 yards, enforced at PHI 25 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 4,
+        "clock": "11:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053726",
+        "text": "(Shotgun) K.Robinson left tackle to PHI 26 for 6 yards (H.Cross, S.Loyal).PENALTY on PHI-M.Hinton, Offensive Holding, 10 yards, enforced at PHI 20 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 20,
+        "period": 4,
+        "clock": "11:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053759",
+        "text": "K.Robinson right end to PHI 24 for 14 yards (B.Lux; M.Njongmeta).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 25,
+        "yard_line": 10,
+        "period": 4,
+        "clock": "10:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053781",
+        "text": "(Shotgun) K.McCord pass incomplete short right to K.Robinson.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 24,
+        "period": 4,
+        "clock": "10:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053804",
+        "text": "",
+        "type": "Pass Interception Return",
+        "down": 3,
+        "distance": 11,
+        "yard_line": 24,
+        "period": 4,
+        "clock": "10:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053864",
+        "text": "Official Timeout at 10:00.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "10:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053924",
+        "text": "(Shotgun) D.Ridder pass incomplete deep right to K.Pryor.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "10:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053954",
+        "text": "(Shotgun) D.Ridder pass incomplete deep right to J.Moore.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "9:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730053977",
+        "text": "(Shotgun) D.Ridder pass short left to J.Moore to PHI 33 for 2 yards (T.Castro-Fields).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "9:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054002",
+        "text": "E.McPherson 51 yard field goal is GOOD, Center-W.Wagner, Holder-R.Rehkow.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 8,
+        "yard_line": 33,
+        "period": 4,
+        "clock": "8:58",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730054022",
+        "text": "E.McPherson kicks 64 yards from CIN 35 to PHI 1. K.Robinson to PHI 33 for 32 yards (P.Jules).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "8:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054045",
+        "text": "(Shotgun) S.Powell left end ran ob at PHI 37 for 4 yards (R.Johnson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 33,
+        "period": 4,
+        "clock": "8:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054072",
+        "text": "(Shotgun) K.McCord pass short middle to G.Jackson to PHI 45 for 8 yards (J.Key).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 37,
+        "period": 4,
+        "clock": "8:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054097",
+        "text": "K.McCord pass incomplete short left to T.Morin [C.Young].",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 4,
+        "clock": "7:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054120",
+        "text": "(Shotgun) S.Powell left end pushed ob at PHI 49 for 4 yards (P.Jules).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 4,
+        "clock": "7:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054147",
+        "text": "(Shotgun) K.McCord pass incomplete deep right to T.Morin.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 49,
+        "period": 4,
+        "clock": "6:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054170",
+        "text": "B.Mann punts 43 yards to CIN 8, Center-C.Johnstone, fair catch by I.Williams.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 6,
+        "yard_line": 49,
+        "period": 4,
+        "clock": "6:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054190",
+        "text": " (Shotgun) G.Brightwell right guard to CIN 10 for 2 yards (J.Sykes; D.Gant).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 92,
+        "period": 4,
+        "clock": "6:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054212",
+        "text": " (Shotgun) D.Ridder pass deep right to J.Mayes to PHI 42 for 48 yards (P.Nickerson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 90,
+        "period": 4,
+        "clock": "5:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054237",
+        "text": "(Shotgun) D.Ridder pass incomplete deep right to J.Mayes.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 42,
+        "period": 4,
+        "clock": "5:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054260",
+        "text": "(Shotgun) G.Brightwell right tackle to PHI 40 for 2 yards (O.Mathis; L.Dixon).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 42,
+        "period": 4,
+        "clock": "5:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054282",
+        "text": "(Shotgun) D.Ridder pass incomplete short left to C.Burgess.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "4:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054305",
+        "text": "(Shotgun) D.Ridder pass short middle to T.Hudson to PHI 19 for 21 yards (M.Hook).",
+        "type": "Pass Reception",
+        "down": 4,
+        "distance": 8,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "4:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054330",
+        "text": "(Shotgun) D.Ridder pass short left to T.Hudson pushed ob at PHI 12 for 7 yards (M.Hook).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 19,
+        "period": 4,
+        "clock": "3:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054360",
+        "text": "(Shotgun) D.Ridder pass short left to T.Hudson for 12 yards, TOUCHDOWN. E.McPherson extra point is GOOD, Center-W.Wagner, Holder-R.Rehkow.",
+        "type": "Passing Touchdown",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 12,
+        "period": 4,
+        "clock": "3:33",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730054401",
+        "text": "E.McPherson kicks 65 yards from CIN 35 to PHI 0. K.Robinson to PHI 24 for 24 yards (T.Brooks).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "3:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054424",
+        "text": "K.Robinson right end to PHI 40 for 16 yards (S.Loyal).PENALTY on PHI-C.Williams, Offensive Holding, 10 yards, enforced at PHI 30.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 24,
+        "period": 4,
+        "clock": "3:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054457",
+        "text": "(Shotgun) K.Robinson left guard to PHI 21 for 1 yard (M.Njongmeta; J.Key).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 14,
+        "yard_line": 20,
+        "period": 4,
+        "clock": "3:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054479",
+        "text": "K.Robinson right tackle to PHI 16 for -5 yards (I.Thomas).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 21,
+        "period": 4,
+        "clock": "2:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054490",
+        "text": "Timeout #1 by CIN at 02:35.",
+        "type": "Timeout",
+        "down": 3,
+        "distance": 18,
+        "yard_line": 16,
+        "period": 4,
+        "clock": "2:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054501",
+        "text": "(Shotgun) K.Robinson right tackle to PHI 21 for 5 yards (M.Njongmeta; R.Johnson).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 18,
+        "yard_line": 16,
+        "period": 4,
+        "clock": "2:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054516",
+        "text": "Timeout #2 by CIN at 02:30.",
+        "type": "Timeout",
+        "down": 4,
+        "distance": 13,
+        "yard_line": 21,
+        "period": 4,
+        "clock": "2:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054530",
+        "text": "B.Mann punts 65 yards to CIN 14, Center-C.Johnstone. I.Williams to CIN 35 for 21 yards (B.Johnson; L.Dixon).PENALTY on CIN-M.Njongmeta, Illegal Block Above the Waist, 10 yards, enforced at CIN 30.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 13,
+        "yard_line": 21,
+        "period": 4,
+        "clock": "2:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054590",
+        "text": "(Shotgun) D.Ridder pass incomplete short left to J.Mayes.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "2:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054613",
+        "text": "(Shotgun) D.Ridder pass incomplete deep left to J.Mayes.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "2:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054636",
+        "text": "(Shotgun) D.Ridder pass short left to T.Hudson to CIN 21 for 1 yard (M.Hook).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "2:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054649",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 4,
+        "distance": 9,
+        "yard_line": 79,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054661",
+        "text": "(Shotgun) D.Ridder pass incomplete deep left to R.Owens (T.Castro-Fields).",
+        "type": "Pass Incompletion",
+        "down": 4,
+        "distance": 9,
+        "yard_line": 79,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054691",
+        "text": "K.Robinson left tackle to CIN 20 for 1 yard (T.Bryan; M.Jackson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 4,
+        "clock": "1:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054713",
+        "text": "K.Robinson left tackle to CIN 23 for -3 yards (M.Jackson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "1:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054735",
+        "text": " (Shotgun) K.Robinson left end to CIN 23 for no gain (M.Njongmeta).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 12,
+        "yard_line": 77,
+        "period": 4,
+        "clock": "0:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730054757",
+        "text": "END GAME",
+        "type": "End of Game",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 77,
+        "period": 4,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      }
+    ],
+    "scoring_plays": [],
+    "touchdowns": [
+      {
+        "play_id": "401773005328",
+        "text": "(Shotgun) J.Burrow pass short left to T.Hudson for 12 yards, TOUCHDOWN. E.McPherson extra point is GOOD, Center-C.Adomitis, Holder-R.Rehkow.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "401773005591",
+        "text": "T.McKee up the middle for 1 yard, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Johnstone, Holder-B.Mann.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "401773005764",
+        "text": "(Shotgun) J.Burrow pass short left to J.Chase for 36 yards, TOUCHDOWN [J.Trotter]. E.McPherson extra point is GOOD, Center-C.Adomitis, Holder-R.Rehkow.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730051876",
+        "text": "(Shotgun) T.McKee pass short middle to A.Smith for 6 yards, TOUCHDOWN. B.Mann extra point is GOOD, Center-C.Johnstone, Holder-J.Elliott.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730052124",
+        "text": "(Shotgun) T.McKee pass deep right to D.Cooper for 20 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Johnstone, Holder-B.Mann.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730053452",
+        "text": "(Shotgun) S.Powell right end for 2 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Johnstone, Holder-B.Mann.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730054360",
+        "text": "(Shotgun) D.Ridder pass short left to T.Hudson for 12 yards, TOUCHDOWN. E.McPherson extra point is GOOD, Center-W.Wagner, Holder-R.Rehkow.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      }
+    ],
+    "interceptions": [
+      {
+        "play_id": "4017730053261",
+        "text": "J.Browning pass short left intended for T.Brooks INTERCEPTED by P.Johnson at CIN 35. P.Johnson to CIN 20 for 15 yards (T.Brooks).Penalty on CIN-M.Tinsley, Illegal Shift, declined.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      }
+    ],
+    "fumbles": []
+  },
+  "processing_timestamp": "2025-08-20T10:49:33.197174"
+}

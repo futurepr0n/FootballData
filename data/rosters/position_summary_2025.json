@@ -1,0 +1,126 @@
+{
+  "season": 2025,
+  "generated_date": "2025-08-14T09:15:59.155688",
+  "total_positions": 17,
+  "position_breakdown": {
+    "QB": {
+      "position": "QB",
+      "group": "offense",
+      "total_players": 96,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "RB": {
+      "position": "RB",
+      "group": "offense",
+      "total_players": 128,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "WR": {
+      "position": "WR",
+      "group": "offense",
+      "total_players": 192,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "TE": {
+      "position": "TE",
+      "group": "offense",
+      "total_players": 96,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "LT": {
+      "position": "LT",
+      "group": "offense",
+      "total_players": 64,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "LG": {
+      "position": "LG",
+      "group": "offense",
+      "total_players": 64,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "C": {
+      "position": "C",
+      "group": "offense",
+      "total_players": 64,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "RG": {
+      "position": "RG",
+      "group": "offense",
+      "total_players": 64,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "RT": {
+      "position": "RT",
+      "group": "offense",
+      "total_players": 64,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "DE": {
+      "position": "DE",
+      "group": "defense",
+      "total_players": 128,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "DT": {
+      "position": "DT",
+      "group": "defense",
+      "total_players": 96,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "LB": {
+      "position": "LB",
+      "group": "defense",
+      "total_players": 192,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "CB": {
+      "position": "CB",
+      "group": "defense",
+      "total_players": 160,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "S": {
+      "position": "S",
+      "group": "defense",
+      "total_players": 128,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "K": {
+      "position": "K",
+      "group": "special_teams",
+      "total_players": 32,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "P": {
+      "position": "P",
+      "group": "special_teams",
+      "total_players": 32,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    },
+    "LS": {
+      "position": "LS",
+      "group": "special_teams",
+      "total_players": 32,
+      "teams_with_position": 32,
+      "avg_experience": 3.0
+    }
+  }
+}

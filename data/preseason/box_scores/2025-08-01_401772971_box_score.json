@@ -1,0 +1,1175 @@
+{
+  "game_info": {
+    "game_id": "401772971",
+    "date": "2025-08-01T00:00Z",
+    "status": {
+      "type": {
+        "id": "3",
+        "name": "STATUS_FINAL",
+        "state": "post",
+        "completed": true,
+        "description": "Final",
+        "detail": "Final",
+        "shortDetail": "Final"
+      },
+      "isTBDFlex": false
+    },
+    "venue": {},
+    "attendance": 0
+  },
+  "team_stats": {
+    "DET": {
+      "score": 7,
+      "record": "0-0",
+      "home_away": "home"
+    },
+    "LAC": {
+      "score": 34,
+      "record": "0-0",
+      "home_away": "away"
+    }
+  },
+  "player_stats": {
+    "Trey Lance_LAC": {
+      "name": "Trey Lance",
+      "position": "",
+      "jersey": "5",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 1
+      }
+    },
+    "DJ Uiagalelei_LAC": {
+      "name": "DJ Uiagalelei",
+      "position": "",
+      "jersey": "13",
+      "team": "LAC",
+      "stats": {
+        "0": 3,
+        "1": -5,
+        "2": -1.7,
+        "3": 0,
+        "4": -1
+      }
+    },
+    "Kimani Vidal_LAC": {
+      "name": "Kimani Vidal",
+      "position": "",
+      "jersey": "30",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Hassan Haskins_LAC": {
+      "name": "Hassan Haskins",
+      "position": "",
+      "jersey": "28",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 8,
+        "2": 8.0,
+        "3": 0,
+        "4": 8,
+        "5": 1
+      }
+    },
+    "Nyheim Miller-Hines_LAC": {
+      "name": "Nyheim Miller-Hines",
+      "position": "",
+      "jersey": "31O",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 2,
+        "2": 2.0,
+        "3": 2,
+        "4": 0
+      }
+    },
+    "Omarion Hampton_LAC": {
+      "name": "Omarion Hampton",
+      "position": "",
+      "jersey": "8",
+      "team": "LAC",
+      "stats": {
+        "0": 2,
+        "1": 9,
+        "2": 4.5,
+        "3": 0,
+        "4": 8
+      }
+    },
+    "Scott Matlock_LAC": {
+      "name": "Scott Matlock",
+      "position": "",
+      "jersey": "44",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jaret Patterson_LAC": {
+      "name": "Jaret Patterson",
+      "position": "",
+      "jersey": "34",
+      "team": "LAC",
+      "stats": {
+        "0": 2,
+        "1": 18,
+        "2": 9.0,
+        "3": 0,
+        "4": 12,
+        "5": 2
+      }
+    },
+    "KeAndre Lambert-Smith_LAC": {
+      "name": "KeAndre Lambert-Smith",
+      "position": "",
+      "jersey": "84",
+      "team": "LAC",
+      "stats": {
+        "0": 2,
+        "1": 43,
+        "2": 21.5,
+        "3": 1,
+        "4": 28,
+        "5": 2
+      }
+    },
+    "Tucker Fisk_LAC": {
+      "name": "Tucker Fisk",
+      "position": "",
+      "jersey": "42",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 19,
+        "2": 19.0,
+        "3": 0,
+        "4": 19,
+        "5": 1
+      }
+    },
+    "Will Dissly_LAC": {
+      "name": "Will Dissly",
+      "position": "",
+      "jersey": "89",
+      "team": "LAC",
+      "stats": {
+        "0": 2,
+        "1": 14,
+        "2": 7.0,
+        "3": 1,
+        "4": 9,
+        "5": 2
+      }
+    },
+    "Brenden Rice_LAC": {
+      "name": "Brenden Rice",
+      "position": "",
+      "jersey": "82",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 13,
+        "2": 13.0,
+        "3": 0,
+        "4": 13,
+        "5": 1
+      }
+    },
+    "Dalevon Campbell_LAC": {
+      "name": "Dalevon Campbell",
+      "position": "",
+      "jersey": "38O",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 12,
+        "2": 12.0,
+        "3": 0,
+        "4": 12,
+        "5": 3
+      }
+    },
+    "Jaylen Johnson_LAC": {
+      "name": "Jaylen Johnson",
+      "position": "",
+      "jersey": "39O",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 10,
+        "2": 10.0,
+        "3": 0,
+        "4": 10,
+        "5": 1
+      }
+    },
+    "Oronde Gadsden II_LAC": {
+      "name": "Oronde Gadsden II",
+      "position": "",
+      "jersey": "86",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 7,
+        "2": 7.0,
+        "3": 0,
+        "4": 7,
+        "5": 1
+      }
+    },
+    "Derius Davis_LAC": {
+      "name": "Derius Davis",
+      "position": "",
+      "jersey": "12",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 4,
+        "2": 4.0,
+        "3": 0,
+        "4": 4,
+        "5": 1
+      }
+    },
+    "Dez Fitzpatrick_LAC": {
+      "name": "Dez Fitzpatrick",
+      "position": "",
+      "jersey": "87",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Tre Harris_LAC": {
+      "name": "Tre Harris",
+      "position": "",
+      "jersey": "9",
+      "team": "LAC",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "JaQuae Jackson_LAC": {
+      "name": "JaQuae Jackson",
+      "position": "",
+      "jersey": "27O",
+      "team": "LAC",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "Kendall Williamson_LAC": {
+      "name": "Kendall Williamson",
+      "position": "",
+      "jersey": "40",
+      "team": "LAC",
+      "stats": {
+        "0": 4,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Emany Johnson_LAC": {
+      "name": "Emany Johnson",
+      "position": "",
+      "jersey": "38D",
+      "team": "LAC",
+      "stats": {
+        "0": 7,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Junior Colson_LAC": {
+      "name": "Junior Colson",
+      "position": "",
+      "jersey": "25",
+      "team": "LAC",
+      "stats": {
+        "0": 4,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Tre'Mon Morris-Brash_LAC": {
+      "name": "Tre'Mon Morris-Brash",
+      "position": "",
+      "jersey": "57",
+      "team": "LAC",
+      "stats": {
+        "0": 4,
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Deane Leonard_LAC": {
+      "name": "Deane Leonard",
+      "position": "",
+      "jersey": "33",
+      "team": "LAC",
+      "stats": {
+        "0": 3,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jamaree Caldwell_LAC": {
+      "name": "Jamaree Caldwell",
+      "position": "",
+      "jersey": "99",
+      "team": "LAC",
+      "stats": {
+        "0": 3,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ja'Sir Taylor_LAC": {
+      "name": "Ja'Sir Taylor",
+      "position": "",
+      "jersey": "36",
+      "team": "LAC",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "RJ Mickens_LAC": {
+      "name": "RJ Mickens",
+      "position": "",
+      "jersey": "27D",
+      "team": "LAC",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Nikko Reed_LAC": {
+      "name": "Nikko Reed",
+      "position": "",
+      "jersey": "46D",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 60,
+        "2": 0
+      }
+    },
+    "Caleb Murphy_LAC": {
+      "name": "Caleb Murphy",
+      "position": "",
+      "jersey": "50",
+      "team": "LAC",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Tony Jefferson_LAC": {
+      "name": "Tony Jefferson",
+      "position": "",
+      "jersey": "23",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "Myles Purchase_LAC": {
+      "name": "Myles Purchase",
+      "position": "",
+      "jersey": "49D",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 48,
+        "2": 0
+      }
+    },
+    "TeRah Edwards_LAC": {
+      "name": "TeRah Edwards",
+      "position": "",
+      "jersey": "94",
+      "team": "LAC",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Christopher Hinton_LAC": {
+      "name": "Christopher Hinton",
+      "position": "",
+      "jersey": "98",
+      "team": "LAC",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Marlowe Wax_LAC": {
+      "name": "Marlowe Wax",
+      "position": "",
+      "jersey": "58",
+      "team": "LAC",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Trikweze Bridges_LAC": {
+      "name": "Trikweze Bridges",
+      "position": "",
+      "jersey": "31D",
+      "team": "LAC",
+      "stats": {
+        "0": 2,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Troy Dye_LAC": {
+      "name": "Troy Dye",
+      "position": "",
+      "jersey": "43",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Naquan Jones_LAC": {
+      "name": "Naquan Jones",
+      "position": "",
+      "jersey": "96",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Kyle Kennard_LAC": {
+      "name": "Kyle Kennard",
+      "position": "",
+      "jersey": "54",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Otito Ogbonnia_LAC": {
+      "name": "Otito Ogbonnia",
+      "position": "",
+      "jersey": "93",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Josh Fuga_LAC": {
+      "name": "Josh Fuga",
+      "position": "",
+      "jersey": "69",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Eric Rogers_LAC": {
+      "name": "Eric Rogers",
+      "position": "",
+      "jersey": "39D",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jordan Oladokun_LAC": {
+      "name": "Jordan Oladokun",
+      "position": "",
+      "jersey": "37D",
+      "team": "LAC",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Cameron Dicker_LAC": {
+      "name": "Cameron Dicker",
+      "position": "",
+      "jersey": "11",
+      "team": "LAC",
+      "stats": {
+        "0": "2/3",
+        "1": 66.7,
+        "2": 27,
+        "3": "4/4",
+        "4": 10
+      }
+    },
+    "JK Scott_LAC": {
+      "name": "JK Scott",
+      "position": "",
+      "jersey": "16",
+      "team": "LAC",
+      "stats": {
+        "0": 3,
+        "1": 154,
+        "2": 51.3,
+        "3": 1,
+        "4": 1,
+        "5": 54
+      }
+    },
+    "Kyle Allen_DET": {
+      "name": "Kyle Allen",
+      "position": "",
+      "jersey": "8",
+      "team": "DET",
+      "stats": {
+        "0": 2,
+        "1": 5,
+        "2": 2.5,
+        "3": 0,
+        "4": 3
+      }
+    },
+    "Hendon Hooker_DET": {
+      "name": "Hendon Hooker",
+      "position": "",
+      "jersey": "2",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Craig Reynolds_DET": {
+      "name": "Craig Reynolds",
+      "position": "",
+      "jersey": "13",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jabari Small_DET": {
+      "name": "Jabari Small",
+      "position": "",
+      "jersey": "42",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "Jacob Saylors_DET": {
+      "name": "Jacob Saylors",
+      "position": "",
+      "jersey": "48",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 6,
+        "2": 6.0,
+        "3": 0,
+        "4": 6,
+        "5": 1
+      }
+    },
+    "Isaac TeSlaa_DET": {
+      "name": "Isaac TeSlaa",
+      "position": "",
+      "jersey": "18",
+      "team": "DET",
+      "stats": {
+        "0": 2,
+        "1": 46,
+        "2": 23.0,
+        "3": 0,
+        "4": 24,
+        "5": 3
+      }
+    },
+    "Dominic Lovett_DET": {
+      "name": "Dominic Lovett",
+      "position": "",
+      "jersey": "19",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 19,
+        "2": 19.0,
+        "3": 19,
+        "4": 0
+      }
+    },
+    "Jackson Meeks_DET": {
+      "name": "Jackson Meeks",
+      "position": "",
+      "jersey": "83",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Shane Zylstra_DET": {
+      "name": "Shane Zylstra",
+      "position": "",
+      "jersey": "84",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 5,
+        "2": 5.0,
+        "3": 0,
+        "4": 5,
+        "5": 1
+      }
+    },
+    "Tom Kennedy_DET": {
+      "name": "Tom Kennedy",
+      "position": "",
+      "jersey": "85",
+      "team": "DET",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "Jakobie Keeney-James_DET": {
+      "name": "Jakobie Keeney-James",
+      "position": "",
+      "jersey": "80",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0
+      }
+    },
+    "Grant Stuard_DET": {
+      "name": "Grant Stuard",
+      "position": "",
+      "jersey": "15",
+      "team": "DET",
+      "stats": {
+        "0": 2,
+        "1": 62,
+        "2": 31.0,
+        "3": 36,
+        "4": 0
+      }
+    },
+    "Trystan Colon_DET": {
+      "name": "Trystan Colon",
+      "position": "",
+      "jersey": "67",
+      "team": "DET",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 1
+      }
+    },
+    "Ezekiel Turner_DET": {
+      "name": "Ezekiel Turner",
+      "position": "",
+      "jersey": "47",
+      "team": "DET",
+      "stats": {
+        "0": 7,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Anthony Pittman_DET": {
+      "name": "Anthony Pittman",
+      "position": "",
+      "jersey": "41",
+      "team": "DET",
+      "stats": {
+        "0": 6,
+        "1": 4,
+        "2": 0,
+        "3": 2,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Dan Jackson_DET": {
+      "name": "Dan Jackson",
+      "position": "",
+      "jersey": "28",
+      "team": "DET",
+      "stats": {
+        "0": 6,
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ian Kennelly_DET": {
+      "name": "Ian Kennelly",
+      "position": "",
+      "jersey": "27",
+      "team": "DET",
+      "stats": {
+        "0": 6,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Trevor Nowaske_DET": {
+      "name": "Trevor Nowaske",
+      "position": "",
+      "jersey": "53",
+      "team": "DET",
+      "stats": {
+        "0": 5,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Erick Hallett_DET": {
+      "name": "Erick Hallett",
+      "position": "",
+      "jersey": "36",
+      "team": "DET",
+      "stats": {
+        "0": 4,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ahmed Hassanein_DET": {
+      "name": "Ahmed Hassanein",
+      "position": "",
+      "jersey": "61",
+      "team": "DET",
+      "stats": {
+        "0": 4,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Tyson Russell_DET": {
+      "name": "Tyson Russell",
+      "position": "",
+      "jersey": "35",
+      "team": "DET",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Nate Lynn_DET": {
+      "name": "Nate Lynn",
+      "position": "",
+      "jersey": "57",
+      "team": "DET",
+      "stats": {
+        "0": 3,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Rock Ya-Sin_DET": {
+      "name": "Rock Ya-Sin",
+      "position": "",
+      "jersey": "23",
+      "team": "DET",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Mitchell Agude_DET": {
+      "name": "Mitchell Agude",
+      "position": "",
+      "jersey": "50",
+      "team": "DET",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Keith Cooper Jr._DET": {
+      "name": "Keith Cooper Jr.",
+      "position": "",
+      "jersey": "64",
+      "team": "DET",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Loren Strickland_DET": {
+      "name": "Loren Strickland",
+      "position": "",
+      "jersey": "24",
+      "team": "DET",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Myles Adams_DET": {
+      "name": "Myles Adams",
+      "position": "",
+      "jersey": "66",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Morice Norris_DET": {
+      "name": "Morice Norris",
+      "position": "",
+      "jersey": "26",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Nick Whiteside_DET": {
+      "name": "Nick Whiteside",
+      "position": "",
+      "jersey": "38",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Zach Cunningham_DET": {
+      "name": "Zach Cunningham",
+      "position": "",
+      "jersey": "52D",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Isaac Ukwu_DET": {
+      "name": "Isaac Ukwu",
+      "position": "",
+      "jersey": "45",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Brodric Martin_DET": {
+      "name": "Brodric Martin",
+      "position": "",
+      "jersey": "99",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ennis Rakestraw Jr._DET": {
+      "name": "Ennis Rakestraw Jr.",
+      "position": "",
+      "jersey": "9",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Hogan Hatten_DET": {
+      "name": "Hogan Hatten",
+      "position": "",
+      "jersey": "49",
+      "team": "DET",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jake Bates_DET": {
+      "name": "Jake Bates",
+      "position": "",
+      "jersey": "39",
+      "team": "DET",
+      "stats": {
+        "0": "0/0",
+        "1": 0.0,
+        "2": 0,
+        "3": "1/1",
+        "4": 1
+      }
+    },
+    "Jack Fox_DET": {
+      "name": "Jack Fox",
+      "position": "",
+      "jersey": "3",
+      "team": "DET",
+      "stats": {
+        "0": 4,
+        "1": 187,
+        "2": 46.8,
+        "3": 0,
+        "4": 1,
+        "5": 57
+      }
+    }
+  },
+  "scoring_summary": []
+}

@@ -1,0 +1,3451 @@
+{
+  "game_id": "401773006",
+  "date": "2025-08-16",
+  "box_score": {
+    "game_info": {
+      "game_id": "401773006",
+      "date": "2025-08-16T17:00Z",
+      "status": {
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final"
+        },
+        "isTBDFlex": false
+      },
+      "venue": {},
+      "attendance": 0
+    },
+    "team_stats": {
+      "PHI": {
+        "score": 13,
+        "record": "0-0",
+        "home_away": "home"
+      },
+      "CLE": {
+        "score": 22,
+        "record": "0-0",
+        "home_away": "away"
+      }
+    },
+    "player_stats": {
+      "Dillon Gabriel_CLE": {
+        "name": "Dillon Gabriel",
+        "position": "",
+        "jersey": "5",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0
+        }
+      },
+      "Tyler Huntley_CLE": {
+        "name": "Tyler Huntley",
+        "position": "",
+        "jersey": "7O",
+        "team": "CLE",
+        "stats": {
+          "0": 3,
+          "1": 5,
+          "2": 1.7,
+          "3": 0,
+          "4": 7
+        }
+      },
+      "Pierre Strong Jr._CLE": {
+        "name": "Pierre Strong Jr.",
+        "position": "",
+        "jersey": "20",
+        "team": "CLE",
+        "stats": {
+          "0": 4,
+          "1": 10,
+          "2": 2.5,
+          "3": 0,
+          "4": 5,
+          "5": 5
+        }
+      },
+      "Ahmani Marshall_CLE": {
+        "name": "Ahmani Marshall",
+        "position": "",
+        "jersey": "39O",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 5,
+          "2": 5.0,
+          "3": 0,
+          "4": 5,
+          "5": 1
+        }
+      },
+      "Gage Larvadain_CLE": {
+        "name": "Gage Larvadain",
+        "position": "",
+        "jersey": "84",
+        "team": "CLE",
+        "stats": {
+          "0": 5,
+          "1": 36,
+          "2": 7.2,
+          "3": 16,
+          "4": 0
+        }
+      },
+      "Toa Taua_CLE": {
+        "name": "Toa Taua",
+        "position": "",
+        "jersey": "35O",
+        "team": "CLE",
+        "stats": {
+          "0": 2,
+          "1": 7,
+          "2": 3.5,
+          "3": 0,
+          "4": 6
+        }
+      },
+      "Trayveon Williams_CLE": {
+        "name": "Trayveon Williams",
+        "position": "",
+        "jersey": "36",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 38,
+          "2": 38.0,
+          "3": 38,
+          "4": 0
+        }
+      },
+      "Kaden Davis_CLE": {
+        "name": "Kaden Davis",
+        "position": "",
+        "jersey": "89",
+        "team": "CLE",
+        "stats": {
+          "0": 2,
+          "1": 60,
+          "2": 30.0,
+          "3": 34,
+          "4": 0
+        }
+      },
+      "Jamari Thrash_CLE": {
+        "name": "Jamari Thrash",
+        "position": "",
+        "jersey": "80",
+        "team": "CLE",
+        "stats": {
+          "0": 4,
+          "1": 43,
+          "2": 10.8,
+          "3": 0,
+          "4": 19,
+          "5": 4
+        }
+      },
+      "Cedric Tillman_CLE": {
+        "name": "Cedric Tillman",
+        "position": "",
+        "jersey": "19",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 18,
+          "2": 18.0,
+          "3": 0,
+          "4": 18,
+          "5": 1
+        }
+      },
+      "Sal Cannella_CLE": {
+        "name": "Sal Cannella",
+        "position": "",
+        "jersey": "87",
+        "team": "CLE",
+        "stats": {
+          "0": 3,
+          "1": 15,
+          "2": 5.0,
+          "3": 0,
+          "4": 5,
+          "5": 3
+        }
+      },
+      "Brenden Bates_CLE": {
+        "name": "Brenden Bates",
+        "position": "",
+        "jersey": "82",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 13,
+          "2": 13.0,
+          "3": 0,
+          "4": 13,
+          "5": 1
+        }
+      },
+      "Blake Whiteheart_CLE": {
+        "name": "Blake Whiteheart",
+        "position": "",
+        "jersey": "86",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 10,
+          "2": 10.0,
+          "3": 0,
+          "4": 10,
+          "5": 1
+        }
+      },
+      "Diontae Johnson_CLE": {
+        "name": "Diontae Johnson",
+        "position": "",
+        "jersey": "16",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 7,
+          "2": 7.0,
+          "3": 0,
+          "4": 7,
+          "5": 3
+        }
+      },
+      "Easton Mascarenas-Arnold_CLE": {
+        "name": "Easton Mascarenas-Arnold",
+        "position": "",
+        "jersey": "42",
+        "team": "CLE",
+        "stats": {
+          "0": 7,
+          "1": 4,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Donovan McMillon_CLE": {
+        "name": "Donovan McMillon",
+        "position": "",
+        "jersey": "31D",
+        "team": "CLE",
+        "stats": {
+          "0": 5,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nathaniel Watson_CLE": {
+        "name": "Nathaniel Watson",
+        "position": "",
+        "jersey": "40",
+        "team": "CLE",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 3,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jowon Briggs_CLE": {
+        "name": "Jowon Briggs",
+        "position": "",
+        "jersey": "97",
+        "team": "CLE",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Damontae Kazee_CLE": {
+        "name": "Damontae Kazee",
+        "position": "",
+        "jersey": "23",
+        "team": "CLE",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Julian Okwara_CLE": {
+        "name": "Julian Okwara",
+        "position": "",
+        "jersey": "53",
+        "team": "CLE",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Darius Rush_CLE": {
+        "name": "Darius Rush",
+        "position": "",
+        "jersey": "39D",
+        "team": "CLE",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cameron Mitchell_CLE": {
+        "name": "Cameron Mitchell",
+        "position": "",
+        "jersey": "29",
+        "team": "CLE",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Isaiah McGuire_CLE": {
+        "name": "Isaiah McGuire",
+        "position": "",
+        "jersey": "57",
+        "team": "CLE",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Nik Needham_CLE": {
+        "name": "Nik Needham",
+        "position": "",
+        "jersey": "25",
+        "team": "CLE",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jerome Baker_CLE": {
+        "name": "Jerome Baker",
+        "position": "",
+        "jersey": "17",
+        "team": "CLE",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Keenan Isaac_CLE": {
+        "name": "Keenan Isaac",
+        "position": "",
+        "jersey": "38",
+        "team": "CLE",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Myles Harden_CLE": {
+        "name": "Myles Harden",
+        "position": "",
+        "jersey": "26",
+        "team": "CLE",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Sam Kamara_CLE": {
+        "name": "Sam Kamara",
+        "position": "",
+        "jersey": "92",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Devin Bush_CLE": {
+        "name": "Devin Bush",
+        "position": "",
+        "jersey": "30",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "KJ Henry_CLE": {
+        "name": "KJ Henry",
+        "position": "",
+        "jersey": "52",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 45,
+          "2": 1
+        }
+      },
+      "Titus Leo_CLE": {
+        "name": "Titus Leo",
+        "position": "",
+        "jersey": "98",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Dom Jones_CLE": {
+        "name": "Dom Jones",
+        "position": "",
+        "jersey": "37",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Christopher Edmonds_CLE": {
+        "name": "Christopher Edmonds",
+        "position": "",
+        "jersey": "41",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tony Brown II_CLE": {
+        "name": "Tony Brown II",
+        "position": "",
+        "jersey": "11",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joe Tryon-Shoyinka_CLE": {
+        "name": "Joe Tryon-Shoyinka",
+        "position": "",
+        "jersey": "90",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Alex Wright_CLE": {
+        "name": "Alex Wright",
+        "position": "",
+        "jersey": "91",
+        "team": "CLE",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Shelby Harris_CLE": {
+        "name": "Shelby Harris",
+        "position": "",
+        "jersey": "93",
+        "team": "CLE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Christian Holmes_CLE": {
+        "name": "Christian Holmes",
+        "position": "",
+        "jersey": "22D",
+        "team": "CLE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cameron Thomas_CLE": {
+        "name": "Cameron Thomas",
+        "position": "",
+        "jersey": "99",
+        "team": "CLE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Adin Huntington_CLE": {
+        "name": "Adin Huntington",
+        "position": "",
+        "jersey": "66",
+        "team": "CLE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Andre Szmyt_CLE": {
+        "name": "Andre Szmyt",
+        "position": "",
+        "jersey": "47",
+        "team": "CLE",
+        "stats": {
+          "0": "2/2",
+          "1": 100.0,
+          "2": 49,
+          "3": "1/1",
+          "4": 7
+        }
+      },
+      "Dustin Hopkins_CLE": {
+        "name": "Dustin Hopkins",
+        "position": "",
+        "jersey": "7S",
+        "team": "CLE",
+        "stats": {
+          "0": "1/1",
+          "1": 100.0,
+          "2": 46,
+          "3": "0/0",
+          "4": 3
+        }
+      },
+      "Corey Bojorquez_CLE": {
+        "name": "Corey Bojorquez",
+        "position": "",
+        "jersey": "13",
+        "team": "CLE",
+        "stats": {
+          "0": 3,
+          "1": 148,
+          "2": 49.3,
+          "3": 0,
+          "4": 0,
+          "5": 59
+        }
+      },
+      "Kyle McCord_PHI": {
+        "name": "Kyle McCord",
+        "position": "",
+        "jersey": "19",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 2,
+          "2": 2.0,
+          "3": 0,
+          "4": 2
+        }
+      },
+      "Dorian Thompson-Robinson_PHI": {
+        "name": "Dorian Thompson-Robinson",
+        "position": "",
+        "jersey": "14",
+        "team": "PHI",
+        "stats": {
+          "0": "5/8",
+          "1": 17,
+          "2": 2.1,
+          "3": 0,
+          "4": 1,
+          "5": "1-9",
+          "6": 27.1
+        }
+      },
+      "Montrell Johnson Jr._PHI": {
+        "name": "Montrell Johnson Jr.",
+        "position": "",
+        "jersey": "34O",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 47,
+          "2": 23.5,
+          "3": 28,
+          "4": 0
+        }
+      },
+      "Keilan Robinson_PHI": {
+        "name": "Keilan Robinson",
+        "position": "",
+        "jersey": "35O",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 24,
+          "2": 24.0,
+          "3": 24,
+          "4": 0
+        }
+      },
+      "AJ Dillon_PHI": {
+        "name": "AJ Dillon",
+        "position": "",
+        "jersey": "29",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": -14,
+          "2": -14.0,
+          "3": 0,
+          "4": -14,
+          "5": 2
+        }
+      },
+      "ShunDerrick Powell_PHI": {
+        "name": "ShunDerrick Powell",
+        "position": "",
+        "jersey": "39O",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 2,
+          "2": 2.0,
+          "3": 0,
+          "4": 2,
+          "5": 1
+        }
+      },
+      "Ainias Smith_PHI": {
+        "name": "Ainias Smith",
+        "position": "",
+        "jersey": "82",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 10,
+          "2": 10.0,
+          "3": 10,
+          "4": 0
+        }
+      },
+      "Taylor Morin_PHI": {
+        "name": "Taylor Morin",
+        "position": "",
+        "jersey": "45O",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 16,
+          "2": 5.3,
+          "3": 0,
+          "4": 6,
+          "5": 4
+        }
+      },
+      "Terrace Marshall Jr._PHI": {
+        "name": "Terrace Marshall Jr.",
+        "position": "",
+        "jersey": "46O",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 15,
+          "2": 7.5,
+          "3": 0,
+          "4": 9,
+          "5": 4
+        }
+      },
+      "E.J. Jenkins_PHI": {
+        "name": "E.J. Jenkins",
+        "position": "",
+        "jersey": "84",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 12,
+          "2": 12.0,
+          "3": 0,
+          "4": 12,
+          "5": 2
+        }
+      },
+      "Nick Muse_PHI": {
+        "name": "Nick Muse",
+        "position": "",
+        "jersey": "87",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 7,
+          "2": 7.0,
+          "3": 0,
+          "4": 7,
+          "5": 1
+        }
+      },
+      "Giles Jackson_PHI": {
+        "name": "Giles Jackson",
+        "position": "",
+        "jersey": "42O",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 1.0,
+          "3": 0,
+          "4": 1,
+          "5": 2
+        }
+      },
+      "Kylen Granson_PHI": {
+        "name": "Kylen Granson",
+        "position": "",
+        "jersey": "83",
+        "team": "PHI",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 2
+        }
+      },
+      "Cameron Latu_PHI": {
+        "name": "Cameron Latu",
+        "position": "",
+        "jersey": "49O",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Darius Cooper_PHI": {
+        "name": "Darius Cooper",
+        "position": "",
+        "jersey": "41O",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Andrew Mukuba_PHI": {
+        "name": "Andrew Mukuba",
+        "position": "",
+        "jersey": "24",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 75,
+          "2": 1
+        }
+      },
+      "Jeremiah Trotter Jr._PHI": {
+        "name": "Jeremiah Trotter Jr.",
+        "position": "",
+        "jersey": "54",
+        "team": "PHI",
+        "stats": {
+          "0": 7,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Smael Mondon Jr._PHI": {
+        "name": "Smael Mondon Jr.",
+        "position": "",
+        "jersey": "42D",
+        "team": "PHI",
+        "stats": {
+          "0": 5,
+          "1": 5,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tristin McCollum_PHI": {
+        "name": "Tristin McCollum",
+        "position": "",
+        "jersey": "36",
+        "team": "PHI",
+        "stats": {
+          "0": 5,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Parry Nickerson_PHI": {
+        "name": "Parry Nickerson",
+        "position": "",
+        "jersey": "34D",
+        "team": "PHI",
+        "stats": {
+          "0": 5,
+          "1": 3,
+          "2": 0,
+          "3": 1,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jihaad Campbell_PHI": {
+        "name": "Jihaad Campbell",
+        "position": "",
+        "jersey": "30",
+        "team": "PHI",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Brandon Johnson_PHI": {
+        "name": "Brandon Johnson",
+        "position": "",
+        "jersey": "35D",
+        "team": "PHI",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Adoree' Jackson_PHI": {
+        "name": "Adoree' Jackson",
+        "position": "",
+        "jersey": "8",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Azeez Ojulari_PHI": {
+        "name": "Azeez Ojulari",
+        "position": "",
+        "jersey": "13",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Dallas Gant_PHI": {
+        "name": "Dallas Gant",
+        "position": "",
+        "jersey": "57",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jakorian Bennett_PHI": {
+        "name": "Jakorian Bennett",
+        "position": "",
+        "jersey": "49D",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Andre' Sam_PHI": {
+        "name": "Andre' Sam",
+        "position": "",
+        "jersey": "31",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Lance Dixon_PHI": {
+        "name": "Lance Dixon",
+        "position": "",
+        "jersey": "41D",
+        "team": "PHI",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joshua Uche_PHI": {
+        "name": "Joshua Uche",
+        "position": "",
+        "jersey": "0",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Patrick Johnson_PHI": {
+        "name": "Patrick Johnson",
+        "position": "",
+        "jersey": "48D",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Byron Young_PHI": {
+        "name": "Byron Young",
+        "position": "",
+        "jersey": "94",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joe Evans_PHI": {
+        "name": "Joe Evans",
+        "position": "",
+        "jersey": "61",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Ben VanSumeren_PHI": {
+        "name": "Ben VanSumeren",
+        "position": "",
+        "jersey": "43",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 23,
+          "2": 23.0,
+          "3": 23,
+          "4": 0
+        }
+      },
+      "Sydney Brown_PHI": {
+        "name": "Sydney Brown",
+        "position": "",
+        "jersey": "21",
+        "team": "PHI",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Avery Williams_PHI": {
+        "name": "Avery Williams",
+        "position": "",
+        "jersey": "18",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 11,
+          "2": 11.0,
+          "3": 11,
+          "4": 0
+        }
+      },
+      "Kelee Ringo_PHI": {
+        "name": "Kelee Ringo",
+        "position": "",
+        "jersey": "7",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Eli Ricks_PHI": {
+        "name": "Eli Ricks",
+        "position": "",
+        "jersey": "23",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Gabe Hall_PHI": {
+        "name": "Gabe Hall",
+        "position": "",
+        "jersey": "96",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Maxen Hook_PHI": {
+        "name": "Maxen Hook",
+        "position": "",
+        "jersey": "37",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ty Robinson_PHI": {
+        "name": "Ty Robinson",
+        "position": "",
+        "jersey": "95",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Mac McWilliams_PHI": {
+        "name": "Mac McWilliams",
+        "position": "",
+        "jersey": "22",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Justin Rogers_PHI": {
+        "name": "Justin Rogers",
+        "position": "",
+        "jersey": "75",
+        "team": "PHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ogbo Okoronkwo_PHI": {
+        "name": "Ogbo Okoronkwo",
+        "position": "",
+        "jersey": "50",
+        "team": "PHI",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Jacob Sykes_PHI": {
+        "name": "Jacob Sykes",
+        "position": "",
+        "jersey": "93",
+        "team": "PHI",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jake Elliott_PHI": {
+        "name": "Jake Elliott",
+        "position": "",
+        "jersey": "4",
+        "team": "PHI",
+        "stats": {
+          "0": "0/0",
+          "1": 0.0,
+          "2": 0,
+          "3": "1/1",
+          "4": 1
+        }
+      },
+      "Braden Mann_PHI": {
+        "name": "Braden Mann",
+        "position": "",
+        "jersey": "10",
+        "team": "PHI",
+        "stats": {
+          "0": 7,
+          "1": 366,
+          "2": 52.3,
+          "3": 1,
+          "4": 3,
+          "5": 67
+        }
+      }
+    },
+    "scoring_summary": []
+  },
+  "play_by_play": {
+    "game_info": {
+      "game_id": "401773006",
+      "teams": [
+        {
+          "abbreviation": "PHI",
+          "name": "Philadelphia Eagles",
+          "score": 13,
+          "home_away": "home"
+        },
+        {
+          "abbreviation": "CLE",
+          "name": "Cleveland Browns",
+          "score": 22,
+          "home_away": "away"
+        }
+      ],
+      "final_score": {}
+    },
+    "drives": [
+      {
+        "id": "4017730061",
+        "team": "CLE",
+        "plays_count": 16,
+        "result": "TD",
+        "yards": 63
+      },
+      {
+        "id": "4017730062",
+        "team": "PHI",
+        "plays_count": 9,
+        "result": "PUNT",
+        "yards": 3
+      },
+      {
+        "id": "4017730063",
+        "team": "CLE",
+        "plays_count": 10,
+        "result": "INT TD",
+        "yards": 41
+      },
+      {
+        "id": "4017730064",
+        "team": "CLE",
+        "plays_count": 13,
+        "result": "FG",
+        "yards": 49
+      },
+      {
+        "id": "4017730065",
+        "team": "PHI",
+        "plays_count": 7,
+        "result": "PUNT",
+        "yards": 4
+      },
+      {
+        "id": "4017730066",
+        "team": "CLE",
+        "plays_count": 1,
+        "result": "FUMBLE",
+        "yards": 0
+      },
+      {
+        "id": "4017730067",
+        "team": "PHI",
+        "plays_count": 11,
+        "result": "TD",
+        "yards": 31
+      },
+      {
+        "id": "4017730068",
+        "team": "CLE",
+        "plays_count": 12,
+        "result": "FG",
+        "yards": 31
+      },
+      {
+        "id": "4017730069",
+        "team": "PHI",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": 3
+      },
+      {
+        "id": "40177300610",
+        "team": "CLE",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 3
+      },
+      {
+        "id": "40177300611",
+        "team": "PHI",
+        "plays_count": 1,
+        "result": "INT TD",
+        "yards": 0
+      },
+      {
+        "id": "40177300612",
+        "team": "PHI",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": 13
+      },
+      {
+        "id": "40177300613",
+        "team": "CLE",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 12
+      },
+      {
+        "id": "40177300614",
+        "team": "PHI",
+        "plays_count": 4,
+        "result": "PUNT",
+        "yards": -3
+      },
+      {
+        "id": "40177300615",
+        "team": "CLE",
+        "plays_count": 4,
+        "result": "PUNT",
+        "yards": 7
+      },
+      {
+        "id": "40177300616",
+        "team": "PHI",
+        "plays_count": 4,
+        "result": "PUNT",
+        "yards": 3
+      },
+      {
+        "id": "40177300617",
+        "team": "CLE",
+        "plays_count": 9,
+        "result": "DOWNS",
+        "yards": 70
+      },
+      {
+        "id": "40177300618",
+        "team": "PHI",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 1
+      },
+      {
+        "id": "40177300619",
+        "team": "CLE",
+        "plays_count": 8,
+        "result": "FG",
+        "yards": 33
+      },
+      {
+        "id": "40177300620",
+        "team": "PHI",
+        "plays_count": 11,
+        "result": "DOWNS",
+        "yards": 28
+      },
+      {
+        "id": "40177300621",
+        "team": "CLE",
+        "plays_count": 7,
+        "result": "END OF GAME",
+        "yards": 12
+      }
+    ],
+    "plays": [
+      {
+        "id": "40177300639",
+        "text": "J.Elliott kicks 62 yards from PHI 35 to CLV 3. K.Davis pushed ob at CLV 37 for 34 yards (J.Bennett).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177300667",
+        "text": "P.Strong right guard to CLV 41 for 4 yards (J.Trotter; J.Campbell).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 63,
+        "period": 1,
+        "clock": "14:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177300689",
+        "text": "(Shotgun) D.Gabriel sacked at CLV 37 for -4 yards (J.Campbell).",
+        "type": "Sack",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 59,
+        "period": 1,
+        "clock": "14:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006109",
+        "text": "(Shotgun) D.Gabriel pass short middle to B.Whiteheart to CLV 47 for 10 yards (A.Jackson).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 63,
+        "period": 1,
+        "clock": "13:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006134",
+        "text": "(Shotgun) P.Strong up the middle to PHI 49 for 4 yards (J.Trotter; A.Ojulari).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 53,
+        "period": 1,
+        "clock": "13:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006156",
+        "text": "(Shotgun) D.Gabriel scrambles left end to PHI 48 for 1 yard (J.Trotter).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 49,
+        "period": 1,
+        "clock": "12:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006178",
+        "text": "(Shotgun) D.Gabriel pass short right to J.Thrash pushed ob at PHI 41 for 7 yards (B.Johnson).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 48,
+        "period": 1,
+        "clock": "11:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006203",
+        "text": "A.Marshall left guard to PHI 38 for 3 yards (P.Johnson, J.Trotter).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 41,
+        "period": 1,
+        "clock": "11:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006225",
+        "text": "P.Strong left end to PHI 33 for 5 yards (A.Jackson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 38,
+        "period": 1,
+        "clock": "10:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006247",
+        "text": "(Shotgun) D.Gabriel pass short left to P.Strong to PHI 28 for 5 yards (J.Campbell).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 33,
+        "period": 1,
+        "clock": "9:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006272",
+        "text": "(Shotgun) D.Gabriel pass short left to D.Johnson to PHI 21 for 7 yards (A.Jackson).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 1,
+        "clock": "9:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006297",
+        "text": "G.Larvadain left end to PHI 5 for 16 yards (S.Brown; J.Trotter).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 21,
+        "period": 1,
+        "clock": "8:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006311",
+        "text": "Timeout #1 by CLV at 07:36.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 5,
+        "yard_line": 5,
+        "period": 1,
+        "clock": "7:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006324",
+        "text": "A.Marshall up the middle to PHI 4 for 1 yard (G.Hall, S.Brown).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 5,
+        "yard_line": 5,
+        "period": 1,
+        "clock": "7:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006353",
+        "text": "A.Marshall up the middle for 4 yards, TOUCHDOWN. (Kick formation) TWO-POINT CONVERSION ATTEMPT. C.Bojorquez pass is incomplete. ATTEMPT FAILS.",
+        "type": "Rushing Touchdown",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 4,
+        "period": 1,
+        "clock": "6:55",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773006384",
+        "text": "Official Timeout at 06:55.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "6:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006391",
+        "text": "D.Hopkins kicks 63 yards from CLV 35 to PHI 2. M.Johnson pushed ob at PHI 30 for 28 yards (J.Okwara).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "6:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006431",
+        "text": "(Shotgun) A.Dillon left guard to PHI 34 for 4 yards (A.Wright; D.Kazee).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 1,
+        "clock": "6:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006453",
+        "text": "(Shotgun) A.Dillon right guard to PHI 35 for 1 yard (D.Bush).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 34,
+        "period": 1,
+        "clock": "6:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006475",
+        "text": "(Shotgun) D.Thompson-Robinson pass short left to A.Smith to PHI 45 for 10 yards (C.Mitchell).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "5:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006500",
+        "text": "(Shotgun) A.Dillon right guard to PHI 47 for 2 yards (J.Baker; I.McGuire).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 1,
+        "clock": "4:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006522",
+        "text": "(Shotgun) D.Thompson-Robinson pass short middle to A.Dillon to PHI 33 for -14 yards (N.Watson) [J.Tryon].",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 47,
+        "period": 1,
+        "clock": "4:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006547",
+        "text": "(Shotgun) D.Thompson-Robinson pass incomplete short right to A.Dillon [S.Harris].",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 22,
+        "yard_line": 33,
+        "period": 1,
+        "clock": "3:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006570",
+        "text": "B.Mann punts 46 yards to CLV 21, Center-C.Hughlett. G.Larvadain to CLV 28 for 7 yards (B.VanSumeren).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 22,
+        "yard_line": 33,
+        "period": 1,
+        "clock": "3:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006583",
+        "text": "Official Timeout at 03:13.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 1,
+        "clock": "3:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006596",
+        "text": "D.Gabriel pass incomplete short right to P.Strong [O.Okoronkwo].",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 1,
+        "clock": "3:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006626",
+        "text": "(Shotgun) D.Gabriel pass short left to D.Johnson to CLV 31 for 3 yards (J.Bennett).PENALTY on CLV-L.Wypler, Ineligible Downfield Pass, 5 yards, enforced at CLV 28 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 1,
+        "clock": "3:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006662",
+        "text": "(Shotgun) D.Gabriel pass short middle to J.Thrash to CLV 34 for 11 yards (B.Johnson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 15,
+        "yard_line": 77,
+        "period": 1,
+        "clock": "2:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006687",
+        "text": "(Shotgun) D.Gabriel pass short left to J.Thrash to CLV 40 for 6 yards (B.Johnson).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 66,
+        "period": 1,
+        "clock": "2:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006712",
+        "text": "D.Gabriel pass deep right to C.Tillman to PHI 42 for 18 yards (A.Mukuba).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 60,
+        "period": 1,
+        "clock": "1:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006737",
+        "text": "P.Strong up the middle to PHI 40 for 2 yards (J.Uche).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 42,
+        "period": 1,
+        "clock": "1:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006759",
+        "text": "(Shotgun) D.Gabriel pass short right to K.Davis to PHI 31 for 9 yards (J.Uche).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 40,
+        "period": 1,
+        "clock": "0:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006784",
+        "text": "END QUARTER 1",
+        "type": "End Period",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 31,
+        "period": 1,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006804",
+        "text": "D.Gabriel pass short left intended for D.Johnson INTERCEPTED by A.Mukuba at PHI 25. A.Mukuba for 75 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Hughlett, Holder-B.Mann.",
+        "type": "Interception Return Touchdown",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 31,
+        "period": 2,
+        "clock": "14:44",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773006840",
+        "text": "Official Timeout at 14:44.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "14:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006847",
+        "text": "J.Elliott kicks 58 yards from PHI 35 to CLV 7. K.Davis to CLV 33 for 26 yards (D.Cooper; B.VanSumeren).PENALTY on CLV-J.Baker, Offensive Holding, 10 yards, enforced at CLV 33.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "14:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006888",
+        "text": "D.Gabriel pass incomplete short left to T.Williams.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 77,
+        "period": 2,
+        "clock": "14:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006911",
+        "text": "(Shotgun) P.Strong up the middle to CLV 31 for 8 yards (S.Mondon).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 77,
+        "period": 2,
+        "clock": "14:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006933",
+        "text": "(Shotgun) D.Gabriel pass short left to J.Thrash to 50 for 19 yards (K.Ringo).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 69,
+        "period": 2,
+        "clock": "13:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006958",
+        "text": "P.Strong right guard to PHI 47 for 3 yards (A.Ojulari).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 50,
+        "period": 2,
+        "clock": "13:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773006980",
+        "text": "(Shotgun) D.Gabriel pass short right to J.Thrash pushed ob at PHI 45 for 2 yards (K.Ringo).PENALTY on PHI-J.Bennett, Defensive Offside, 5 yards, enforced at PHI 47 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 47,
+        "period": 2,
+        "clock": "12:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061021",
+        "text": "D.Gabriel pass incomplete short right to G.Larvadain (J.Bennett).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 42,
+        "period": 2,
+        "clock": "12:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061044",
+        "text": "(Shotgun) A.Marshall left guard to PHI 28 for 14 yards (B.Johnson; T.McCollum).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 42,
+        "period": 2,
+        "clock": "11:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061066",
+        "text": "(Shotgun) D.Gabriel pass short right to A.Marshall pushed ob at PHI 23 for 5 yards (J.Trotter).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 2,
+        "clock": "11:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061096",
+        "text": "P.Strong left tackle to PHI 21 for 2 yards (T.Robinson, J.Rogers).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 23,
+        "period": 2,
+        "clock": "10:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061118",
+        "text": "(Shotgun) D.Gabriel sacked at PHI 28 for -7 yards (A.Ojulari).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 21,
+        "period": 2,
+        "clock": "9:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061138",
+        "text": "D.Hopkins 46 yard field goal is GOOD, Center-B.Matiscik, Holder-C.Bojorquez.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 2,
+        "clock": "9:13",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730061148",
+        "text": "Official Timeout at 09:13.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "9:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061158",
+        "text": "D.Hopkins kicks 57 yards from CLV 35 to PHI 8. M.Johnson to PHI 27 for 19 yards (D.Kazee; N.Watson).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "9:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061188",
+        "text": "(Shotgun) D.Thompson-Robinson pass short right to E.Jenkins to PHI 39 for 12 yards (C.Mitchell).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 27,
+        "period": 2,
+        "clock": "9:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061213",
+        "text": "(Shotgun) M.Johnson up the middle to PHI 40 for 1 yard (J.Baker, M.Harden).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 39,
+        "period": 2,
+        "clock": "8:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061235",
+        "text": "(Shotgun) M.Johnson right tackle to PHI 40 for no gain (D.Kazee).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 40,
+        "period": 2,
+        "clock": "7:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061257",
+        "text": "(Shotgun) D.Thompson-Robinson sacked at PHI 31 for -9 yards (I.McGuire).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 9,
+        "yard_line": 40,
+        "period": 2,
+        "clock": "7:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061277",
+        "text": "B.Mann punts 42 yards to CLV 27, Center-C.Hughlett. G.Larvadain to CLV 31 for 4 yards (S.Mondon).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 18,
+        "yard_line": 31,
+        "period": 2,
+        "clock": "6:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061290",
+        "text": "Official Timeout at 06:14.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 2,
+        "clock": "6:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061303",
+        "text": "D.Gabriel FUMBLES (Aborted) at CLV 28, RECOVERED by PHI-A.Mukuba at CLV 31. A.Mukuba to CLV 31 for no gain (K.Davis). CLV-C.Lucas was injured during the play.",
+        "type": "Fumble Recovery (Opponent)",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 2,
+        "clock": "6:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061346",
+        "text": "(Shotgun) M.Johnson left guard to CLV 24 for 7 yards (D.McMillon).PENALTY on CLV-C.Thomas, Defensive Offside, 5 yards, enforced at CLV 31 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 2,
+        "clock": "6:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061382",
+        "text": "(Shotgun) M.Johnson left end to CLV 20 for 6 yards (E.Mascarenas-Arnold; T.Brown).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 5,
+        "yard_line": 74,
+        "period": 2,
+        "clock": "5:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061404",
+        "text": "(Shotgun) M.Johnson up the middle to CLV 16 for 4 yards (J.Briggs).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 2,
+        "clock": "5:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061426",
+        "text": "(Shotgun) M.Johnson right guard to CLV 11 for 5 yards (N.Needham; J.Tryon).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 84,
+        "period": 2,
+        "clock": "4:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061448",
+        "text": "K.McCord up the middle to CLV 9 for 2 yards (S.Kamara).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 89,
+        "period": 2,
+        "clock": "4:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061470",
+        "text": "(Shotgun) K.Robinson up the middle to CLV 10 for -1 yards (E.Mascarenas-Arnold).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 9,
+        "yard_line": 91,
+        "period": 2,
+        "clock": "3:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061492",
+        "text": "(Shotgun) K.McCord pass short right to T.Marshall to CLV 4 for 6 yards (D.McMillon, E.Mascarenas-Arnold).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 90,
+        "period": 2,
+        "clock": "2:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061505",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 2,
+        "clock": "2:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061517",
+        "text": "(Shotgun) PENALTY on PHI-M.Pryor, False Start, 5 yards, enforced at CLV 4 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061548",
+        "text": "(Shotgun) K.McCord pass short middle to A.Smith for 9 yards, TOUCHDOWN.\nPENALTY on CLV-C.Thomas, Roughing the Passer, 1 yard, enforced between downs. TWO-POINT CONVERSION ATTEMPT. M.Johnson rushes up the middle. ATTEMPT FAILS.",
+        "type": "Passing Touchdown",
+        "down": 3,
+        "distance": 9,
+        "yard_line": 91,
+        "period": 2,
+        "clock": "1:59",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730061597",
+        "text": "Official Timeout at 01:57.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "1:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061609",
+        "text": "J.Elliott kicks 65 yards from PHI 35 to CLV 0. T.Williams to CLV 38 for 38 yards (A.Sam; D.Cooper).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "1:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061644",
+        "text": "(Shotgun) P.Strong right end to CLV 33 for -5 yards (P.Nickerson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 62,
+        "period": 2,
+        "clock": "1:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061669",
+        "text": "(No Huddle, Shotgun) D.Gabriel pass short middle to K.Davis to PHI 38 for 29 yards (T.McCollum). PHI-J.Bennett was injured during the play.",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 15,
+        "yard_line": 67,
+        "period": 2,
+        "clock": "1:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061683",
+        "text": "Timeout #1 by PHI at 01:05.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 38,
+        "period": 2,
+        "clock": "1:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061697",
+        "text": "(Shotgun) D.Gabriel pass incomplete deep right to D.Johnson.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 38,
+        "period": 2,
+        "clock": "1:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061732",
+        "text": "(Shotgun) D.Gabriel pass incomplete short right.PENALTY on CLV-J.Thrash, Offensive Pass Interference, 10 yards, enforced at PHI 38 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 38,
+        "period": 2,
+        "clock": "1:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061766",
+        "text": "(Shotgun) D.Gabriel pass short middle to B.Bates to PHI 35 for 13 yards (T.McCollum).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 20,
+        "yard_line": 48,
+        "period": 2,
+        "clock": "0:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061791",
+        "text": "(No Huddle, Shotgun) D.Gabriel pass short middle to P.Strong to PHI 31 for 4 yards (J.Campbell).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061804",
+        "text": "Timeout #2 by CLV at 00:02.",
+        "type": "Timeout",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 31,
+        "period": 2,
+        "clock": "0:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061810",
+        "text": "Timeout #2 by PHI at 00:02.",
+        "type": "Timeout",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 31,
+        "period": 2,
+        "clock": "0:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061816",
+        "text": "A.Szmyt 49 yard field goal is GOOD, Center-B.Matiscik, Holder-C.Bojorquez.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 31,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730061850",
+        "text": "END QUARTER 2",
+        "type": "End of Half",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061878",
+        "text": "A.Szmyt kicks 65 yards from CLV 35 to end zone, Touchback to the PHI 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061895",
+        "text": "(Shotgun) PENALTY on PHI-D.Kendall, False Start, 5 yards, enforced at PHI 35 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061919",
+        "text": "(Shotgun) K.McCord pass short left to T.Marshall pushed ob at PHI 39 for 9 yards (M.Harden; K.Isaac).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 30,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061949",
+        "text": "(Shotgun) M.Johnson up the middle to PHI 43 for 4 yards (D.McMillon).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 39,
+        "period": 3,
+        "clock": "14:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061971",
+        "text": "(Shotgun) K.McCord pass incomplete short left to T.Marshall [C.Thomas].",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 43,
+        "period": 3,
+        "clock": "13:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730061994",
+        "text": "(Punt formation) PENALTY on PHI-B.VanSumeren, False Start, 5 yards, enforced at PHI 43 - No Play.",
+        "type": "Penalty",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 43,
+        "period": 3,
+        "clock": "13:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062022",
+        "text": "B.Mann punts 48 yards to CLV 14, Center-C.Hughlett. G.Larvadain to CLV 19 for 5 yards (A.Williams).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 7,
+        "yard_line": 38,
+        "period": 3,
+        "clock": "13:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062035",
+        "text": "Official Timeout at 13:27.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 81,
+        "period": 3,
+        "clock": "13:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062048",
+        "text": "(Shotgun) T.Huntley pass short right to P.Strong to CLV 21 for 2 yards (J.Trotter).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 81,
+        "period": 3,
+        "clock": "13:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062080",
+        "text": "P.Strong left end to CLV 23 for 2 yards (S.Mondon).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 79,
+        "period": 3,
+        "clock": "12:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062102",
+        "text": "(Shotgun) T.Huntley pass short left to P.Strong to CLV 22 for -1 yards (S.Mondon).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 77,
+        "period": 3,
+        "clock": "12:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062127",
+        "text": "C.Bojorquez punts 30 yards to PHI 48, Center-B.Matiscik, downed by CLV-B.Matiscik. ** Injury Update: PHI-J.Bennett has returned to the game.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 7,
+        "yard_line": 78,
+        "period": 3,
+        "clock": "11:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062140",
+        "text": "Official Timeout at 11:10.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 48,
+        "period": 3,
+        "clock": "11:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062152",
+        "text": "(Shotgun) D.Thompson-Robinson pass short middle intended for D.Cooper INTERCEPTED by K.Henry [J.Okwara] at PHI 45. K.Henry for 45 yards, TOUCHDOWN. A.Szmyt extra point is GOOD, Center-B.Matiscik, Holder-C.Bojorquez.",
+        "type": "Interception Return Touchdown",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 48,
+        "period": 3,
+        "clock": "10:59",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730062205",
+        "text": "A.Szmyt kicks 58 yards from CLV 35 to PHI 7. B.VanSumeren to PHI 30 for 23 yards (Do.Jones).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "10:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062228",
+        "text": "K.Robinson left guard to PHI 33 for 3 yards (J.Briggs; J.Okwara).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 3,
+        "clock": "10:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062255",
+        "text": "(Shotgun) K.Robinson up the middle to PHI 41 for 8 yards (J.Okwara; D.McMillon).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 33,
+        "period": 3,
+        "clock": "10:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062280",
+        "text": "K.Robinson right guard to PHI 40 for -1 yards (J.Briggs, E.Mascarenas-Arnold).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 41,
+        "period": 3,
+        "clock": "9:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062302",
+        "text": "(Shotgun) K.Robinson right guard to PHI 43 for 3 yards (J.Briggs).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 40,
+        "period": 3,
+        "clock": "8:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062324",
+        "text": "(Shotgun) K.McCord pass incomplete short left to K.Granson.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 43,
+        "period": 3,
+        "clock": "8:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062347",
+        "text": "B.Mann punts 48 yards to CLV 9, Center-C.Hughlett. G.Larvadain to CLV 13 for 4 yards (C.Latu).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 8,
+        "yard_line": 43,
+        "period": 3,
+        "clock": "8:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062360",
+        "text": "Official Timeout at 08:03.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 87,
+        "period": 3,
+        "clock": "8:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062373",
+        "text": "(Shotgun) T.Huntley pass short left to G.Larvadain ran ob at CLV 23 for 10 yards (J.Bennett; P.Nickerson).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 87,
+        "period": 3,
+        "clock": "8:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062410",
+        "text": "K.Davis left end to CLV 12 for -11 yards (P.Johnson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 77,
+        "period": 3,
+        "clock": "7:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062432",
+        "text": "(Shotgun) T.Huntley pass short left to K.Davis to CLV 18 for 6 yards (J.Bennett).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 21,
+        "yard_line": 88,
+        "period": 3,
+        "clock": "6:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062457",
+        "text": "(Shotgun) T.Huntley pass short middle to G.Larvadain to CLV 25 for 7 yards (P.Nickerson).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 15,
+        "yard_line": 82,
+        "period": 3,
+        "clock": "6:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062482",
+        "text": "C.Bojorquez punts 59 yards to PHI 16, Center-B.Matiscik. A.Williams to PHI 27 for 11 yards (D.McMillon).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 8,
+        "yard_line": 75,
+        "period": 3,
+        "clock": "5:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062495",
+        "text": "Official Timeout at 05:13.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 27,
+        "period": 3,
+        "clock": "5:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062508",
+        "text": "(Shotgun) K.McCord pass incomplete short left to E.Jenkins.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 27,
+        "period": 3,
+        "clock": "5:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062538",
+        "text": "K.Robinson right end to PHI 24 for -3 yards (N.Watson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 27,
+        "period": 3,
+        "clock": "5:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062560",
+        "text": "(Shotgun) K.McCord pass incomplete short right to K.Granson (J.Okwara).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 13,
+        "yard_line": 24,
+        "period": 3,
+        "clock": "4:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062583",
+        "text": "B.Mann punts 62 yards to CLV 14, Center-C.Hughlett, out of bounds.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 13,
+        "yard_line": 24,
+        "period": 3,
+        "clock": "4:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062607",
+        "text": "(Shotgun) P.Strong left guard to CLV 20 for 6 yards (L.Dixon; P.Nickerson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 86,
+        "period": 3,
+        "clock": "4:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062629",
+        "text": "(Shotgun) P.Strong right tackle to CLV 21 for 1 yard (P.Nickerson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 80,
+        "period": 3,
+        "clock": "3:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062651",
+        "text": "(Shotgun) T.Huntley pass incomplete short middle to G.Larvadain (J.Sykes).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 79,
+        "period": 3,
+        "clock": "2:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062674",
+        "text": " C.Bojorquez punts 59 yards to PHI 20, Center-B.Matiscik. A.Smith to PHI 30 for 10 yards (D.McMillon).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 79,
+        "period": 3,
+        "clock": "2:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062700",
+        "text": "(Shotgun) S.Powell left end to PHI 31 for 1 yard (E.Mascarenas-Arnold).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 3,
+        "clock": "2:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062722",
+        "text": "(Shotgun) D.Thompson-Robinson pass short left to S.Powell ran ob at PHI 33 for 2 yards (E.Mascarenas-Arnold).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 31,
+        "period": 3,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062752",
+        "text": "(Shotgun) D.Thompson-Robinson pass incomplete deep left to T.Marshall (K.Isaac).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 33,
+        "period": 3,
+        "clock": "1:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062775",
+        "text": "B.Mann punts 67 yards to end zone, Center-C.Hughlett, Touchback.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 7,
+        "yard_line": 33,
+        "period": 3,
+        "clock": "1:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062793",
+        "text": "T.Huntley pass short right to S.Cannella to CLV 25 for 5 yards (S.Mondon).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 3,
+        "clock": "1:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062818",
+        "text": "P.Strong right tackle to CLV 28 for 3 yards (L.Dixon).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 75,
+        "period": 3,
+        "clock": "0:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062840",
+        "text": "END QUARTER 3",
+        "type": "End Period",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 72,
+        "period": 3,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062860",
+        "text": "(Shotgun) P.Strong right guard pushed ob at PHI 18 for 54 yards (T.McCollum).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 72,
+        "period": 4,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062887",
+        "text": "(Shotgun) A.Marshall right tackle to PHI 15 for 3 yards (B.Young).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 18,
+        "period": 4,
+        "clock": "14:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062909",
+        "text": "(Shotgun) T.Huntley pass short right to S.Cannella ran ob at PHI 10 for 5 yards (M.McWilliams).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 15,
+        "period": 4,
+        "clock": "13:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062939",
+        "text": "(Shotgun) A.Marshall up the middle to PHI 10 for no gain (B.Young).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 10,
+        "period": 4,
+        "clock": "13:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062966",
+        "text": "T.Huntley pass incomplete short left to G.Larvadain.Penalty on CLV-G.Larvadain, Offensive Offside, declined.",
+        "type": "Pass Incompletion",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 10,
+        "period": 4,
+        "clock": "12:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730062983",
+        "text": "Official Timeout at 12:18.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 10,
+        "period": 4,
+        "clock": "12:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063000",
+        "text": "(Shotgun) S.Powell left guard to PHI 12 for 2 yards (T.Leo).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 10,
+        "period": 4,
+        "clock": "12:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063029",
+        "text": "(Shotgun) D.Thompson-Robinson pass short left to N.Muse to PHI 19 for 7 yards (D.Rush).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 12,
+        "period": 4,
+        "clock": "11:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063054",
+        "text": "S.Powell left end ran ob at PHI 11 for -8 yards (N.Watson).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 19,
+        "period": 4,
+        "clock": "11:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063081",
+        "text": "B.Mann punts 53 yards to CLV 36, Center-C.Hughlett. G.Larvadain to PHI 48 for 16 yards (M.Hook).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 9,
+        "yard_line": 11,
+        "period": 4,
+        "clock": "10:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063097",
+        "text": "Official Timeout at 09:51.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 46,
+        "period": 4,
+        "clock": "9:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063112",
+        "text": "T.Huntley pass incomplete short right to G.Larvadain (P.Nickerson).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 48,
+        "period": 4,
+        "clock": "9:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063142",
+        "text": "(Shotgun) T.Huntley pass short right to S.Cannella to PHI 43 for 5 yards (A.Sam).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 48,
+        "period": 4,
+        "clock": "9:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063167",
+        "text": "(Shotgun) T.Huntley pass deep middle to G.Larvadain to PHI 17 for 26 yards (E.Ricks).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 43,
+        "period": 4,
+        "clock": "9:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063192",
+        "text": "T.Williams right tackle to PHI 17 for no gain (D.Gant).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 17,
+        "period": 4,
+        "clock": "8:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063214",
+        "text": "(Shotgun) T.Huntley pass short right to T.Williams to PHI 11 for 6 yards (T.McCollum).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 17,
+        "period": 4,
+        "clock": "7:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063239",
+        "text": "(Shotgun) T.Huntley sacked at PHI 15 for -4 yards (J.Evans).Penalty on CLV-L.Thompson, Offensive Holding, declined.Penalty on CLV, Illegal Shift, declined.",
+        "type": "Sack",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 11,
+        "period": 4,
+        "clock": "7:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063270",
+        "text": "A.Szmyt 33 yard field goal is GOOD, Center-B.Matiscik, Holder-C.Bojorquez.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 8,
+        "yard_line": 15,
+        "period": 4,
+        "clock": "6:59",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730063280",
+        "text": "Official Timeout at 06:59.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "6:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063290",
+        "text": "A.Szmyt kicks 60 yards from CLV 35 to PHI 5. K.Robinson to PHI 29 for 24 yards (K.Henry).PENALTY on PHI-E.Jenkins, Offensive Holding, 10 yards, enforced at PHI 29.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "6:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063341",
+        "text": "(Shotgun) K.McCord pass short left to G.Jackson to PHI 20 for 1 yard (N.Needham).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 19,
+        "period": 4,
+        "clock": "6:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063366",
+        "text": "(Shotgun) K.McCord pass short left to K.Robinson pushed ob at PHI 26 for 6 yards (E.Mascarenas-Arnold).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 20,
+        "period": 4,
+        "clock": "6:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063396",
+        "text": "(Shotgun) K.McCord pass short right to T.Morin to PHI 30 for 4 yards (K.Isaac).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 26,
+        "period": 4,
+        "clock": "5:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063421",
+        "text": "(Shotgun) K.McCord pass short left to T.Morin to PHI 36 for 6 yards (D.Rush).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 4,
+        "clock": "5:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063446",
+        "text": "(Shotgun) K.McCord pass short right to T.Morin to PHI 42 for 6 yards (C.Edmonds).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 36,
+        "period": 4,
+        "clock": "4:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063471",
+        "text": "(Shotgun) K.McCord pass short middle intended for G.Jackson INTERCEPTED by N.Watson (N.Needham) at 50. N.Watson to PHI 45 for 5 yards (K.Robinson).PENALTY on CLV-K.Henry, Defensive Offside, 5 yards, enforced at PHI 42 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 42,
+        "period": 4,
+        "clock": "3:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063513",
+        "text": "(Shotgun) K.McCord pass incomplete deep right to C.Latu (D.McMillon) [A.Huntington].",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 5,
+        "yard_line": 47,
+        "period": 4,
+        "clock": "3:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063536",
+        "text": "(Shotgun) K.McCord pass incomplete short left to K.Robinson.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 47,
+        "period": 4,
+        "clock": "3:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063559",
+        "text": "(Shotgun) K.McCord pass incomplete short middle to G.Jackson.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 47,
+        "period": 4,
+        "clock": "3:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063582",
+        "text": "(Shotgun) K.McCord pass incomplete short left to T.Morin (C.Holmes).",
+        "type": "Pass Incompletion",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 47,
+        "period": 4,
+        "clock": "3:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063605",
+        "text": "(Shotgun) T.Huntley left end to PHI 39 for 7 yards (D.Gant).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 46,
+        "period": 4,
+        "clock": "3:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063627",
+        "text": "T.Taua right tackle to PHI 38 for 1 yard (D.Gant; L.Dixon).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 39,
+        "period": 4,
+        "clock": "2:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063638",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 38,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063649",
+        "text": "T.Taua right guard to PHI 32 for 6 yards (A.Sam; J.Evans).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 38,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063683",
+        "text": "T.Huntley kneels to PHI 33 for -1 yards.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 32,
+        "period": 4,
+        "clock": "1:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063705",
+        "text": "T.Huntley kneels to PHI 34 for -1 yards.",
+        "type": "Rush",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 33,
+        "period": 4,
+        "clock": "0:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730063727",
+        "text": "END GAME",
+        "type": "End of Game",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 34,
+        "period": 4,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      }
+    ],
+    "scoring_plays": [],
+    "touchdowns": [
+      {
+        "play_id": "401773006353",
+        "text": "A.Marshall up the middle for 4 yards, TOUCHDOWN. (Kick formation) TWO-POINT CONVERSION ATTEMPT. C.Bojorquez pass is incomplete. ATTEMPT FAILS.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "401773006804",
+        "text": "D.Gabriel pass short left intended for D.Johnson INTERCEPTED by A.Mukuba at PHI 25. A.Mukuba for 75 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Hughlett, Holder-B.Mann.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730061548",
+        "text": "(Shotgun) K.McCord pass short middle to A.Smith for 9 yards, TOUCHDOWN.\nPENALTY on CLV-C.Thomas, Roughing the Passer, 1 yard, enforced between downs. TWO-POINT CONVERSION ATTEMPT. M.Johnson rushes up the middle. ATTEMPT FAILS.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730062152",
+        "text": "(Shotgun) D.Thompson-Robinson pass short middle intended for D.Cooper INTERCEPTED by K.Henry [J.Okwara] at PHI 45. K.Henry for 45 yards, TOUCHDOWN. A.Szmyt extra point is GOOD, Center-B.Matiscik, Holder-C.Bojorquez.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      }
+    ],
+    "interceptions": [
+      {
+        "play_id": "401773006804",
+        "text": "D.Gabriel pass short left intended for D.Johnson INTERCEPTED by A.Mukuba at PHI 25. A.Mukuba for 75 yards, TOUCHDOWN. J.Elliott extra point is GOOD, Center-C.Hughlett, Holder-B.Mann.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730062152",
+        "text": "(Shotgun) D.Thompson-Robinson pass short middle intended for D.Cooper INTERCEPTED by K.Henry [J.Okwara] at PHI 45. K.Henry for 45 yards, TOUCHDOWN. A.Szmyt extra point is GOOD, Center-B.Matiscik, Holder-C.Bojorquez.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730063471",
+        "text": "(Shotgun) K.McCord pass short middle intended for G.Jackson INTERCEPTED by N.Watson (N.Needham) at 50. N.Watson to PHI 45 for 5 yards (K.Robinson).PENALTY on CLV-K.Henry, Defensive Offside, 5 yards, enforced at PHI 42 - No Play.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      }
+    ],
+    "fumbles": []
+  },
+  "processing_timestamp": "2025-08-20T10:50:15.808480"
+}

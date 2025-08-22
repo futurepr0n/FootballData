@@ -1,0 +1,26 @@
+{
+  "game_info": {
+    "game_id": "401774030",
+    "teams": [
+      {
+        "abbreviation": "TB",
+        "name": "Tampa Bay Buccaneers",
+        "score": 0,
+        "home_away": "home"
+      },
+      {
+        "abbreviation": "BUF",
+        "name": "Buffalo Bills",
+        "score": 0,
+        "home_away": "away"
+      }
+    ],
+    "final_score": {}
+  },
+  "drives": [],
+  "plays": [],
+  "scoring_plays": [],
+  "touchdowns": [],
+  "interceptions": [],
+  "fumbles": []
+}

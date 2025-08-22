@@ -1,0 +1,773 @@
+{
+  "week": 1,
+  "season": 2025,
+  "teams": {
+    "IND": {
+      "team_name": "Indianapolis Colts",
+      "team_abbr": "IND",
+      "stats": {
+        "kicking": [
+          {
+            "player": "Spencer Shrader",
+            "team": "IND",
+            "stat_category": "kicking",
+            "game_id": 401773001,
+            "fg": "3/4",
+            "pct": 75.0,
+            "long": 53,
+            "xp": "0/0",
+            "pts": 9
+          },
+          {
+            "player": "Maddux Trujillo",
+            "team": "IND",
+            "stat_category": "kicking",
+            "game_id": 401773001,
+            "fg": "0/0",
+            "pct": 0.0,
+            "long": 0,
+            "xp": "1/1",
+            "pts": 1
+          }
+        ],
+        "punting": [
+          {
+            "player": "Rigoberto Sanchez",
+            "team": "IND",
+            "stat_category": "punting",
+            "game_id": 401773001,
+            "no": 6,
+            "yds": 278,
+            "avg": 46.3,
+            "tb": 0,
+            "in_20": 2,
+            "long": 55
+          }
+        ],
+        "punt returns": [
+          {
+            "player": "Anthony Gould",
+            "team": "IND",
+            "stat_category": "punt returns",
+            "game_id": 401773001,
+            "no": 1,
+            "yds": 20,
+            "avg": 20.0,
+            "long": 20,
+            "td": 0
+          },
+          {
+            "player": "Coleman Owen",
+            "team": "IND",
+            "stat_category": "punt returns",
+            "game_id": 401773001,
+            "no": 2,
+            "yds": 17,
+            "avg": 8.5,
+            "long": 14,
+            "td": 0
+          }
+        ],
+        "receiving": [
+          {
+            "player": "Ashton Dulin",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 3,
+            "yds": 54,
+            "avg": 18.0,
+            "td": 0,
+            "long": 25,
+            "tgts": 7
+          },
+          {
+            "player": "Tyler Warren",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 3,
+            "yds": 40,
+            "avg": 13.3,
+            "td": 0,
+            "long": 23,
+            "tgts": 3
+          },
+          {
+            "player": "Adonai Mitchell",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 2,
+            "yds": 37,
+            "avg": 18.5,
+            "td": 0,
+            "long": 22,
+            "tgts": 6
+          },
+          {
+            "player": "Laquon Treadwell",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 24,
+            "avg": 24.0,
+            "td": 0,
+            "long": 24,
+            "tgts": 3
+          },
+          {
+            "player": "Jelani Woods",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 2,
+            "yds": 23,
+            "avg": 11.5,
+            "td": 0,
+            "long": 14,
+            "tgts": 3
+          },
+          {
+            "player": "Ajou Ajou",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 3,
+            "yds": 18,
+            "avg": 6.0,
+            "td": 0,
+            "long": 8,
+            "tgts": 5
+          },
+          {
+            "player": "Coleman Owen",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 4,
+            "yds": 18,
+            "avg": 4.5,
+            "td": 0,
+            "long": 6,
+            "tgts": 6
+          },
+          {
+            "player": "Will Mallory",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 15,
+            "avg": 15.0,
+            "td": 0,
+            "long": 15,
+            "tgts": 2
+          },
+          {
+            "player": "Anthony Gould",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 2,
+            "yds": 12,
+            "avg": 6.0,
+            "td": 0,
+            "long": 8,
+            "tgts": 4
+          },
+          {
+            "player": "Drew Ogletree",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 7,
+            "avg": 7.0,
+            "td": 0,
+            "long": 7,
+            "tgts": 1
+          },
+          {
+            "player": "Sean McKeon",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 5,
+            "avg": 5.0,
+            "td": 0,
+            "long": 5,
+            "tgts": 1
+          },
+          {
+            "player": "Landon Parker",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 4,
+            "avg": 4.0,
+            "td": 0,
+            "long": 4,
+            "tgts": 1
+          },
+          {
+            "player": "Khalil Herbert",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          },
+          {
+            "player": "Ulysses Bentley IV",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          },
+          {
+            "player": "DJ Giddens",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          },
+          {
+            "player": "Blayne Taylor",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          },
+          {
+            "player": "Tyler Kahmann",
+            "team": "IND",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          }
+        ],
+        "interceptions": [
+          {
+            "player": "Joe Bachie",
+            "team": "IND",
+            "stat_category": "interceptions",
+            "game_id": 401773001,
+            "int": 1,
+            "yds": 0,
+            "td": 0
+          },
+          {
+            "player": "Alex Johnson",
+            "team": "IND",
+            "stat_category": "interceptions",
+            "game_id": 401773001,
+            "int": 1,
+            "yds": 0,
+            "td": 0
+          }
+        ],
+        "passing": [
+          {
+            "player": "Daniel Jones",
+            "team": "IND",
+            "stat_category": "passing",
+            "game_id": 401773001,
+            "c_att": "10/21",
+            "yds": 144,
+            "avg": 6.9,
+            "td": 0,
+            "int": 0,
+            "sacks": "1-9",
+            "rtg": 70.3,
+            "": ""
+          },
+          {
+            "player": "Riley Leonard",
+            "team": "IND",
+            "stat_category": "passing",
+            "game_id": 401773001,
+            "c_att": "12/24",
+            "yds": 92,
+            "avg": 3.8,
+            "td": 0,
+            "int": 1,
+            "sacks": "0-0",
+            "rtg": 42.4,
+            "": ""
+          },
+          {
+            "player": "Anthony Richardson Sr.",
+            "team": "IND",
+            "stat_category": "passing",
+            "game_id": 401773001,
+            "c_att": "2/3",
+            "yds": 21,
+            "avg": 7.0,
+            "td": 0,
+            "int": 0,
+            "sacks": "1-8",
+            "rtg": 86.8,
+            "": ""
+          }
+        ],
+        "kick returns": [
+          {
+            "player": "Khalil Herbert",
+            "team": "IND",
+            "stat_category": "kick returns",
+            "game_id": 401773001,
+            "no": 2,
+            "yds": 51,
+            "avg": 25.5,
+            "long": 31,
+            "td": 0
+          },
+          {
+            "player": "Anthony Gould",
+            "team": "IND",
+            "stat_category": "kick returns",
+            "game_id": 401773001,
+            "no": 1,
+            "yds": 36,
+            "avg": 36.0,
+            "long": 36,
+            "td": 0
+          },
+          {
+            "player": "DJ Giddens",
+            "team": "IND",
+            "stat_category": "kick returns",
+            "game_id": 401773001,
+            "no": 1,
+            "yds": 21,
+            "avg": 21.0,
+            "long": 21,
+            "td": 0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Ulysses Bentley IV",
+            "team": "IND",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 7,
+            "yds": 35,
+            "avg": 5.0,
+            "td": 0,
+            "long": 10
+          },
+          {
+            "player": "Riley Leonard",
+            "team": "IND",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 4,
+            "yds": 34,
+            "avg": 8.5,
+            "td": 0,
+            "long": 21
+          },
+          {
+            "player": "Khalil Herbert",
+            "team": "IND",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 7,
+            "yds": 29,
+            "avg": 4.1,
+            "td": 1,
+            "long": 17
+          },
+          {
+            "player": "DJ Giddens",
+            "team": "IND",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 6,
+            "yds": 17,
+            "avg": 2.8,
+            "td": 0,
+            "long": 7
+          },
+          {
+            "player": "Tyler Goodson",
+            "team": "IND",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 4,
+            "yds": 11,
+            "avg": 2.8,
+            "td": 0,
+            "long": 5
+          }
+        ]
+      }
+    },
+    "BAL": {
+      "team_name": "Baltimore Ravens",
+      "team_abbr": "BAL",
+      "stats": {
+        "passing": [
+          {
+            "player": "Devin Leary",
+            "team": "BAL",
+            "stat_category": "passing",
+            "game_id": 401773001,
+            "c_att": "3/12",
+            "yds": 43,
+            "avg": 3.6,
+            "td": 0,
+            "int": 1,
+            "sacks": "1-2",
+            "rtg": 7.3,
+            "": ""
+          },
+          {
+            "player": "Cooper Rush",
+            "team": "BAL",
+            "stat_category": "passing",
+            "game_id": 401773001,
+            "c_att": "2/4",
+            "yds": 16,
+            "avg": 4.0,
+            "td": 0,
+            "int": 1,
+            "sacks": "1-8",
+            "rtg": 20.8,
+            "": ""
+          }
+        ],
+        "punt returns": [
+          {
+            "player": "LaJohntay Wester",
+            "team": "BAL",
+            "stat_category": "punt returns",
+            "game_id": 401773001,
+            "no": 3,
+            "yds": 104,
+            "avg": 34.7,
+            "long": 87,
+            "td": 1
+          },
+          {
+            "player": "Anthony Miller",
+            "team": "BAL",
+            "stat_category": "punt returns",
+            "game_id": 401773001,
+            "no": 1,
+            "yds": 5,
+            "avg": 5.0,
+            "long": 5,
+            "td": 0
+          }
+        ],
+        "rushing": [
+          {
+            "player": "Keaton Mitchell",
+            "team": "BAL",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 9,
+            "yds": 68,
+            "avg": 7.6,
+            "td": 1,
+            "long": 23
+          },
+          {
+            "player": "D'Ernest Johnson",
+            "team": "BAL",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 18,
+            "yds": 57,
+            "avg": 3.2,
+            "td": 0,
+            "long": 11
+          },
+          {
+            "player": "Rasheen Ali",
+            "team": "BAL",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 9,
+            "yds": 37,
+            "avg": 4.1,
+            "td": 1,
+            "long": 19
+          },
+          {
+            "player": "Devin Leary",
+            "team": "BAL",
+            "stat_category": "rushing",
+            "game_id": 401773001,
+            "car": 6,
+            "yds": 15,
+            "avg": 2.5,
+            "td": 0,
+            "long": 6
+          }
+        ],
+        "kick returns": [
+          {
+            "player": "Rasheen Ali",
+            "team": "BAL",
+            "stat_category": "kick returns",
+            "game_id": 401773001,
+            "no": 1,
+            "yds": 69,
+            "avg": 69.0,
+            "long": 69,
+            "td": 0
+          },
+          {
+            "player": "Keaton Mitchell",
+            "team": "BAL",
+            "stat_category": "kick returns",
+            "game_id": 401773001,
+            "no": 3,
+            "yds": 64,
+            "avg": 21.3,
+            "long": 25,
+            "td": 0
+          },
+          {
+            "player": "Dayton Wade",
+            "team": "BAL",
+            "stat_category": "kick returns",
+            "game_id": 401773001,
+            "no": 1,
+            "yds": 23,
+            "avg": 23.0,
+            "long": 23,
+            "td": 0
+          }
+        ],
+        "fumbles": [
+          {
+            "player": "Devin Leary",
+            "team": "BAL",
+            "stat_category": "fumbles",
+            "game_id": 401773001,
+            "fum": 1,
+            "lost": 0,
+            "rec": 0
+          },
+          {
+            "player": "Ben Cleveland",
+            "team": "BAL",
+            "stat_category": "fumbles",
+            "game_id": 401773001,
+            "fum": 0,
+            "lost": 0,
+            "rec": 1
+          }
+        ],
+        "punting": [
+          {
+            "player": "Jordan Stout",
+            "team": "BAL",
+            "stat_category": "punting",
+            "game_id": 401773001,
+            "no": 5,
+            "yds": 241,
+            "avg": 48.2,
+            "tb": 0,
+            "in_20": 1,
+            "long": 63
+          }
+        ],
+        "kicking": [
+          {
+            "player": "Tyler Loop",
+            "team": "BAL",
+            "stat_category": "kicking",
+            "game_id": 401773001,
+            "fg": "1/2",
+            "pct": 50.0,
+            "long": 52,
+            "xp": "3/3",
+            "pts": 6
+          }
+        ],
+        "receiving": [
+          {
+            "player": "LaJohntay Wester",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 2,
+            "yds": 41,
+            "avg": 20.5,
+            "td": 0,
+            "long": 30,
+            "tgts": 3
+          },
+          {
+            "player": "Tylan Wallace",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 9,
+            "avg": 9.0,
+            "td": 0,
+            "long": 9,
+            "tgts": 1
+          },
+          {
+            "player": "Charlie Kolar",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 7,
+            "avg": 7.0,
+            "td": 0,
+            "long": 7,
+            "tgts": 1
+          },
+          {
+            "player": "D'Ernest Johnson",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 1,
+            "yds": 2,
+            "avg": 2.0,
+            "td": 0,
+            "long": 2,
+            "tgts": 1
+          },
+          {
+            "player": "Keith Kirkwood",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          },
+          {
+            "player": "Anthony Miller",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 2
+          },
+          {
+            "player": "Scotty Washington",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          },
+          {
+            "player": "Dayton Wade",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 3
+          },
+          {
+            "player": "Rasheen Ali",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 1
+          },
+          {
+            "player": "Devontez Walker",
+            "team": "BAL",
+            "stat_category": "receiving",
+            "game_id": 401773001,
+            "rec": 0,
+            "yds": 0,
+            "avg": 0.0,
+            "td": 0,
+            "long": 0,
+            "tgts": 2
+          }
+        ],
+        "interceptions": [
+          {
+            "player": "Jay Higgins IV",
+            "team": "BAL",
+            "stat_category": "interceptions",
+            "game_id": 401773001,
+            "int": 1,
+            "yds": 2,
+            "td": 0
+          }
+        ]
+      }
+    }
+  },
+  "games": [],
+  "stats_summary": {
+    "total_files": 20,
+    "teams_processed": 2,
+    "categories_processed": {
+      "kicking": 2,
+      "passing": 2,
+      "punting": 2,
+      "punt returns": 2,
+      "receiving": 2,
+      "rushing": 2,
+      "interceptions": 2,
+      "kick returns": 2,
+      "fumbles": 1
+    }
+  }
+}

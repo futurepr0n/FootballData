@@ -1,0 +1,34 @@
+{
+  "game_info": {
+    "game_id": "401772997",
+    "date": "2025-08-22T23:30Z",
+    "status": {
+      "type": {
+        "id": "1",
+        "name": "STATUS_SCHEDULED",
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Fri, August 22nd at 7:30 PM EDT",
+        "shortDetail": "8/22 - 7:30 PM EDT"
+      },
+      "isTBDFlex": false
+    },
+    "venue": {},
+    "attendance": 0
+  },
+  "team_stats": {
+    "NYJ": {
+      "score": 0,
+      "record": "0-0",
+      "home_away": "home"
+    },
+    "PHI": {
+      "score": 0,
+      "record": "0-0",
+      "home_away": "away"
+    }
+  },
+  "player_stats": {},
+  "scoring_summary": []
+}

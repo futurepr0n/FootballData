@@ -1,0 +1,4 @@
+player,team,stat_category,game_id,c_att,yds,avg,td,int,sacks,rtg,
+Daniel Jones,IND,passing,401773001,10/21,144,6.9,0,0,1-9,70.3,
+Riley Leonard,IND,passing,401773001,12/24,92,3.8,0,1,0-0,42.4,
+Anthony Richardson Sr.,IND,passing,401773001,2/3,21,7.0,0,0,1-8,86.8,

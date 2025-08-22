@@ -1,0 +1,56 @@
+# Data Directory .gitignore
+# This directory contains processed NFL data and should generally be included in git
+# However, we exclude certain temporary and cache files
+
+# Temporary processing files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Cache directories
+.cache/
+cache/
+
+# Processing logs
+processing.log
+*.processing.log
+
+# Backup directories that may be auto-generated
+backups/
+temp_backups/
+
+# Large data files that should be regenerated (uncomment if needed)
+# CSV_BACKUPS/
+# *.csv
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Python cache (if any Python scripts run here)
+__pycache__/
+*.pyc
+
+# Node.js (if any Node scripts run here)
+node_modules/
+
+# Editor temporary files
+*~
+*.swp
+*.swo
+
+# Lock files
+*.lock
+
+# Environment files
+.env*

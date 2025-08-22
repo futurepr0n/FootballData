@@ -1,0 +1,26 @@
+{
+  "game_info": {
+    "game_id": "401777124",
+    "teams": [
+      {
+        "abbreviation": "WSH",
+        "name": "Washington Commanders",
+        "score": 0,
+        "home_away": "home"
+      },
+      {
+        "abbreviation": "BAL",
+        "name": "Baltimore Ravens",
+        "score": 0,
+        "home_away": "away"
+      }
+    ],
+    "final_score": {}
+  },
+  "drives": [],
+  "plays": [],
+  "scoring_plays": [],
+  "touchdowns": [],
+  "interceptions": [],
+  "fumbles": []
+}

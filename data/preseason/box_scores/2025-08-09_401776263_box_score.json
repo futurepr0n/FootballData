@@ -1,0 +1,1578 @@
+{
+  "game_info": {
+    "game_id": "401776263",
+    "date": "2025-08-09T17:00Z",
+    "status": {
+      "type": {
+        "id": "3",
+        "name": "STATUS_FINAL",
+        "state": "post",
+        "completed": true,
+        "description": "Final",
+        "detail": "Final",
+        "shortDetail": "Final"
+      },
+      "isTBDFlex": false
+    },
+    "venue": {},
+    "attendance": 0
+  },
+  "team_stats": {
+    "BUF": {
+      "score": 25,
+      "record": "0-0",
+      "home_away": "home"
+    },
+    "NYG": {
+      "score": 34,
+      "record": "0-0",
+      "home_away": "away"
+    }
+  },
+  "player_stats": {
+    "Jaxson Dart_NYG": {
+      "name": "Jaxson Dart",
+      "position": "",
+      "jersey": "6",
+      "team": "NYG",
+      "stats": {
+        "0": 3,
+        "1": 24,
+        "2": 8.0,
+        "3": 0,
+        "4": 19
+      }
+    },
+    "Tommy DeVito_NYG": {
+      "name": "Tommy DeVito",
+      "position": "",
+      "jersey": "15",
+      "team": "NYG",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 0.5,
+        "3": 0,
+        "4": 1
+      }
+    },
+    "Jameis Winston_NYG": {
+      "name": "Jameis Winston",
+      "position": "",
+      "jersey": "19",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 12,
+        "2": 12.0,
+        "3": 0,
+        "4": 12
+      }
+    },
+    "Russell Wilson_NYG": {
+      "name": "Russell Wilson",
+      "position": "",
+      "jersey": "3",
+      "team": "NYG",
+      "stats": {
+        "0": "6/7",
+        "1": 28,
+        "2": 4.0,
+        "3": 0,
+        "4": 0,
+        "5": "0-0",
+        "6": 83.3
+      }
+    },
+    "Dante Miller_NYG": {
+      "name": "Dante Miller",
+      "position": "",
+      "jersey": "25O",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 20,
+        "2": 20.0,
+        "3": 20,
+        "4": 0
+      }
+    },
+    "Tyrone Tracy Jr._NYG": {
+      "name": "Tyrone Tracy Jr.",
+      "position": "",
+      "jersey": "29",
+      "team": "NYG",
+      "stats": {
+        "0": 2,
+        "1": 7,
+        "2": 3.5,
+        "3": 0,
+        "4": 7,
+        "5": 2
+      }
+    },
+    "Jonathan Ward_NYG": {
+      "name": "Jonathan Ward",
+      "position": "",
+      "jersey": "23",
+      "team": "NYG",
+      "stats": {
+        "0": 4,
+        "1": 35,
+        "2": 8.8,
+        "3": 1,
+        "4": 21,
+        "5": 5
+      }
+    },
+    "Montrell Washington_NYG": {
+      "name": "Montrell Washington",
+      "position": "",
+      "jersey": "80",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 8,
+        "2": 8.0,
+        "3": 8,
+        "4": 0
+      }
+    },
+    "Devin Singletary_NYG": {
+      "name": "Devin Singletary",
+      "position": "",
+      "jersey": "26",
+      "team": "NYG",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "Lil'Jordan Humphrey_NYG": {
+      "name": "Lil'Jordan Humphrey",
+      "position": "",
+      "jersey": "81",
+      "team": "NYG",
+      "stats": {
+        "0": 2,
+        "1": 36,
+        "2": 18.0,
+        "3": 1,
+        "4": 28,
+        "5": 4
+      }
+    },
+    "Gunner Olszewski_NYG": {
+      "name": "Gunner Olszewski",
+      "position": "",
+      "jersey": "O",
+      "team": "NYG",
+      "stats": {
+        "0": 5,
+        "1": 27,
+        "2": 5.4,
+        "3": 1,
+        "4": 9,
+        "5": 8
+      }
+    },
+    "Thomas Fidone II_NYG": {
+      "name": "Thomas Fidone II",
+      "position": "",
+      "jersey": "86",
+      "team": "NYG",
+      "stats": {
+        "0": 3,
+        "1": 22,
+        "2": 7.3,
+        "3": 0,
+        "4": 16,
+        "5": 3
+      }
+    },
+    "Wan'Dale Robinson_NYG": {
+      "name": "Wan'Dale Robinson",
+      "position": "",
+      "jersey": "17",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 11,
+        "2": 11.0,
+        "3": 0,
+        "4": 11,
+        "5": 1
+      }
+    },
+    "Theo Johnson_NYG": {
+      "name": "Theo Johnson",
+      "position": "",
+      "jersey": "84",
+      "team": "NYG",
+      "stats": {
+        "0": 2,
+        "1": 10,
+        "2": 5.0,
+        "3": 0,
+        "4": 7,
+        "5": 2
+      }
+    },
+    "Zach Pascal_NYG": {
+      "name": "Zach Pascal",
+      "position": "",
+      "jersey": "83",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 9,
+        "2": 9.0,
+        "3": 0,
+        "4": 9,
+        "5": 1
+      }
+    },
+    "Jordan Bly_NYG": {
+      "name": "Jordan Bly",
+      "position": "",
+      "jersey": "12O",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 8,
+        "2": 8.0,
+        "3": 0,
+        "4": 8,
+        "5": 1
+      }
+    },
+    "Greg Dulcich_NYG": {
+      "name": "Greg Dulcich",
+      "position": "",
+      "jersey": "89",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ihmir Smith-Marsette_NYG": {
+      "name": "Ihmir Smith-Marsette",
+      "position": "",
+      "jersey": "87",
+      "team": "NYG",
+      "stats": {
+        "0": 2,
+        "1": 23,
+        "2": 11.5,
+        "3": 19,
+        "4": 0
+      }
+    },
+    "Daniel Bellinger_NYG": {
+      "name": "Daniel Bellinger",
+      "position": "",
+      "jersey": "82",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "Dalen Cambre_NYG": {
+      "name": "Dalen Cambre",
+      "position": "",
+      "jersey": "5O",
+      "team": "NYG",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+      }
+    },
+    "Juice Wells Jr._NYG": {
+      "name": "Juice Wells Jr.",
+      "position": "",
+      "jersey": "2O",
+      "team": "NYG",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+      }
+    },
+    "Trace Ford_NYG": {
+      "name": "Trace Ford",
+      "position": "",
+      "jersey": "46",
+      "team": "NYG",
+      "stats": {
+        "0": 4,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Nic Jones_NYG": {
+      "name": "Nic Jones",
+      "position": "",
+      "jersey": "31",
+      "team": "NYG",
+      "stats": {
+        "0": 5,
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "K'Von Wallace_NYG": {
+      "name": "K'Von Wallace",
+      "position": "",
+      "jersey": "34",
+      "team": "NYG",
+      "stats": {
+        "0": 5,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "K.J. Cloyd_NYG": {
+      "name": "K.J. Cloyd",
+      "position": "",
+      "jersey": "48D",
+      "team": "NYG",
+      "stats": {
+        "0": 5,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Dyontae Johnson_NYG": {
+      "name": "Dyontae Johnson",
+      "position": "",
+      "jersey": "54",
+      "team": "NYG",
+      "stats": {
+        "0": 4,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Deonte Banks_NYG": {
+      "name": "Deonte Banks",
+      "position": "",
+      "jersey": "2D",
+      "team": "NYG",
+      "stats": {
+        "0": 3,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Chris Board_NYG": {
+      "name": "Chris Board",
+      "position": "",
+      "jersey": "49",
+      "team": "NYG",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Dane Belton_NYG": {
+      "name": "Dane Belton",
+      "position": "",
+      "jersey": "24",
+      "team": "NYG",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "O'Donnell Fortune_NYG": {
+      "name": "O'Donnell Fortune",
+      "position": "",
+      "jersey": "39",
+      "team": "NYG",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "TJ Moore_NYG": {
+      "name": "TJ Moore",
+      "position": "",
+      "jersey": "30",
+      "team": "NYG",
+      "stats": {
+        "0": 3,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Paulson Adebo_NYG": {
+      "name": "Paulson Adebo",
+      "position": "",
+      "jersey": "21",
+      "team": "NYG",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Raheem Layne_NYG": {
+      "name": "Raheem Layne",
+      "position": "",
+      "jersey": "43",
+      "team": "NYG",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Makari Paige_NYG": {
+      "name": "Makari Paige",
+      "position": "",
+      "jersey": "38",
+      "team": "NYG",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "D.J. Davidson_NYG": {
+      "name": "D.J. Davidson",
+      "position": "",
+      "jersey": "98",
+      "team": "NYG",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Roy Robertson-Harris_NYG": {
+      "name": "Roy Robertson-Harris",
+      "position": "",
+      "jersey": "95",
+      "team": "NYG",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Jordon Riley_NYG": {
+      "name": "Jordon Riley",
+      "position": "",
+      "jersey": "99D",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Cory Durden_NYG": {
+      "name": "Cory Durden",
+      "position": "",
+      "jersey": "69",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Dru Phillips_NYG": {
+      "name": "Dru Phillips",
+      "position": "",
+      "jersey": "22",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jeremiah Ledbetter_NYG": {
+      "name": "Jeremiah Ledbetter",
+      "position": "",
+      "jersey": "96",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Tomon Fox_NYG": {
+      "name": "Tomon Fox",
+      "position": "",
+      "jersey": "45",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Micah McFadden_NYG": {
+      "name": "Micah McFadden",
+      "position": "",
+      "jersey": "41",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Darius Muasau_NYG": {
+      "name": "Darius Muasau",
+      "position": "",
+      "jersey": "53",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Tyler Nubin_NYG": {
+      "name": "Tyler Nubin",
+      "position": "",
+      "jersey": "27",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Abdul Carter_NYG": {
+      "name": "Abdul Carter",
+      "position": "",
+      "jersey": "51",
+      "team": "NYG",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Dee Williams_NYG": {
+      "name": "Dee Williams",
+      "position": "",
+      "jersey": "33",
+      "team": "NYG",
+      "stats": {
+        "0": 2,
+        "1": 15,
+        "2": 7.5,
+        "3": 15,
+        "4": 0
+      }
+    },
+    "Graham Gano_NYG": {
+      "name": "Graham Gano",
+      "position": "",
+      "jersey": "9S",
+      "team": "NYG",
+      "stats": {
+        "0": "3/3",
+        "1": 100.0,
+        "2": 53,
+        "3": "1/1",
+        "4": 10
+      }
+    },
+    "Jude McAtamney_NYG": {
+      "name": "Jude McAtamney",
+      "position": "",
+      "jersey": "99S",
+      "team": "NYG",
+      "stats": {
+        "0": "1/1",
+        "1": 100.0,
+        "2": 42,
+        "3": "1/1",
+        "4": 4
+      }
+    },
+    "Jamie Gillan_NYG": {
+      "name": "Jamie Gillan",
+      "position": "",
+      "jersey": "12S",
+      "team": "NYG",
+      "stats": {
+        "0": 4,
+        "1": 181,
+        "2": 45.3,
+        "3": 0,
+        "4": 1,
+        "5": 57
+      }
+    },
+    "Mitchell Trubisky_BUF": {
+      "name": "Mitchell Trubisky",
+      "position": "",
+      "jersey": "11",
+      "team": "BUF",
+      "stats": {
+        "0": "9/13",
+        "1": 138,
+        "2": 10.6,
+        "3": 1,
+        "4": 0,
+        "5": "0-0",
+        "6": 129.6
+      }
+    },
+    "Mike White_BUF": {
+      "name": "Mike White",
+      "position": "",
+      "jersey": "14",
+      "team": "BUF",
+      "stats": {
+        "0": "8/13",
+        "1": 112,
+        "2": 8.6,
+        "3": 2,
+        "4": 0,
+        "5": "1-8",
+        "6": 128.8
+      }
+    },
+    "Shane Buechele_BUF": {
+      "name": "Shane Buechele",
+      "position": "",
+      "jersey": "6",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0
+      }
+    },
+    "Ty Johnson_BUF": {
+      "name": "Ty Johnson",
+      "position": "",
+      "jersey": "26",
+      "team": "BUF",
+      "stats": {
+        "0": 3,
+        "1": 26,
+        "2": 8.7,
+        "3": 0,
+        "4": 14
+      }
+    },
+    "Frank Gore Jr._BUF": {
+      "name": "Frank Gore Jr.",
+      "position": "",
+      "jersey": "20",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ray Davis_BUF": {
+      "name": "Ray Davis",
+      "position": "",
+      "jersey": "22",
+      "team": "BUF",
+      "stats": {
+        "0": "0/0",
+        "1": 0.0,
+        "2": 0,
+        "3": "1/1",
+        "4": 1
+      }
+    },
+    "Darrynton Evans_BUF": {
+      "name": "Darrynton Evans",
+      "position": "",
+      "jersey": "21",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Tyrell Shavers_BUF": {
+      "name": "Tyrell Shavers",
+      "position": "",
+      "jersey": "80",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "KJ Hamler_BUF": {
+      "name": "KJ Hamler",
+      "position": "",
+      "jersey": "19",
+      "team": "BUF",
+      "stats": {
+        "0": 2,
+        "1": 48,
+        "2": 24.0,
+        "3": 24,
+        "4": 0
+      }
+    },
+    "Stephen Gosnell_BUF": {
+      "name": "Stephen Gosnell",
+      "position": "",
+      "jersey": "89",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Joshua Palmer_BUF": {
+      "name": "Joshua Palmer",
+      "position": "",
+      "jersey": "5",
+      "team": "BUF",
+      "stats": {
+        "0": 2,
+        "1": 21,
+        "2": 10.5,
+        "3": 0,
+        "4": 12,
+        "5": 3
+      }
+    },
+    "Kristian Wilkerson_BUF": {
+      "name": "Kristian Wilkerson",
+      "position": "",
+      "jersey": "82",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 20,
+        "2": 20.0,
+        "3": 0,
+        "4": 20,
+        "5": 2
+      }
+    },
+    "Reggie Gilliam_BUF": {
+      "name": "Reggie Gilliam",
+      "position": "",
+      "jersey": "41",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 19,
+        "2": 19.0,
+        "3": 0,
+        "4": 19,
+        "5": 1
+      }
+    },
+    "Deon Cain_BUF": {
+      "name": "Deon Cain",
+      "position": "",
+      "jersey": "32",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 17,
+        "2": 17.0,
+        "3": 0,
+        "4": 17,
+        "5": 3
+      }
+    },
+    "Laviska Shenault Jr._BUF": {
+      "name": "Laviska Shenault Jr.",
+      "position": "",
+      "jersey": "15",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 7,
+        "2": 7.0,
+        "3": 7,
+        "4": 0
+      }
+    },
+    "Dawson Knox_BUF": {
+      "name": "Dawson Knox",
+      "position": "",
+      "jersey": "88",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 11,
+        "2": 11.0,
+        "3": 1,
+        "4": 11,
+        "5": 1
+      }
+    },
+    "Dalton Kincaid_BUF": {
+      "name": "Dalton Kincaid",
+      "position": "",
+      "jersey": "86",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 10,
+        "2": 10.0,
+        "3": 0,
+        "4": 10,
+        "5": 1
+      }
+    },
+    "Keleki Latu_BUF": {
+      "name": "Keleki Latu",
+      "position": "",
+      "jersey": "83",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Zach Davidson_BUF": {
+      "name": "Zach Davidson",
+      "position": "",
+      "jersey": "84",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Matt Sokol_BUF": {
+      "name": "Matt Sokol",
+      "position": "",
+      "jersey": "87",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 2,
+        "2": 2.0,
+        "3": 0,
+        "4": 2,
+        "5": 1
+      }
+    },
+    "Jackson Hawes_BUF": {
+      "name": "Jackson Hawes",
+      "position": "",
+      "jersey": "85",
+      "team": "BUF",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "Keon Coleman_BUF": {
+      "name": "Keon Coleman",
+      "position": "",
+      "jersey": "0",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "Jacob Bayer_BUF": {
+      "name": "Jacob Bayer",
+      "position": "",
+      "jersey": "61",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0
+      }
+    },
+    "Keonta Jenkins_BUF": {
+      "name": "Keonta Jenkins",
+      "position": "",
+      "jersey": "49",
+      "team": "BUF",
+      "stats": {
+        "0": 6,
+        "1": 5,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Cam Lewis_BUF": {
+      "name": "Cam Lewis",
+      "position": "",
+      "jersey": "39",
+      "team": "BUF",
+      "stats": {
+        "0": 5,
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Joe Andreessen_BUF": {
+      "name": "Joe Andreessen",
+      "position": "",
+      "jersey": "44",
+      "team": "BUF",
+      "stats": {
+        "0": 5,
+        "1": 3,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jimmy Ciarlo_BUF": {
+      "name": "Jimmy Ciarlo",
+      "position": "",
+      "jersey": "35",
+      "team": "BUF",
+      "stats": {
+        "0": 4,
+        "1": 4,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ja'Marcus Ingram_BUF": {
+      "name": "Ja'Marcus Ingram",
+      "position": "",
+      "jersey": "46",
+      "team": "BUF",
+      "stats": {
+        "0": 4,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Tre'Davious White_BUF": {
+      "name": "Tre'Davious White",
+      "position": "",
+      "jersey": "27",
+      "team": "BUF",
+      "stats": {
+        "0": 3,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Justin Hollins_BUF": {
+      "name": "Justin Hollins",
+      "position": "",
+      "jersey": "52",
+      "team": "BUF",
+      "stats": {
+        "0": 3,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Dane Jackson_BUF": {
+      "name": "Dane Jackson",
+      "position": "",
+      "jersey": "23",
+      "team": "BUF",
+      "stats": {
+        "0": 3,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jordan Hancock_BUF": {
+      "name": "Jordan Hancock",
+      "position": "",
+      "jersey": "37",
+      "team": "BUF",
+      "stats": {
+        "0": 3,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Matt Milano_BUF": {
+      "name": "Matt Milano",
+      "position": "",
+      "jersey": "58",
+      "team": "BUF",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Taron Johnson_BUF": {
+      "name": "Taron Johnson",
+      "position": "",
+      "jersey": "7",
+      "team": "BUF",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Edefuan Ulofoshio_BUF": {
+      "name": "Edefuan Ulofoshio",
+      "position": "",
+      "jersey": "48",
+      "team": "BUF",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "DeWayne Carter_BUF": {
+      "name": "DeWayne Carter",
+      "position": "",
+      "jersey": "90",
+      "team": "BUF",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Dorian Strong_BUF": {
+      "name": "Dorian Strong",
+      "position": "",
+      "jersey": "43",
+      "team": "BUF",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Wande Owens_BUF": {
+      "name": "Wande Owens",
+      "position": "",
+      "jersey": "30",
+      "team": "BUF",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Christian Benford_BUF": {
+      "name": "Christian Benford",
+      "position": "",
+      "jersey": "47",
+      "team": "BUF",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Damar Hamlin_BUF": {
+      "name": "Damar Hamlin",
+      "position": "",
+      "jersey": "3",
+      "team": "BUF",
+      "stats": {
+        "0": 2,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Javon Solomon_BUF": {
+      "name": "Javon Solomon",
+      "position": "",
+      "jersey": "56",
+      "team": "BUF",
+      "stats": {
+        "0": 2,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Reid Ferguson_BUF": {
+      "name": "Reid Ferguson",
+      "position": "",
+      "jersey": "69",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Michael Hoecht_BUF": {
+      "name": "Michael Hoecht",
+      "position": "",
+      "jersey": "55",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jalen Virgil_BUF": {
+      "name": "Jalen Virgil",
+      "position": "",
+      "jersey": "13",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ed Oliver_BUF": {
+      "name": "Ed Oliver",
+      "position": "",
+      "jersey": "91",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Darrick Forrest_BUF": {
+      "name": "Darrick Forrest",
+      "position": "",
+      "jersey": "28",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Greg Rousseau_BUF": {
+      "name": "Greg Rousseau",
+      "position": "",
+      "jersey": "50",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Te'Cory Couch_BUF": {
+      "name": "Te'Cory Couch",
+      "position": "",
+      "jersey": "33",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Zion Logue_BUF": {
+      "name": "Zion Logue",
+      "position": "",
+      "jersey": "93",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Daequan Hardy_BUF": {
+      "name": "Daequan Hardy",
+      "position": "",
+      "jersey": "25",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 27,
+        "2": 27.0,
+        "3": 27,
+        "4": 0
+      }
+    },
+    "Marcus Harris_BUF": {
+      "name": "Marcus Harris",
+      "position": "",
+      "jersey": "72",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Brandon Codrington_BUF": {
+      "name": "Brandon Codrington",
+      "position": "",
+      "jersey": "29",
+      "team": "BUF",
+      "stats": {
+        "0": 1,
+        "1": 4,
+        "2": 4.0,
+        "3": 4,
+        "4": 0
+      }
+    },
+    "DaQuan Jones_BUF": {
+      "name": "DaQuan Jones",
+      "position": "",
+      "jersey": "92",
+      "team": "BUF",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Larry Ogunjobi_BUF": {
+      "name": "Larry Ogunjobi",
+      "position": "",
+      "jersey": "99",
+      "team": "BUF",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "T.J. Sanders_BUF": {
+      "name": "T.J. Sanders",
+      "position": "",
+      "jersey": "98",
+      "team": "BUF",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 2,
+        "6": 0
+      }
+    },
+    "Deone Walker_BUF": {
+      "name": "Deone Walker",
+      "position": "",
+      "jersey": "96",
+      "team": "BUF",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Caden Davis_BUF": {
+      "name": "Caden Davis",
+      "position": "",
+      "jersey": "36",
+      "team": "BUF",
+      "stats": {
+        "0": "1/1",
+        "1": 100.0,
+        "2": 24,
+        "3": "1/1",
+        "4": 4
+      }
+    },
+    "Brad Robbins_BUF": {
+      "name": "Brad Robbins",
+      "position": "",
+      "jersey": "40",
+      "team": "BUF",
+      "stats": {
+        "0": 6,
+        "1": 318,
+        "2": 53.0,
+        "3": 1,
+        "4": 3,
+        "5": 61
+      }
+    }
+  },
+  "scoring_summary": []
+}

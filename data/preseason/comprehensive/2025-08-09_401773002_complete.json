@@ -1,0 +1,3969 @@
+{
+  "game_id": "401773002",
+  "date": "2025-08-09",
+  "box_score": {
+    "game_info": {
+      "game_id": "401773002",
+      "date": "2025-08-09T23:00Z",
+      "status": {
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final"
+        },
+        "isTBDFlex": false
+      },
+      "venue": {},
+      "attendance": 0
+    },
+    "team_stats": {
+      "JAX": {
+        "score": 25,
+        "record": "0-0",
+        "home_away": "home"
+      },
+      "PIT": {
+        "score": 31,
+        "record": "0-0",
+        "home_away": "away"
+      }
+    },
+    "player_stats": {
+      "Skylar Thompson_PIT": {
+        "name": "Skylar Thompson",
+        "position": "",
+        "jersey": "17O",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "Mason Rudolph_PIT": {
+        "name": "Mason Rudolph",
+        "position": "",
+        "jersey": "2",
+        "team": "PIT",
+        "stats": {
+          "0": "9/10",
+          "1": 84,
+          "2": 8.4,
+          "3": 1,
+          "4": 0,
+          "5": "1-10",
+          "6": 135.0
+        }
+      },
+      "Lew Nichols_PIT": {
+        "name": "Lew Nichols",
+        "position": "",
+        "jersey": "35O",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 9,
+          "2": 9.0,
+          "3": 0,
+          "4": 9,
+          "5": 3
+        }
+      },
+      "Kaleb Johnson_PIT": {
+        "name": "Kaleb Johnson",
+        "position": "",
+        "jersey": "20",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 6,
+          "2": 6.0,
+          "3": 0,
+          "4": 6,
+          "5": 2
+        }
+      },
+      "Trey Sermon_PIT": {
+        "name": "Trey Sermon",
+        "position": "",
+        "jersey": "27O",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 26,
+          "2": 26.0,
+          "3": 26,
+          "4": 0
+        }
+      },
+      "Evan Hull_PIT": {
+        "name": "Evan Hull",
+        "position": "",
+        "jersey": "38O",
+        "team": "PIT",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 1
+        }
+      },
+      "Logan Woodside_PIT": {
+        "name": "Logan Woodside",
+        "position": "",
+        "jersey": "6O",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": -2,
+          "2": -2.0,
+          "3": 0,
+          "4": -2
+        }
+      },
+      "Ke'Shawn Williams_PIT": {
+        "name": "Ke'Shawn Williams",
+        "position": "",
+        "jersey": "85",
+        "team": "PIT",
+        "stats": {
+          "0": 2,
+          "1": 17,
+          "2": 8.5,
+          "3": 16,
+          "4": 0
+        }
+      },
+      "Scotty Miller_PIT": {
+        "name": "Scotty Miller",
+        "position": "",
+        "jersey": "13",
+        "team": "PIT",
+        "stats": {
+          "0": 4,
+          "1": 47,
+          "2": 11.8,
+          "3": 0,
+          "4": 22,
+          "5": 4
+        }
+      },
+      "Roc Taylor_PIT": {
+        "name": "Roc Taylor",
+        "position": "",
+        "jersey": "89",
+        "team": "PIT",
+        "stats": {
+          "0": 2,
+          "1": 38,
+          "2": 19.0,
+          "3": 0,
+          "4": 22,
+          "5": 3
+        }
+      },
+      "Max Hurleman_PIT": {
+        "name": "Max Hurleman",
+        "position": "",
+        "jersey": "34O",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Roman Wilson_PIT": {
+        "name": "Roman Wilson",
+        "position": "",
+        "jersey": "10",
+        "team": "PIT",
+        "stats": {
+          "0": 2,
+          "1": 24,
+          "2": 12.0,
+          "3": 0,
+          "4": 19,
+          "5": 2
+        }
+      },
+      "Darnell Washington_PIT": {
+        "name": "Darnell Washington",
+        "position": "",
+        "jersey": "80",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 19,
+          "2": 19.0,
+          "3": 1,
+          "4": 19,
+          "5": 1
+        }
+      },
+      "Connor Heyward_PIT": {
+        "name": "Connor Heyward",
+        "position": "",
+        "jersey": "83",
+        "team": "PIT",
+        "stats": {
+          "0": 2,
+          "1": 17,
+          "2": 8.5,
+          "3": 0,
+          "4": 9,
+          "5": 3
+        }
+      },
+      "Lance McCutcheon_PIT": {
+        "name": "Lance McCutcheon",
+        "position": "",
+        "jersey": "82",
+        "team": "PIT",
+        "stats": {
+          "0": 2,
+          "1": 14,
+          "2": 7.0,
+          "3": 0,
+          "4": 8,
+          "5": 2
+        }
+      },
+      "Brandon Johnson_PIT": {
+        "name": "Brandon Johnson",
+        "position": "",
+        "jersey": "11",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "JJ Galbreath_PIT": {
+        "name": "JJ Galbreath",
+        "position": "",
+        "jersey": "87",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 6,
+          "2": 6.0,
+          "3": 0,
+          "4": 6,
+          "5": 1
+        }
+      },
+      "Robert Woods_PIT": {
+        "name": "Robert Woods",
+        "position": "",
+        "jersey": "16",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 4,
+          "2": 4.0,
+          "3": 0,
+          "4": 4,
+          "5": 1
+        }
+      },
+      "Ben Skowronek_PIT": {
+        "name": "Ben Skowronek",
+        "position": "",
+        "jersey": "15",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 3,
+          "2": 3.0,
+          "3": 0,
+          "4": 3,
+          "5": 1
+        }
+      },
+      "Carson Bruener_PIT": {
+        "name": "Carson Bruener",
+        "position": "",
+        "jersey": "44",
+        "team": "PIT",
+        "stats": {
+          "0": 7,
+          "1": 5,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Beanie Bishop Jr._PIT": {
+        "name": "Beanie Bishop Jr.",
+        "position": "",
+        "jersey": "31",
+        "team": "PIT",
+        "stats": {
+          "0": 6,
+          "1": 5,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "James Pierre_PIT": {
+        "name": "James Pierre",
+        "position": "",
+        "jersey": "42",
+        "team": "PIT",
+        "stats": {
+          "0": 5,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "D'Shawn Jamison_PIT": {
+        "name": "D'Shawn Jamison",
+        "position": "",
+        "jersey": "17D",
+        "team": "PIT",
+        "stats": {
+          "0": 3,
+          "1": 89,
+          "2": 29.7,
+          "3": 32,
+          "4": 0
+        }
+      },
+      "Sebastian Castro_PIT": {
+        "name": "Sebastian Castro",
+        "position": "",
+        "jersey": "29D",
+        "team": "PIT",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Devin Harper_PIT": {
+        "name": "Devin Harper",
+        "position": "",
+        "jersey": "40",
+        "team": "PIT",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Mark Robinson_PIT": {
+        "name": "Mark Robinson",
+        "position": "",
+        "jersey": "93",
+        "team": "PIT",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Payton Wilson_PIT": {
+        "name": "Payton Wilson",
+        "position": "",
+        "jersey": "41",
+        "team": "PIT",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Quindell Johnson_PIT": {
+        "name": "Quindell Johnson",
+        "position": "",
+        "jersey": "35D",
+        "team": "PIT",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Daryl Porter Jr._PIT": {
+        "name": "Daryl Porter Jr.",
+        "position": "",
+        "jersey": "39",
+        "team": "PIT",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Chuck Clark_PIT": {
+        "name": "Chuck Clark",
+        "position": "",
+        "jersey": "21",
+        "team": "PIT",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Miles Killebrew_PIT": {
+        "name": "Miles Killebrew",
+        "position": "",
+        "jersey": "28",
+        "team": "PIT",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jack Sawyer_PIT": {
+        "name": "Jack Sawyer",
+        "position": "",
+        "jersey": "33",
+        "team": "PIT",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Daniel Ekuale_PIT": {
+        "name": "Daniel Ekuale",
+        "position": "",
+        "jersey": "96",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Isaiahh Loudermilk_PIT": {
+        "name": "Isaiahh Loudermilk",
+        "position": "",
+        "jersey": "92",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Malik Harrison_PIT": {
+        "name": "Malik Harrison",
+        "position": "",
+        "jersey": "50",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Esezi Otomewo_PIT": {
+        "name": "Esezi Otomewo",
+        "position": "",
+        "jersey": "72D",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Yahya Black_PIT": {
+        "name": "Yahya Black",
+        "position": "",
+        "jersey": "78D",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Brandin Echols_PIT": {
+        "name": "Brandin Echols",
+        "position": "",
+        "jersey": "26",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cole Holcomb_PIT": {
+        "name": "Cole Holcomb",
+        "position": "",
+        "jersey": "55",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kyler McMichael_PIT": {
+        "name": "Kyler McMichael",
+        "position": "",
+        "jersey": "37",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kyler Baugh_PIT": {
+        "name": "Kyler Baugh",
+        "position": "",
+        "jersey": "65",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Juan Thornhill_PIT": {
+        "name": "Juan Thornhill",
+        "position": "",
+        "jersey": "22",
+        "team": "PIT",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Julius Welschof_PIT": {
+        "name": "Julius Welschof",
+        "position": "",
+        "jersey": "45",
+        "team": "PIT",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "DeMarvin Leal_PIT": {
+        "name": "DeMarvin Leal",
+        "position": "",
+        "jersey": "98",
+        "team": "PIT",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Ben Sauls_PIT": {
+        "name": "Ben Sauls",
+        "position": "",
+        "jersey": "29S",
+        "team": "PIT",
+        "stats": {
+          "0": "1/1",
+          "1": 100.0,
+          "2": 36,
+          "3": "4/4",
+          "4": 7
+        }
+      },
+      "Cameron Johnston_PIT": {
+        "name": "Cameron Johnston",
+        "position": "",
+        "jersey": "5S",
+        "team": "PIT",
+        "stats": {
+          "0": 2,
+          "1": 94,
+          "2": 47.0,
+          "3": 0,
+          "4": 1,
+          "5": 52
+        }
+      },
+      "Corliss Waitman_PIT": {
+        "name": "Corliss Waitman",
+        "position": "",
+        "jersey": "3",
+        "team": "PIT",
+        "stats": {
+          "0": 1,
+          "1": 57,
+          "2": 57.0,
+          "3": 0,
+          "4": 0,
+          "5": 57
+        }
+      },
+      "Nick Mullens_JAX": {
+        "name": "Nick Mullens",
+        "position": "",
+        "jersey": "14",
+        "team": "JAX",
+        "stats": {
+          "0": "11/18",
+          "1": 89,
+          "2": 4.9,
+          "3": 1,
+          "4": 0,
+          "5": "0-0",
+          "6": 92.1
+        }
+      },
+      "Seth Henigan_JAX": {
+        "name": "Seth Henigan",
+        "position": "",
+        "jersey": "19",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 2,
+          "2": 2.0,
+          "3": 0,
+          "4": 2
+        }
+      },
+      "John Wolford_JAX": {
+        "name": "John Wolford",
+        "position": "",
+        "jersey": "18",
+        "team": "JAX",
+        "stats": {
+          "0": "3/5",
+          "1": 63,
+          "2": 12.6,
+          "3": 0,
+          "4": 0,
+          "5": "0-0",
+          "6": 104.2
+        }
+      },
+      "Trevor Lawrence_JAX": {
+        "name": "Trevor Lawrence",
+        "position": "",
+        "jersey": "16",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 3,
+          "2": 3.0,
+          "3": 0,
+          "4": 3
+        }
+      },
+      "Bhayshul Tuten_JAX": {
+        "name": "Bhayshul Tuten",
+        "position": "",
+        "jersey": "33",
+        "team": "JAX",
+        "stats": {
+          "0": 2,
+          "1": 16,
+          "2": 8.0,
+          "3": 0,
+          "4": 13,
+          "5": 2
+        }
+      },
+      "Tank Bigsby_JAX": {
+        "name": "Tank Bigsby",
+        "position": "",
+        "jersey": "4",
+        "team": "JAX",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Dyami Brown_JAX": {
+        "name": "Dyami Brown",
+        "position": "",
+        "jersey": "5",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 7,
+          "2": 7.0,
+          "3": 0,
+          "4": 7
+        }
+      },
+      "Travis Etienne Jr._JAX": {
+        "name": "Travis Etienne Jr.",
+        "position": "",
+        "jersey": "1",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 10,
+          "2": 10.0,
+          "3": 0,
+          "4": 10,
+          "5": 1
+        }
+      },
+      "Trenton Irwin_JAX": {
+        "name": "Trenton Irwin",
+        "position": "",
+        "jersey": "83",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 5,
+          "2": 5.0,
+          "3": 5,
+          "4": 0
+        }
+      },
+      "Dorian Singer_JAX": {
+        "name": "Dorian Singer",
+        "position": "",
+        "jersey": "13",
+        "team": "JAX",
+        "stats": {
+          "0": 2,
+          "1": 52,
+          "2": 26.0,
+          "3": 28,
+          "4": 0
+        }
+      },
+      "Quintin Morris_JAX": {
+        "name": "Quintin Morris",
+        "position": "",
+        "jersey": "45",
+        "team": "JAX",
+        "stats": {
+          "0": 4,
+          "1": 39,
+          "2": 9.8,
+          "3": 0,
+          "4": 21,
+          "5": 4
+        }
+      },
+      "Eli Pancol_JAX": {
+        "name": "Eli Pancol",
+        "position": "",
+        "jersey": "10",
+        "team": "JAX",
+        "stats": {
+          "0": 2,
+          "1": 28,
+          "2": 14.0,
+          "3": 0,
+          "4": 27,
+          "5": 3
+        }
+      },
+      "Joshua Cephus_JAX": {
+        "name": "Joshua Cephus",
+        "position": "",
+        "jersey": "80",
+        "team": "JAX",
+        "stats": {
+          "0": 3,
+          "1": 25,
+          "2": 8.3,
+          "3": 0,
+          "4": 18,
+          "5": 3
+        }
+      },
+      "LeQuint Allen Jr._JAX": {
+        "name": "LeQuint Allen Jr.",
+        "position": "",
+        "jersey": "36",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cam Camper_JAX": {
+        "name": "Cam Camper",
+        "position": "",
+        "jersey": "17",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 14,
+          "2": 14.0,
+          "3": 0,
+          "4": 14,
+          "5": 3
+        }
+      },
+      "Brenton Strange_JAX": {
+        "name": "Brenton Strange",
+        "position": "",
+        "jersey": "85",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 11,
+          "2": 11.0,
+          "3": 0,
+          "4": 11,
+          "5": 1
+        }
+      },
+      "Travis Hunter_JAX": {
+        "name": "Travis Hunter",
+        "position": "",
+        "jersey": "12",
+        "team": "JAX",
+        "stats": {
+          "0": 2,
+          "1": 9,
+          "2": 4.5,
+          "3": 0,
+          "4": 6,
+          "5": 2
+        }
+      },
+      "Brian Thomas Jr._JAX": {
+        "name": "Brian Thomas Jr.",
+        "position": "",
+        "jersey": "7",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 8,
+          "2": 8.0,
+          "3": 0,
+          "4": 8,
+          "5": 2
+        }
+      },
+      "Parker Washington_JAX": {
+        "name": "Parker Washington",
+        "position": "",
+        "jersey": "11",
+        "team": "JAX",
+        "stats": {
+          "0": 3,
+          "1": 5,
+          "2": 1.7,
+          "3": 0,
+          "4": 5,
+          "5": 5
+        }
+      },
+      "Hunter Long_JAX": {
+        "name": "Hunter Long",
+        "position": "",
+        "jersey": "84",
+        "team": "JAX",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 2
+        }
+      },
+      "Chandler Brayboy_JAX": {
+        "name": "Chandler Brayboy",
+        "position": "",
+        "jersey": "15",
+        "team": "JAX",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Darius Lassiter_JAX": {
+        "name": "Darius Lassiter",
+        "position": "",
+        "jersey": "88",
+        "team": "JAX",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "De'Antre Prince_JAX": {
+        "name": "De'Antre Prince",
+        "position": "",
+        "jersey": "24",
+        "team": "JAX",
+        "stats": {
+          "0": 5,
+          "1": 5,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jabbar Muhammad_JAX": {
+        "name": "Jabbar Muhammad",
+        "position": "",
+        "jersey": "37",
+        "team": "JAX",
+        "stats": {
+          "0": 5,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Daniel Thomas_JAX": {
+        "name": "Daniel Thomas",
+        "position": "",
+        "jersey": "20",
+        "team": "JAX",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Rayuan Lane III_JAX": {
+        "name": "Rayuan Lane III",
+        "position": "",
+        "jersey": "25",
+        "team": "JAX",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Emmanuel Ogbah_JAX": {
+        "name": "Emmanuel Ogbah",
+        "position": "",
+        "jersey": "90",
+        "team": "JAX",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Chad Muma_JAX": {
+        "name": "Chad Muma",
+        "position": "",
+        "jersey": "48",
+        "team": "JAX",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Antonio Johnson_JAX": {
+        "name": "Antonio Johnson",
+        "position": "",
+        "jersey": "26",
+        "team": "JAX",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Darnell Savage_JAX": {
+        "name": "Darnell Savage",
+        "position": "",
+        "jersey": "6",
+        "team": "JAX",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tyson Campbell_JAX": {
+        "name": "Tyson Campbell",
+        "position": "",
+        "jersey": "3",
+        "team": "JAX",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Zech McPhearson_JAX": {
+        "name": "Zech McPhearson",
+        "position": "",
+        "jersey": "34",
+        "team": "JAX",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Yasir Abdullah_JAX": {
+        "name": "Yasir Abdullah",
+        "position": "",
+        "jersey": "56",
+        "team": "JAX",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 1,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Jack Kiser_JAX": {
+        "name": "Jack Kiser",
+        "position": "",
+        "jersey": "54",
+        "team": "JAX",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Branson Combs_JAX": {
+        "name": "Branson Combs",
+        "position": "",
+        "jersey": "50",
+        "team": "JAX",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jordan Jefferson_JAX": {
+        "name": "Jordan Jefferson",
+        "position": "",
+        "jersey": "98",
+        "team": "JAX",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Danny Striggow_JAX": {
+        "name": "Danny Striggow",
+        "position": "",
+        "jersey": "92",
+        "team": "JAX",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Doneiko Slaughter_JAX": {
+        "name": "Doneiko Slaughter",
+        "position": "",
+        "jersey": "35",
+        "team": "JAX",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ethan Downs_JAX": {
+        "name": "Ethan Downs",
+        "position": "",
+        "jersey": "96",
+        "team": "JAX",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cam'Ron Silmon-Craig_JAX": {
+        "name": "Cam'Ron Silmon-Craig",
+        "position": "",
+        "jersey": "32",
+        "team": "JAX",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Dawuane Smoot_JAX": {
+        "name": "Dawuane Smoot",
+        "position": "",
+        "jersey": "58",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Eric Murray_JAX": {
+        "name": "Eric Murray",
+        "position": "",
+        "jersey": "29",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Austin Johnson_JAX": {
+        "name": "Austin Johnson",
+        "position": "",
+        "jersey": "69",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jourdan Lewis_JAX": {
+        "name": "Jourdan Lewis",
+        "position": "",
+        "jersey": "2",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Logan Cooke_JAX": {
+        "name": "Logan Cooke",
+        "position": "",
+        "jersey": "9",
+        "team": "JAX",
+        "stats": {
+          "0": 3,
+          "1": 150,
+          "2": 50.0,
+          "3": 0,
+          "4": 1,
+          "5": 60
+        }
+      },
+      "Andrew Wingard_JAX": {
+        "name": "Andrew Wingard",
+        "position": "",
+        "jersey": "42",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Devin Lloyd_JAX": {
+        "name": "Devin Lloyd",
+        "position": "",
+        "jersey": "0",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Christian Braswell_JAX": {
+        "name": "Christian Braswell",
+        "position": "",
+        "jersey": "21",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Myles Cole_JAX": {
+        "name": "Myles Cole",
+        "position": "",
+        "jersey": "59",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Aydan White_JAX": {
+        "name": "Aydan White",
+        "position": "",
+        "jersey": "40",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tyler Lacy_JAX": {
+        "name": "Tyler Lacy",
+        "position": "",
+        "jersey": "93",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Eli Mostaert_JAX": {
+        "name": "Eli Mostaert",
+        "position": "",
+        "jersey": "67",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "James Carpenter_JAX": {
+        "name": "James Carpenter",
+        "position": "",
+        "jersey": "99",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "BJ Green II_JAX": {
+        "name": "BJ Green II",
+        "position": "",
+        "jersey": "95",
+        "team": "JAX",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Austin Trammell_JAX": {
+        "name": "Austin Trammell",
+        "position": "",
+        "jersey": "81",
+        "team": "JAX",
+        "stats": {
+          "0": 2,
+          "1": 16,
+          "2": 8.0,
+          "3": 10,
+          "4": 0
+        }
+      },
+      "Cam Little_JAX": {
+        "name": "Cam Little",
+        "position": "",
+        "jersey": "39",
+        "team": "JAX",
+        "stats": {
+          "0": "4/4",
+          "1": 100.0,
+          "2": 70,
+          "3": "1/1",
+          "4": 13
+        }
+      }
+    },
+    "scoring_summary": []
+  },
+  "play_by_play": {
+    "game_info": {
+      "game_id": "401773002",
+      "teams": [
+        {
+          "abbreviation": "JAX",
+          "name": "Jacksonville Jaguars",
+          "score": 25,
+          "home_away": "home"
+        },
+        {
+          "abbreviation": "PIT",
+          "name": "Pittsburgh Steelers",
+          "score": 31,
+          "home_away": "away"
+        }
+      ],
+      "final_score": {}
+    },
+    "drives": [
+      {
+        "id": "4017730021",
+        "team": "JAX",
+        "plays_count": 16,
+        "result": "FG",
+        "yards": 44
+      },
+      {
+        "id": "4017730022",
+        "team": "PIT",
+        "plays_count": 12,
+        "result": "TD",
+        "yards": 65
+      },
+      {
+        "id": "4017730023",
+        "team": "JAX",
+        "plays_count": 16,
+        "result": "FG",
+        "yards": 36
+      },
+      {
+        "id": "4017730024",
+        "team": "PIT",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": 11
+      },
+      {
+        "id": "4017730025",
+        "team": "JAX",
+        "plays_count": 7,
+        "result": "PUNT",
+        "yards": 21
+      },
+      {
+        "id": "4017730026",
+        "team": "PIT",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 9
+      },
+      {
+        "id": "4017730027",
+        "team": "JAX",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 6
+      },
+      {
+        "id": "4017730028",
+        "team": "PIT",
+        "plays_count": 14,
+        "result": "TD",
+        "yards": 85
+      },
+      {
+        "id": "4017730029",
+        "team": "JAX",
+        "plays_count": 8,
+        "result": "FG",
+        "yards": 16
+      },
+      {
+        "id": "40177300210",
+        "team": "PIT",
+        "plays_count": 6,
+        "result": "DOWNS",
+        "yards": 9
+      },
+      {
+        "id": "40177300211",
+        "team": "JAX",
+        "plays_count": 6,
+        "result": "TD",
+        "yards": 44
+      },
+      {
+        "id": "40177300212",
+        "team": "PIT",
+        "plays_count": 11,
+        "result": "TD",
+        "yards": 69
+      },
+      {
+        "id": "40177300213",
+        "team": "JAX",
+        "plays_count": 7,
+        "result": "PUNT",
+        "yards": 2
+      },
+      {
+        "id": "40177300214",
+        "team": "PIT",
+        "plays_count": 15,
+        "result": "FG",
+        "yards": 55
+      },
+      {
+        "id": "40177300215",
+        "team": "JAX",
+        "plays_count": 9,
+        "result": "TD",
+        "yards": 74
+      },
+      {
+        "id": "40177300216",
+        "team": "PIT",
+        "plays_count": 14,
+        "result": "TD",
+        "yards": 67
+      },
+      {
+        "id": "40177300217",
+        "team": "JAX",
+        "plays_count": 9,
+        "result": "FG",
+        "yards": 31
+      },
+      {
+        "id": "40177300218",
+        "team": "PIT",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": 0
+      },
+      {
+        "id": "40177300219",
+        "team": "JAX",
+        "plays_count": 10,
+        "result": "END OF GAME",
+        "yards": 54
+      }
+    ],
+    "plays": [
+      {
+        "id": "40177300240",
+        "text": "B.Sauls kicks 60 yards from PIT 35 to JAX 5. A.Trammell to JAX 33 for 28 yards (C.Bruener).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177300263",
+        "text": "PENALTY on JAX-A.Harrison, False Start, 5 yards, enforced at JAX 33 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 33,
+        "period": 1,
+        "clock": "14:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177300287",
+        "text": "(Shotgun) T.Lawrence pass short right to B.Thomas pushed ob at JAX 36 for 8 yards (J.Pierre).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 28,
+        "period": 1,
+        "clock": "14:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002112",
+        "text": "(Shotgun) T.Etienne up the middle to JAX 39 for 3 yards (P.Wilson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 36,
+        "period": 1,
+        "clock": "14:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002134",
+        "text": "(Shotgun) T.Lawrence pass short left to T.Hunter to JAX 42 for 3 yards (B.Bishop).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 39,
+        "period": 1,
+        "clock": "13:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002164",
+        "text": "D.Brown left end to JAX 49 for 7 yards (P.Wilson).",
+        "type": "Rush",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 42,
+        "period": 1,
+        "clock": "13:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002186",
+        "text": "T.Lawrence pass incomplete short left to B.Thomas (J.Thornhill).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 49,
+        "period": 1,
+        "clock": "12:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002209",
+        "text": "(Shotgun) T.Lawrence pass short middle to B.Strange to PIT 40 for 11 yards (C.Clark).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 49,
+        "period": 1,
+        "clock": "12:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002234",
+        "text": "T.Etienne left tackle to PIT 37 for 3 yards (Y.Black).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 60,
+        "period": 1,
+        "clock": "11:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002256",
+        "text": "T.Lawrence pass short right to T.Etienne to PIT 27 for 10 yards (P.Wilson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 63,
+        "period": 1,
+        "clock": "10:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002281",
+        "text": "(Shotgun) T.Lawrence pass short left to T.Hunter to PIT 20 for 7 yards (J.Thornhill).PENALTY on JAX-W.Little, Illegal Block Above the Waist, 10 yards, enforced at PIT 27 - No Play.Penalty on JAX-B.Thomas, Offensive Pass Interference, declined.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 73,
+        "period": 1,
+        "clock": "10:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002317",
+        "text": "(Shotgun) T.Lawrence pass short left to P.Washington pushed ob at PIT 32 for 5 yards (B.Bishop).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 20,
+        "yard_line": 63,
+        "period": 1,
+        "clock": "9:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002347",
+        "text": "(Shotgun) T.Lawrence scrambles up the middle to PIT 29 for 3 yards (J.Sawyer).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 15,
+        "yard_line": 68,
+        "period": 1,
+        "clock": "9:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002369",
+        "text": "(Shotgun) T.Lawrence pass short left to T.Hunter to PIT 23 for 6 yards (J.Pierre; C.Clark).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 12,
+        "yard_line": 71,
+        "period": 1,
+        "clock": "8:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002394",
+        "text": "C.Little 41 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 6,
+        "yard_line": 77,
+        "period": 1,
+        "clock": "7:41",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773002404",
+        "text": "Official Timeout at 07:41.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "7:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002414",
+        "text": "C.Little kicks 65 yards from JAX 35 to end zone, Touchback to the PIT 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "7:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002438",
+        "text": "M.Rudolph pass deep middle to R.Wilson to JAX 46 for 19 yards (T.Campbell).Penalty on JAX-J.Jones, Defensive Holding, declined.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "7:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002479",
+        "text": "M.Rudolph pass short right to B.Skowronek to JAX 43 for 3 yards (A.Wingard).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 46,
+        "period": 1,
+        "clock": "7:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002504",
+        "text": "(Shotgun) M.Rudolph pass short left to R.Wilson to JAX 38 for 5 yards (J.Lewis).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 43,
+        "period": 1,
+        "clock": "6:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002529",
+        "text": "(No Huddle, Shotgun) M.Rudolph pass short left to B.Johnson to JAX 33 for 5 yards (T.Campbell).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 38,
+        "period": 1,
+        "clock": "6:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002564",
+        "text": "K.Johnson left end to JAX 32 for 1 yard (E.Murray).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 33,
+        "period": 1,
+        "clock": "5:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002586",
+        "text": "M.Rudolph pass short left to K.Johnson pushed ob at JAX 32 for no gain (T.Campbell).PENALTY on PIT-T.Fautanu, Illegal Use of Hands, 10 yards, enforced at JAX 32 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 32,
+        "period": 1,
+        "clock": "5:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002627",
+        "text": "(Shotgun) M.Rudolph pass short left to S.Miller to JAX 27 for 15 yards (D.Lloyd).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 19,
+        "yard_line": 42,
+        "period": 1,
+        "clock": "4:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002652",
+        "text": "(Shotgun) K.Johnson up the middle to JAX 23 for 4 yards (Au.Johnson).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 27,
+        "period": 1,
+        "clock": "4:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002674",
+        "text": "M.Rudolph pass short left to R.Woods to JAX 19 for 4 yards (T.Campbell).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 23,
+        "period": 1,
+        "clock": "3:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002699",
+        "text": "(Shotgun) M.Rudolph pass deep left to D.Washington for 19 yards, TOUCHDOWN.PENALTY on PIT-D.Washington, Unsportsmanlike Conduct, 15 yards, enforced between downs. B.Sauls extra point is GOOD, Center-C.Kuntz, Holder-C.Johnston.",
+        "type": "Passing Touchdown",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 19,
+        "period": 1,
+        "clock": "2:56",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773002744",
+        "text": "Official Timeout at 02:56.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "2:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002751",
+        "text": "B.Sauls kicks 60 yards from PIT 35 to JAX 5. A.Trammell to JAX 42 for 37 yards (B.Bishop; D.Harper).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "2:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002781",
+        "text": "T.Bigsby left tackle to JAX 48 for 6 yards (J.Pierre).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 42,
+        "period": 1,
+        "clock": "2:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002803",
+        "text": "T.Bigsby up the middle to 50 for 2 yards (C.Clark).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 48,
+        "period": 1,
+        "clock": "2:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002825",
+        "text": "(Shotgun) N.Mullens pass short left to P.Washington pushed ob at PIT 47 for 3 yards (B.Bishop).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 50,
+        "period": 1,
+        "clock": "1:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002855",
+        "text": "N.Mullens pass short left to P.Washington to 50 for -3 yards (B.Echols).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 53,
+        "period": 1,
+        "clock": "0:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002880",
+        "text": "(Shotgun) N.Mullens pass incomplete short left to P.Washington.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 50,
+        "period": 1,
+        "clock": "0:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002915",
+        "text": "(Shotgun) N.Mullens pass deep right to J.Cephus to PIT 32 for 18 yards (B.Bishop).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 13,
+        "yard_line": 50,
+        "period": 1,
+        "clock": "0:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002928",
+        "text": "END QUARTER 1",
+        "type": "End Period",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 68,
+        "period": 1,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002940",
+        "text": "T.Bigsby up the middle to PIT 28 for 4 yards (D.Ekuale).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 68,
+        "period": 2,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002976",
+        "text": "T.Bigsby up the middle to PIT 21 for 7 yards (J.Pierre).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 72,
+        "period": 2,
+        "clock": "14:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773002998",
+        "text": "T.Bigsby left end to PIT 18 for 3 yards (M.Harrison).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 2,
+        "clock": "13:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021020",
+        "text": "(Shotgun) N.Mullens pass short right to J.Cephus ran ob at PIT 16 for 2 yards.",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 82,
+        "period": 2,
+        "clock": "13:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021050",
+        "text": "(Shotgun) N.Mullens pass incomplete short right to T.Bigsby.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 84,
+        "period": 2,
+        "clock": "12:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021073",
+        "text": "(Field Goal formation) PENALTY on JAX, Offensive Too Many Men on Field, 6 yards, enforced at PIT 16 - No Play.",
+        "type": "Penalty",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 84,
+        "period": 2,
+        "clock": "12:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021104",
+        "text": "C.Little 40 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 11,
+        "yard_line": 78,
+        "period": 2,
+        "clock": "12:19",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730021114",
+        "text": "Official Timeout at 12:19.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "12:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021124",
+        "text": "C.Little kicks 57 yards from JAX 35 to PIT 8. T.Sermon to PIT 34 for 26 yards (L.Allen).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "12:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021155",
+        "text": " M.Rudolph pass short right to Co.Heyward to PIT 42 for 8 yards (C.Muma).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 66,
+        "period": 2,
+        "clock": "12:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021180",
+        "text": "K.Johnson right end to PIT 49 for 7 yards (D.Savage).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 58,
+        "period": 2,
+        "clock": "11:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021202",
+        "text": "(Shotgun) M.Rudolph sacked at PIT 39 for -10 yards (D.Smoot).",
+        "type": "Sack",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 51,
+        "period": 2,
+        "clock": "10:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021222",
+        "text": "M.Rudolph pass incomplete short right to K.Johnson.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 20,
+        "yard_line": 61,
+        "period": 2,
+        "clock": "10:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021245",
+        "text": "(Shotgun) M.Rudolph pass short middle to S.Miller to PIT 45 for 6 yards (D.Savage).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 20,
+        "yard_line": 61,
+        "period": 2,
+        "clock": "10:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021270",
+        "text": "C.Johnston punts 42 yards to JAX 13, Center-C.Kuntz. A.Trammell to JAX 23 for 10 yards (D.Harper).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 14,
+        "yard_line": 55,
+        "period": 2,
+        "clock": "9:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021283",
+        "text": "Official Timeout at 09:27.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 23,
+        "period": 2,
+        "clock": "9:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021296",
+        "text": "(Shotgun) N.Mullens pass incomplete short left to H.Long.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 23,
+        "period": 2,
+        "clock": "9:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021326",
+        "text": "(Shotgun) N.Mullens pass short middle to T.Irwin to JAX 37 for 14 yards (M.Killebrew).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 23,
+        "period": 2,
+        "clock": "9:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021355",
+        "text": "T.Bigsby left end to JAX 39 for 2 yards (M.Robinson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 37,
+        "period": 2,
+        "clock": "8:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021377",
+        "text": "(Shotgun) N.Mullens pass short right to J.Cephus to JAX 44 for 5 yards (B.Bishop).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 39,
+        "period": 2,
+        "clock": "8:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021402",
+        "text": "(Shotgun) N.Mullens pass incomplete deep left to T.Irwin (B.Echols).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 44,
+        "period": 2,
+        "clock": "7:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021425",
+        "text": " L.Cooke punts 42 yards to PIT 14, Center-R.Matiscik. K.Williams to PIT 15 for 1 yard (R.Lane).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 44,
+        "period": 2,
+        "clock": "7:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021438",
+        "text": "Official Timeout at 07:15.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 85,
+        "period": 2,
+        "clock": "7:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021451",
+        "text": "(Shotgun) S.Thompson pass short right to Co.Heyward to PIT 24 for 9 yards (E.Ogbah).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 85,
+        "period": 2,
+        "clock": "7:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021483",
+        "text": "K.Johnson right end to PIT 21 for -3 yards (An.Johnson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 76,
+        "period": 2,
+        "clock": "6:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021505",
+        "text": "(Shotgun) S.Thompson scrambles left end ran ob at PIT 24 for 3 yards (E.Ogbah; C.Muma).Penalty on PIT-D.Cook, Offensive Holding, declined.",
+        "type": "Rush",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 79,
+        "period": 2,
+        "clock": "6:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021538",
+        "text": "C.Waitman punts 57 yards to JAX 19, Center-C.Kuntz. A.Trammell to JAX 25 for 6 yards (S.Castro).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 76,
+        "period": 2,
+        "clock": "5:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021551",
+        "text": "Official Timeout at 05:31.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 2,
+        "clock": "5:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021564",
+        "text": "N.Mullens pass incomplete deep right to T.Irwin.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 2,
+        "clock": "5:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021594",
+        "text": "(Shotgun) B.Tuten up the middle to JAX 31 for 6 yards (I.Loudermilk).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 2,
+        "clock": "5:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021616",
+        "text": "(Shotgun) N.Mullens pass incomplete deep right to P.Washington (B.Bishop).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 31,
+        "period": 2,
+        "clock": "4:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021639",
+        "text": "L.Cooke punts 60 yards to PIT 9, Center-R.Matiscik. K.Williams to PIT 36 for 27 yards (L.Cooke).PENALTY on PIT-C.McCutcheon, Offensive Holding, 10 yards, enforced at PIT 25.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 4,
+        "yard_line": 31,
+        "period": 2,
+        "clock": "4:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021658",
+        "text": "Official Timeout at 04:21.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 85,
+        "period": 2,
+        "clock": "4:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021676",
+        "text": "K.Johnson up the middle to PIT 19 for 4 yards (E.Ogbah).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 85,
+        "period": 2,
+        "clock": "4:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021705",
+        "text": "K.Johnson left end to PIT 24 for 5 yards (E.Ogbah; T.Lacy).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 81,
+        "period": 2,
+        "clock": "3:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021732",
+        "text": "(Shotgun) K.Johnson up the middle to PIT 26 for 2 yards (J.Jefferson).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 76,
+        "period": 2,
+        "clock": "2:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021754",
+        "text": "K.Johnson left end to PIT 24 for -2 yards (J.Kiser, D.Striggow).Penalty on JAX-M.Cole, Face Mask, offsetting, enforced at PIT 26 - No Play.Penalty on PIT-Co.Heyward, Offensive Holding, offsetting.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 2,
+        "clock": "2:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021771",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021787",
+        "text": "S.Thompson pass short right to K.Johnson to PIT 32 for 6 yards (J.Muhammad).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 2,
+        "clock": "1:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021819",
+        "text": "(No Huddle, Shotgun) S.Thompson pass short left to B.Johnson ran ob at PIT 39 for 7 yards (D.Prince).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 68,
+        "period": 2,
+        "clock": "1:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021844",
+        "text": "(No Huddle, Shotgun) S.Thompson pass deep left to S.Miller to JAX 39 for 22 yards (D.Prince).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 61,
+        "period": 2,
+        "clock": "1:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021869",
+        "text": "(No Huddle, Shotgun) S.Thompson pass short left to S.Miller to JAX 35 for 4 yards (J.Muhammad).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 39,
+        "period": 2,
+        "clock": "1:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021894",
+        "text": "(No Huddle, Shotgun) S.Thompson pass incomplete short left to M.Hurleman (D.Savage).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021917",
+        "text": "(Shotgun) S.Thompson pass short right to L.McCutcheon to JAX 29 for 6 yards (D.Prince).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021942",
+        "text": "(No Huddle, Shotgun) S.Thompson pass short left to M.Hurleman to JAX 3 for 26 yards (D.Savage).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 29,
+        "period": 2,
+        "clock": "0:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021955",
+        "text": "Timeout #1 by PIT at 00:28.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 3,
+        "yard_line": 3,
+        "period": 2,
+        "clock": "0:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730021967",
+        "text": "(Shotgun) S.Thompson pass short right to M.Hurleman for 3 yards, TOUCHDOWN. B.Sauls extra point is GOOD, Center-C.Kuntz, Holder-C.Waitman.",
+        "type": "Passing Touchdown",
+        "down": 1,
+        "distance": 3,
+        "yard_line": 3,
+        "period": 2,
+        "clock": "0:24",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730022015",
+        "text": "B.Sauls kicks 57 yards from PIT 35 to JAX 8. D.Singer to JAX 32 for 24 yards (C.Bruener).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "0:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022038",
+        "text": "(Shotgun) N.Mullens pass short right to B.Tuten to JAX 45 for 13 yards (C.Holcomb; M.Killebrew).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 32,
+        "period": 2,
+        "clock": "0:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022051",
+        "text": "Timeout #1 by JAX at 00:11.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 2,
+        "clock": "0:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022063",
+        "text": "(Shotgun) N.Mullens pass incomplete short left to H.Long [J.Welschof].",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 2,
+        "clock": "0:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022093",
+        "text": "(Shotgun) N.Mullens pass short middle to B.Tuten to JAX 48 for 3 yards (M.Robinson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 2,
+        "clock": "0:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022106",
+        "text": "Timeout #2 by JAX at 00:01.",
+        "type": "Timeout",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 48,
+        "period": 2,
+        "clock": "0:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022118",
+        "text": "C.Little 70 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.",
+        "type": "Field Goal Good",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 48,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730022145",
+        "text": "END QUARTER 2",
+        "type": "End of Half",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022163",
+        "text": "C.Little kicks 65 yards from JAX 35 to end zone, Touchback to the PIT 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022185",
+        "text": " (Shotgun) S.Thompson pass short left to T.Sermon to PIT 35 for no gain (J.Muhammad).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022210",
+        "text": "(Shotgun) T.Sermon up the middle to PIT 37 for 2 yards (C.Muma; An.Johnson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "14:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022232",
+        "text": "(No Huddle, Shotgun) S.Thompson pass short middle to T.Sermon to PIT 44 for 7 yards (C.Muma; An.Johnson).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 63,
+        "period": 3,
+        "clock": "14:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022257",
+        "text": "K.Johnson right end to PIT 44 for no gain (D.Prince).",
+        "type": "Rush",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 56,
+        "period": 3,
+        "clock": "13:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022268",
+        "text": "Official Timeout at 13:31.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 56,
+        "period": 3,
+        "clock": "13:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022279",
+        "text": "N.Mullens pass deep left intended for T.Irwin INTERCEPTED by C.McCutcheon at PIT 2. C.McCutcheon to PIT 3 for 1 yard (A.Trammell).PENALTY on PIT-I.Loudermilk, Roughing the Passer, 15 yards, enforced at PIT 44 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 56,
+        "period": 3,
+        "clock": "13:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022324",
+        "text": "(Shotgun) N.Mullens pass short middle to T.Irwin to PIT 18 for 11 yards (J.Sawyer; J.Pierre).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 71,
+        "period": 3,
+        "clock": "13:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022349",
+        "text": "N.Mullens pass short right to T.Irwin to PIT 6 for 12 yards (Q.Johnson).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 82,
+        "period": 3,
+        "clock": "12:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022374",
+        "text": "PENALTY on JAX-F.Johnson, False Start, 5 yards, enforced at PIT 6 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 6,
+        "yard_line": 94,
+        "period": 3,
+        "clock": "11:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022398",
+        "text": "(Shotgun) N.Mullens pass short middle to T.Irwin for 11 yards, TOUCHDOWN [J.Sawyer]. TWO-POINT CONVERSION ATTEMPT. N.Mullens pass to H.Long is incomplete. ATTEMPT FAILS.",
+        "type": "Passing Touchdown",
+        "down": 1,
+        "distance": 11,
+        "yard_line": 89,
+        "period": 3,
+        "clock": "11:21",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730022431",
+        "text": "Official Timeout at 11:21.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "11:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022437",
+        "text": "C.Little kicks 64 yards from JAX 35 to PIT 1. D.Jamison to PIT 31 for 30 yards (Z.McPhearson; B.Combs).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "11:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022467",
+        "text": "T.Sermon left end to PIT 30 for -1 yards (C.Braswell, D.Striggow).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 3,
+        "clock": "11:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022489",
+        "text": "(Shotgun) S.Thompson pass incomplete short right to M.Hurleman.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 70,
+        "period": 3,
+        "clock": "10:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022512",
+        "text": "(Shotgun) S.Thompson pass deep right to K.Williams to JAX 41 for 29 yards (D.Thomas).Penalty on JAX-C.Braswell, Illegal Contact, declined.",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 11,
+        "yard_line": 70,
+        "period": 3,
+        "clock": "10:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022548",
+        "text": "S.Thompson pass incomplete short right to E.Hull [Y.Abdullah].",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 41,
+        "period": 3,
+        "clock": "9:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022571",
+        "text": "(Shotgun) S.Thompson pass short middle to R.Taylor to JAX 25 for 16 yards (D.Prince).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 41,
+        "period": 3,
+        "clock": "9:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022596",
+        "text": "(No Huddle, Shotgun) E.Hull up the middle to JAX 21 for 4 yards (J.Jefferson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 3,
+        "clock": "9:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022618",
+        "text": "S.Thompson pass short left to T.Sermon to JAX 11 for 10 yards (J.Muhammad; An.Johnson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 21,
+        "period": 3,
+        "clock": "8:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022643",
+        "text": "(Shotgun) S.Thompson pass incomplete short left to R.Taylor.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 11,
+        "period": 3,
+        "clock": "8:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022666",
+        "text": "(Shotgun) S.Thompson pass short right to T.Sermon for 11 yards, TOUCHDOWN. B.Sauls extra point is GOOD, Center-C.Kuntz, Holder-C.Johnston.",
+        "type": "Passing Touchdown",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 11,
+        "period": 3,
+        "clock": "7:57",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730022700",
+        "text": "Official Timeout at 07:57.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "7:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022707",
+        "text": "B.Sauls kicks 66 yards from PIT 35 to JAX -1. T.Irwin to JAX 23 for 24 yards (T.Sermon; C.Bruener).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "7:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022737",
+        "text": "B.Tuten up the middle to JAX 28 for 5 yards (M.Robinson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 23,
+        "period": 3,
+        "clock": "7:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022759",
+        "text": "B.Tuten up the middle to JAX 30 for 2 yards (D.Jamison).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 28,
+        "period": 3,
+        "clock": "7:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022781",
+        "text": "(Shotgun) PENALTY on JAX-J.Cephus, False Start, 5 yards, enforced at JAX 30 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 30,
+        "period": 3,
+        "clock": "6:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022805",
+        "text": "(Shotgun) J.Wolford pass incomplete deep right to C.Camper.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 25,
+        "period": 3,
+        "clock": "6:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022828",
+        "text": " L.Cooke punts 48 yards to PIT 27, Center-R.Matiscik, downed by JAX-C.Brayboy.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 8,
+        "yard_line": 25,
+        "period": 3,
+        "clock": "5:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022838",
+        "text": "Official Timeout at 05:47.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 73,
+        "period": 3,
+        "clock": "5:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022848",
+        "text": "S.Thompson pass incomplete short right to K.Williams.PENALTY on JAX-D.Slaughter, Defensive Pass Interference, 8 yards, enforced at PIT 27 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 73,
+        "period": 3,
+        "clock": "5:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022889",
+        "text": "S.Thompson pass incomplete short left to Co.Heyward (Y.Abdullah).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "5:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022912",
+        "text": "(Shotgun) S.Thompson pass short right to J.Galbreath to PIT 41 for 6 yards (D.Thomas).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "5:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022937",
+        "text": "(Shotgun) S.Thompson pass short middle to L.McCutcheon to PIT 49 for 8 yards (A.White).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 59,
+        "period": 3,
+        "clock": "5:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022962",
+        "text": "T.Sermon right guard to JAX 45 for 6 yards (J.Kiser; D.Slaughter).PENALTY on JAX-D.Striggow, Defensive Holding, 5 yards, enforced at JAX 45.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 51,
+        "period": 3,
+        "clock": "4:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730022995",
+        "text": "S.Thompson pass deep right to R.Taylor to JAX 18 for 22 yards (Z.McPhearson).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 40,
+        "period": 3,
+        "clock": "4:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023020",
+        "text": "E.Hull up the middle to JAX 15 for 3 yards (D.Thomas; J.Carpenter).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 18,
+        "period": 3,
+        "clock": "3:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023042",
+        "text": "S.Thompson pass short right to E.Hull pushed ob at JAX 9 for 6 yards (D.Slaughter).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 15,
+        "period": 3,
+        "clock": "2:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023072",
+        "text": "(Shotgun) E.Hull up the middle to JAX 6 for 3 yards (D.Thomas).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 9,
+        "period": 3,
+        "clock": "2:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023094",
+        "text": "(Shotgun) E.Hull up the middle to JAX 7 for -1 yards (J.Kiser).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 6,
+        "yard_line": 6,
+        "period": 3,
+        "clock": "1:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023116",
+        "text": "(Shotgun) PENALTY on PIT-A.Peat, False Start, 5 yards, enforced at JAX 7 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 7,
+        "period": 3,
+        "clock": "0:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023140",
+        "text": "(Shotgun) S.Thompson pass incomplete short left to E.Hull.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 12,
+        "yard_line": 12,
+        "period": 3,
+        "clock": "0:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023163",
+        "text": "(Shotgun) S.Thompson sacked at JAX 19 for -7 yards (D.Striggow). FUMBLES (D.Striggow) [D.Striggow], recovered by PIT-E.Hull at JAX 18.",
+        "type": "Sack",
+        "down": 3,
+        "distance": 12,
+        "yard_line": 12,
+        "period": 3,
+        "clock": "0:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023193",
+        "text": "END QUARTER 3",
+        "type": "End Period",
+        "down": 4,
+        "distance": 18,
+        "yard_line": 18,
+        "period": 3,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023213",
+        "text": "B.Sauls 36 yard field goal is GOOD, Center-C.Kuntz, Holder-C.Waitman.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 18,
+        "yard_line": 18,
+        "period": 4,
+        "clock": "14:56",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730023238",
+        "text": "B.Sauls kicks 67 yards from PIT 35 to JAX -2. D.Singer to JAX 26 for 28 yards (T.Sermon; B.Johnson).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "14:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023261",
+        "text": "(Shotgun) J.Wolford pass short left to D.Singer pushed ob at JAX 47 for 21 yards (Q.Johnson).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 26,
+        "period": 4,
+        "clock": "14:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023291",
+        "text": "B.Tuten right end to JAX 47 for no gain (E.Otomewo).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 4,
+        "clock": "14:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023313",
+        "text": "(Shotgun) J.Wolford pass short left to E.Pancol pushed ob at PIT 26 for 27 yards (S.Castro).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 4,
+        "clock": "13:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023343",
+        "text": "(Shotgun) J.Wolford pass incomplete short right to D.Lassiter.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 4,
+        "clock": "12:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023366",
+        "text": "B.Tuten right guard to PIT 23 for 3 yards (C.Bruener; D.Harper).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 4,
+        "clock": "12:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023388",
+        "text": " (Shotgun) J.Wolford pass short left to D.Singer to PIT 8 for 15 yards (D.Jamison).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 77,
+        "period": 4,
+        "clock": "11:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023413",
+        "text": "B.Tuten up the middle for 8 yards, TOUCHDOWN. C.Little extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke.",
+        "type": "Rushing Touchdown",
+        "down": 1,
+        "distance": 8,
+        "yard_line": 92,
+        "period": 4,
+        "clock": "11:02",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730023444",
+        "text": "Official Timeout at 11:02.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "11:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023451",
+        "text": "C.Little kicks 64 yards from JAX 35 to PIT 1. D.Jamison to PIT 33 for 32 yards (J.Muhammad; C.Silmon-Craig).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "11:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023481",
+        "text": "S.Thompson pass incomplete short left to L.Nichols (M.Cole).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 67,
+        "period": 4,
+        "clock": "10:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023504",
+        "text": "(Shotgun) S.Thompson pass short right to L.Nichols to PIT 42 for 9 yards (C.Silmon-Craig; J.Kiser).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 67,
+        "period": 4,
+        "clock": "10:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023529",
+        "text": "(Shotgun) L.Nichols up the middle to PIT 45 for 3 yards (B.Combs, E.Downs).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 58,
+        "period": 4,
+        "clock": "9:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023551",
+        "text": "L.Nichols right guard to PIT 48 for 3 yards (B.Green; B.Combs).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 55,
+        "period": 4,
+        "clock": "9:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023573",
+        "text": "L.Nichols left end to JAX 44 for 8 yards (R.Lane; E.Downs).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 52,
+        "period": 4,
+        "clock": "8:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023595",
+        "text": "L.Nichols left end to JAX 30 for 14 yards (R.Lane).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 44,
+        "period": 4,
+        "clock": "7:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023606",
+        "text": "Timeout #1 by JAX at 07:00.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 4,
+        "clock": "7:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023617",
+        "text": "E.Hull left end to JAX 34 for -4 yards (Y.Abdullah).Penalty on PIT-D.Nester, Offensive Holding, declined.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 4,
+        "clock": "7:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023657",
+        "text": "D.Cook reported in as eligible.  S.Thompson pass incomplete short right to L.Nichols [B.Green].",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 14,
+        "yard_line": 34,
+        "period": 4,
+        "clock": "6:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023682",
+        "text": "(Shotgun) S.Thompson pass short left to M.Hurleman to JAX 24 for 10 yards (D.Slaughter).PENALTY on JAX-B.Combs, Illegal Contact, 5 yards, enforced at JAX 34 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 14,
+        "yard_line": 34,
+        "period": 4,
+        "clock": "6:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023718",
+        "text": "L.Nichols left end to JAX 26 for 3 yards (Z.McPhearson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 29,
+        "period": 4,
+        "clock": "6:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023740",
+        "text": "(Shotgun) S.Thompson pass deep right to K.Williams for 26 yards, TOUCHDOWN [E.Mostaert]. B.Sauls extra point is GOOD, Center-C.Kuntz, Holder-C.Johnston.",
+        "type": "Passing Touchdown",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 26,
+        "period": 4,
+        "clock": "5:16",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730023774",
+        "text": "Official Timeout at 05:16.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "5:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023781",
+        "text": "B.Sauls kicks 65 yards from PIT 35 to end zone, Touchback to the JAX 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "5:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023805",
+        "text": "(Shotgun) S.Henigan pass short right to Q.Morris pushed ob at JAX 42 for 7 yards (S.Castro).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "5:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023835",
+        "text": "(No Huddle, Shotgun) S.Henigan pass short right to Q.Morris to JAX 47 for 5 yards (C.Bruener, S.Castro).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 42,
+        "period": 4,
+        "clock": "4:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023860",
+        "text": "(No Huddle, Shotgun) S.Henigan pass short right to L.Allen to JAX 48 for 1 yard (C.Bruener).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 4,
+        "clock": "4:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023885",
+        "text": "(Shotgun) S.Henigan pass short right to C.Camper to PIT 38 for 14 yards (D.Porter).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 48,
+        "period": 4,
+        "clock": "4:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023910",
+        "text": "(Shotgun) S.Henigan pass incomplete deep right to C.Brayboy.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 62,
+        "period": 4,
+        "clock": "3:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023945",
+        "text": "(Shotgun) S.Henigan pass short left to D.Singer to PIT 34 for 4 yards (K.McMichael; K.Baugh).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 62,
+        "period": 4,
+        "clock": "3:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023970",
+        "text": "(Shotgun) S.Henigan pass incomplete short left to C.Camper.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 66,
+        "period": 4,
+        "clock": "2:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730023993",
+        "text": "C.Little 52 yard field goal is GOOD, Center-R.Matiscik, Holder-L.Cooke.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 6,
+        "yard_line": 66,
+        "period": 4,
+        "clock": "2:45",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730024013",
+        "text": "C.Little kicks 57 yards from JAX 35 to PIT 8. D.Jamison to PIT 35 for 27 yards (J.Copenhaver).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "2:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024039",
+        "text": "D.Cook reported in as eligible.  E.Hull left end to PIT 37 for 2 yards (Y.Abdullah).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "2:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024051",
+        "text": "Timeout #2 by JAX at 02:29.",
+        "type": "Timeout",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 63,
+        "period": 4,
+        "clock": "2:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024063",
+        "text": "(Shotgun) L.Nichols up the middle to PIT 37 for no gain (Y.Abdullah; E.Mostaert).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 63,
+        "period": 4,
+        "clock": "2:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024078",
+        "text": "Timeout #3 by JAX at 02:23.",
+        "type": "Timeout",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 63,
+        "period": 4,
+        "clock": "2:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024092",
+        "text": "L.Woodside left end to PIT 35 for -2 yards (R.Lane).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 63,
+        "period": 4,
+        "clock": "2:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024107",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 4,
+        "distance": 9,
+        "yard_line": 64,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024121",
+        "text": "C.Johnston punts 52 yards to JAX 13, Center-C.Kuntz. T.Irwin to JAX 18 for 5 yards (M.Hurleman).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024154",
+        "text": "(Shotgun) S.Henigan pass short middle to Q.Morris to JAX 24 for 6 yards (D.Jamison).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 18,
+        "period": 4,
+        "clock": "1:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024179",
+        "text": "(No Huddle, Shotgun) S.Henigan pass short middle to L.Allen to JAX 29 for 5 yards (Q.Johnson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 24,
+        "period": 4,
+        "clock": "1:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024204",
+        "text": "(No Huddle, Shotgun) S.Henigan pass short right to L.Allen to JAX 32 for 3 yards (D.Porter).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 29,
+        "period": 4,
+        "clock": "1:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024229",
+        "text": " (No Huddle, Shotgun) S.Henigan pass deep right to Q.Morris pushed ob at PIT 47 for 21 yards (C.Bruener).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 32,
+        "period": 4,
+        "clock": "0:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024259",
+        "text": "(No Huddle, Shotgun) S.Henigan pass incomplete short right to E.Pancol.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 53,
+        "period": 4,
+        "clock": "0:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024282",
+        "text": "(Shotgun) S.Henigan pass short right to L.Allen to PIT 36 for 11 yards (D.Harper) [D.Leal].",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 53,
+        "period": 4,
+        "clock": "0:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024307",
+        "text": "(No Huddle) S.Henigan spiked the ball to stop the clock.PENALTY on PIT-B.Fehoko, Defensive Offside, 5 yards, enforced at PIT 36 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 64,
+        "period": 4,
+        "clock": "0:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024341",
+        "text": "(Shotgun) S.Henigan scrambles right end ran ob at PIT 29 for 2 yards (D.Jamison).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 5,
+        "yard_line": 69,
+        "period": 4,
+        "clock": "0:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024368",
+        "text": "(Shotgun) S.Henigan pass short right to E.Pancol to PIT 28 for 1 yard (D.Porter).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 71,
+        "period": 4,
+        "clock": "0:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730024393",
+        "text": "END GAME",
+        "type": "End of Game",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 72,
+        "period": 4,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      }
+    ],
+    "scoring_plays": [],
+    "touchdowns": [
+      {
+        "play_id": "401773002699",
+        "text": "(Shotgun) M.Rudolph pass deep left to D.Washington for 19 yards, TOUCHDOWN.PENALTY on PIT-D.Washington, Unsportsmanlike Conduct, 15 yards, enforced between downs. B.Sauls extra point is GOOD, Center-C.Kuntz, Holder-C.Johnston.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730021967",
+        "text": "(Shotgun) S.Thompson pass short right to M.Hurleman for 3 yards, TOUCHDOWN. B.Sauls extra point is GOOD, Center-C.Kuntz, Holder-C.Waitman.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730022398",
+        "text": "(Shotgun) N.Mullens pass short middle to T.Irwin for 11 yards, TOUCHDOWN [J.Sawyer]. TWO-POINT CONVERSION ATTEMPT. N.Mullens pass to H.Long is incomplete. ATTEMPT FAILS.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730022666",
+        "text": "(Shotgun) S.Thompson pass short right to T.Sermon for 11 yards, TOUCHDOWN. B.Sauls extra point is GOOD, Center-C.Kuntz, Holder-C.Johnston.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730023413",
+        "text": "B.Tuten up the middle for 8 yards, TOUCHDOWN. C.Little extra point is GOOD, Center-R.Matiscik, Holder-L.Cooke.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730023740",
+        "text": "(Shotgun) S.Thompson pass deep right to K.Williams for 26 yards, TOUCHDOWN [E.Mostaert]. B.Sauls extra point is GOOD, Center-C.Kuntz, Holder-C.Johnston.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      }
+    ],
+    "interceptions": [
+      {
+        "play_id": "4017730022279",
+        "text": "N.Mullens pass deep left intended for T.Irwin INTERCEPTED by C.McCutcheon at PIT 2. C.McCutcheon to PIT 3 for 1 yard (A.Trammell).PENALTY on PIT-I.Loudermilk, Roughing the Passer, 15 yards, enforced at PIT 44 - No Play.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      }
+    ],
+    "fumbles": []
+  },
+  "processing_timestamp": "2025-08-20T10:49:27.450308"
+}

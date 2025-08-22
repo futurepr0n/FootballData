@@ -1,0 +1,82 @@
+[
+  {
+    "player": "C.Brown",
+    "type": "rushing",
+    "date": "2025-08-19",
+    "game_id": "401772973",
+    "team": "CIN",
+    "opponent": "WSH"
+  },
+  {
+    "player": "J.Daniels",
+    "type": "rushing",
+    "date": "2025-08-19",
+    "game_id": "401772973",
+    "team": "WSH",
+    "opponent": "CIN"
+  },
+  {
+    "player": "C.Jones",
+    "type": "receiving",
+    "date": "2025-08-19",
+    "game_id": "401772973",
+    "team": "CIN",
+    "opponent": "WSH"
+  },
+  {
+    "player": "M.Tinsley",
+    "type": "receiving",
+    "date": "2025-08-19",
+    "game_id": "401772973",
+    "team": "CIN",
+    "opponent": "WSH"
+  },
+  {
+    "player": "M.Tinsley",
+    "type": "receiving",
+    "date": "2025-08-19",
+    "game_id": "401772973",
+    "team": "CIN",
+    "opponent": "WSH"
+  },
+  {
+    "player": "O.Zaccheaus",
+    "type": "receiving",
+    "date": "2025-08-18",
+    "game_id": "401772972",
+    "team": "CHI",
+    "opponent": "BUF"
+  },
+  {
+    "player": "B.Brown",
+    "type": "rushing",
+    "date": "2025-08-18",
+    "game_id": "401772972",
+    "team": "CHI",
+    "opponent": "BUF"
+  },
+  {
+    "player": "T.Scott",
+    "type": "receiving",
+    "date": "2025-08-18",
+    "game_id": "401772972",
+    "team": "CHI",
+    "opponent": "BUF"
+  },
+  {
+    "player": "I.Wheeler",
+    "type": "rushing",
+    "date": "2025-08-18",
+    "game_id": "401772972",
+    "team": "CHI",
+    "opponent": "BUF"
+  },
+  {
+    "player": "I.Wheeler",
+    "type": "rushing",
+    "date": "2025-08-18",
+    "game_id": "401772972",
+    "team": "CHI",
+    "opponent": "BUF"
+  }
+]

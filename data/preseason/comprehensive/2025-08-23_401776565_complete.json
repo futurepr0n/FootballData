@@ -1,0 +1,65 @@
+{
+  "game_id": "401776565",
+  "date": "2025-08-23",
+  "box_score": {
+    "game_info": {
+      "game_id": "401776565",
+      "date": "2025-08-23T23:00Z",
+      "status": {
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Sat, August 23rd at 7:00 PM EDT",
+          "shortDetail": "8/23 - 7:00 PM EDT"
+        },
+        "isTBDFlex": false
+      },
+      "venue": {},
+      "attendance": 0
+    },
+    "team_stats": {
+      "MIA": {
+        "score": 0,
+        "record": "0-0",
+        "home_away": "home"
+      },
+      "JAX": {
+        "score": 0,
+        "record": "0-0",
+        "home_away": "away"
+      }
+    },
+    "player_stats": {},
+    "scoring_summary": []
+  },
+  "play_by_play": {
+    "game_info": {
+      "game_id": "401776565",
+      "teams": [
+        {
+          "abbreviation": "MIA",
+          "name": "Miami Dolphins",
+          "score": 0,
+          "home_away": "home"
+        },
+        {
+          "abbreviation": "JAX",
+          "name": "Jacksonville Jaguars",
+          "score": 0,
+          "home_away": "away"
+        }
+      ],
+      "final_score": {}
+    },
+    "drives": [],
+    "plays": [],
+    "scoring_plays": [],
+    "touchdowns": [],
+    "interceptions": [],
+    "fumbles": []
+  },
+  "processing_timestamp": "2025-08-20T10:50:04.450189"
+}

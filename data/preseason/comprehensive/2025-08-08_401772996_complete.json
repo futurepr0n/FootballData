@@ -1,0 +1,3904 @@
+{
+  "game_id": "401772996",
+  "date": "2025-08-08",
+  "box_score": {
+    "game_info": {
+      "game_id": "401772996",
+      "date": "2025-08-08T23:30Z",
+      "status": {
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final"
+        },
+        "isTBDFlex": false
+      },
+      "venue": {},
+      "attendance": 0
+    },
+    "team_stats": {
+      "NE": {
+        "score": 48,
+        "record": "0-0",
+        "home_away": "home"
+      },
+      "WSH": {
+        "score": 18,
+        "record": "0-0",
+        "home_away": "away"
+      }
+    },
+    "player_stats": {
+      "Josh Johnson_WSH": {
+        "name": "Josh Johnson",
+        "position": "",
+        "jersey": "14",
+        "team": "WSH",
+        "stats": {
+          "0": 2,
+          "1": -11,
+          "2": -5.5,
+          "3": 0,
+          "4": -2
+        }
+      },
+      "Sam Hartman_WSH": {
+        "name": "Sam Hartman",
+        "position": "",
+        "jersey": "15",
+        "team": "WSH",
+        "stats": {
+          "0": 1,
+          "1": 6,
+          "2": 6.0,
+          "3": 0,
+          "4": 6
+        }
+      },
+      "Demetric Felton_WSH": {
+        "name": "Demetric Felton",
+        "position": "",
+        "jersey": "25",
+        "team": "WSH",
+        "stats": {
+          "0": 4,
+          "1": 78,
+          "2": 19.5,
+          "3": 28,
+          "4": 0
+        }
+      },
+      "Jacory Croskey-Merritt_WSH": {
+        "name": "Jacory Croskey-Merritt",
+        "position": "",
+        "jersey": "32",
+        "team": "WSH",
+        "stats": {
+          "0": 1,
+          "1": 8,
+          "2": 8.0,
+          "3": 0,
+          "4": 8,
+          "5": 1
+        }
+      },
+      "Chris Rodriguez Jr._WSH": {
+        "name": "Chris Rodriguez Jr.",
+        "position": "",
+        "jersey": "36",
+        "team": "WSH",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Jeremy McNichols_WSH": {
+        "name": "Jeremy McNichols",
+        "position": "",
+        "jersey": "26",
+        "team": "WSH",
+        "stats": {
+          "0": 1,
+          "1": 14,
+          "2": 14.0,
+          "3": 0,
+          "4": 14,
+          "5": 1
+        }
+      },
+      "Ja'Corey Brooks_WSH": {
+        "name": "Ja'Corey Brooks",
+        "position": "",
+        "jersey": "16O",
+        "team": "WSH",
+        "stats": {
+          "0": 5,
+          "1": 59,
+          "2": 11.8,
+          "3": 0,
+          "4": 16,
+          "5": 5
+        }
+      },
+      "Tay Martin_WSH": {
+        "name": "Tay Martin",
+        "position": "",
+        "jersey": "6O",
+        "team": "WSH",
+        "stats": {
+          "0": 3,
+          "1": 36,
+          "2": 12.0,
+          "3": 0,
+          "4": 22,
+          "5": 3
+        }
+      },
+      "Lawrence Cager_WSH": {
+        "name": "Lawrence Cager",
+        "position": "",
+        "jersey": "89",
+        "team": "WSH",
+        "stats": {
+          "0": 2,
+          "1": 35,
+          "2": 17.5,
+          "3": 0,
+          "4": 33,
+          "5": 2
+        }
+      },
+      "Michael Gallup_WSH": {
+        "name": "Michael Gallup",
+        "position": "",
+        "jersey": "12",
+        "team": "WSH",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Braylon Sanders_WSH": {
+        "name": "Braylon Sanders",
+        "position": "",
+        "jersey": "80",
+        "team": "WSH",
+        "stats": {
+          "0": 2,
+          "1": 19,
+          "2": 9.5,
+          "3": 0,
+          "4": 14,
+          "5": 2
+        }
+      },
+      "K.J. Osborn_WSH": {
+        "name": "K.J. Osborn",
+        "position": "",
+        "jersey": "13",
+        "team": "WSH",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ben Sinnott_WSH": {
+        "name": "Ben Sinnott",
+        "position": "",
+        "jersey": "82",
+        "team": "WSH",
+        "stats": {
+          "0": 2,
+          "1": 10,
+          "2": 5.0,
+          "3": 0,
+          "4": 5,
+          "5": 3
+        }
+      },
+      "Colson Yankoff_WSH": {
+        "name": "Colson Yankoff",
+        "position": "",
+        "jersey": "41",
+        "team": "WSH",
+        "stats": {
+          "0": 1,
+          "1": 9,
+          "2": 9.0,
+          "3": 0,
+          "4": 9,
+          "5": 2
+        }
+      },
+      "Jacoby Jones_WSH": {
+        "name": "Jacoby Jones",
+        "position": "",
+        "jersey": "10O",
+        "team": "WSH",
+        "stats": {
+          "0": 2,
+          "1": 7,
+          "2": 3.5,
+          "3": 1,
+          "4": 4,
+          "5": 3
+        }
+      },
+      "Chris Moore_WSH": {
+        "name": "Chris Moore",
+        "position": "",
+        "jersey": "19",
+        "team": "WSH",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 2
+        }
+      },
+      "Cole Turner_WSH": {
+        "name": "Cole Turner",
+        "position": "",
+        "jersey": "88",
+        "team": "WSH",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Michael Strachan_WSH": {
+        "name": "Michael Strachan",
+        "position": "",
+        "jersey": "84",
+        "team": "WSH",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Jaylin Lane_WSH": {
+        "name": "Jaylin Lane",
+        "position": "",
+        "jersey": "83",
+        "team": "WSH",
+        "stats": {
+          "0": 2,
+          "1": 5,
+          "2": 2.5,
+          "3": 4,
+          "4": 0
+        }
+      },
+      "Luke McCaffrey_WSH": {
+        "name": "Luke McCaffrey",
+        "position": "",
+        "jersey": "11",
+        "team": "WSH",
+        "stats": {
+          "0": 1,
+          "1": -1,
+          "2": -1.0,
+          "3": 0,
+          "4": -1,
+          "5": 1
+        }
+      },
+      "Jacob Martin_WSH": {
+        "name": "Jacob Martin",
+        "position": "",
+        "jersey": "55",
+        "team": "WSH",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 1
+        }
+      },
+      "Car'lin Vigers_WSH": {
+        "name": "Car'lin Vigers",
+        "position": "",
+        "jersey": "22D",
+        "team": "WSH",
+        "stats": {
+          "0": 8,
+          "1": 8,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Noah Igbinoghene_WSH": {
+        "name": "Noah Igbinoghene",
+        "position": "",
+        "jersey": "6D",
+        "team": "WSH",
+        "stats": {
+          "0": 1,
+          "1": 25,
+          "2": 25.0,
+          "3": 25,
+          "4": 0
+        }
+      },
+      "Dominique Hampton_WSH": {
+        "name": "Dominique Hampton",
+        "position": "",
+        "jersey": "45",
+        "team": "WSH",
+        "stats": {
+          "0": 5,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jeremy Reaves_WSH": {
+        "name": "Jeremy Reaves",
+        "position": "",
+        "jersey": "39",
+        "team": "WSH",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Percy Butler_WSH": {
+        "name": "Percy Butler",
+        "position": "",
+        "jersey": "35",
+        "team": "WSH",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kain Medrano_WSH": {
+        "name": "Kain Medrano",
+        "position": "",
+        "jersey": "56",
+        "team": "WSH",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jer'Zhan Newton_WSH": {
+        "name": "Jer'Zhan Newton",
+        "position": "",
+        "jersey": "95",
+        "team": "WSH",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Ben Nikkel_WSH": {
+        "name": "Ben Nikkel",
+        "position": "",
+        "jersey": "48",
+        "team": "WSH",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Norell Pollard_WSH": {
+        "name": "Norell Pollard",
+        "position": "",
+        "jersey": "64",
+        "team": "WSH",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Robert McDaniel_WSH": {
+        "name": "Robert McDaniel",
+        "position": "",
+        "jersey": "47",
+        "team": "WSH",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tyler Owens_WSH": {
+        "name": "Tyler Owens",
+        "position": "",
+        "jersey": "40",
+        "team": "WSH",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Trey Amos_WSH": {
+        "name": "Trey Amos",
+        "position": "",
+        "jersey": "23",
+        "team": "WSH",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kevon Seymour_WSH": {
+        "name": "Kevon Seymour",
+        "position": "",
+        "jersey": "29",
+        "team": "WSH",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jalyn Holmes_WSH": {
+        "name": "Jalyn Holmes",
+        "position": "",
+        "jersey": "96",
+        "team": "WSH",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Bobby Price_WSH": {
+        "name": "Bobby Price",
+        "position": "",
+        "jersey": "37",
+        "team": "WSH",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kam Arnold_WSH": {
+        "name": "Kam Arnold",
+        "position": "",
+        "jersey": "46",
+        "team": "WSH",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Sheldon Day_WSH": {
+        "name": "Sheldon Day",
+        "position": "",
+        "jersey": "98",
+        "team": "WSH",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "T.J. Maguranyanga_WSH": {
+        "name": "T.J. Maguranyanga",
+        "position": "",
+        "jersey": "59",
+        "team": "WSH",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Bobby Hart_WSH": {
+        "name": "Bobby Hart",
+        "position": "",
+        "jersey": "51O",
+        "team": "WSH",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Clelin Ferrell_WSH": {
+        "name": "Clelin Ferrell",
+        "position": "",
+        "jersey": "99",
+        "team": "WSH",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Eddie Goldman_WSH": {
+        "name": "Eddie Goldman",
+        "position": "",
+        "jersey": "97",
+        "team": "WSH",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Allan George_WSH": {
+        "name": "Allan George",
+        "position": "",
+        "jersey": "38",
+        "team": "WSH",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Andre Jones Jr._WSH": {
+        "name": "Andre Jones Jr.",
+        "position": "",
+        "jersey": "50",
+        "team": "WSH",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ale Kaho_WSH": {
+        "name": "Ale Kaho",
+        "position": "",
+        "jersey": "51D",
+        "team": "WSH",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Carl Davis Jr._WSH": {
+        "name": "Carl Davis Jr.",
+        "position": "",
+        "jersey": "77",
+        "team": "WSH",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kazmeir Allen_WSH": {
+        "name": "Kazmeir Allen",
+        "position": "",
+        "jersey": "22O",
+        "team": "WSH",
+        "stats": {
+          "0": 4,
+          "1": 101,
+          "2": 25.3,
+          "3": 28,
+          "4": 0
+        }
+      },
+      "Matt Gay_WSH": {
+        "name": "Matt Gay",
+        "position": "",
+        "jersey": "16S",
+        "team": "WSH",
+        "stats": {
+          "0": "1/2",
+          "1": 50.0,
+          "2": 37,
+          "3": "1/1",
+          "4": 5
+        }
+      },
+      "Tress Way_WSH": {
+        "name": "Tress Way",
+        "position": "",
+        "jersey": "10S",
+        "team": "WSH",
+        "stats": {
+          "0": 4,
+          "1": 195,
+          "2": 48.8,
+          "3": 2,
+          "4": 0,
+          "5": 56
+        }
+      },
+      "Ben Wooldridge_NE": {
+        "name": "Ben Wooldridge",
+        "position": "",
+        "jersey": "17O",
+        "team": "NE",
+        "stats": {
+          "0": "9/12",
+          "1": 132,
+          "2": 11.0,
+          "3": 1,
+          "4": 0,
+          "5": "0-0",
+          "6": 138.2
+        }
+      },
+      "Joshua Dobbs_NE": {
+        "name": "Joshua Dobbs",
+        "position": "",
+        "jersey": "11",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 2,
+          "2": 2.0,
+          "3": 1,
+          "4": 2
+        }
+      },
+      "Drake Maye_NE": {
+        "name": "Drake Maye",
+        "position": "",
+        "jersey": "10",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0
+        }
+      },
+      "Rhamondre Stevenson_NE": {
+        "name": "Rhamondre Stevenson",
+        "position": "",
+        "jersey": "38",
+        "team": "NE",
+        "stats": {
+          "0": 7,
+          "1": 36,
+          "2": 5.1,
+          "3": 0,
+          "4": 13
+        }
+      },
+      "Lan Larison_NE": {
+        "name": "Lan Larison",
+        "position": "",
+        "jersey": "34",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 25,
+          "2": 25.0,
+          "3": 25,
+          "4": 0
+        }
+      },
+      "Antonio Gibson_NE": {
+        "name": "Antonio Gibson",
+        "position": "",
+        "jersey": "4",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 62,
+          "2": 62.0,
+          "3": 62,
+          "4": 0
+        }
+      },
+      "Terrell Jennings_NE": {
+        "name": "Terrell Jennings",
+        "position": "",
+        "jersey": "26O",
+        "team": "NE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "TreVeyon Henderson_NE": {
+        "name": "TreVeyon Henderson",
+        "position": "",
+        "jersey": "32",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 100,
+          "2": 100.0,
+          "3": 100,
+          "4": 1
+        }
+      },
+      "Ja'Lynn Polk_NE": {
+        "name": "Ja'Lynn Polk",
+        "position": "",
+        "jersey": "1",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 1.0,
+          "3": 0,
+          "4": 1
+        }
+      },
+      "Efton Chism III_NE": {
+        "name": "Efton Chism III",
+        "position": "",
+        "jersey": "86",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 11,
+          "2": 11.0,
+          "3": 11,
+          "4": 0
+        }
+      },
+      "John Jiles_NE": {
+        "name": "John Jiles",
+        "position": "",
+        "jersey": "83",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 48,
+          "2": 24.0,
+          "3": 0,
+          "4": 26,
+          "5": 2
+        }
+      },
+      "Jeremiah Webb_NE": {
+        "name": "Jeremiah Webb",
+        "position": "",
+        "jersey": "29O",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 41,
+          "2": 20.5,
+          "3": 0,
+          "4": 33,
+          "5": 2
+        }
+      },
+      "Jaheim Bell_NE": {
+        "name": "Jaheim Bell",
+        "position": "",
+        "jersey": "88",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 18,
+          "2": 18.0,
+          "3": 0,
+          "4": 18,
+          "5": 1
+        }
+      },
+      "Mack Hollins_NE": {
+        "name": "Mack Hollins",
+        "position": "",
+        "jersey": "13",
+        "team": "NE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Austin Hooper_NE": {
+        "name": "Austin Hooper",
+        "position": "",
+        "jersey": "81",
+        "team": "NE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "CJ Dippre_NE": {
+        "name": "CJ Dippre",
+        "position": "",
+        "jersey": "82",
+        "team": "NE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Kyle Williams_NE": {
+        "name": "Kyle Williams",
+        "position": "",
+        "jersey": "18",
+        "team": "NE",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 4
+        }
+      },
+      "Javon Baker_NE": {
+        "name": "Javon Baker",
+        "position": "",
+        "jersey": "6",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Truman Jones_NE": {
+        "name": "Truman Jones",
+        "position": "",
+        "jersey": "54",
+        "team": "NE",
+        "stats": {
+          "0": 6,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Craig Woodson_NE": {
+        "name": "Craig Woodson",
+        "position": "",
+        "jersey": "31",
+        "team": "NE",
+        "stats": {
+          "0": 5,
+          "1": 5,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Marte Mapu_NE": {
+        "name": "Marte Mapu",
+        "position": "",
+        "jersey": "15",
+        "team": "NE",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "DJ James_NE": {
+        "name": "DJ James",
+        "position": "",
+        "jersey": "30",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 11,
+          "2": 0
+        }
+      },
+      "Marcus Epps_NE": {
+        "name": "Marcus Epps",
+        "position": "",
+        "jersey": "22",
+        "team": "NE",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cam Riley_NE": {
+        "name": "Cam Riley",
+        "position": "",
+        "jersey": "42",
+        "team": "NE",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jaylinn Hawkins_NE": {
+        "name": "Jaylinn Hawkins",
+        "position": "",
+        "jersey": "21",
+        "team": "NE",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Alex Austin_NE": {
+        "name": "Alex Austin",
+        "position": "",
+        "jersey": "28",
+        "team": "NE",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joshua Farmer_NE": {
+        "name": "Joshua Farmer",
+        "position": "",
+        "jersey": "92",
+        "team": "NE",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Anfernee Jennings_NE": {
+        "name": "Anfernee Jennings",
+        "position": "",
+        "jersey": "33",
+        "team": "NE",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Monty Rice_NE": {
+        "name": "Monty Rice",
+        "position": "",
+        "jersey": "45",
+        "team": "NE",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Josh Minkins_NE": {
+        "name": "Josh Minkins",
+        "position": "",
+        "jersey": "16",
+        "team": "NE",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Dell Pettus_NE": {
+        "name": "Dell Pettus",
+        "position": "",
+        "jersey": "24",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jahvaree Ritzie_NE": {
+        "name": "Jahvaree Ritzie",
+        "position": "",
+        "jersey": "93",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kobee Minor_NE": {
+        "name": "Kobee Minor",
+        "position": "",
+        "jersey": "19",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Christian Elliss_NE": {
+        "name": "Christian Elliss",
+        "position": "",
+        "jersey": "53",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Miles Battle_NE": {
+        "name": "Miles Battle",
+        "position": "",
+        "jersey": "35",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Brandon Crossley_NE": {
+        "name": "Brandon Crossley",
+        "position": "",
+        "jersey": "37D",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jordan Polk_NE": {
+        "name": "Jordan Polk",
+        "position": "",
+        "jersey": "39D",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 18,
+          "2": 0
+        }
+      },
+      "David Olajiga_NE": {
+        "name": "David Olajiga",
+        "position": "",
+        "jersey": "96",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jabrill Peppers_NE": {
+        "name": "Jabrill Peppers",
+        "position": "",
+        "jersey": "5",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Milton Williams_NE": {
+        "name": "Milton Williams",
+        "position": "",
+        "jersey": "97",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Marcus Jones_NE": {
+        "name": "Marcus Jones",
+        "position": "",
+        "jersey": "25",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0
+        }
+      },
+      "Tre Avery_NE": {
+        "name": "Tre Avery",
+        "position": "",
+        "jersey": "26D",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kyle Dugger_NE": {
+        "name": "Kyle Dugger",
+        "position": "",
+        "jersey": "23",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jared Wilson_NE": {
+        "name": "Jared Wilson",
+        "position": "",
+        "jersey": "58",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "JaMycal Hasty_NE": {
+        "name": "JaMycal Hasty",
+        "position": "",
+        "jersey": "39O",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Parker Romo_NE": {
+        "name": "Parker Romo",
+        "position": "",
+        "jersey": "37S",
+        "team": "NE",
+        "stats": {
+          "0": "1/1",
+          "1": 100.0,
+          "2": 57,
+          "3": "3/3",
+          "4": 6
+        }
+      },
+      "Bradyn Swinson_NE": {
+        "name": "Bradyn Swinson",
+        "position": "",
+        "jersey": "43",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Isaiah Iton_NE": {
+        "name": "Isaiah Iton",
+        "position": "",
+        "jersey": "68",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Julian Ashby_NE": {
+        "name": "Julian Ashby",
+        "position": "",
+        "jersey": "47",
+        "team": "NE",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Andy Borregales_NE": {
+        "name": "Andy Borregales",
+        "position": "",
+        "jersey": "36",
+        "team": "NE",
+        "stats": {
+          "0": "1/1",
+          "1": 100.0,
+          "2": 22,
+          "3": "3/3",
+          "4": 5
+        }
+      },
+      "Bryce Baringer_NE": {
+        "name": "Bryce Baringer",
+        "position": "",
+        "jersey": "17S",
+        "team": "NE",
+        "stats": {
+          "0": 2,
+          "1": 79,
+          "2": 39.5,
+          "3": 0,
+          "4": 0,
+          "5": 41
+        }
+      }
+    },
+    "scoring_summary": []
+  },
+  "play_by_play": {
+    "game_info": {
+      "game_id": "401772996",
+      "teams": [
+        {
+          "abbreviation": "NE",
+          "name": "New England Patriots",
+          "score": 48,
+          "home_away": "home"
+        },
+        {
+          "abbreviation": "WSH",
+          "name": "Washington Commanders",
+          "score": 18,
+          "home_away": "away"
+        }
+      ],
+      "final_score": {}
+    },
+    "drives": [
+      {
+        "id": "4017729961",
+        "team": "NE",
+        "plays_count": 1,
+        "result": "TD",
+        "yards": 0
+      },
+      {
+        "id": "4017729962",
+        "team": "WSH",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 5
+      },
+      {
+        "id": "4017729963",
+        "team": "NE",
+        "plays_count": 6,
+        "result": "FUMBLE",
+        "yards": 10
+      },
+      {
+        "id": "4017729964",
+        "team": "WSH",
+        "plays_count": 5,
+        "result": "MISSED FG",
+        "yards": -1
+      },
+      {
+        "id": "4017729965",
+        "team": "NE",
+        "plays_count": 9,
+        "result": "TD",
+        "yards": 61
+      },
+      {
+        "id": "4017729966",
+        "team": "WSH",
+        "plays_count": 10,
+        "result": "INT",
+        "yards": 18
+      },
+      {
+        "id": "4017729967",
+        "team": "NE",
+        "plays_count": 8,
+        "result": "FG",
+        "yards": 27
+      },
+      {
+        "id": "4017729968",
+        "team": "WSH",
+        "plays_count": 9,
+        "result": "PUNT",
+        "yards": 20
+      },
+      {
+        "id": "4017729969",
+        "team": "NE",
+        "plays_count": 7,
+        "result": "FG",
+        "yards": 36
+      },
+      {
+        "id": "40177299610",
+        "team": "WSH",
+        "plays_count": 14,
+        "result": "FG",
+        "yards": 50
+      },
+      {
+        "id": "40177299611",
+        "team": "NE",
+        "plays_count": 9,
+        "result": "TD",
+        "yards": 29
+      },
+      {
+        "id": "40177299612",
+        "team": "WSH",
+        "plays_count": 10,
+        "result": "PUNT",
+        "yards": 34
+      },
+      {
+        "id": "40177299613",
+        "team": "NE",
+        "plays_count": 11,
+        "result": "PUNT",
+        "yards": 14
+      },
+      {
+        "id": "40177299614",
+        "team": "WSH",
+        "plays_count": 13,
+        "result": "TD",
+        "yards": 71
+      },
+      {
+        "id": "40177299615",
+        "team": "NE",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 7
+      },
+      {
+        "id": "40177299616",
+        "team": "WSH",
+        "plays_count": 3,
+        "result": "INT",
+        "yards": 4
+      },
+      {
+        "id": "40177299617",
+        "team": "NE",
+        "plays_count": 5,
+        "result": "TD",
+        "yards": 21
+      },
+      {
+        "id": "40177299618",
+        "team": "WSH",
+        "plays_count": 9,
+        "result": "PUNT",
+        "yards": 17
+      },
+      {
+        "id": "40177299619",
+        "team": "NE",
+        "plays_count": 11,
+        "result": "TD",
+        "yards": 80
+      },
+      {
+        "id": "40177299620",
+        "team": "WSH",
+        "plays_count": 12,
+        "result": "TD",
+        "yards": 83
+      },
+      {
+        "id": "40177299621",
+        "team": "NE",
+        "plays_count": 11,
+        "result": "TD",
+        "yards": 65
+      },
+      {
+        "id": "40177299622",
+        "team": "WSH",
+        "plays_count": 8,
+        "result": "END OF GAME",
+        "yards": 2
+      }
+    ],
+    "plays": [
+      {
+        "id": "40177299640",
+        "text": "M.Gay kicks 65 yards from WAS 35 to NE 0. T.Henderson for 100 yards, TOUCHDOWN. A.Borregales extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "type": "Kickoff Return Touchdown",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "14:48",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "40177299677",
+        "text": "A.Borregales kicks 52 yards from NE 35 to WAS 13. D.Felton to WAS 30 for 17 yards (J.Baker).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "14:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996100",
+        "text": "(Shotgun) S.Hartman pass incomplete short right to K.Osborn.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 70,
+        "period": 1,
+        "clock": "14:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996123",
+        "text": "(No Huddle, Shotgun) S.Hartman pass short right to B.Sinnott to WAS 35 for 5 yards (J.Hawkins).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 70,
+        "period": 1,
+        "clock": "14:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996148",
+        "text": "(No Huddle, Shotgun) S.Hartman pass incomplete deep middle to C.Moore.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "14:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996171",
+        "text": " T.Way punts 45 yards to NE 20, Center-T.Ott. M.Jones to NE 20 for no gain (K.Seymour; B.Price).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "14:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996197",
+        "text": "R.Stevenson left end to NE 27 for 7 yards (A.Kaho; D.Hampton).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 1,
+        "clock": "13:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996219",
+        "text": "(Shotgun) R.Stevenson up the middle to NE 29 for 2 yards (E.Goldman; J.Newton).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 27,
+        "period": 1,
+        "clock": "13:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996241",
+        "text": "R.Stevenson up the middle to NE 42 for 13 yards (P.Butler).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 29,
+        "period": 1,
+        "clock": "12:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996263",
+        "text": "(Shotgun) D.Maye pass short left to T.Henderson to NE 41 for -1 yards (C.Ferrell).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 42,
+        "period": 1,
+        "clock": "11:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996288",
+        "text": "(Shotgun) D.Maye pass short left to T.Henderson to NE 45 for 4 yards (N.Igbinoghene).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 41,
+        "period": 1,
+        "clock": "11:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996313",
+        "text": "(Shotgun) D.Maye sacked at NE 32 for -13 yards (J.Newton). FUMBLES (J.Newton) [J.Newton], RECOVERED by WAS-J.Martin at NE 30. J.Martin to NE 30 for no gain (J.Wilson).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 45,
+        "period": 1,
+        "clock": "10:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996343",
+        "text": "(Shotgun) J.Croskey-Merritt right end ran ob at NE 30 for no gain (C.Elliss).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 1,
+        "clock": "10:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996370",
+        "text": "(No Huddle, Shotgun) S.Hartman pass incomplete deep middle to B.Sinnott.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 1,
+        "clock": "9:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996393",
+        "text": " (No Huddle, Shotgun) S.Hartman pass short right to L.McCaffrey to NE 31 for -1 yards (M.Williams).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 1,
+        "clock": "9:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996418",
+        "text": " M.Gay 49 yard field goal is No Good, Wide Left, Center-T.Ott, Holder-T.Way.",
+        "type": "Field Goal Missed",
+        "down": 4,
+        "distance": 11,
+        "yard_line": 31,
+        "period": 1,
+        "clock": "9:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996429",
+        "text": "Official Timeout at 09:07.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 39,
+        "period": 1,
+        "clock": "9:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996439",
+        "text": "T.Henderson left end to WAS 43 for 18 yards (T.Owens).PENALTY on WAS-D.Hampton, Face Mask, 15 yards, enforced at WAS 43.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 39,
+        "period": 1,
+        "clock": "9:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996479",
+        "text": " (Shotgun) D.Maye pass incomplete deep right to M.Hollins.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 1,
+        "clock": "8:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996502",
+        "text": "(Shotgun) D.Maye scrambles up the middle to WAS 17 for 11 yards (T.Amos).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 1,
+        "clock": "8:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996524",
+        "text": "R.Stevenson up the middle to WAS 14 for 3 yards (K.Medrano).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 83,
+        "period": 1,
+        "clock": "7:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996546",
+        "text": " (Shotgun) D.Maye pass short right to T.Henderson to WAS 5 for 9 yards (P.Butler).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 86,
+        "period": 1,
+        "clock": "7:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996571",
+        "text": " R.Stevenson right end to WAS 5 for no gain (T.Amos).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 5,
+        "yard_line": 95,
+        "period": 1,
+        "clock": "6:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996593",
+        "text": "(Shotgun) D.Maye pass incomplete short right to A.Hooper.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 95,
+        "period": 1,
+        "clock": "5:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996621",
+        "text": "(Shotgun) D.Maye scrambles left guard for 5 yards, TOUCHDOWN. J.Romo extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "type": "Rushing Touchdown",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 95,
+        "period": 1,
+        "clock": "5:41",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401772996652",
+        "text": "Official Timeout at 05:41.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "5:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996659",
+        "text": "J.Romo kicks 66 yards from NE 35 to WAS -1. K.Allen to WAS 25 for 26 yards (C.Woodson).PENALTY on WAS-T.Owens, Illegal Block Above the Waist, 10 yards, enforced at WAS 23.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "5:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996700",
+        "text": "(Shotgun) J.Croskey-Merritt right tackle to WAS 18 for 5 yards (C.Elliss).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 87,
+        "period": 1,
+        "clock": "5:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996722",
+        "text": "(No Huddle, Shotgun) S.Hartman pass short left to K.Osborn pushed ob at WAS 25 for 7 yards (J.Peppers).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 82,
+        "period": 1,
+        "clock": "5:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996752",
+        "text": "(No Huddle, Shotgun) J.Croskey-Merritt up the middle to WAS 34 for 9 yards (T.Jones; J.Hawkins).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 75,
+        "period": 1,
+        "clock": "4:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996774",
+        "text": "(No Huddle, Shotgun) J.Croskey-Merritt up the middle to WAS 36 for 2 yards (T.Jones).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 66,
+        "period": 1,
+        "clock": "4:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996796",
+        "text": "(No Huddle, Shotgun) S.Hartman pass incomplete deep left to C.Moore (M.Jones).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 64,
+        "period": 1,
+        "clock": "3:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996831",
+        "text": "(Shotgun) PENALTY on WAS-J.Croskey-Merritt, False Start, 5 yards, enforced at WAS 36 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 64,
+        "period": 1,
+        "clock": "3:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996855",
+        "text": " (No Huddle, Shotgun) S.Hartman pass incomplete short right to K.Osborn (J.Hawkins).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 15,
+        "yard_line": 69,
+        "period": 1,
+        "clock": "3:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996883",
+        "text": "(No Huddle, Shotgun) S.Hartman pass short right intended for M.Gallup INTERCEPTED by D.James at WAS 42. D.James to WAS 31 for 11 yards (M.Gallup; K.Osborn).",
+        "type": "Pass Interception Return",
+        "down": 3,
+        "distance": 15,
+        "yard_line": 69,
+        "period": 1,
+        "clock": "3:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996897",
+        "text": "Official Timeout at 03:13.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 1,
+        "clock": "3:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996910",
+        "text": "NE 11-J. Dobbs now at QB. R.Stevenson up the middle to WAS 28 for 3 yards (P.Butler, D.Hampton).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 1,
+        "clock": "3:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996943",
+        "text": "(Shotgun) R.Stevenson up the middle to WAS 20 for 8 yards (C.Vigers, N.Igbinoghene).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 72,
+        "period": 1,
+        "clock": "2:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996965",
+        "text": "A.Gibson left guard to WAS 13 for 7 yards (K.Medrano).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 1,
+        "clock": "2:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772996987",
+        "text": " A.Gibson right tackle to WAS 6 for 7 yards (D.Hampton).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 87,
+        "period": 1,
+        "clock": "1:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961009",
+        "text": "A.Gibson right guard to WAS 4 for 2 yards (T.Owens).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 6,
+        "yard_line": 94,
+        "period": 1,
+        "clock": "0:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961031",
+        "text": "(Shotgun) J.Dobbs pass incomplete short right to J.Baker.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 1,
+        "clock": "0:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961054",
+        "text": " (Shotgun) J.Dobbs pass incomplete short right to K.Williams [E.Goldman].",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 1,
+        "clock": "0:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961077",
+        "text": " A.Borregales 22 yard field goal is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 1,
+        "clock": "0:05",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017729961097",
+        "text": "A.Borregales kicks 64 yards from NE 35 to WAS 1. K.Allen to WAS 28 for 27 yards (E.Ponder).PENALTY on WAS-J.Reaves, Illegal Block Above the Waist, 10 yards, enforced at WAS 24.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "0:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961132",
+        "text": "END QUARTER 1",
+        "type": "End Period",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 82,
+        "period": 1,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961152",
+        "text": "(Shotgun) C.Rodriguez up the middle to WAS 16 for 2 yards (C.Elliss).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 86,
+        "period": 2,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961174",
+        "text": "(No Huddle, Shotgun) S.Hartman pass short right to M.Gallup to WAS 28 for 12 yards (M.Jones).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 84,
+        "period": 2,
+        "clock": "14:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961199",
+        "text": "(No Huddle, Shotgun) S.Hartman pass incomplete deep right to M.Gallup.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 2,
+        "clock": "14:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961222",
+        "text": "(No Huddle, Shotgun) S.Hartman pass incomplete short left to J.Lane.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 2,
+        "clock": "13:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961245",
+        "text": " (No Huddle, Shotgun) S.Hartman scrambles right end to WAS 34 for 6 yards (K.Dugger).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 2,
+        "clock": "13:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961267",
+        "text": "T.Way punts 52 yards to NE 14, Center-T.Ott. E.Chism ran ob at NE 25 for 11 yards (B.Price).Penalty on NE-B.Schooler, Offensive Holding, offsetting, enforced at NE 25.Penalty on WAS-B.Sinnott, Unnecessary Roughness, offsetting.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 4,
+        "yard_line": 66,
+        "period": 2,
+        "clock": "13:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961288",
+        "text": "Official Timeout at 12:52.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 2,
+        "clock": "12:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961309",
+        "text": " J.Dobbs pass short right to J.Bell to NE 43 for 18 yards (B.Nikkel).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 25,
+        "period": 2,
+        "clock": "12:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961341",
+        "text": "(Shotgun) J.Dobbs pass short right to A.Gibson pushed ob at WAS 46 for 11 yards (C.Vigers).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 2,
+        "clock": "12:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961371",
+        "text": "A.Gibson right guard to WAS 41 for 5 yards (J.Newton).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 2,
+        "clock": "11:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961393",
+        "text": "(Shotgun) J.Dobbs pass incomplete short middle to E.Chism (N.Igbinoghene).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 59,
+        "period": 2,
+        "clock": "10:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961421",
+        "text": "(Shotgun) J.Dobbs pass short right to L.Larison to WAS 39 for 2 yards (J.Reaves).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 59,
+        "period": 2,
+        "clock": "10:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961446",
+        "text": "J.Romo 57 yard field goal is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 61,
+        "period": 2,
+        "clock": "10:10",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017729961457",
+        "text": "Official Timeout at 10:10.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "10:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961468",
+        "text": "J.Romo kicks 62 yards from NE 35 to WAS 3. K.Allen to WAS 31 for 28 yards (C.Woodson).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "10:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961501",
+        "text": " (Shotgun) J.Croskey-Merritt left guard to WAS 35 for 4 yards (I.Iton; J.Farmer).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 2,
+        "clock": "10:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961523",
+        "text": "(No Huddle, Shotgun) S.Hartman pass short left to T.Martin to WAS 40 for 5 yards (D.James).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "9:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961548",
+        "text": "(No Huddle, Shotgun) J.Croskey-Merritt left end to WAS 41 for 1 yard (J.Farmer).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 60,
+        "period": 2,
+        "clock": "9:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961570",
+        "text": " (No Huddle, Shotgun) S.Hartman pass short right to T.Martin to 50 for 9 yards (D.James).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 59,
+        "period": 2,
+        "clock": "8:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961595",
+        "text": "(No Huddle, Shotgun) J.Croskey-Merritt left guard to NE 47 for 3 yards (A.Austin).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 50,
+        "period": 2,
+        "clock": "8:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961617",
+        "text": "(No Huddle, Shotgun) S.Hartman pass short right to B.Sinnott to NE 42 for 5 yards (M.Mapu).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 2,
+        "clock": "7:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961642",
+        "text": " (No Huddle, Shotgun) C.Rodriguez left tackle to NE 41 for 1 yard (A.Austin).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 42,
+        "period": 2,
+        "clock": "7:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961664",
+        "text": "(No Huddle, Shotgun) S.Hartman pass deep right to M.Gallup ran ob at NE 26 for 15 yards (C.Woodson).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 41,
+        "period": 2,
+        "clock": "6:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961699",
+        "text": "(No Huddle, Shotgun) S.Hartman pass incomplete short right to M.Gallup.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 26,
+        "period": 2,
+        "clock": "6:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961731",
+        "text": "(No Huddle, Shotgun) S.Hartman pass short middle to K.Osborn to NE 19 for 7 yards (M.Battle).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 26,
+        "period": 2,
+        "clock": "6:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961756",
+        "text": "(No Huddle, Shotgun) S.Hartman pass incomplete deep left to K.Osborn (A.Austin).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 19,
+        "period": 2,
+        "clock": "5:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961779",
+        "text": "M.Gay 37 yard field goal is GOOD, Center-T.Ott, Holder-T.Way.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 19,
+        "period": 2,
+        "clock": "5:33",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017729961789",
+        "text": "Official Timeout at 05:33.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "5:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961799",
+        "text": "M.Gay kicks 56 yards from WAS 35 to NE 9. A.Gibson pushed ob at WAS 29 for 62 yards (N.Igbinoghene).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "5:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961832",
+        "text": "T.Jennings right end to WAS 22 for 7 yards (J.Reaves).PENALTY on WAS-S.Day, Defensive Holding, 5 yards, enforced at WAS 22.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 71,
+        "period": 2,
+        "clock": "5:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961865",
+        "text": "(Shotgun) J.Dobbs pass short right to T.Jennings to WAS 19 for -2 yards (J.Reaves).PENALTY on WAS-J.Reaves, Unnecessary Roughness, 9 yards, enforced at WAS 17 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 83,
+        "period": 2,
+        "clock": "5:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961901",
+        "text": "Ja.Polk left end to WAS 7 for 1 yard (N.Igbinoghene).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 8,
+        "yard_line": 92,
+        "period": 2,
+        "clock": "4:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961923",
+        "text": "(Shotgun) A.Gibson up the middle to WAS 5 for 2 yards (S.Day; J.Reaves).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 93,
+        "period": 2,
+        "clock": "4:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961945",
+        "text": "A.Gibson left end to WAS 2 for 3 yards (S.Day; J.Reaves).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 95,
+        "period": 2,
+        "clock": "3:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961956",
+        "text": "Timeout #1 by NE at 02:45.",
+        "type": "Timeout",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 98,
+        "period": 2,
+        "clock": "2:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729961967",
+        "text": "(Shotgun) J.Dobbs scrambles up the middle for 2 yards, TOUCHDOWN. A.Borregales extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "type": "Rushing Touchdown",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 98,
+        "period": 2,
+        "clock": "2:37",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017729962005",
+        "text": "Official Timeout at 02:37.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "2:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962012",
+        "text": "A.Borregales kicks 59 yards from NE 35 to WAS 6. D.Felton to WAS 24 for 18 yards (C.Woodson, M.Epps).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "2:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962045",
+        "text": "WAS 14-J. Johnson now at QB. (Shotgun) J.Johnson pass short right to J.Croskey-Merritt pushed ob at WAS 40 for 16 yards (J.Pharms).PENALTY on WAS-B.Hart, Offensive Holding, 10 yards, enforced at WAS 24 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 76,
+        "period": 2,
+        "clock": "2:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962090",
+        "text": "(Shotgun) J.Johnson pass short middle to J.Croskey-Merritt to WAS 22 for 8 yards (J.Farmer).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 20,
+        "yard_line": 86,
+        "period": 2,
+        "clock": "2:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962103",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 79,
+        "period": 2,
+        "clock": "1:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962115",
+        "text": "(Shotgun) J.Johnson pass deep middle to T.Martin to WAS 44 for 22 yards (D.James).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 12,
+        "yard_line": 78,
+        "period": 2,
+        "clock": "1:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962147",
+        "text": "(No Huddle, Shotgun) J.Johnson pass short middle to J.McNichols to NE 42 for 14 yards (M.Mapu; A.Austin).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 56,
+        "period": 2,
+        "clock": "1:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962172",
+        "text": "(No Huddle, Shotgun) J.Johnson pass incomplete deep right to M.Gallup.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 42,
+        "period": 2,
+        "clock": "1:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962195",
+        "text": "(No Huddle, Shotgun) J.Johnson pass incomplete short right.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 42,
+        "period": 2,
+        "clock": "1:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962218",
+        "text": "(No Huddle, Shotgun) J.Johnson pass incomplete short right to M.Strachan (M.Battle).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 42,
+        "period": 2,
+        "clock": "1:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962241",
+        "text": "T.Way punts 42 yards to end zone, Center-T.Ott, Touchback.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 42,
+        "period": 2,
+        "clock": "0:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962259",
+        "text": "(Shotgun) J.Dobbs pass incomplete deep left to J.Baker (R.McDaniel) [J.Holmes].",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 2,
+        "clock": "0:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962282",
+        "text": "(Shotgun) J.Dobbs pass incomplete deep middle to K.Williams.Penalty on WAS-B.Price, Defensive Pass Interference, offsetting, enforced at NE 20 - No Play.Penalty on NE-M.Bryant, Offensive Holding, offsetting.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 2,
+        "clock": "0:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962316",
+        "text": " (Shotgun) J.Dobbs pass short middle to E.Chism to NE 28 for 8 yards (K.Seymour).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 2,
+        "clock": "0:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962329",
+        "text": "Timeout #1 by WAS at 00:30.",
+        "type": "Timeout",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 28,
+        "period": 2,
+        "clock": "0:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962341",
+        "text": "(Shotgun) J.Dobbs pass short right to E.Chism to NE 34 for 6 yards (K.Arnold).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 28,
+        "period": 2,
+        "clock": "0:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962357",
+        "text": "Timeout #2 by NE at 00:25.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 34,
+        "period": 2,
+        "clock": "0:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962373",
+        "text": "(Shotgun) J.Dobbs pass incomplete deep right to K.Williams (B.Price). WAS-B.Price was injured during the play.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 34,
+        "period": 2,
+        "clock": "0:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962403",
+        "text": "(Shotgun) J.Dobbs pass incomplete deep left to E.Chism.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 34,
+        "period": 2,
+        "clock": "0:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962429",
+        "text": "(Shotgun) J.Dobbs pass incomplete deep right to K.Williams (A.George) [S.Day].",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 34,
+        "period": 2,
+        "clock": "0:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962452",
+        "text": " B.Baringer punts 41 yards to WAS 25, Center-J.Ashby. J.Lane to WAS 26 for 1 yard (J.Baker).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 34,
+        "period": 2,
+        "clock": "0:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962478",
+        "text": "END QUARTER 2",
+        "type": "End of Half",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962498",
+        "text": "J.Romo kicks 64 yards from NE 35 to WAS 1. D.Felton to WAS 29 for 28 yards (T.Jones, M.Battle).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962521",
+        "text": "(Shotgun) C.Rodriguez left guard to WAS 31 for 2 yards (K.Minor; J.Pharms).PENALTY on WAS, Illegal Formation, 5 yards, enforced at WAS 29 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 71,
+        "period": 3,
+        "clock": "14:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962554",
+        "text": "(Shotgun) J.Johnson pass short left to J.Brooks to WAS 31 for 7 yards (C.Woodson).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 76,
+        "period": 3,
+        "clock": "14:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962579",
+        "text": "(No Huddle, Shotgun) J.Johnson pass incomplete short right to C.Turner.PENALTY on NE-K.Minor, Defensive Holding, 5 yards, enforced at WAS 31 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 69,
+        "period": 3,
+        "clock": "14:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962613",
+        "text": "(No Huddle, Shotgun) C.Rodriguez right guard to WAS 39 for 3 yards (M.Rice; A.Jennings).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 64,
+        "period": 3,
+        "clock": "13:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962635",
+        "text": "(No Huddle, Shotgun) J.Johnson pass incomplete short left to C.Rodriguez.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 61,
+        "period": 3,
+        "clock": "13:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962658",
+        "text": "(No Huddle, Shotgun) J.Johnson pass short left to J.Brooks to WAS 49 for 10 yards (K.Minor).New England challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 61,
+        "period": 3,
+        "clock": "13:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962683",
+        "text": "(Shotgun) J.McNichols right end pushed ob at NE 42 for 9 yards (M.Mapu).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 51,
+        "period": 3,
+        "clock": "12:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962751",
+        "text": " (Shotgun) J.McNichols left end pushed ob at NE 35 for 7 yards (K.Minor).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 42,
+        "period": 3,
+        "clock": "12:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962778",
+        "text": "(No Huddle, Shotgun) J.Johnson pass short left to C.Turner to NE 20 for 15 yards (M.Mapu).New England challenged the pass completion ruling, and the play was REVERSED.(No Huddle, Shotgun) J.Johnson pass incomplete short left to C.Turner.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "11:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962803",
+        "text": "(Shotgun) J.Johnson pass deep left to L.Cager to NE 2 for 33 yards (M.Rice) [C.Woodson].",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "11:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962868",
+        "text": "(No Huddle, Shotgun) J.McNichols left tackle for 2 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. J.Johnson pass to T.Martin is complete. ATTEMPT SUCCEEDS.",
+        "type": "Rushing Touchdown",
+        "down": 1,
+        "distance": 2,
+        "yard_line": 2,
+        "period": 3,
+        "clock": "10:47",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017729962898",
+        "text": "Official Timeout at 10:47.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "10:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962904",
+        "text": "M.Gay kicks 62 yards from WAS 35 to NE 3. L.Larison to NE 28 for 25 yards (J.Lane).\nPENALTY on WAS, Illegal Formation, 5 yards, enforced at NE 28.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "10:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962945",
+        "text": "17O-B.Wooldrige now at QB. (Shotgun) B.Wooldridge pass incomplete short right to K.Williams.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 33,
+        "period": 3,
+        "clock": "10:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962968",
+        "text": "(Shotgun) B.Wooldridge pass incomplete short left to T.Jennings (A.Jones). WAS-V.Fehoko was injured during the play.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 33,
+        "period": 3,
+        "clock": "10:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962982",
+        "text": "Official Timeout at 10:29.",
+        "type": "Official Timeout",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 33,
+        "period": 3,
+        "clock": "10:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729962995",
+        "text": " (Shotgun) B.Wooldridge pass short left to L.Larison to NE 40 for 7 yards (D.Hampton).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 33,
+        "period": 3,
+        "clock": "10:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963030",
+        "text": "B.Baringer punts 38 yards to WAS 22, Center-J.Ashby. J.Lane to WAS 26 for 4 yards (J.Ashby; T.Jones).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 40,
+        "period": 3,
+        "clock": "9:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963056",
+        "text": " (Shotgun) D.Felton left tackle to WAS 26 for no gain (A.Jennings).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 3,
+        "clock": "9:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963078",
+        "text": "(No Huddle, Shotgun) J.Johnson pass short right to Ja.Jones to WAS 30 for 4 yards (D.Pettus).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 3,
+        "clock": "9:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963103",
+        "text": "(No Huddle, Shotgun) J.Johnson pass short middle intended for Ja.Jones INTERCEPTED by Jo.Polk at WAS 39. Jo.Polk ran ob at WAS 21 for 18 yards (B.Hart).",
+        "type": "Pass Interception Return",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 70,
+        "period": 3,
+        "clock": "8:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963135",
+        "text": "B.Wooldridge pass incomplete short middle (C.Davis).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 3,
+        "clock": "8:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963158",
+        "text": "T.Jennings left tackle to WAS 17 for 4 yards (J.Holmes, A.Jones).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 3,
+        "clock": "8:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963180",
+        "text": "(Shotgun) PENALTY on WAS-T.Maguranyanga, Neutral Zone Infraction, 4 yards, enforced at WAS 17 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 83,
+        "period": 3,
+        "clock": "8:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963204",
+        "text": "(Shotgun) B.Wooldridge pass short right to E.Chism to WAS 12 for 1 yard (N.Igbinoghene).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 87,
+        "period": 3,
+        "clock": "7:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963229",
+        "text": "(Shotgun) B.Wooldridge pass short right to E.Chism for 12 yards, TOUCHDOWN. J.Romo extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "type": "Passing Touchdown",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 88,
+        "period": 3,
+        "clock": "6:35",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017729963270",
+        "text": "J.Romo kicks 64 yards from NE 35 to WAS 1. K.Allen to WAS 27 for 26 yards (L.Larison; C.Riley).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "6:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963293",
+        "text": " (Shotgun) PENALTY on WAS, Offensive Too Many Men on Field, 5 yards, enforced at WAS 27 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 73,
+        "period": 3,
+        "clock": "6:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963317",
+        "text": "(Shotgun) J.Johnson pass short right to J.Brooks pushed ob at WAS 34 for 12 yards (M.Epps).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 78,
+        "period": 3,
+        "clock": "6:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963347",
+        "text": " (No Huddle, Shotgun) D.Felton left end to WAS 43 for 9 yards (B.Crossley).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 66,
+        "period": 3,
+        "clock": "5:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963369",
+        "text": "(No Huddle, Shotgun) J.Johnson pass short left to L.Cager to WAS 45 for 2 yards (M.Epps).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 57,
+        "period": 3,
+        "clock": "5:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963394",
+        "text": " (No Huddle, Shotgun) J.Johnson pass incomplete deep left to L.Cager.\nPENALTY on WAS-L.Cager, Offensive Pass Interference, 10 yards, enforced at WAS 45 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 55,
+        "period": 3,
+        "clock": "4:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963428",
+        "text": " (No Huddle, Shotgun) J.Johnson pass short middle to C.Yankoff to WAS 44 for 9 yards (M.Mapu, M.Rice).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 18,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "4:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963453",
+        "text": "(No Huddle, Shotgun) J.Johnson pass incomplete deep middle to C.Yankoff.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 9,
+        "yard_line": 56,
+        "period": 3,
+        "clock": "3:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963476",
+        "text": " T.Way punts 56 yards to end zone, Center-T.Ott, Touchback.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 9,
+        "yard_line": 56,
+        "period": 3,
+        "clock": "3:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963494",
+        "text": "B.Wooldridge pass deep left to J.Jiles to NE 46 for 26 yards (C.Vigers, D.Hampton).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 3,
+        "clock": "3:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963519",
+        "text": "T.Jennings up the middle to 50 for 4 yards (B.Nikkel).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 46,
+        "period": 3,
+        "clock": "2:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963541",
+        "text": "B.Wooldridge pass short right to E.Chism to WAS 47 for 3 yards (C.Vigers).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 50,
+        "period": 3,
+        "clock": "2:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963566",
+        "text": "(Shotgun) B.Wooldridge pass short right to J.Webb to WAS 14 for 33 yards (C.Vigers).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 53,
+        "period": 3,
+        "clock": "1:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963591",
+        "text": "L.Larison left guard to WAS 6 for 8 yards (D.Hampton). WAS-T.Owens was injured during the play. PENALTY on NE-A.Lindstrom, Offensive Holding, 10 yards, enforced at WAS 14 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 86,
+        "period": 3,
+        "clock": "0:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963624",
+        "text": "(Shotgun) B.Wooldridge pass short left to E.Chism to WAS 4 for 20 yards (K.Medrano).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 20,
+        "yard_line": 76,
+        "period": 3,
+        "clock": "0:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963652",
+        "text": "END QUARTER 3",
+        "type": "End Period",
+        "down": 1,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 3,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963672",
+        "text": "T.Jennings up the middle to WAS 1 for 3 yards (J.Holmes; R.McDaniel).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 4,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963694",
+        "text": "T.Jennings right guard to WAS 1 for no gain (R.McDaniel).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 4,
+        "clock": "14:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963721",
+        "text": "T.Jennings left end for 1 yard, TOUCHDOWN. A.Borregales extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "type": "Rushing Touchdown",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 4,
+        "clock": "13:37",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017729963752",
+        "text": "Official Timeout at 13:37.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "13:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963759",
+        "text": "A.Borregales kicks 63 yards from NE 35 to WAS 2. D.Felton MUFFS catch, and recovers at WAS 2. D.Felton to WAS 17 for 15 yards (T.Jones).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "13:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963797",
+        "text": "(Shotgun) D.Felton right guard to WAS 20 for 3 yards (B.Swinson; C.Riley).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 83,
+        "period": 4,
+        "clock": "13:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963819",
+        "text": "(No Huddle, Shotgun) J.Johnson pass short right to B.Sanders pushed ob at WAS 34 for 14 yards (T.Avery).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "12:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963844",
+        "text": "(No Huddle, Shotgun) D.Felton left guard to WAS 34 for no gain (D.Olajiga; A.Jennings).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 66,
+        "period": 4,
+        "clock": "12:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963866",
+        "text": "(No Huddle, Shotgun) J.Johnson pass short right to B.Sanders ran ob at WAS 39 for 5 yards.",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 66,
+        "period": 4,
+        "clock": "11:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963891",
+        "text": "(No Huddle, Shotgun) J.Johnson pass short right to J.Brooks pushed ob at NE 47 for 14 yards (B.Crossley; D.Pettus).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 61,
+        "period": 4,
+        "clock": "11:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963921",
+        "text": "(No Huddle, Shotgun) J.Johnson pass short middle to J.Brooks to NE 31 for 16 yards (Jo.Polk).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 4,
+        "clock": "10:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963946",
+        "text": "(No Huddle, Shotgun) D.Felton left end to NE 3 for 28 yards (J.Minkins).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 31,
+        "period": 4,
+        "clock": "10:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963968",
+        "text": "(No Huddle, Shotgun) D.Felton right guard to NE 1 for 2 yards (J.Ritzie, J.Minkins).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 3,
+        "yard_line": 3,
+        "period": 4,
+        "clock": "9:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729963990",
+        "text": "(No Huddle, Shotgun) J.Johnson left tackle to NE 3 for -2 yards (C.Riley, B.Crossley).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 1,
+        "period": 4,
+        "clock": "8:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964012",
+        "text": "(No Huddle, Shotgun) J.Johnson pass short right to Ja.Jones for 3 yards, TOUCHDOWN. M.Gay extra point is GOOD, Center-T.Ott, Holder-T.Way.",
+        "type": "Passing Touchdown",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 3,
+        "period": 4,
+        "clock": "8:17",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017729964041",
+        "text": "Official Timeout at 08:17.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "8:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964048",
+        "text": "M.Gay kicks 65 yards from WAS 35 to end zone, Touchback to the NE 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "8:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964072",
+        "text": "L.Larison left tackle to NE 35 for no gain (N.Pollard; T.Maguranyanga).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "8:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964094",
+        "text": "(Shotgun) B.Wooldridge pass short left to J.Webb to NE 43 for 8 yards (C.Vigers).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "7:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964119",
+        "text": "(Shotgun) B.Wooldridge pass short middle to J.Jiles to WAS 35 for 22 yards (C.Vigers).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 43,
+        "period": 4,
+        "clock": "6:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964144",
+        "text": "L.Larison left tackle to WAS 29 for 6 yards (C.Vigers).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "6:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964166",
+        "text": "L.Larison right end to WAS 13 for 16 yards (B.Nikkel; R.McDaniel).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 71,
+        "period": 4,
+        "clock": "5:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964188",
+        "text": "L.Larison left tackle to WAS 3 for 10 yards (N.Pollard; A.George). NE-A.Lindstrom was injured during the play.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 87,
+        "period": 4,
+        "clock": "4:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964201",
+        "text": "Timeout #2 by NE at 04:44.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 3,
+        "yard_line": 97,
+        "period": 4,
+        "clock": "4:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964213",
+        "text": "L.Larison left end to WAS 1 for 2 yards (T.Maguranyanga; K.Arnold). ** Injury Update: NE-A.Lindstrom has returned to the game.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 3,
+        "yard_line": 97,
+        "period": 4,
+        "clock": "4:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964241",
+        "text": "L.Larison up the middle to WAS 2 for -1 yards (N.Pollard).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 4,
+        "clock": "4:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964267",
+        "text": "L.Larison left end for 2 yards, TOUCHDOWN. J.Romo extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "type": "Rushing Touchdown",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 98,
+        "period": 4,
+        "clock": "3:25",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017729964300",
+        "text": "J.Romo kicks 55 yards from NE 35 to WAS 10. N.Igbinoghene to WAS 35 for 25 yards (J.Romo; J.Hasty).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "3:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964323",
+        "text": "(Shotgun) C.Rodriguez right guard to WAS 42 for 7 yards (Jo.Polk; C.Riley).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "3:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964345",
+        "text": "(Shotgun) C.Rodriguez up the middle to 50 for 8 yards (J.Minkins; M.Epps).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 58,
+        "period": 4,
+        "clock": "2:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964356",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 50,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964367",
+        "text": "(Shotgun) C.Rodriguez left tackle to NE 49 for 1 yard (D.Olajiga).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 50,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964396",
+        "text": "(Shotgun) J.Johnson up the middle to WAS 42 for -9 yards (J.Ritzie).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 49,
+        "period": 4,
+        "clock": "1:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964425",
+        "text": " (Shotgun) PENALTY on WAS, Delay of Game, 5 yards, enforced at WAS 42 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 18,
+        "yard_line": 58,
+        "period": 4,
+        "clock": "0:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729964449",
+        "text": "END GAME",
+        "type": "End of Game",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 63,
+        "period": 4,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      }
+    ],
+    "scoring_plays": [],
+    "touchdowns": [
+      {
+        "play_id": "40177299640",
+        "text": "M.Gay kicks 65 yards from WAS 35 to NE 0. T.Henderson for 100 yards, TOUCHDOWN. A.Borregales extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "401772996621",
+        "text": "(Shotgun) D.Maye scrambles left guard for 5 yards, TOUCHDOWN. J.Romo extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017729961967",
+        "text": "(Shotgun) J.Dobbs scrambles up the middle for 2 yards, TOUCHDOWN. A.Borregales extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017729962868",
+        "text": "(No Huddle, Shotgun) J.McNichols left tackle for 2 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. J.Johnson pass to T.Martin is complete. ATTEMPT SUCCEEDS.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017729963229",
+        "text": "(Shotgun) B.Wooldridge pass short right to E.Chism for 12 yards, TOUCHDOWN. J.Romo extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017729963721",
+        "text": "T.Jennings left end for 1 yard, TOUCHDOWN. A.Borregales extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017729964012",
+        "text": "(No Huddle, Shotgun) J.Johnson pass short right to Ja.Jones for 3 yards, TOUCHDOWN. M.Gay extra point is GOOD, Center-T.Ott, Holder-T.Way.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017729964267",
+        "text": "L.Larison left end for 2 yards, TOUCHDOWN. J.Romo extra point is GOOD, Center-J.Ashby, Holder-B.Baringer.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      }
+    ],
+    "interceptions": [
+      {
+        "play_id": "401772996883",
+        "text": "(No Huddle, Shotgun) S.Hartman pass short right intended for M.Gallup INTERCEPTED by D.James at WAS 42. D.James to WAS 31 for 11 yards (M.Gallup; K.Osborn).",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017729963103",
+        "text": "(No Huddle, Shotgun) J.Johnson pass short middle intended for Ja.Jones INTERCEPTED by Jo.Polk at WAS 39. Jo.Polk ran ob at WAS 21 for 18 yards (B.Hart).",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      }
+    ],
+    "fumbles": []
+  },
+  "processing_timestamp": "2025-08-20T10:49:16.244163"
+}

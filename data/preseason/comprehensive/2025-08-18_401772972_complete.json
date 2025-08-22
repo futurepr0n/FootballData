@@ -1,0 +1,3665 @@
+{
+  "game_id": "401772972",
+  "date": "2025-08-18",
+  "box_score": {
+    "game_info": {
+      "game_id": "401772972",
+      "date": "2025-08-18T00:00Z",
+      "status": {
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final"
+        },
+        "isTBDFlex": false
+      },
+      "venue": {},
+      "attendance": 0
+    },
+    "team_stats": {
+      "CHI": {
+        "score": 38,
+        "record": "0-0",
+        "home_away": "home"
+      },
+      "BUF": {
+        "score": 0,
+        "record": "0-0",
+        "home_away": "away"
+      }
+    },
+    "player_stats": {
+      "Mitchell Trubisky_BUF": {
+        "name": "Mitchell Trubisky",
+        "position": "",
+        "jersey": "11",
+        "team": "BUF",
+        "stats": {
+          "0": "7/13",
+          "1": 55,
+          "2": 4.2,
+          "3": 0,
+          "4": 0,
+          "5": "0-0",
+          "6": 64.6
+        }
+      },
+      "Mike White_BUF": {
+        "name": "Mike White",
+        "position": "",
+        "jersey": "14",
+        "team": "BUF",
+        "stats": {
+          "0": "4/11",
+          "1": 54,
+          "2": 4.9,
+          "3": 0,
+          "4": 0,
+          "5": "2-17",
+          "6": 52.8
+        }
+      },
+      "Shane Buechele_BUF": {
+        "name": "Shane Buechele",
+        "position": "",
+        "jersey": "6",
+        "team": "BUF",
+        "stats": {
+          "0": "1/4",
+          "1": 11,
+          "2": 2.8,
+          "3": 0,
+          "4": 0,
+          "5": "0-0",
+          "6": 39.6
+        }
+      },
+      "Frank Gore Jr._BUF": {
+        "name": "Frank Gore Jr.",
+        "position": "",
+        "jersey": "20",
+        "team": "BUF",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0
+        }
+      },
+      "KJ Hamler_BUF": {
+        "name": "KJ Hamler",
+        "position": "",
+        "jersey": "19",
+        "team": "BUF",
+        "stats": {
+          "0": 1,
+          "1": 28,
+          "2": 28.0,
+          "3": 28,
+          "4": 0
+        }
+      },
+      "Deon Cain_BUF": {
+        "name": "Deon Cain",
+        "position": "",
+        "jersey": "32",
+        "team": "BUF",
+        "stats": {
+          "0": 1,
+          "1": 11,
+          "2": 11.0,
+          "3": 0,
+          "4": 11,
+          "5": 2
+        }
+      },
+      "Ray Davis_BUF": {
+        "name": "Ray Davis",
+        "position": "",
+        "jersey": "22",
+        "team": "BUF",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Tyrell Shavers_BUF": {
+        "name": "Tyrell Shavers",
+        "position": "",
+        "jersey": "80",
+        "team": "BUF",
+        "stats": {
+          "0": 2,
+          "1": 29,
+          "2": 14.5,
+          "3": 0,
+          "4": 22,
+          "5": 3
+        }
+      },
+      "Kristian Wilkerson_BUF": {
+        "name": "Kristian Wilkerson",
+        "position": "",
+        "jersey": "82",
+        "team": "BUF",
+        "stats": {
+          "0": 1,
+          "1": 25,
+          "2": 25.0,
+          "3": 0,
+          "4": 25,
+          "5": 2
+        }
+      },
+      "Stephen Gosnell_BUF": {
+        "name": "Stephen Gosnell",
+        "position": "",
+        "jersey": "89",
+        "team": "BUF",
+        "stats": {
+          "0": 1,
+          "1": 11,
+          "2": 11.0,
+          "3": 0,
+          "4": 11,
+          "5": 1
+        }
+      },
+      "Elijah Moore_BUF": {
+        "name": "Elijah Moore",
+        "position": "",
+        "jersey": "18",
+        "team": "BUF",
+        "stats": {
+          "0": 1,
+          "1": 25,
+          "2": 25.0,
+          "3": 25,
+          "4": 0
+        }
+      },
+      "Joshua Palmer_BUF": {
+        "name": "Joshua Palmer",
+        "position": "",
+        "jersey": "5",
+        "team": "BUF",
+        "stats": {
+          "0": 1,
+          "1": 2,
+          "2": 2.0,
+          "3": 0,
+          "4": 2,
+          "5": 1
+        }
+      },
+      "Laviska Shenault Jr._BUF": {
+        "name": "Laviska Shenault Jr.",
+        "position": "",
+        "jersey": "15",
+        "team": "BUF",
+        "stats": {
+          "0": 3,
+          "1": 84,
+          "2": 28.0,
+          "3": 30,
+          "4": 0
+        }
+      },
+      "Kaden Prather_BUF": {
+        "name": "Kaden Prather",
+        "position": "",
+        "jersey": "81",
+        "team": "BUF",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Jackson Hawes_BUF": {
+        "name": "Jackson Hawes",
+        "position": "",
+        "jersey": "85",
+        "team": "BUF",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Keleki Latu_BUF": {
+        "name": "Keleki Latu",
+        "position": "",
+        "jersey": "83",
+        "team": "BUF",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Jordan Hancock_BUF": {
+        "name": "Jordan Hancock",
+        "position": "",
+        "jersey": "37",
+        "team": "BUF",
+        "stats": {
+          "0": 8,
+          "1": 5,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Dorian Strong_BUF": {
+        "name": "Dorian Strong",
+        "position": "",
+        "jersey": "43",
+        "team": "BUF",
+        "stats": {
+          "0": 8,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Dorian Williams_BUF": {
+        "name": "Dorian Williams",
+        "position": "",
+        "jersey": "42",
+        "team": "BUF",
+        "stats": {
+          "0": 7,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jimmy Ciarlo_BUF": {
+        "name": "Jimmy Ciarlo",
+        "position": "",
+        "jersey": "35",
+        "team": "BUF",
+        "stats": {
+          "0": 5,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Paris Shand_BUF": {
+        "name": "Paris Shand",
+        "position": "",
+        "jersey": "59",
+        "team": "BUF",
+        "stats": {
+          "0": 5,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Edefuan Ulofoshio_BUF": {
+        "name": "Edefuan Ulofoshio",
+        "position": "",
+        "jersey": "48",
+        "team": "BUF",
+        "stats": {
+          "0": 5,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joe Andreessen_BUF": {
+        "name": "Joe Andreessen",
+        "position": "",
+        "jersey": "44",
+        "team": "BUF",
+        "stats": {
+          "0": 5,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Brandon Codrington_BUF": {
+        "name": "Brandon Codrington",
+        "position": "",
+        "jersey": "29",
+        "team": "BUF",
+        "stats": {
+          "0": 1,
+          "1": 13,
+          "2": 13.0,
+          "3": 13,
+          "4": 0
+        }
+      },
+      "Michael Hoecht_BUF": {
+        "name": "Michael Hoecht",
+        "position": "",
+        "jersey": "55",
+        "team": "BUF",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Daequan Hardy_BUF": {
+        "name": "Daequan Hardy",
+        "position": "",
+        "jersey": "25",
+        "team": "BUF",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Wande Owens_BUF": {
+        "name": "Wande Owens",
+        "position": "",
+        "jersey": "30",
+        "team": "BUF",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tre Herndon_BUF": {
+        "name": "Tre Herndon",
+        "position": "",
+        "jersey": "38",
+        "team": "BUF",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Javon Solomon_BUF": {
+        "name": "Javon Solomon",
+        "position": "",
+        "jersey": "56",
+        "team": "BUF",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 2,
+          "6": 0
+        }
+      },
+      "Darrick Forrest_BUF": {
+        "name": "Darrick Forrest",
+        "position": "",
+        "jersey": "28",
+        "team": "BUF",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "T.J. Sanders_BUF": {
+        "name": "T.J. Sanders",
+        "position": "",
+        "jersey": "98",
+        "team": "BUF",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Dane Jackson_BUF": {
+        "name": "Dane Jackson",
+        "position": "",
+        "jersey": "23",
+        "team": "BUF",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Damar Hamlin_BUF": {
+        "name": "Damar Hamlin",
+        "position": "",
+        "jersey": "3",
+        "team": "BUF",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Keonta Jenkins_BUF": {
+        "name": "Keonta Jenkins",
+        "position": "",
+        "jersey": "49",
+        "team": "BUF",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Deone Walker_BUF": {
+        "name": "Deone Walker",
+        "position": "",
+        "jersey": "96",
+        "team": "BUF",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nelson Ceaser_BUF": {
+        "name": "Nelson Ceaser",
+        "position": "",
+        "jersey": "51",
+        "team": "BUF",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ja'Marcus Ingram_BUF": {
+        "name": "Ja'Marcus Ingram",
+        "position": "",
+        "jersey": "46",
+        "team": "BUF",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Zion Logue_BUF": {
+        "name": "Zion Logue",
+        "position": "",
+        "jersey": "93",
+        "team": "BUF",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cole Bishop_BUF": {
+        "name": "Cole Bishop",
+        "position": "",
+        "jersey": "24",
+        "team": "BUF",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "AJ Epenesa_BUF": {
+        "name": "AJ Epenesa",
+        "position": "",
+        "jersey": "57",
+        "team": "BUF",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Landon Jackson_BUF": {
+        "name": "Landon Jackson",
+        "position": "",
+        "jersey": "94",
+        "team": "BUF",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Caden Davis_BUF": {
+        "name": "Caden Davis",
+        "position": "",
+        "jersey": "36",
+        "team": "BUF",
+        "stats": {
+          "0": "0/1",
+          "1": 0.0,
+          "2": 0,
+          "3": "0/0",
+          "4": 0
+        }
+      },
+      "Brad Robbins_BUF": {
+        "name": "Brad Robbins",
+        "position": "",
+        "jersey": "40",
+        "team": "BUF",
+        "stats": {
+          "0": 6,
+          "1": 293,
+          "2": 48.8,
+          "3": 1,
+          "4": 2,
+          "5": 62
+        }
+      },
+      "Tyson Bagent_CHI": {
+        "name": "Tyson Bagent",
+        "position": "",
+        "jersey": "17",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 9,
+          "2": 9.0,
+          "3": 0,
+          "4": 9
+        }
+      },
+      "Caleb Williams_CHI": {
+        "name": "Caleb Williams",
+        "position": "",
+        "jersey": "18",
+        "team": "CHI",
+        "stats": {
+          "0": "6/10",
+          "1": 107,
+          "2": 10.7,
+          "3": 1,
+          "4": 0,
+          "5": "0-0",
+          "6": 130.0
+        }
+      },
+      "Austin Reed_CHI": {
+        "name": "Austin Reed",
+        "position": "",
+        "jersey": "16",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 1
+        }
+      },
+      "Ian Wheeler_CHI": {
+        "name": "Ian Wheeler",
+        "position": "",
+        "jersey": "33O",
+        "team": "CHI",
+        "stats": {
+          "0": 19,
+          "1": 80,
+          "2": 4.2,
+          "3": 2,
+          "4": 12
+        }
+      },
+      "Brittain Brown_CHI": {
+        "name": "Brittain Brown",
+        "position": "",
+        "jersey": "38O",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 1
+        }
+      },
+      "Deion Hankins_CHI": {
+        "name": "Deion Hankins",
+        "position": "",
+        "jersey": "35O",
+        "team": "CHI",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Tyler Scott_CHI": {
+        "name": "Tyler Scott",
+        "position": "",
+        "jersey": "10",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 10,
+          "2": 10.0,
+          "3": 10,
+          "4": 0
+        }
+      },
+      "Luther Burden III_CHI": {
+        "name": "Luther Burden III",
+        "position": "",
+        "jersey": "87",
+        "team": "CHI",
+        "stats": {
+          "0": 3,
+          "1": 49,
+          "2": 16.3,
+          "3": 0,
+          "4": 22,
+          "5": 3
+        }
+      },
+      "Samori Toure_CHI": {
+        "name": "Samori Toure",
+        "position": "",
+        "jersey": "83",
+        "team": "CHI",
+        "stats": {
+          "0": 3,
+          "1": 48,
+          "2": 16.0,
+          "3": 0,
+          "4": 23,
+          "5": 3
+        }
+      },
+      "Joel Wilson_CHI": {
+        "name": "Joel Wilson",
+        "position": "",
+        "jersey": "86",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Olamide Zaccheaus_CHI": {
+        "name": "Olamide Zaccheaus",
+        "position": "",
+        "jersey": "14",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 36,
+          "2": 36.0,
+          "3": 1,
+          "4": 36,
+          "5": 2
+        }
+      },
+      "Cole Kmet_CHI": {
+        "name": "Cole Kmet",
+        "position": "",
+        "jersey": "85",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 29,
+          "2": 29.0,
+          "3": 0,
+          "4": 29,
+          "5": 1
+        }
+      },
+      "Colston Loveland_CHI": {
+        "name": "Colston Loveland",
+        "position": "",
+        "jersey": "84",
+        "team": "CHI",
+        "stats": {
+          "0": 2,
+          "1": 26,
+          "2": 13.0,
+          "3": 0,
+          "4": 18,
+          "5": 2
+        }
+      },
+      "JP Richardson_CHI": {
+        "name": "JP Richardson",
+        "position": "",
+        "jersey": "26O",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 22,
+          "2": 22.0,
+          "3": 22,
+          "4": 0
+        }
+      },
+      "Jahdae Walker_CHI": {
+        "name": "Jahdae Walker",
+        "position": "",
+        "jersey": "20O",
+        "team": "CHI",
+        "stats": {
+          "0": 2,
+          "1": 20,
+          "2": 10.0,
+          "3": 0,
+          "4": 11,
+          "5": 2
+        }
+      },
+      "Maurice Alexander_CHI": {
+        "name": "Maurice Alexander",
+        "position": "",
+        "jersey": "13",
+        "team": "CHI",
+        "stats": {
+          "0": 2,
+          "1": 6,
+          "2": 3.0,
+          "3": 4,
+          "4": 0
+        }
+      },
+      "DJ Moore_CHI": {
+        "name": "DJ Moore",
+        "position": "",
+        "jersey": "2",
+        "team": "CHI",
+        "stats": {
+          "0": 2,
+          "1": 16,
+          "2": 8.0,
+          "3": 0,
+          "4": 10,
+          "5": 2
+        }
+      },
+      "Miles Boykin_CHI": {
+        "name": "Miles Boykin",
+        "position": "",
+        "jersey": "80",
+        "team": "CHI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Durham Smythe_CHI": {
+        "name": "Durham Smythe",
+        "position": "",
+        "jersey": "81",
+        "team": "CHI",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Rome Odunze_CHI": {
+        "name": "Rome Odunze",
+        "position": "",
+        "jersey": "15",
+        "team": "CHI",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Xavier Carlton_CHI": {
+        "name": "Xavier Carlton",
+        "position": "",
+        "jersey": "93",
+        "team": "CHI",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 1
+        }
+      },
+      "Amen Ogbongbemiga_CHI": {
+        "name": "Amen Ogbongbemiga",
+        "position": "",
+        "jersey": "45",
+        "team": "CHI",
+        "stats": {
+          "0": 6,
+          "1": 5,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ruben Hyppolite II_CHI": {
+        "name": "Ruben Hyppolite II",
+        "position": "",
+        "jersey": "47",
+        "team": "CHI",
+        "stats": {
+          "0": 5,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jonathan Owens_CHI": {
+        "name": "Jonathan Owens",
+        "position": "",
+        "jersey": "36",
+        "team": "CHI",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Jeremiah Walker_CHI": {
+        "name": "Jeremiah Walker",
+        "position": "",
+        "jersey": "23D",
+        "team": "CHI",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Austin Booker_CHI": {
+        "name": "Austin Booker",
+        "position": "",
+        "jersey": "94",
+        "team": "CHI",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 1,
+          "3": 1,
+          "4": 1,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Kaleb Hayes_CHI": {
+        "name": "Kaleb Hayes",
+        "position": "",
+        "jersey": "38D",
+        "team": "CHI",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Terell Smith_CHI": {
+        "name": "Terell Smith",
+        "position": "",
+        "jersey": "32",
+        "team": "CHI",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Andrew Billings_CHI": {
+        "name": "Andrew Billings",
+        "position": "",
+        "jersey": "97",
+        "team": "CHI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Mekhi Garner_CHI": {
+        "name": "Mekhi Garner",
+        "position": "",
+        "jersey": "26D",
+        "team": "CHI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Swayze Bozeman_CHI": {
+        "name": "Swayze Bozeman",
+        "position": "",
+        "jersey": "27",
+        "team": "CHI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Power Echols_CHI": {
+        "name": "Power Echols",
+        "position": "",
+        "jersey": "57",
+        "team": "CHI",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Chris Williams_CHI": {
+        "name": "Chris Williams",
+        "position": "",
+        "jersey": "91",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nick McCloud_CHI": {
+        "name": "Nick McCloud",
+        "position": "",
+        "jersey": "24",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Daniel Hardy_CHI": {
+        "name": "Daniel Hardy",
+        "position": "",
+        "jersey": "92",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Gervon Dexter Sr._CHI": {
+        "name": "Gervon Dexter Sr.",
+        "position": "",
+        "jersey": "99",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Noah Sewell_CHI": {
+        "name": "Noah Sewell",
+        "position": "",
+        "jersey": "44",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tanoh Kpassagnon_CHI": {
+        "name": "Tanoh Kpassagnon",
+        "position": "",
+        "jersey": "69",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tremaine Edmunds_CHI": {
+        "name": "Tremaine Edmunds",
+        "position": "",
+        "jersey": "49",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Alex Cook_CHI": {
+        "name": "Alex Cook",
+        "position": "",
+        "jersey": "30",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jamree Kromah_CHI": {
+        "name": "Jamree Kromah",
+        "position": "",
+        "jersey": "59",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Carl Jones_CHI": {
+        "name": "Carl Jones",
+        "position": "",
+        "jersey": "43D",
+        "team": "CHI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tre Flowers_CHI": {
+        "name": "Tre Flowers",
+        "position": "",
+        "jersey": "37",
+        "team": "CHI",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cairo Santos_CHI": {
+        "name": "Cairo Santos",
+        "position": "",
+        "jersey": "8",
+        "team": "CHI",
+        "stats": {
+          "0": "1/1",
+          "1": 100.0,
+          "2": 40,
+          "3": "5/5",
+          "4": 8
+        }
+      },
+      "Tory Taylor_CHI": {
+        "name": "Tory Taylor",
+        "position": "",
+        "jersey": "19",
+        "team": "CHI",
+        "stats": {
+          "0": 2,
+          "1": 115,
+          "2": 57.5,
+          "3": 1,
+          "4": 0,
+          "5": 59
+        }
+      }
+    },
+    "scoring_summary": []
+  },
+  "play_by_play": {
+    "game_info": {
+      "game_id": "401772972",
+      "teams": [
+        {
+          "abbreviation": "CHI",
+          "name": "Chicago Bears",
+          "score": 38,
+          "home_away": "home"
+        },
+        {
+          "abbreviation": "BUF",
+          "name": "Buffalo Bills",
+          "score": 0,
+          "home_away": "away"
+        }
+      ],
+      "final_score": {}
+    },
+    "drives": [
+      {
+        "id": "4017729721",
+        "team": "CHI",
+        "plays_count": 10,
+        "result": "TD",
+        "yards": 92
+      },
+      {
+        "id": "4017729722",
+        "team": "BUF",
+        "plays_count": 8,
+        "result": "PUNT",
+        "yards": -9
+      },
+      {
+        "id": "4017729723",
+        "team": "CHI",
+        "plays_count": 9,
+        "result": "PUNT",
+        "yards": 20
+      },
+      {
+        "id": "4017729724",
+        "team": "BUF",
+        "plays_count": 7,
+        "result": "PUNT",
+        "yards": 32
+      },
+      {
+        "id": "4017729725",
+        "team": "CHI",
+        "plays_count": 15,
+        "result": "TD",
+        "yards": 86
+      },
+      {
+        "id": "4017729726",
+        "team": "BUF",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": -5
+      },
+      {
+        "id": "4017729727",
+        "team": "CHI",
+        "plays_count": 7,
+        "result": "TD",
+        "yards": 61
+      },
+      {
+        "id": "4017729728",
+        "team": "BUF",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": -6
+      },
+      {
+        "id": "4017729729",
+        "team": "CHI",
+        "plays_count": 14,
+        "result": "TD",
+        "yards": 84
+      },
+      {
+        "id": "40177297210",
+        "team": "BUF",
+        "plays_count": 9,
+        "result": "PUNT",
+        "yards": 25
+      },
+      {
+        "id": "40177297211",
+        "team": "CHI",
+        "plays_count": 11,
+        "result": "DOWNS",
+        "yards": 18
+      },
+      {
+        "id": "40177297212",
+        "team": "BUF",
+        "plays_count": 2,
+        "result": "MISSED FG",
+        "yards": 0
+      },
+      {
+        "id": "40177297213",
+        "team": "BUF",
+        "plays_count": 13,
+        "result": "DOWNS",
+        "yards": 26
+      },
+      {
+        "id": "40177297214",
+        "team": "CHI",
+        "plays_count": 9,
+        "result": "FG",
+        "yards": 25
+      },
+      {
+        "id": "40177297215",
+        "team": "BUF",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 5
+      },
+      {
+        "id": "40177297216",
+        "team": "CHI",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 4
+      },
+      {
+        "id": "40177297217",
+        "team": "BUF",
+        "plays_count": 9,
+        "result": "FUMBLE",
+        "yards": 62
+      },
+      {
+        "id": "40177297218",
+        "team": "CHI",
+        "plays_count": 16,
+        "result": "TD",
+        "yards": 86
+      },
+      {
+        "id": "40177297219",
+        "team": "BUF",
+        "plays_count": 7,
+        "result": "DOWNS",
+        "yards": 27
+      },
+      {
+        "id": "40177297220",
+        "team": "CHI",
+        "plays_count": 13,
+        "result": "END OF GAME",
+        "yards": 52
+      }
+    ],
+    "plays": [
+      {
+        "id": "40177297239",
+        "text": "C.Davis kicks 67 yards from BUF 35 to CHI -2. T.Scott to CHI 8 for 10 yards (D.Williams).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177297262",
+        "text": "C.Williams pass short right to C.Loveland to CHI 16 for 8 yards (B.Codrington).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 8,
+        "period": 1,
+        "clock": "14:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177297287",
+        "text": "(Shotgun) C.Williams pass deep middle to C.Kmet to CHI 45 for 29 yards (D.Hamlin).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 16,
+        "period": 1,
+        "clock": "14:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972112",
+        "text": "(Shotgun) C.Williams pass short left to D.Moore to BUF 49 for 6 yards (D.Strong; D.Williams).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 1,
+        "clock": "13:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972137",
+        "text": "D.Hankins left guard to BUF 44 for 5 yards (L.Jackson; D.Hamlin).PENALTY on CHI-D.Dalman, Offensive Holding, 10 yards, enforced at BUF 49 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 51,
+        "period": 1,
+        "clock": "12:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972170",
+        "text": "(Shotgun) C.Williams pass short right to C.Loveland to BUF 41 for 18 yards (C.Bishop).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 14,
+        "yard_line": 41,
+        "period": 1,
+        "clock": "12:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972209",
+        "text": "D.Hankins left tackle to BUF 36 for 5 yards (B.Codrington).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 59,
+        "period": 1,
+        "clock": "11:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972231",
+        "text": "C.Williams pass incomplete short right to O.Zaccheaus.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 64,
+        "period": 1,
+        "clock": "11:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972254",
+        "text": "(Shotgun) C.Williams pass short middle to O.Zaccheaus for 36 yards, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor.",
+        "type": "Passing Touchdown",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 64,
+        "period": 1,
+        "clock": "11:01",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401772972293",
+        "text": "Official Timeout at 11:01.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "11:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972300",
+        "text": "C.Santos kicks 62 yards from CHI 35 to BUF 3. L.Shenault to BUF 33 for 30 yards (M.Boykin).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "11:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972330",
+        "text": "(Shotgun) R.Davis left tackle to BUF 32 for -1 yards (G.Dexter, T.Edmunds).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 67,
+        "period": 1,
+        "clock": "10:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972352",
+        "text": "M.White pass short right to J.Palmer pushed ob at BUF 34 for 2 yards (N.McCloud).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 68,
+        "period": 1,
+        "clock": "10:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972382",
+        "text": "(Shotgun) PENALTY on BUF-R.Van Demark, False Start, 5 yards, enforced at BUF 34 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 9,
+        "yard_line": 66,
+        "period": 1,
+        "clock": "9:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972406",
+        "text": "(Shotgun) PENALTY on BUF-R.Van Demark, False Start, 5 yards, enforced at BUF 29 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 14,
+        "yard_line": 71,
+        "period": 1,
+        "clock": "9:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972430",
+        "text": "(Shotgun) M.White pass incomplete short left to E.Moore.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 19,
+        "yard_line": 76,
+        "period": 1,
+        "clock": "9:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972453",
+        "text": "B.Robbins punts 52 yards to CHI 24, Center-R.Ferguson, fair catch by O.Zaccheaus.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 19,
+        "yard_line": 76,
+        "period": 1,
+        "clock": "9:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972468",
+        "text": "Official Timeout at 08:59.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 24,
+        "period": 1,
+        "clock": "8:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972482",
+        "text": "D.Hankins right guard to CHI 26 for 2 yards (T.Sanders).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 24,
+        "period": 1,
+        "clock": "8:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972511",
+        "text": "(Shotgun) D.Hankins right tackle to CHI 29 for 3 yards (J.Andreessen; D.Williams).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 26,
+        "period": 1,
+        "clock": "8:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972533",
+        "text": "(Shotgun) C.Williams pass short left to D.Moore pushed ob at CHI 39 for 10 yards (B.Codrington).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 29,
+        "period": 1,
+        "clock": "7:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972563",
+        "text": "C.Williams pass incomplete short left to D.Hankins.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 39,
+        "period": 1,
+        "clock": "7:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972586",
+        "text": "C.Williams pass incomplete short left.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 39,
+        "period": 1,
+        "clock": "7:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972609",
+        "text": "(Shotgun) PENALTY on BUF-J.Solomon, Neutral Zone Infraction, 5 yards, enforced at CHI 39 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 39,
+        "period": 1,
+        "clock": "6:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972633",
+        "text": "(Shotgun) C.Williams pass incomplete short left to R.Odunze.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 44,
+        "period": 1,
+        "clock": "6:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972656",
+        "text": "T.Taylor punts 56 yards to end zone, Center-S.Daly, Touchback.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 44,
+        "period": 1,
+        "clock": "6:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972665",
+        "text": "Official Timeout at 06:46.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 1,
+        "clock": "6:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972674",
+        "text": "(Shotgun) R.Davis up the middle to BUF 25 for 5 yards (A.Booker).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 1,
+        "clock": "6:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972703",
+        "text": "(Shotgun) M.White pass deep right to T.Shavers to BUF 47 for 22 yards (T.Smith).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 75,
+        "period": 1,
+        "clock": "6:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972728",
+        "text": "(Shotgun) M.White pass incomplete short right to J.Hawes.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 53,
+        "period": 1,
+        "clock": "5:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972751",
+        "text": "(Shotgun) M.White pass short left to E.Moore to CHI 48 for 5 yards (J.Owens).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 53,
+        "period": 1,
+        "clock": "5:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972776",
+        "text": "(Shotgun) M.White pass incomplete short right to K.Latu.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 48,
+        "period": 1,
+        "clock": "4:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972799",
+        "text": " B.Robbins punts 34 yards to CHI 14, Center-R.Ferguson, fair catch by L.Burden.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 48,
+        "period": 1,
+        "clock": "4:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972809",
+        "text": "Official Timeout at 04:35.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 14,
+        "period": 1,
+        "clock": "4:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972819",
+        "text": "B.Brown left end pushed ob at CHI 20 for 6 yards (D.Strong).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 14,
+        "period": 1,
+        "clock": "4:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972853",
+        "text": "B.Brown up the middle to CHI 32 for 12 yards (D.Hamlin; D.Strong).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 20,
+        "period": 1,
+        "clock": "3:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972875",
+        "text": "B.Brown up the middle to CHI 36 for 4 yards (D.Walker; J.Solomon).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 32,
+        "period": 1,
+        "clock": "3:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972897",
+        "text": "T.Bagent pass deep left to L.Burden pushed ob at BUF 42 for 22 yards (D.Strong).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 36,
+        "period": 1,
+        "clock": "2:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972927",
+        "text": "T.Bagent pass short middle to M.Alexander to BUF 33 for 9 yards (D.Jackson).Buffalo challenged the pass completion ruling, and the play was REVERSED.T.Bagent pass incomplete short middle to M.Alexander.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 1,
+        "clock": "2:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972940",
+        "text": "Official Timeout at 02:02.",
+        "type": "Official Timeout",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 1,
+        "clock": "2:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401772972952",
+        "text": "(Shotgun) I.Wheeler right guard to BUF 43 for -1 yards (J.Hancock).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 1,
+        "clock": "2:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721021",
+        "text": "(Shotgun) T.Bagent pass short right to T.Scott to BUF 35 for 8 yards (D.Jackson).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 11,
+        "yard_line": 57,
+        "period": 1,
+        "clock": "1:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721046",
+        "text": "(Shotgun) T.Bagent pass short left to M.Alexander ran ob at BUF 17 for 18 yards (J.Hancock).Penalty on BUF-D.Hamlin, Defensive Holding, declined.",
+        "type": "Pass Reception",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "0:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721075",
+        "text": "B.Brown right end to BUF 9 for 8 yards (J.Andreessen; D.Jackson). FUMBLES (J.Andreessen), and recovers at BUF 9.",
+        "type": "Fumble Recovery (Own)",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 83,
+        "period": 1,
+        "clock": "0:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721109",
+        "text": "END QUARTER 1",
+        "type": "End Period",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 91,
+        "period": 1,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721129",
+        "text": "B.Brown left guard to BUF 6 for 3 yards (D.Walker).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 91,
+        "period": 2,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721156",
+        "text": "B.Brown left tackle to BUF 1 for 5 yards (J.Hancock; A.Epenesa).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 6,
+        "yard_line": 94,
+        "period": 2,
+        "clock": "14:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721178",
+        "text": "B.Brown right tackle for 1 yard, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor.",
+        "type": "Rushing Touchdown",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 2,
+        "clock": "13:45",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017729721209",
+        "text": "Official Timeout at 13:45.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "13:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721216",
+        "text": "C.Santos kicks 62 yards from CHI 35 to BUF 3. E.Moore to BUF 28 for 25 yards (C.Jones; M.Boykin).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "13:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721246",
+        "text": "M.White pass incomplete short left to E.Moore (A.Booker).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 2,
+        "clock": "13:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721269",
+        "text": "(Shotgun) R.Davis left guard to BUF 29 for 1 yard (T.Kpassagnon; A.Billings).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 2,
+        "clock": "13:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721291",
+        "text": "(Shotgun) M.White sacked at BUF 23 for -6 yards (A.Billings).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 9,
+        "yard_line": 71,
+        "period": 2,
+        "clock": "12:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721311",
+        "text": "B.Robbins punts 42 yards to CHI 35, Center-R.Ferguson. M.Alexander to CHI 39 for 4 yards (J.Ciarlo).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 15,
+        "yard_line": 77,
+        "period": 2,
+        "clock": "12:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721337",
+        "text": "T.Bagent pass incomplete deep left to L.Burden.PENALTY on BUF-B.Codrington, Defensive Holding, 5 yards, enforced at CHI 39 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 39,
+        "period": 2,
+        "clock": "12:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721371",
+        "text": "T.Bagent pass short left to T.Scott to BUF 21 for 35 yards (J.Hancock; T.Herndon).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 44,
+        "period": 2,
+        "clock": "12:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721396",
+        "text": "B.Brown right guard to BUF 19 for 2 yards (M.Hoecht).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 2,
+        "clock": "11:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721418",
+        "text": "(Shotgun) B.Brown right guard to BUF 17 for 2 yards (M.Hoecht; D.Strong).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 81,
+        "period": 2,
+        "clock": "10:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721440",
+        "text": "(Shotgun) T.Bagent pass short left to L.Burden to BUF 12 for 5 yards (T.Herndon).Chicago challenged the short of the line to gain ruling, and the play was REVERSED.(Shotgun) T.Bagent pass short left to L.Burden to BUF 11 for 6 yards (T.Herndon).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 83,
+        "period": 2,
+        "clock": "10:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721453",
+        "text": "Official Timeout at 10:02.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 89,
+        "period": 2,
+        "clock": "10:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721465",
+        "text": "T.Bagent pass short right to T.Scott for 11 yards, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor.",
+        "type": "Passing Touchdown",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 89,
+        "period": 2,
+        "clock": "9:42",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017729721543",
+        "text": "C.Santos kicks 62 yards from CHI 35 to BUF 3. L.Shenault pushed ob at BUF 30 for 27 yards (A.Ogbongbemiga).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "9:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721574",
+        "text": "F.Gore right tackle to BUF 32 for 2 yards (T.Smith).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 70,
+        "period": 2,
+        "clock": "9:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721596",
+        "text": "F.Gore left guard to BUF 35 for 3 yards (Ch.Williams).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 68,
+        "period": 2,
+        "clock": "8:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721627",
+        "text": "(Shotgun) M.White sacked at BUF 24 for -11 yards (A.Booker).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "8:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721647",
+        "text": " B.Robbins punts 62 yards to CHI 14, Center-R.Ferguson. M.Alexander to CHI 16 for 2 yards (J.Ciarlo; K.Jenkins).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 16,
+        "yard_line": 76,
+        "period": 2,
+        "clock": "7:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721673",
+        "text": "I.Wheeler left tackle to CHI 20 for 4 yards (M.Hoecht).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 16,
+        "period": 2,
+        "clock": "7:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721695",
+        "text": "T.Bagent pass short right to L.Burden to CHI 41 for 21 yards (B.Codrington).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 20,
+        "period": 2,
+        "clock": "6:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721720",
+        "text": "T.Bagent pass incomplete short left to D.Smythe (L.Jackson).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 41,
+        "period": 2,
+        "clock": "6:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721743",
+        "text": "(Shotgun) I.Wheeler right tackle to CHI 47 for 6 yards (D.Strong, D.Williams).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 41,
+        "period": 2,
+        "clock": "6:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721765",
+        "text": "(Shotgun) T.Bagent pass short middle to S.Toure to BUF 30 for 23 yards (J.Hancock).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 47,
+        "period": 2,
+        "clock": "5:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721790",
+        "text": "I.Wheeler left tackle to BUF 27 for 3 yards (D.Williams; P.Shand).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 70,
+        "period": 2,
+        "clock": "4:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721812",
+        "text": "I.Wheeler right end pushed ob at BUF 18 for 9 yards (D.Strong).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 73,
+        "period": 2,
+        "clock": "4:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721839",
+        "text": "T.Bagent pass short left to M.Boykin to BUF 7 for 11 yards (D.Williams).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 82,
+        "period": 2,
+        "clock": "3:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721881",
+        "text": "I.Wheeler left end to BUF 5 for 2 yards (Z.Logue).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 7,
+        "yard_line": 93,
+        "period": 2,
+        "clock": "2:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721903",
+        "text": "I.Wheeler left guard to BUF 1 for 4 yards (D.Williams; J.Hancock).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 95,
+        "period": 2,
+        "clock": "2:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721914",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721925",
+        "text": "I.Wheeler right guard to BUF 1 for no gain (J.Hancock).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721940",
+        "text": "Timeout #1 by BUF at 01:54.",
+        "type": "Timeout",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 2,
+        "clock": "1:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729721954",
+        "text": "I.Wheeler right tackle for 1 yard, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor.",
+        "type": "Rushing Touchdown",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 2,
+        "clock": "1:50",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017729721999",
+        "text": "C.Santos kicks 60 yards from CHI 35 to BUF 5. L.Shenault to BUF 32 for 27 yards (A.Ogbongbemiga; J.Wilson).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "1:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722022",
+        "text": "(Shotgun) M.White pass short right to K.Wilkerson to CHI 43 for 25 yards (N.Sewell). CHI-T.Smith was injured during the play.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 68,
+        "period": 2,
+        "clock": "1:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722036",
+        "text": "Timeout #1 by CHI at 01:32.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 2,
+        "clock": "1:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722050",
+        "text": "(Shotgun) M.White pass short left to E.Moore to CHI 39 for 4 yards (N.Sewell; T.Flowers).PENALTY on BUF-Z.Davidson, Face Mask, 15 yards, enforced at CHI 43 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 2,
+        "clock": "1:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722109",
+        "text": "(Shotgun) M.White pass incomplete deep left to E.Moore.PENALTY on CHI-A.Booker, Roughing the Passer, 15 yards, enforced at BUF 42 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 25,
+        "yard_line": 58,
+        "period": 2,
+        "clock": "1:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722143",
+        "text": "(Shotgun) M.White pass incomplete short middle to E.Moore.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 2,
+        "clock": "1:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722166",
+        "text": "(Shotgun) M.White pass incomplete short right to K.Hamler.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 2,
+        "clock": "1:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722201",
+        "text": "(Shotgun) M.White pass incomplete deep right to T.Shavers.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 2,
+        "clock": "1:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722224",
+        "text": " B.Robbins punts 43 yards to end zone, Center-R.Ferguson, Touchback.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 2,
+        "clock": "1:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722242",
+        "text": "(Shotgun) T.Bagent pass short middle to J.Wilson to CHI 36 for 16 yards (D.Strong; J.Andreessen).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 2,
+        "clock": "1:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722255",
+        "text": "Timeout #2 by CHI at 00:59.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 36,
+        "period": 2,
+        "clock": "0:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722267",
+        "text": "(Shotgun) T.Bagent scrambles left end pushed ob at CHI 46 for 10 yards (T.Herndon).The Replay Official reviewed the first down ruling, and the play was REVERSED.(Shotgun) T.Bagent scrambles left end pushed ob at CHI 45 for 9 yards (T.Herndon).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 36,
+        "period": 2,
+        "clock": "0:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722301",
+        "text": "(Shotgun) T.Bagent pass incomplete short right to M.Alexander [B.Codrington].",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 45,
+        "period": 2,
+        "clock": "0:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722351",
+        "text": "(Shotgun) I.Wheeler left guard to CHI 47 for 2 yards (J.Solomon).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 45,
+        "period": 2,
+        "clock": "0:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722362",
+        "text": "Timeout #3 by CHI at 00:39.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 2,
+        "clock": "0:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722373",
+        "text": "(Shotgun) T.Bagent scrambles right end pushed ob at BUF 34 for 19 yards (D.Williams).PENALTY on CHI-L.Newman, Offensive Holding, 10 yards, enforced at CHI 47 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 2,
+        "clock": "0:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722413",
+        "text": "(Shotgun) T.Bagent sacked at CHI 29 for -8 yards (D.Walker). FUMBLES (D.Walker), RECOVERED by BUF-D.Carter at CHI 34. D.Carter for 34 yards, TOUCHDOWN.The Replay Official reviewed the fumble ruling, and the play was REVERSED.(Shotgun) T.Bagent pass incomplete short middle.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 20,
+        "yard_line": 37,
+        "period": 2,
+        "clock": "0:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722496",
+        "text": "(Shotgun) T.Bagent pass short middle to J.Wilson to 50 for 13 yards (J.Andreessen).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 20,
+        "yard_line": 37,
+        "period": 2,
+        "clock": "0:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722537",
+        "text": "(No Huddle) T.Bagent spiked the ball to stop the clock.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 50,
+        "period": 2,
+        "clock": "0:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722620",
+        "text": "(Shotgun) T.Bagent sacked at CHI 38 for -12 yards (M.Hoecht).Penalty on CHI-O.Trapilo, Illegal Formation, declined.Penalty on CHI-L.Burden, Illegal Shift, declined.",
+        "type": "Sack",
+        "down": 4,
+        "distance": 7,
+        "yard_line": 50,
+        "period": 2,
+        "clock": "0:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722673",
+        "text": "C.Davis 56 yard field goal is No Good, Wide Right, Center-R.Ferguson, Holder-B.Robbins.",
+        "type": "Field Goal Missed",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 38,
+        "period": 2,
+        "clock": "0:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722695",
+        "text": "END QUARTER 2",
+        "type": "End of Half",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722715",
+        "text": "C.Santos kicks 62 yards from CHI 35 to BUF 3. B.Codrington to BUF 31 for 28 yards (D.Hardy).PENALTY on BUF-W.Owens, Offensive Holding, 10 yards, enforced at BUF 31.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722749",
+        "text": "(Shotgun) F.Gore left guard to BUF 33 for 12 yards (P.Echols; J.Owens).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 3,
+        "clock": "14:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722771",
+        "text": "M.Trubisky pass short right to F.Gore pushed ob at BUF 46 for 13 yards (R.Hyppolite).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 67,
+        "period": 3,
+        "clock": "14:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722801",
+        "text": "F.Gore right tackle to BUF 48 for 2 yards (R.Hyppolite; J.Ford).PENALTY on BUF-J.Bayer, Offensive Holding, 10 yards, enforced at BUF 46 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 3,
+        "clock": "13:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722834",
+        "text": "M.Trubisky pass short right to K.Wilkerson to CHI 37 for 27 yards (J.Owens; A.Cook).PENALTY on BUF-Z.Davidson, Offensive Pass Interference, 10 yards, enforced at BUF 36 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 20,
+        "yard_line": 64,
+        "period": 3,
+        "clock": "13:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722870",
+        "text": "(Shotgun) M.Trubisky pass short right to T.Shavers to BUF 33 for 7 yards (Je.Walker).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 30,
+        "yard_line": 74,
+        "period": 3,
+        "clock": "12:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722895",
+        "text": "M.Trubisky pass short right to F.Gore ran ob at BUF 38 for 5 yards.",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 23,
+        "yard_line": 67,
+        "period": 3,
+        "clock": "12:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722925",
+        "text": "(Shotgun) M.Trubisky pass incomplete deep right to T.Shavers.PENALTY on CHI-Je.Walker, Defensive Pass Interference, 23 yards, enforced at BUF 38 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 18,
+        "yard_line": 62,
+        "period": 3,
+        "clock": "11:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722959",
+        "text": "F.Gore left tackle to CHI 37 for 2 yards (R.Hyppolite, J.Owens).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 39,
+        "period": 3,
+        "clock": "11:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729722981",
+        "text": "(Shotgun) M.Trubisky pass incomplete short left to F.Gore (T.Flowers).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 37,
+        "period": 3,
+        "clock": "10:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723004",
+        "text": "(Shotgun) M.Trubisky pass incomplete short right [J.Owens].",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 37,
+        "period": 3,
+        "clock": "10:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723027",
+        "text": "(Shotgun) M.Trubisky pass incomplete deep right to R.Davis.PENALTY on BUF-R.Gouraige, Face Mask, 16 yards, enforced at CHI 37.",
+        "type": "Pass Incompletion",
+        "down": 4,
+        "distance": 8,
+        "yard_line": 37,
+        "period": 3,
+        "clock": "10:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723044",
+        "text": "Official Timeout at 10:34.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 53,
+        "period": 3,
+        "clock": "10:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723061",
+        "text": "B.Brown right tackle to BUF 44 for 3 yards (T.Sanders).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 53,
+        "period": 3,
+        "clock": "10:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723090",
+        "text": "(Shotgun) T.Bagent pass short middle to J.Wilson to BUF 40 for 4 yards (J.Hancock). BUF-J.Hancock was injured during the play. PENALTY on BUF-L.Jackson, Roughing the Passer, 15 yards, enforced at BUF 40.",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 56,
+        "period": 3,
+        "clock": "9:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723109",
+        "text": "Official Timeout at 09:54.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 74,
+        "period": 3,
+        "clock": "9:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723127",
+        "text": "PENALTY on CHI-S.Carlson, False Start, 5 yards, enforced at BUF 25 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 75,
+        "period": 3,
+        "clock": "9:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723161",
+        "text": "(Shotgun) T.Bagent pass incomplete short middle to J.Richardson.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 70,
+        "period": 3,
+        "clock": "9:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723184",
+        "text": "(Shotgun) T.Bagent pass incomplete deep right to J.Richardson.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 15,
+        "yard_line": 70,
+        "period": 3,
+        "clock": "9:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723207",
+        "text": "(Shotgun) T.Bagent pass short middle to J.Wilson to BUF 22 for 8 yards (E.Ulofoshio) [J.Solomon].",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 15,
+        "yard_line": 70,
+        "period": 3,
+        "clock": "9:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723232",
+        "text": "C.Santos 40 yard field goal is GOOD, Center-L.Elkin, Holder-T.Taylor.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 7,
+        "yard_line": 78,
+        "period": 3,
+        "clock": "8:33",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017729723242",
+        "text": "Official Timeout at 08:33.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "8:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723252",
+        "text": "C.Santos kicks 61 yards from CHI 35 to BUF 4. B.Codrington to BUF 31 for 27 yards (R.Hyppolite).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "8:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723282",
+        "text": "M.Trubisky pass incomplete deep right to L.Shenault.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 3,
+        "clock": "8:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723305",
+        "text": "(Shotgun) F.Gore up the middle to BUF 36 for 5 yards (P.Echols; J.Kromah).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 3,
+        "clock": "8:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723327",
+        "text": "(Shotgun) M.Trubisky pass incomplete deep left to K.Wilkerson.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 64,
+        "period": 3,
+        "clock": "7:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723350",
+        "text": " B.Robbins punts 60 yards to CHI 4, Center-R.Ferguson. J.Richardson to CHI 26 for 22 yards (K.Jenkins).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 64,
+        "period": 3,
+        "clock": "7:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723363",
+        "text": "Official Timeout at 07:23.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 26,
+        "period": 3,
+        "clock": "7:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723376",
+        "text": "B.Brown right guard to CHI 30 for 4 yards (J.Solomon).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 26,
+        "period": 3,
+        "clock": "7:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723405",
+        "text": "T.Bagent pass incomplete short right to B.Brown [J.Solomon].",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 30,
+        "period": 3,
+        "clock": "6:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723437",
+        "text": "(Shotgun) T.Bagent pass incomplete short right to J.Wilson (T.Herndon).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 30,
+        "period": 3,
+        "clock": "6:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723460",
+        "text": "T.Taylor punts 59 yards to BUF 11, Center-L.Elkin. B.Codrington to BUF 24 for 13 yards (R.Hyppolite; S.Bozeman).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 6,
+        "yard_line": 30,
+        "period": 3,
+        "clock": "6:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723473",
+        "text": "Official Timeout at 06:18.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 76,
+        "period": 3,
+        "clock": "6:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723486",
+        "text": "K.Hamler left end pushed ob at BUF 39 for 15 yards (A.Ogbongbemiga).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 76,
+        "period": 3,
+        "clock": "6:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723520",
+        "text": "M.Trubisky pass short right to K.Hamler to BUF 46 for 7 yards (M.Garner).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 61,
+        "period": 3,
+        "clock": "5:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723550",
+        "text": "F.Gore right guard to 50 for 4 yards (A.Ogbongbemiga).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 54,
+        "period": 3,
+        "clock": "5:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723572",
+        "text": "(Shotgun) M.Trubisky pass incomplete short right to K.Prather.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 50,
+        "period": 3,
+        "clock": "4:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723595",
+        "text": "(Shotgun) M.Trubisky pass short left to S.Gosnell to CHI 39 for 11 yards (K.Hayes).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 50,
+        "period": 3,
+        "clock": "4:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723620",
+        "text": "F.Gore left guard to CHI 26 for 13 yards (A.Cook; Je.Walker).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 39,
+        "period": 3,
+        "clock": "3:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723642",
+        "text": "M.Trubisky pass short right to F.Gore pushed ob at CHI 21 for 5 yards (A.Ogbongbemiga).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 26,
+        "period": 3,
+        "clock": "2:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723672",
+        "text": "(Shotgun) M.Trubisky pass short middle to F.Gore to CHI 10 for 11 yards (A.Ogbongbemiga). FUMBLES (A.Ogbongbemiga), RECOVERED by CHI-X.Carlton at CHI 14.",
+        "type": "Fumble Recovery (Opponent)",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 21,
+        "period": 3,
+        "clock": "2:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723693",
+        "text": "Official Timeout at 02:11.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 14,
+        "period": 3,
+        "clock": "2:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723713",
+        "text": "A.Reed pass short middle to S.Toure to CHI 26 for 12 yards (W.Owens; D.Forrest).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 14,
+        "period": 3,
+        "clock": "2:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723745",
+        "text": "I.Wheeler right guard to CHI 32 for 6 yards (P.Shand; E.Ulofoshio).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 26,
+        "period": 3,
+        "clock": "1:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723767",
+        "text": "(Shotgun) A.Reed pass short middle to J.Richardson to CHI 38 for 6 yards (J.Ciarlo).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 32,
+        "period": 3,
+        "clock": "0:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723792",
+        "text": "I.Wheeler right end pushed ob at CHI 40 for 2 yards (E.Ulofoshio; D.Hardy).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 38,
+        "period": 3,
+        "clock": "0:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723819",
+        "text": "END QUARTER 3",
+        "type": "End Period",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 40,
+        "period": 3,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723839",
+        "text": "I.Wheeler right end to CHI 46 for 6 yards (D.Hardy).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723861",
+        "text": "(Shotgun) I.Wheeler right tackle to BUF 42 for 12 yards (D.Forrest; E.Ulofoshio).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 46,
+        "period": 4,
+        "clock": "14:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723883",
+        "text": "(Shotgun) A.Reed pass incomplete deep middle to J.Wilson.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 4,
+        "clock": "13:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723906",
+        "text": "B.Brown left end pushed ob at BUF 39 for 3 yards (J.Ingram).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 4,
+        "clock": "13:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723928",
+        "text": "(Shotgun) A.Reed pass short middle to Ja.Walker to BUF 30 for 9 yards (J.Ciarlo).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 61,
+        "period": 4,
+        "clock": "12:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723953",
+        "text": "B.Brown left tackle to BUF 31 for -1 yards (W.Owens).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 70,
+        "period": 4,
+        "clock": "12:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729723975",
+        "text": "(Shotgun) A.Reed pass short middle to J.Richardson to BUF 16 for 15 yards (P.Shand). CHI-J.Richardson was injured during the play.",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 69,
+        "period": 4,
+        "clock": "11:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724000",
+        "text": "I.Wheeler left tackle to BUF 13 for 3 yards (J.Andreessen; N.Ceaser).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 84,
+        "period": 4,
+        "clock": "10:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724030",
+        "text": "(Shotgun) A.Reed to BUF 21 for -8 yards. FUMBLES, and recovers at BUF 20. A.Reed ran ob at BUF 10 for 10 yards (D.Forrest).Buffalo challenged the fumble ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",
+        "type": "Fumble Recovery (Own)",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 87,
+        "period": 4,
+        "clock": "10:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724047",
+        "text": "Official Timeout at 09:40.",
+        "type": "Official Timeout",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 90,
+        "period": 4,
+        "clock": "9:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724064",
+        "text": "(Shotgun) I.Wheeler left guard for 10 yards, TOUCHDOWN. C.Santos extra point is GOOD, Center-L.Elkin, Holder-T.Taylor.",
+        "type": "Rushing Touchdown",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 90,
+        "period": 4,
+        "clock": "9:35",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017729724158",
+        "text": "C.Santos kicks 60 yards from CHI 35 to BUF 5. K.Hamler to BUF 33 for 28 yards (R.Hyppolite).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "9:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724181",
+        "text": "F.Gore left guard to BUF 43 for 10 yards (S.Bozeman).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 67,
+        "period": 4,
+        "clock": "9:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724203",
+        "text": "S.Buechele pass short right to D.Cain to CHI 46 for 11 yards (K.Hayes).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 57,
+        "period": 4,
+        "clock": "8:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724228",
+        "text": "D.Cain left end pushed ob at CHI 40 for 6 yards (M.Garner; Je.Walker).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 46,
+        "period": 4,
+        "clock": "8:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724255",
+        "text": " S.Buechele pass incomplete deep left to L.Shenault.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "7:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724278",
+        "text": "(Shotgun) S.Buechele pass incomplete short left to L.Shenault.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "7:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724301",
+        "text": "(Shotgun) S.Buechele pass incomplete deep right to D.Cain.",
+        "type": "Pass Incompletion",
+        "down": 4,
+        "distance": 4,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "7:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724324",
+        "text": "B.Brown right tackle to CHI 42 for 1 yard (N.Ceaser; W.Owens).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 41,
+        "period": 4,
+        "clock": "7:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724346",
+        "text": "A.Reed pass short right to S.Toure to BUF 45 for 13 yards (E.Ulofoshio).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 42,
+        "period": 4,
+        "clock": "6:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724376",
+        "text": "B.Brown right end to BUF 39 for 6 yards (D.Hardy).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 55,
+        "period": 4,
+        "clock": "6:06",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724398",
+        "text": "B.Brown left tackle to BUF 25 for 14 yards (D.Hardy).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 61,
+        "period": 4,
+        "clock": "5:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724420",
+        "text": "A.Reed pass short right to Ja.Walker to BUF 14 for 11 yards (W.Owens).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 75,
+        "period": 4,
+        "clock": "4:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724445",
+        "text": "I.Wheeler left end to BUF 11 for 3 yards (J.Ciarlo).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 86,
+        "period": 4,
+        "clock": "3:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724467",
+        "text": "I.Wheeler left guard to BUF 6 for 5 yards (P.Shand).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 89,
+        "period": 4,
+        "clock": "3:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724489",
+        "text": "I.Wheeler left tackle to BUF 3 for 3 yards (P.Shand).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 94,
+        "period": 4,
+        "clock": "2:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724500",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 1,
+        "distance": 3,
+        "yard_line": 97,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724511",
+        "text": "A.Reed kneels to BUF 5 for -2 yards.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 3,
+        "yard_line": 97,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724540",
+        "text": "A.Reed kneels to BUF 6 for -1 yards.",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 95,
+        "period": 4,
+        "clock": "1:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724562",
+        "text": "A.Reed kneels to BUF 7 for -1 yards.",
+        "type": "Rush",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 94,
+        "period": 4,
+        "clock": "0:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017729724584",
+        "text": "END GAME",
+        "type": "End of Game",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 93,
+        "period": 4,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      }
+    ],
+    "scoring_plays": [],
+    "touchdowns": [
+      {
+        "play_id": "401772972254",
+        "text": "(Shotgun) C.Williams pass short middle to O.Zaccheaus for 36 yards, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017729721178",
+        "text": "B.Brown right tackle for 1 yard, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017729721465",
+        "text": "T.Bagent pass short right to T.Scott for 11 yards, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017729721954",
+        "text": "I.Wheeler right tackle for 1 yard, TOUCHDOWN. C.Santos extra point is GOOD, Center-S.Daly, Holder-T.Taylor.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017729724064",
+        "text": "(Shotgun) I.Wheeler left guard for 10 yards, TOUCHDOWN. C.Santos extra point is GOOD, Center-L.Elkin, Holder-T.Taylor.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      }
+    ],
+    "interceptions": [],
+    "fumbles": []
+  },
+  "processing_timestamp": "2025-08-20T10:49:08.658241"
+}

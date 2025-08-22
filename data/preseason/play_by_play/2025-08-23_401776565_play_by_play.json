@@ -1,0 +1,26 @@
+{
+  "game_info": {
+    "game_id": "401776565",
+    "teams": [
+      {
+        "abbreviation": "MIA",
+        "name": "Miami Dolphins",
+        "score": 0,
+        "home_away": "home"
+      },
+      {
+        "abbreviation": "JAX",
+        "name": "Jacksonville Jaguars",
+        "score": 0,
+        "home_away": "away"
+      }
+    ],
+    "final_score": {}
+  },
+  "drives": [],
+  "plays": [],
+  "scoring_plays": [],
+  "touchdowns": [],
+  "interceptions": [],
+  "fumbles": []
+}

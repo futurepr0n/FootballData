@@ -1,0 +1,1148 @@
+{
+  "generated_timestamp": "2025-08-20T11:25:00.926134",
+  "total_games_processed": 49,
+  "total_touchdowns": 134,
+  "total_interceptions": 65,
+  "rushing_leaders": [
+    {
+      "name": "Ian Wheeler",
+      "team": "CHI",
+      "attempts": 19,
+      "yards": 80,
+      "tds": 2,
+      "avg": 4.2105263157894735,
+      "games": [
+        {
+          "game_id": "401772972",
+          "date": "2025-08-18",
+          "yards": 80,
+          "tds": 2
+        }
+      ]
+    },
+    {
+      "name": "Kahlef Hailassie",
+      "team": "MIN",
+      "attempts": 2,
+      "yards": 22,
+      "tds": 0,
+      "avg": 11.0,
+      "games": [
+        {
+          "game_id": "401773012",
+          "date": "2025-08-09",
+          "yards": 22,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Kendall Milton",
+      "team": "CIN",
+      "attempts": 9,
+      "yards": 22,
+      "tds": 0,
+      "avg": 2.4444444444444446,
+      "games": [
+        {
+          "game_id": "401772973",
+          "date": "2025-08-19",
+          "yards": 22,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Michael Carter",
+      "team": "ARI",
+      "attempts": 7,
+      "yards": 20,
+      "tds": 0,
+      "avg": 2.857142857142857,
+      "games": [
+        {
+          "game_id": "401774636",
+          "date": "2025-08-10",
+          "yards": 20,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Audric Estime",
+      "team": "DEN",
+      "attempts": 9,
+      "yards": 20,
+      "tds": 0,
+      "avg": 2.2222222222222223,
+      "games": [
+        {
+          "game_id": "401774637",
+          "date": "2025-08-17",
+          "yards": 20,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Antonio Gibson",
+      "team": "NE",
+      "attempts": 7,
+      "yards": 17,
+      "tds": 0,
+      "avg": 2.4285714285714284,
+      "games": [
+        {
+          "game_id": "401773013",
+          "date": "2025-08-16",
+          "yards": 17,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Kimani Vidal",
+      "team": "LAC",
+      "attempts": 10,
+      "yards": 16,
+      "tds": 0,
+      "avg": 1.6,
+      "games": [
+        {
+          "game_id": "401773021",
+          "date": "2025-08-16",
+          "yards": 16,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Jaylen Wright",
+      "team": "MIA",
+      "attempts": 9,
+      "yards": 16,
+      "tds": 1,
+      "avg": 1.7777777777777777,
+      "games": [
+        {
+          "game_id": "401776564",
+          "date": "2025-08-10",
+          "yards": 16,
+          "tds": 1
+        }
+      ]
+    },
+    {
+      "name": "Shane Watts",
+      "team": "NE",
+      "attempts": 10,
+      "yards": 15,
+      "tds": 0,
+      "avg": 1.5,
+      "games": [
+        {
+          "game_id": "401773013",
+          "date": "2025-08-16",
+          "yards": 15,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Miles Sanders",
+      "team": "DAL",
+      "attempts": 7,
+      "yards": 15,
+      "tds": 0,
+      "avg": 2.142857142857143,
+      "games": [
+        {
+          "game_id": "401773007",
+          "date": "2025-08-16",
+          "yards": 15,
+          "tds": 0
+        }
+      ]
+    }
+  ],
+  "passing_leaders": [
+    {
+      "name": "Jarrett Stidham",
+      "team": "DEN",
+      "completions": 16,
+      "attempts": 23,
+      "yards": 240,
+      "tds": 2,
+      "interceptions": 0,
+      "rating": 132.5,
+      "games": [
+        {
+          "game_id": "401774637",
+          "date": "2025-08-17",
+          "yards": 240,
+          "tds": 2
+        }
+      ]
+    },
+    {
+      "name": "Cooper Rush",
+      "team": "BAL",
+      "completions": 22,
+      "attempts": 34,
+      "yards": 214,
+      "tds": 1,
+      "interceptions": 3,
+      "rating": 68.5,
+      "games": [
+        {
+          "game_id": "401773007",
+          "date": "2025-08-16",
+          "yards": 198,
+          "tds": 1
+        },
+        {
+          "game_id": "401773001",
+          "date": "2025-08-07",
+          "yards": 16,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Mitchell Trubisky",
+      "team": "BUF",
+      "completions": 16,
+      "attempts": 26,
+      "yards": 193,
+      "tds": 1,
+      "interceptions": 0,
+      "rating": 129.6,
+      "games": [
+        {
+          "game_id": "401776263",
+          "date": "2025-08-09",
+          "yards": 138,
+          "tds": 1
+        },
+        {
+          "game_id": "401772972",
+          "date": "2025-08-18",
+          "yards": 55,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Joe Burrow",
+      "team": "CIN",
+      "completions": 18,
+      "attempts": 24,
+      "yards": 185,
+      "tds": 3,
+      "interceptions": 0,
+      "rating": 157.5,
+      "games": [
+        {
+          "game_id": "401772973",
+          "date": "2025-08-19",
+          "yards": 62,
+          "tds": 1
+        },
+        {
+          "game_id": "401773005",
+          "date": "2025-08-07",
+          "yards": 123,
+          "tds": 2
+        }
+      ]
+    },
+    {
+      "name": "Mike White",
+      "team": "BUF",
+      "completions": 12,
+      "attempts": 24,
+      "yards": 166,
+      "tds": 2,
+      "interceptions": 0,
+      "rating": 128.8,
+      "games": [
+        {
+          "game_id": "401776263",
+          "date": "2025-08-09",
+          "yards": 112,
+          "tds": 2
+        },
+        {
+          "game_id": "401772972",
+          "date": "2025-08-18",
+          "yards": 54,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Max Brosmer",
+      "team": "MIN",
+      "completions": 15,
+      "attempts": 27,
+      "yards": 156,
+      "tds": 0,
+      "interceptions": 1,
+      "rating": 57.0,
+      "games": [
+        {
+          "game_id": "401773013",
+          "date": "2025-08-16",
+          "yards": 156,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Zach Wilson",
+      "team": "MIA",
+      "completions": 15,
+      "attempts": 23,
+      "yards": 151,
+      "tds": 1,
+      "interceptions": 0,
+      "rating": 98.3,
+      "games": [
+        {
+          "game_id": "401776264",
+          "date": "2025-08-16",
+          "yards": 151,
+          "tds": 1
+        }
+      ]
+    },
+    {
+      "name": "Easton Stick",
+      "team": "ATL",
+      "completions": 15,
+      "attempts": 18,
+      "yards": 149,
+      "tds": 1,
+      "interceptions": 0,
+      "rating": 119.7,
+      "games": [
+        {
+          "game_id": "401773016",
+          "date": "2025-08-08",
+          "yards": 149,
+          "tds": 1
+        }
+      ]
+    },
+    {
+      "name": "Daniel Jones",
+      "team": "IND",
+      "completions": 10,
+      "attempts": 21,
+      "yards": 144,
+      "tds": 0,
+      "interceptions": 0,
+      "rating": 70.3,
+      "games": [
+        {
+          "game_id": "401773001",
+          "date": "2025-08-07",
+          "yards": 144,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Aidan O'Connell",
+      "team": "LV",
+      "completions": 15,
+      "attempts": 23,
+      "yards": 138,
+      "tds": 0,
+      "interceptions": 1,
+      "rating": 63.3,
+      "games": [
+        {
+          "game_id": "401774569",
+          "date": "2025-08-16",
+          "yards": 138,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Russell Wilson",
+      "team": "NYG",
+      "completions": 10,
+      "attempts": 14,
+      "yards": 136,
+      "tds": 0,
+      "interceptions": 1,
+      "rating": 83.3,
+      "games": [
+        {
+          "game_id": "401776263",
+          "date": "2025-08-09",
+          "yards": 28,
+          "tds": 0
+        },
+        {
+          "game_id": "401773009",
+          "date": "2025-08-16",
+          "yards": 108,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Ben Wooldridge",
+      "team": "NE",
+      "completions": 9,
+      "attempts": 12,
+      "yards": 132,
+      "tds": 1,
+      "interceptions": 0,
+      "rating": 138.2,
+      "games": [
+        {
+          "game_id": "401772996",
+          "date": "2025-08-08",
+          "yards": 132,
+          "tds": 1
+        }
+      ]
+    },
+    {
+      "name": "Andy Dalton",
+      "team": "CAR",
+      "completions": 15,
+      "attempts": 23,
+      "yards": 123,
+      "tds": 0,
+      "interceptions": 1,
+      "rating": 66.7,
+      "games": [
+        {
+          "game_id": "401773018",
+          "date": "2025-08-08",
+          "yards": 101,
+          "tds": 0
+        },
+        {
+          "game_id": "401773027",
+          "date": "2025-08-16",
+          "yards": 22,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Adrian Martinez",
+      "team": "NYJ",
+      "completions": 12,
+      "attempts": 21,
+      "yards": 114,
+      "tds": 0,
+      "interceptions": 1,
+      "rating": 52.5,
+      "games": [
+        {
+          "game_id": "401773009",
+          "date": "2025-08-16",
+          "yards": 114,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Cam Ward",
+      "team": "TEN",
+      "completions": 7,
+      "attempts": 15,
+      "yards": 109,
+      "tds": 0,
+      "interceptions": 0,
+      "rating": 89.1,
+      "games": [
+        {
+          "game_id": "401774029",
+          "date": "2025-08-09",
+          "yards": 67,
+          "tds": 0
+        },
+        {
+          "game_id": "401773017",
+          "date": "2025-08-15",
+          "yards": 42,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Caleb Williams",
+      "team": "CHI",
+      "completions": 6,
+      "attempts": 10,
+      "yards": 107,
+      "tds": 1,
+      "interceptions": 0,
+      "rating": 130.0,
+      "games": [
+        {
+          "game_id": "401772972",
+          "date": "2025-08-18",
+          "yards": 107,
+          "tds": 1
+        }
+      ]
+    },
+    {
+      "name": "Joshua Dobbs",
+      "team": "NE",
+      "completions": 11,
+      "attempts": 16,
+      "yards": 106,
+      "tds": 1,
+      "interceptions": 0,
+      "rating": 107.8,
+      "games": [
+        {
+          "game_id": "401773013",
+          "date": "2025-08-16",
+          "yards": 106,
+          "tds": 1
+        }
+      ]
+    },
+    {
+      "name": "John Wolford",
+      "team": "JAX",
+      "completions": 6,
+      "attempts": 12,
+      "yards": 93,
+      "tds": 0,
+      "interceptions": 0,
+      "rating": 104.2,
+      "games": [
+        {
+          "game_id": "401773014",
+          "date": "2025-08-17",
+          "yards": 30,
+          "tds": 0
+        },
+        {
+          "game_id": "401773002",
+          "date": "2025-08-09",
+          "yards": 63,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Desmond Ridder",
+      "team": "CIN",
+      "completions": 7,
+      "attempts": 16,
+      "yards": 91,
+      "tds": 1,
+      "interceptions": 0,
+      "rating": 83.1,
+      "games": [
+        {
+          "game_id": "401773005",
+          "date": "2025-08-07",
+          "yards": 91,
+          "tds": 1
+        }
+      ]
+    },
+    {
+      "name": "Nick Mullens",
+      "team": "JAX",
+      "completions": 11,
+      "attempts": 18,
+      "yards": 89,
+      "tds": 1,
+      "interceptions": 0,
+      "rating": 92.1,
+      "games": [
+        {
+          "game_id": "401773002",
+          "date": "2025-08-09",
+          "yards": 89,
+          "tds": 1
+        }
+      ]
+    }
+  ],
+  "receiving_leaders": [
+    {
+      "name": "Israel Abanikanda",
+      "team": "GB",
+      "receptions": 5,
+      "yards": 120,
+      "tds": 0,
+      "avg": 24.0,
+      "games": [
+        {
+          "game_id": "401773003",
+          "date": "2025-08-16",
+          "yards": 120,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Isaac TeSlaa",
+      "team": "DET",
+      "receptions": 8,
+      "yards": 105,
+      "tds": 2,
+      "avg": 13.125,
+      "games": [
+        {
+          "game_id": "401772971",
+          "date": "2025-08-01",
+          "yards": 46,
+          "tds": 0
+        },
+        {
+          "game_id": "401776264",
+          "date": "2025-08-16",
+          "yards": 41,
+          "tds": 1
+        },
+        {
+          "game_id": "401773016",
+          "date": "2025-08-08",
+          "yards": 18,
+          "tds": 1
+        }
+      ]
+    },
+    {
+      "name": "Xavier Smith",
+      "team": "LAR",
+      "receptions": 7,
+      "yards": 104,
+      "tds": 0,
+      "avg": 14.857142857142858,
+      "games": [
+        {
+          "game_id": "401773021",
+          "date": "2025-08-16",
+          "yards": 49,
+          "tds": 0
+        },
+        {
+          "game_id": "401773020",
+          "date": "2025-08-09",
+          "yards": 55,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Shedrick Jackson",
+      "team": "LV",
+      "receptions": 7,
+      "yards": 104,
+      "tds": 1,
+      "avg": 14.857142857142858,
+      "games": [
+        {
+          "game_id": "401774568",
+          "date": "2025-08-08",
+          "yards": 76,
+          "tds": 1
+        },
+        {
+          "game_id": "401774569",
+          "date": "2025-08-16",
+          "yards": 28,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Brennan Presley",
+      "team": "LAR",
+      "receptions": 6,
+      "yards": 102,
+      "tds": 0,
+      "avg": 17.0,
+      "games": [
+        {
+          "game_id": "401773021",
+          "date": "2025-08-16",
+          "yards": 102,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Keilan Robinson",
+      "team": "PHI",
+      "receptions": 4,
+      "yards": 98,
+      "tds": 0,
+      "avg": 24.5,
+      "games": [
+        {
+          "game_id": "401773006",
+          "date": "2025-08-16",
+          "yards": 24,
+          "tds": 0
+        },
+        {
+          "game_id": "401773005",
+          "date": "2025-08-07",
+          "yards": 74,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Cody Schrader",
+      "team": "LAR",
+      "receptions": 4,
+      "yards": 95,
+      "tds": 0,
+      "avg": 23.75,
+      "games": [
+        {
+          "game_id": "401773021",
+          "date": "2025-08-16",
+          "yards": 73,
+          "tds": 0
+        },
+        {
+          "game_id": "401773020",
+          "date": "2025-08-09",
+          "yards": 22,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Jackson Meeks",
+      "team": "DET",
+      "receptions": 7,
+      "yards": 93,
+      "tds": 1,
+      "avg": 13.285714285714286,
+      "games": [
+        {
+          "game_id": "401776264",
+          "date": "2025-08-16",
+          "yards": 93,
+          "tds": 1
+        }
+      ]
+    },
+    {
+      "name": "Robbie Chosen",
+      "team": "SF",
+      "receptions": 5,
+      "yards": 92,
+      "tds": 0,
+      "avg": 18.4,
+      "games": [
+        {
+          "game_id": "401774569",
+          "date": "2025-08-16",
+          "yards": 92,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Mitchell Tinsley",
+      "team": "CIN",
+      "receptions": 6,
+      "yards": 88,
+      "tds": 2,
+      "avg": 14.666666666666666,
+      "games": [
+        {
+          "game_id": "401772973",
+          "date": "2025-08-19",
+          "yards": 73,
+          "tds": 2
+        },
+        {
+          "game_id": "401773005",
+          "date": "2025-08-07",
+          "yards": 15,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Ja'Marr Chase",
+      "team": "CIN",
+      "receptions": 5,
+      "yards": 88,
+      "tds": 1,
+      "avg": 17.6,
+      "games": [
+        {
+          "game_id": "401772973",
+          "date": "2025-08-19",
+          "yards": 11,
+          "tds": 0
+        },
+        {
+          "game_id": "401773005",
+          "date": "2025-08-07",
+          "yards": 77,
+          "tds": 1
+        }
+      ]
+    },
+    {
+      "name": "Tahj Washington",
+      "team": "MIA",
+      "receptions": 7,
+      "yards": 86,
+      "tds": 0,
+      "avg": 12.285714285714286,
+      "games": [
+        {
+          "game_id": "401776264",
+          "date": "2025-08-16",
+          "yards": 33,
+          "tds": 0
+        },
+        {
+          "game_id": "401776564",
+          "date": "2025-08-10",
+          "yards": 53,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Tre Harris",
+      "team": "LAC",
+      "receptions": 6,
+      "yards": 85,
+      "tds": 0,
+      "avg": 14.166666666666666,
+      "games": [
+        {
+          "game_id": "401773021",
+          "date": "2025-08-16",
+          "yards": 85,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Troy Franklin",
+      "team": "DEN",
+      "receptions": 7,
+      "yards": 85,
+      "tds": 2,
+      "avg": 12.142857142857142,
+      "games": [
+        {
+          "game_id": "401776566",
+          "date": "2025-08-10",
+          "yards": 18,
+          "tds": 0
+        },
+        {
+          "game_id": "401774637",
+          "date": "2025-08-17",
+          "yards": 67,
+          "tds": 2
+        }
+      ]
+    },
+    {
+      "name": "Scotty Miller",
+      "team": "PIT",
+      "receptions": 6,
+      "yards": 85,
+      "tds": 0,
+      "avg": 14.166666666666666,
+      "games": [
+        {
+          "game_id": "401773002",
+          "date": "2025-08-09",
+          "yards": 47,
+          "tds": 0
+        },
+        {
+          "game_id": "401773000",
+          "date": "2025-08-16",
+          "yards": 38,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Dylan Drummond",
+      "team": "ATL",
+      "receptions": 10,
+      "yards": 82,
+      "tds": 0,
+      "avg": 8.2,
+      "games": [
+        {
+          "game_id": "401773017",
+          "date": "2025-08-15",
+          "yards": 19,
+          "tds": 0
+        },
+        {
+          "game_id": "401773016",
+          "date": "2025-08-08",
+          "yards": 63,
+          "tds": 0
+        }
+      ]
+    },
+    {
+      "name": "Darius Cooper",
+      "team": "PHI",
+      "receptions": 6,
+      "yards": 82,
+      "tds": 1,
+      "avg": 13.666666666666666,
+      "games": [
+        {
+          "game_id": "401773005",
+          "date": "2025-08-07",
+          "yards": 82,
+          "tds": 1
+        }
+      ]
+    },
+    {
+      "name": "Theo Wease Jr.",
+      "team": "MIA",
+      "receptions": 6,
+      "yards": 80,
+      "tds": 2,
+      "avg": 13.333333333333334,
+      "games": [
+        {
+          "game_id": "401776264",
+          "date": "2025-08-16",
+          "yards": 80,
+          "tds": 2
+        }
+      ]
+    },
+    {
+      "name": "Tanner Hudson",
+      "team": "CIN",
+      "receptions": 9,
+      "yards": 80,
+      "tds": 2,
+      "avg": 8.88888888888889,
+      "games": [
+        {
+          "game_id": "401772973",
+          "date": "2025-08-19",
+          "yards": 18,
+          "tds": 0
+        },
+        {
+          "game_id": "401773005",
+          "date": "2025-08-07",
+          "yards": 62,
+          "tds": 2
+        }
+      ]
+    },
+    {
+      "name": "Trent Sherfield Sr.",
+      "team": "DEN",
+      "receptions": 4,
+      "yards": 78,
+      "tds": 1,
+      "avg": 19.5,
+      "games": [
+        {
+          "game_id": "401776566",
+          "date": "2025-08-10",
+          "yards": 73,
+          "tds": 1
+        },
+        {
+          "game_id": "401774637",
+          "date": "2025-08-17",
+          "yards": 5,
+          "tds": 0
+        }
+      ]
+    }
+  ],
+  "most_recent_touchdowns": [
+    {
+      "player": "C.Brown",
+      "type": "rushing",
+      "date": "2025-08-19",
+      "game_id": "401772973",
+      "team": "CIN",
+      "opponent": "WSH"
+    },
+    {
+      "player": "J.Daniels",
+      "type": "rushing",
+      "date": "2025-08-19",
+      "game_id": "401772973",
+      "team": "WSH",
+      "opponent": "CIN"
+    },
+    {
+      "player": "C.Jones",
+      "type": "receiving",
+      "date": "2025-08-19",
+      "game_id": "401772973",
+      "team": "CIN",
+      "opponent": "WSH"
+    },
+    {
+      "player": "M.Tinsley",
+      "type": "receiving",
+      "date": "2025-08-19",
+      "game_id": "401772973",
+      "team": "CIN",
+      "opponent": "WSH"
+    },
+    {
+      "player": "M.Tinsley",
+      "type": "receiving",
+      "date": "2025-08-19",
+      "game_id": "401772973",
+      "team": "CIN",
+      "opponent": "WSH"
+    },
+    {
+      "player": "O.Zaccheaus",
+      "type": "receiving",
+      "date": "2025-08-18",
+      "game_id": "401772972",
+      "team": "CHI",
+      "opponent": "BUF"
+    },
+    {
+      "player": "B.Brown",
+      "type": "rushing",
+      "date": "2025-08-18",
+      "game_id": "401772972",
+      "team": "CHI",
+      "opponent": "BUF"
+    },
+    {
+      "player": "T.Scott",
+      "type": "receiving",
+      "date": "2025-08-18",
+      "game_id": "401772972",
+      "team": "CHI",
+      "opponent": "BUF"
+    },
+    {
+      "player": "I.Wheeler",
+      "type": "rushing",
+      "date": "2025-08-18",
+      "game_id": "401772972",
+      "team": "CHI",
+      "opponent": "BUF"
+    },
+    {
+      "player": "I.Wheeler",
+      "type": "rushing",
+      "date": "2025-08-18",
+      "game_id": "401772972",
+      "team": "CHI",
+      "opponent": "BUF"
+    }
+  ],
+  "most_recent_interceptions": [
+    {
+      "player": "T.Anderson",
+      "date": "2025-08-19",
+      "game_id": "401772973",
+      "team": "CIN",
+      "opponent": "WSH"
+    },
+    {
+      "player": "B.Carter",
+      "date": "2025-08-19",
+      "game_id": "401772973",
+      "team": "CIN",
+      "opponent": "WSH"
+    },
+    {
+      "player": "J.Ford",
+      "date": "2025-08-17",
+      "game_id": "401773014",
+      "team": "NO",
+      "opponent": "JAX"
+    },
+    {
+      "player": "K.Lovely",
+      "date": "2025-08-17",
+      "game_id": "401773014",
+      "team": "JAX",
+      "opponent": "NO"
+    },
+    {
+      "player": "J.Sanker",
+      "date": "2025-08-17",
+      "game_id": "401773014",
+      "team": "NO",
+      "opponent": "JAX"
+    },
+    {
+      "player": "A.Booth",
+      "date": "2025-08-16",
+      "game_id": "401773007",
+      "team": "DAL",
+      "opponent": "BAL"
+    },
+    {
+      "player": "K.Hall",
+      "date": "2025-08-16",
+      "game_id": "401773007",
+      "team": "DAL",
+      "opponent": "BAL"
+    },
+    {
+      "player": "R.Lowery",
+      "date": "2025-08-16",
+      "game_id": "401773007",
+      "team": "BAL",
+      "opponent": "DAL"
+    },
+    {
+      "player": "E.Robinson",
+      "date": "2025-08-16",
+      "game_id": "401776264",
+      "team": "MIA",
+      "opponent": "DET"
+    },
+    {
+      "player": "A.Mukuba",
+      "date": "2025-08-16",
+      "game_id": "401773006",
+      "team": "PHI",
+      "opponent": "CLE"
+    }
+  ],
+  "processing_summary": {
+    "success_rate": "100%",
+    "data_types": [
+      "touchdowns",
+      "interceptions",
+      "player_stats"
+    ],
+    "files_created": 4,
+    "punters_filtered": 1
+  }
+}

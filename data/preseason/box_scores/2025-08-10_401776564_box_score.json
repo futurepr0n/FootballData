@@ -1,0 +1,1434 @@
+{
+  "game_info": {
+    "game_id": "401776564",
+    "date": "2025-08-10T17:00Z",
+    "status": {
+      "type": {
+        "id": "3",
+        "name": "STATUS_FINAL",
+        "state": "post",
+        "completed": true,
+        "description": "Final",
+        "detail": "Final",
+        "shortDetail": "Final"
+      },
+      "isTBDFlex": false
+    },
+    "venue": {},
+    "attendance": 0
+  },
+  "team_stats": {
+    "CHI": {
+      "score": 24,
+      "record": "0-0",
+      "home_away": "home"
+    },
+    "MIA": {
+      "score": 24,
+      "record": "0-0",
+      "home_away": "away"
+    }
+  },
+  "player_stats": {
+    "Zach Wilson_MIA": {
+      "name": "Zach Wilson",
+      "position": "",
+      "jersey": "0",
+      "team": "MIA",
+      "stats": {
+        "0": 2,
+        "1": 16,
+        "2": 8.0,
+        "3": 0,
+        "4": 8
+      }
+    },
+    "Quinn Ewers_MIA": {
+      "name": "Quinn Ewers",
+      "position": "",
+      "jersey": "14O",
+      "team": "MIA",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0
+      }
+    },
+    "Tua Tagovailoa_MIA": {
+      "name": "Tua Tagovailoa",
+      "position": "",
+      "jersey": "1",
+      "team": "MIA",
+      "stats": {
+        "0": "5/6",
+        "1": 27,
+        "2": 4.5,
+        "3": 0,
+        "4": 0,
+        "5": "0-0",
+        "6": 85.4
+      }
+    },
+    "Ollie Gordon II_MIA": {
+      "name": "Ollie Gordon II",
+      "position": "",
+      "jersey": "31",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0
+      }
+    },
+    "De'Von Achane_MIA": {
+      "name": "De'Von Achane",
+      "position": "",
+      "jersey": "28",
+      "team": "MIA",
+      "stats": {
+        "0": 3,
+        "1": 22,
+        "2": 7.3,
+        "3": 0,
+        "4": 11
+      }
+    },
+    "Jaylen Wright_MIA": {
+      "name": "Jaylen Wright",
+      "position": "",
+      "jersey": "5",
+      "team": "MIA",
+      "stats": {
+        "0": 9,
+        "1": 16,
+        "2": 1.8,
+        "3": 1,
+        "4": 7
+      }
+    },
+    "Alexander Mattison_MIA": {
+      "name": "Alexander Mattison",
+      "position": "",
+      "jersey": "8",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 21,
+        "2": 21.0,
+        "3": 0,
+        "4": 21,
+        "5": 2
+      }
+    },
+    "Malik Washington_MIA": {
+      "name": "Malik Washington",
+      "position": "",
+      "jersey": "6",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 19,
+        "2": 19.0,
+        "3": 19,
+        "4": 0
+      }
+    },
+    "Tahj Washington_MIA": {
+      "name": "Tahj Washington",
+      "position": "",
+      "jersey": "7O",
+      "team": "MIA",
+      "stats": {
+        "0": 3,
+        "1": 53,
+        "2": 17.7,
+        "3": 0,
+        "4": 34,
+        "5": 4
+      }
+    },
+    "Nick Westbrook-Ikhine_MIA": {
+      "name": "Nick Westbrook-Ikhine",
+      "position": "",
+      "jersey": "18",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 35,
+        "2": 35.0,
+        "3": 0,
+        "4": 35,
+        "5": 1
+      }
+    },
+    "AJ Henning_MIA": {
+      "name": "AJ Henning",
+      "position": "",
+      "jersey": "88",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 38,
+        "2": 38.0,
+        "3": 38,
+        "4": 0
+      }
+    },
+    "Erik Ezukanma_MIA": {
+      "name": "Erik Ezukanma",
+      "position": "",
+      "jersey": "84",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 37,
+        "2": 37.0,
+        "3": 37,
+        "4": 0
+      }
+    },
+    "Chris Myarick_MIA": {
+      "name": "Chris Myarick",
+      "position": "",
+      "jersey": "43",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 8,
+        "2": 8.0,
+        "3": 0,
+        "4": 8,
+        "5": 1
+      }
+    },
+    "Theo Wease Jr._MIA": {
+      "name": "Theo Wease Jr.",
+      "position": "",
+      "jersey": "81",
+      "team": "MIA",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 1
+      }
+    },
+    "Dee Eskridge_MIA": {
+      "name": "Dee Eskridge",
+      "position": "",
+      "jersey": "82",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 16,
+        "2": 16.0,
+        "3": 16,
+        "4": 0
+      }
+    },
+    "Tanner Conner_MIA": {
+      "name": "Tanner Conner",
+      "position": "",
+      "jersey": "80",
+      "team": "MIA",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "Tarik Black_MIA": {
+      "name": "Tarik Black",
+      "position": "",
+      "jersey": "86",
+      "team": "MIA",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "Julian Hill_MIA": {
+      "name": "Julian Hill",
+      "position": "",
+      "jersey": "89",
+      "team": "MIA",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "Monaray Baldwin_MIA": {
+      "name": "Monaray Baldwin",
+      "position": "",
+      "jersey": "48",
+      "team": "MIA",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "Andrew Armstrong_MIA": {
+      "name": "Andrew Armstrong",
+      "position": "",
+      "jersey": "19",
+      "team": "MIA",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 2
+      }
+    },
+    "K.J. Britt_MIA": {
+      "name": "K.J. Britt",
+      "position": "",
+      "jersey": "3",
+      "team": "MIA",
+      "stats": {
+        "0": 6,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Channing Tindall_MIA": {
+      "name": "Channing Tindall",
+      "position": "",
+      "jersey": "41",
+      "team": "MIA",
+      "stats": {
+        "0": 6,
+        "1": 3,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 2,
+        "6": 0
+      }
+    },
+    "Dequan Jackson_MIA": {
+      "name": "Dequan Jackson",
+      "position": "",
+      "jersey": "57",
+      "team": "MIA",
+      "stats": {
+        "0": 5,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Storm Duck_MIA": {
+      "name": "Storm Duck",
+      "position": "",
+      "jersey": "36",
+      "team": "MIA",
+      "stats": {
+        "0": 4,
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Eugene Asante_MIA": {
+      "name": "Eugene Asante",
+      "position": "",
+      "jersey": "51",
+      "team": "MIA",
+      "stats": {
+        "0": 4,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Kenneth Grant_MIA": {
+      "name": "Kenneth Grant",
+      "position": "",
+      "jersey": "90",
+      "team": "MIA",
+      "stats": {
+        "0": 4,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jordan Phillips_MIA": {
+      "name": "Jordan Phillips",
+      "position": "",
+      "jersey": "94",
+      "team": "MIA",
+      "stats": {
+        "0": 4,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jack Jones_MIA": {
+      "name": "Jack Jones",
+      "position": "",
+      "jersey": "23",
+      "team": "MIA",
+      "stats": {
+        "0": 3,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Derrick McLendon_MIA": {
+      "name": "Derrick McLendon",
+      "position": "",
+      "jersey": "59",
+      "team": "MIA",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 2,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Kendall Sheffield_MIA": {
+      "name": "Kendall Sheffield",
+      "position": "",
+      "jersey": "14D",
+      "team": "MIA",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Willie Gay Jr._MIA": {
+      "name": "Willie Gay Jr.",
+      "position": "",
+      "jersey": "40",
+      "team": "MIA",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0.5,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Isaiah Johnson_MIA": {
+      "name": "Isaiah Johnson",
+      "position": "",
+      "jersey": "37",
+      "team": "MIA",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "John Saunders Jr._MIA": {
+      "name": "John Saunders Jr.",
+      "position": "",
+      "jersey": "35",
+      "team": "MIA",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Elijah Campbell_MIA": {
+      "name": "Elijah Campbell",
+      "position": "",
+      "jersey": "22",
+      "team": "MIA",
+      "stats": {
+        "0": 3,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Cameron Goode_MIA": {
+      "name": "Cameron Goode",
+      "position": "",
+      "jersey": "53",
+      "team": "MIA",
+      "stats": {
+        "0": 3,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Grayson Murphy_MIA": {
+      "name": "Grayson Murphy",
+      "position": "",
+      "jersey": "42",
+      "team": "MIA",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Matt Dickerson_MIA": {
+      "name": "Matt Dickerson",
+      "position": "",
+      "jersey": "98",
+      "team": "MIA",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Patrick McMorris_MIA": {
+      "name": "Patrick McMorris",
+      "position": "",
+      "jersey": "32",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 20,
+        "2": 0
+      }
+    },
+    "Ethan Bonner_MIA": {
+      "name": "Ethan Bonner",
+      "position": "",
+      "jersey": "27",
+      "team": "MIA",
+      "stats": {
+        "0": 2,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Mike Hilton_MIA": {
+      "name": "Mike Hilton",
+      "position": "",
+      "jersey": "38",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ben Stille_MIA": {
+      "name": "Ben Stille",
+      "position": "",
+      "jersey": "97",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Addison West_MIA": {
+      "name": "Addison West",
+      "position": "",
+      "jersey": "65",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ethan Robinson_MIA": {
+      "name": "Ethan Robinson",
+      "position": "",
+      "jersey": "46",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Quinton Bell_MIA": {
+      "name": "Quinton Bell",
+      "position": "",
+      "jersey": "56",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Tyrel Dodson_MIA": {
+      "name": "Tyrel Dodson",
+      "position": "",
+      "jersey": "11",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Benito Jones_MIA": {
+      "name": "Benito Jones",
+      "position": "",
+      "jersey": "95",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0.5,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Ifeatu Melifonwu_MIA": {
+      "name": "Ifeatu Melifonwu",
+      "position": "",
+      "jersey": "9",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Zeek Biggers_MIA": {
+      "name": "Zeek Biggers",
+      "position": "",
+      "jersey": "93",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jason Marshall Jr._MIA": {
+      "name": "Jason Marshall Jr.",
+      "position": "",
+      "jersey": "33",
+      "team": "MIA",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "BJ Adams_MIA": {
+      "name": "BJ Adams",
+      "position": "",
+      "jersey": "45",
+      "team": "MIA",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jason Sanders_MIA": {
+      "name": "Jason Sanders",
+      "position": "",
+      "jersey": "7S",
+      "team": "MIA",
+      "stats": {
+        "0": "1/1",
+        "1": 100.0,
+        "2": 56,
+        "3": "3/3",
+        "4": 6
+      }
+    },
+    "Jake Bailey_MIA": {
+      "name": "Jake Bailey",
+      "position": "",
+      "jersey": "16",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 59,
+        "2": 59.0,
+        "3": 0,
+        "4": 1,
+        "5": 59
+      }
+    },
+    "Ryan Stonehouse_MIA": {
+      "name": "Ryan Stonehouse",
+      "position": "",
+      "jersey": "49",
+      "team": "MIA",
+      "stats": {
+        "0": 1,
+        "1": 50,
+        "2": 50.0,
+        "3": 0,
+        "4": 0,
+        "5": 50
+      }
+    },
+    "Tyson Bagent_CHI": {
+      "name": "Tyson Bagent",
+      "position": "",
+      "jersey": "17",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 9,
+        "2": 9.0,
+        "3": 0,
+        "4": 9
+      }
+    },
+    "Case Keenum_CHI": {
+      "name": "Case Keenum",
+      "position": "",
+      "jersey": "11",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 2,
+        "2": 2.0,
+        "3": 0,
+        "4": 2
+      }
+    },
+    "Austin Reed_CHI": {
+      "name": "Austin Reed",
+      "position": "",
+      "jersey": "16",
+      "team": "CHI",
+      "stats": {
+        "0": "5/10",
+        "1": 41,
+        "2": 4.1,
+        "3": 0,
+        "4": 0,
+        "5": "0-0",
+        "6": 60.8
+      }
+    },
+    "Kyle Monangai_CHI": {
+      "name": "Kyle Monangai",
+      "position": "",
+      "jersey": "25O",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 22,
+        "2": 22.0,
+        "3": 22,
+        "4": 0
+      }
+    },
+    "Deion Hankins_CHI": {
+      "name": "Deion Hankins",
+      "position": "",
+      "jersey": "35O",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 4,
+        "2": 4.0,
+        "3": 1,
+        "4": 4,
+        "5": 1
+      }
+    },
+    "Ian Wheeler_CHI": {
+      "name": "Ian Wheeler",
+      "position": "",
+      "jersey": "33O",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 14,
+        "2": 14.0,
+        "3": 0,
+        "4": 14,
+        "5": 2
+      }
+    },
+    "Travis Homer_CHI": {
+      "name": "Travis Homer",
+      "position": "",
+      "jersey": "21",
+      "team": "CHI",
+      "stats": {
+        "0": 2,
+        "1": 15,
+        "2": 7.5,
+        "3": 0,
+        "4": 9,
+        "5": 3
+      }
+    },
+    "Jahdae Walker_CHI": {
+      "name": "Jahdae Walker",
+      "position": "",
+      "jersey": "20O",
+      "team": "CHI",
+      "stats": {
+        "0": 3,
+        "1": 41,
+        "2": 13.7,
+        "3": 1,
+        "4": 14,
+        "5": 5
+      }
+    },
+    "Luther Burden III_CHI": {
+      "name": "Luther Burden III",
+      "position": "",
+      "jersey": "87",
+      "team": "CHI",
+      "stats": {
+        "0": 2,
+        "1": 29,
+        "2": 14.5,
+        "3": 0,
+        "4": 16,
+        "5": 3
+      }
+    },
+    "Devin Duvernay_CHI": {
+      "name": "Devin Duvernay",
+      "position": "",
+      "jersey": "12",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 21,
+        "2": 21.0,
+        "3": 21,
+        "4": 0
+      }
+    },
+    "Samori Toure_CHI": {
+      "name": "Samori Toure",
+      "position": "",
+      "jersey": "83",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 26,
+        "2": 26.0,
+        "3": 0,
+        "4": 26,
+        "5": 3
+      }
+    },
+    "Maurice Alexander_CHI": {
+      "name": "Maurice Alexander",
+      "position": "",
+      "jersey": "13",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 9,
+        "2": 9.0,
+        "3": 9,
+        "4": 0
+      }
+    },
+    "Joel Wilson_CHI": {
+      "name": "Joel Wilson",
+      "position": "",
+      "jersey": "86",
+      "team": "CHI",
+      "stats": {
+        "0": 3,
+        "1": 15,
+        "2": 5.0,
+        "3": 0,
+        "4": 7,
+        "5": 3
+      }
+    },
+    "Tyler Scott_CHI": {
+      "name": "Tyler Scott",
+      "position": "",
+      "jersey": "10",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 8,
+        "2": 8.0,
+        "3": 0,
+        "4": 8,
+        "5": 1
+      }
+    },
+    "Colston Loveland_CHI": {
+      "name": "Colston Loveland",
+      "position": "",
+      "jersey": "84",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 8,
+        "2": 8.0,
+        "3": 0,
+        "4": 8,
+        "5": 2
+      }
+    },
+    "John Jackson_CHI": {
+      "name": "John Jackson",
+      "position": "",
+      "jersey": "82",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 7,
+        "2": 7.0,
+        "3": 0,
+        "4": 7,
+        "5": 4
+      }
+    },
+    "JP Richardson_CHI": {
+      "name": "JP Richardson",
+      "position": "",
+      "jersey": "26O",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 9,
+        "2": 9.0,
+        "3": 9,
+        "4": 0
+      }
+    },
+    "Stephen Carlson_CHI": {
+      "name": "Stephen Carlson",
+      "position": "",
+      "jersey": "88",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Durham Smythe_CHI": {
+      "name": "Durham Smythe",
+      "position": "",
+      "jersey": "81",
+      "team": "CHI",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0.0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    "Alex Cook_CHI": {
+      "name": "Alex Cook",
+      "position": "",
+      "jersey": "30",
+      "team": "CHI",
+      "stats": {
+        "0": 3,
+        "1": 2,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Power Echols_CHI": {
+      "name": "Power Echols",
+      "position": "",
+      "jersey": "57",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ruben Hyppolite II_CHI": {
+      "name": "Ruben Hyppolite II",
+      "position": "",
+      "jersey": "47",
+      "team": "CHI",
+      "stats": {
+        "0": 6,
+        "1": 5,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Austin Booker_CHI": {
+      "name": "Austin Booker",
+      "position": "",
+      "jersey": "94",
+      "team": "CHI",
+      "stats": {
+        "0": 6,
+        "1": 4,
+        "2": 3,
+        "3": 3,
+        "4": 0,
+        "5": 4,
+        "6": 0
+      }
+    },
+    "Noah Sewell_CHI": {
+      "name": "Noah Sewell",
+      "position": "",
+      "jersey": "44",
+      "team": "CHI",
+      "stats": {
+        "0": 6,
+        "1": 3,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Carl Jones_CHI": {
+      "name": "Carl Jones",
+      "position": "",
+      "jersey": "43D",
+      "team": "CHI",
+      "stats": {
+        "0": 5,
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Tre Flowers_CHI": {
+      "name": "Tre Flowers",
+      "position": "",
+      "jersey": "37",
+      "team": "CHI",
+      "stats": {
+        "0": 5,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Josh Blackwell_CHI": {
+      "name": "Josh Blackwell",
+      "position": "",
+      "jersey": "39",
+      "team": "CHI",
+      "stats": {
+        "0": 4,
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jamree Kromah_CHI": {
+      "name": "Jamree Kromah",
+      "position": "",
+      "jersey": "59",
+      "team": "CHI",
+      "stats": {
+        "0": 4,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Swayze Bozeman_CHI": {
+      "name": "Swayze Bozeman",
+      "position": "",
+      "jersey": "27D",
+      "team": "CHI",
+      "stats": {
+        "0": 3,
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Zacch Pickens_CHI": {
+      "name": "Zacch Pickens",
+      "position": "",
+      "jersey": "96",
+      "team": "CHI",
+      "stats": {
+        "0": 3,
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Jonathan Owens_CHI": {
+      "name": "Jonathan Owens",
+      "position": "",
+      "jersey": "36",
+      "team": "CHI",
+      "stats": {
+        "0": 3,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Terell Smith_CHI": {
+      "name": "Terell Smith",
+      "position": "",
+      "jersey": "32",
+      "team": "CHI",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Tysheem Johnson_CHI": {
+      "name": "Tysheem Johnson",
+      "position": "",
+      "jersey": "33D",
+      "team": "CHI",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Nahshon Wright_CHI": {
+      "name": "Nahshon Wright",
+      "position": "",
+      "jersey": "25D",
+      "team": "CHI",
+      "stats": {
+        "0": 2,
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Dominique Robinson_CHI": {
+      "name": "Dominique Robinson",
+      "position": "",
+      "jersey": "90",
+      "team": "CHI",
+      "stats": {
+        "0": 2,
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      }
+    },
+    "Tanoh Kpassagnon_CHI": {
+      "name": "Tanoh Kpassagnon",
+      "position": "",
+      "jersey": "69",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Ryan Bates_CHI": {
+      "name": "Ryan Bates",
+      "position": "",
+      "jersey": "71",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Amen Ogbongbemiga_CHI": {
+      "name": "Amen Ogbongbemiga",
+      "position": "",
+      "jersey": "45",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Elijah Hicks_CHI": {
+      "name": "Elijah Hicks",
+      "position": "",
+      "jersey": "22",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Jonathan Ford_CHI": {
+      "name": "Jonathan Ford",
+      "position": "",
+      "jersey": "64",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Daniel Hardy_CHI": {
+      "name": "Daniel Hardy",
+      "position": "",
+      "jersey": "92",
+      "team": "CHI",
+      "stats": {
+        "0": 1,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Xavier Carlton_CHI": {
+      "name": "Xavier Carlton",
+      "position": "",
+      "jersey": "93",
+      "team": "CHI",
+      "stats": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "Cairo Santos_CHI": {
+      "name": "Cairo Santos",
+      "position": "",
+      "jersey": "8",
+      "team": "CHI",
+      "stats": {
+        "0": "1/1",
+        "1": 100.0,
+        "2": 57,
+        "3": "1/1",
+        "4": 4
+      }
+    },
+    "Jonathan Kim_CHI": {
+      "name": "Jonathan Kim",
+      "position": "",
+      "jersey": "27S",
+      "team": "CHI",
+      "stats": {
+        "0": "0/0",
+        "1": 0.0,
+        "2": 0,
+        "3": "2/2",
+        "4": 2
+      }
+    },
+    "Tory Taylor_CHI": {
+      "name": "Tory Taylor",
+      "position": "",
+      "jersey": "19",
+      "team": "CHI",
+      "stats": {
+        "0": 3,
+        "1": 157,
+        "2": 52.3,
+        "3": 1,
+        "4": 0,
+        "5": 57
+      }
+    }
+  },
+  "scoring_summary": []
+}

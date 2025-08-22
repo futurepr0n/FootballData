@@ -1,0 +1,26 @@
+{
+  "game_info": {
+    "game_id": "401773015",
+    "teams": [
+      {
+        "abbreviation": "NO",
+        "name": "New Orleans Saints",
+        "score": 0,
+        "home_away": "home"
+      },
+      {
+        "abbreviation": "DEN",
+        "name": "Denver Broncos",
+        "score": 0,
+        "home_away": "away"
+      }
+    ],
+    "final_score": {}
+  },
+  "drives": [],
+  "plays": [],
+  "scoring_plays": [],
+  "touchdowns": [],
+  "interceptions": [],
+  "fumbles": []
+}

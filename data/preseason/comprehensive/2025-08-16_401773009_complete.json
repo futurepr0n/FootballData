@@ -1,0 +1,4071 @@
+{
+  "game_id": "401773009",
+  "date": "2025-08-16",
+  "box_score": {
+    "game_info": {
+      "game_id": "401773009",
+      "date": "2025-08-16T23:00Z",
+      "status": {
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final"
+        },
+        "isTBDFlex": false
+      },
+      "venue": {},
+      "attendance": 0
+    },
+    "team_stats": {
+      "NYG": {
+        "score": 31,
+        "record": "0-0",
+        "home_away": "home"
+      },
+      "NYJ": {
+        "score": 12,
+        "record": "0-0",
+        "home_away": "away"
+      }
+    },
+    "player_stats": {
+      "Adrian Martinez_NYJ": {
+        "name": "Adrian Martinez",
+        "position": "",
+        "jersey": "15",
+        "team": "NYJ",
+        "stats": {
+          "0": "12/21",
+          "1": 114,
+          "2": 5.4,
+          "3": 0,
+          "4": 1,
+          "5": "0-0",
+          "6": 52.5
+        }
+      },
+      "Brady Cook_NYJ": {
+        "name": "Brady Cook",
+        "position": "",
+        "jersey": "4",
+        "team": "NYJ",
+        "stats": {
+          "0": "6/11",
+          "1": 74,
+          "2": 6.7,
+          "3": 1,
+          "4": 0,
+          "5": "0-0",
+          "6": 105.9
+        }
+      },
+      "Justin Fields_NYJ": {
+        "name": "Justin Fields",
+        "position": "",
+        "jersey": "7",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 5,
+          "2": 5.0,
+          "3": 0,
+          "4": 5
+        }
+      },
+      "Braelon Allen_NYJ": {
+        "name": "Braelon Allen",
+        "position": "",
+        "jersey": "0",
+        "team": "NYJ",
+        "stats": {
+          "0": 7,
+          "1": 34,
+          "2": 4.9,
+          "3": 0,
+          "4": 11
+        }
+      },
+      "Kene Nwangwu_NYJ": {
+        "name": "Kene Nwangwu",
+        "position": "",
+        "jersey": "34",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 38,
+          "2": 38.0,
+          "3": 38,
+          "4": 0
+        }
+      },
+      "Breece Hall_NYJ": {
+        "name": "Breece Hall",
+        "position": "",
+        "jersey": "20",
+        "team": "NYJ",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Lawrance Toafili_NYJ": {
+        "name": "Lawrance Toafili",
+        "position": "",
+        "jersey": "38",
+        "team": "NYJ",
+        "stats": {
+          "0": 4,
+          "1": 24,
+          "2": 6.0,
+          "3": 0,
+          "4": 15
+        }
+      },
+      "Donovan Edwards_NYJ": {
+        "name": "Donovan Edwards",
+        "position": "",
+        "jersey": "40",
+        "team": "NYJ",
+        "stats": {
+          "0": 3,
+          "1": 51,
+          "2": 17.0,
+          "3": 18,
+          "4": 0
+        }
+      },
+      "Quentin Skinner_NYJ": {
+        "name": "Quentin Skinner",
+        "position": "",
+        "jersey": "39",
+        "team": "NYJ",
+        "stats": {
+          "0": 4,
+          "1": 48,
+          "2": 12.0,
+          "3": 1,
+          "4": 22,
+          "5": 4
+        }
+      },
+      "Brandon Smith_NYJ": {
+        "name": "Brandon Smith",
+        "position": "",
+        "jersey": "87",
+        "team": "NYJ",
+        "stats": {
+          "0": 5,
+          "1": 48,
+          "2": 9.6,
+          "3": 0,
+          "4": 20,
+          "5": 6
+        }
+      },
+      "Arian Smith_NYJ": {
+        "name": "Arian Smith",
+        "position": "",
+        "jersey": "82",
+        "team": "NYJ",
+        "stats": {
+          "0": 2,
+          "1": 39,
+          "2": 19.5,
+          "3": 0,
+          "4": 23,
+          "5": 6
+        }
+      },
+      "Ontaria Wilson_NYJ": {
+        "name": "Ontaria Wilson",
+        "position": "",
+        "jersey": "81",
+        "team": "NYJ",
+        "stats": {
+          "0": 2,
+          "1": 26,
+          "2": 13.0,
+          "3": 0,
+          "4": 18,
+          "5": 3
+        }
+      },
+      "Stone Smartt_NYJ": {
+        "name": "Stone Smartt",
+        "position": "",
+        "jersey": "84",
+        "team": "NYJ",
+        "stats": {
+          "0": 2,
+          "1": 10,
+          "2": 5.0,
+          "3": 0,
+          "4": 7,
+          "5": 3
+        }
+      },
+      "Jamaal Pritchett_NYJ": {
+        "name": "Jamaal Pritchett",
+        "position": "",
+        "jersey": "36",
+        "team": "NYJ",
+        "stats": {
+          "0": 2,
+          "1": 7,
+          "2": 3.5,
+          "3": 4,
+          "4": 0
+        }
+      },
+      "Mason Taylor_NYJ": {
+        "name": "Mason Taylor",
+        "position": "",
+        "jersey": "85",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 4,
+          "2": 4.0,
+          "3": 0,
+          "4": 4,
+          "5": 1
+        }
+      },
+      "Garrett Wilson_NYJ": {
+        "name": "Garrett Wilson",
+        "position": "",
+        "jersey": "5",
+        "team": "NYJ",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 3
+        }
+      },
+      "Dymere Miller_NYJ": {
+        "name": "Dymere Miller",
+        "position": "",
+        "jersey": "35O",
+        "team": "NYJ",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Dean Clark_NYJ": {
+        "name": "Dean Clark",
+        "position": "",
+        "jersey": "35D",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "Zaire Barnes_NYJ": {
+        "name": "Zaire Barnes",
+        "position": "",
+        "jersey": "53",
+        "team": "NYJ",
+        "stats": {
+          "0": 5,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jarius Monroe_NYJ": {
+        "name": "Jarius Monroe",
+        "position": "",
+        "jersey": "25",
+        "team": "NYJ",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jarrick Bernard-Converse_NYJ": {
+        "name": "Jarrick Bernard-Converse",
+        "position": "",
+        "jersey": "29",
+        "team": "NYJ",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Malachi Moore_NYJ": {
+        "name": "Malachi Moore",
+        "position": "",
+        "jersey": "27",
+        "team": "NYJ",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Isaiah Oliver_NYJ": {
+        "name": "Isaiah Oliver",
+        "position": "",
+        "jersey": "26",
+        "team": "NYJ",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Mario Goodrich_NYJ": {
+        "name": "Mario Goodrich",
+        "position": "",
+        "jersey": "43",
+        "team": "NYJ",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Andre Cisco_NYJ": {
+        "name": "Andre Cisco",
+        "position": "",
+        "jersey": "8",
+        "team": "NYJ",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jamin Davis_NYJ": {
+        "name": "Jamin Davis",
+        "position": "",
+        "jersey": "52",
+        "team": "NYJ",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ja'Markis Weston_NYJ": {
+        "name": "Ja'Markis Weston",
+        "position": "",
+        "jersey": "54",
+        "team": "NYJ",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Qwan'tez Stiggers_NYJ": {
+        "name": "Qwan'tez Stiggers",
+        "position": "",
+        "jersey": "37",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "Derrick Nnadi_NYJ": {
+        "name": "Derrick Nnadi",
+        "position": "",
+        "jersey": "91",
+        "team": "NYJ",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tanner McCalister_NYJ": {
+        "name": "Tanner McCalister",
+        "position": "",
+        "jersey": "31",
+        "team": "NYJ",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Boog Smith_NYJ": {
+        "name": "Boog Smith",
+        "position": "",
+        "jersey": "48",
+        "team": "NYJ",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Bump Cooper_NYJ": {
+        "name": "Bump Cooper",
+        "position": "",
+        "jersey": "46",
+        "team": "NYJ",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kingsley Jonathan_NYJ": {
+        "name": "Kingsley Jonathan",
+        "position": "",
+        "jersey": "57",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 1,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Rashad Weaver_NYJ": {
+        "name": "Rashad Weaver",
+        "position": "",
+        "jersey": "99",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Marcelino McCrary-Ball_NYJ": {
+        "name": "Marcelino McCrary-Ball",
+        "position": "",
+        "jersey": "41",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Michael Carter II_NYJ": {
+        "name": "Michael Carter II",
+        "position": "",
+        "jersey": "30",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jay Tufele_NYJ": {
+        "name": "Jay Tufele",
+        "position": "",
+        "jersey": "78",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jamien Sherwood_NYJ": {
+        "name": "Jamien Sherwood",
+        "position": "",
+        "jersey": "44",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jordan Clark_NYJ": {
+        "name": "Jordan Clark",
+        "position": "",
+        "jersey": "33",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Neal Johnson_NYJ": {
+        "name": "Neal Johnson",
+        "position": "",
+        "jersey": "86",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Payton Page_NYJ": {
+        "name": "Payton Page",
+        "position": "",
+        "jersey": "69",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Leonard Taylor III_NYJ": {
+        "name": "Leonard Taylor III",
+        "position": "",
+        "jersey": "96",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tony Adams_NYJ": {
+        "name": "Tony Adams",
+        "position": "",
+        "jersey": "22",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jackson Sirmon_NYJ": {
+        "name": "Jackson Sirmon",
+        "position": "",
+        "jersey": "49",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Zack Kuntz_NYJ": {
+        "name": "Zack Kuntz",
+        "position": "",
+        "jersey": "88",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Braiden McGregor_NYJ": {
+        "name": "Braiden McGregor",
+        "position": "",
+        "jersey": "55",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Brandon Stephens_NYJ": {
+        "name": "Brandon Stephens",
+        "position": "",
+        "jersey": "21",
+        "team": "NYJ",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Phidarian Mathis_NYJ": {
+        "name": "Phidarian Mathis",
+        "position": "",
+        "jersey": "98",
+        "team": "NYJ",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Michael Fletcher_NYJ": {
+        "name": "Michael Fletcher",
+        "position": "",
+        "jersey": "97",
+        "team": "NYJ",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Xavier Gipson_NYJ": {
+        "name": "Xavier Gipson",
+        "position": "",
+        "jersey": "3",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 23,
+          "2": 23.0,
+          "3": 23,
+          "4": 0
+        }
+      },
+      "Malachi Corley_NYJ": {
+        "name": "Malachi Corley",
+        "position": "",
+        "jersey": "6",
+        "team": "NYJ",
+        "stats": {
+          "0": 1,
+          "1": 19,
+          "2": 19.0,
+          "3": 19,
+          "4": 0
+        }
+      },
+      "Nick Folk_NYJ": {
+        "name": "Nick Folk",
+        "position": "",
+        "jersey": "18",
+        "team": "NYJ",
+        "stats": {
+          "0": "2/2",
+          "1": 100.0,
+          "2": 38,
+          "3": "0/0",
+          "4": 6
+        }
+      },
+      "Austin McNamara_NYJ": {
+        "name": "Austin McNamara",
+        "position": "",
+        "jersey": "14",
+        "team": "NYJ",
+        "stats": {
+          "0": 6,
+          "1": 294,
+          "2": 49.0,
+          "3": 0,
+          "4": 3,
+          "5": 60
+        }
+      },
+      "Jaxson Dart_NYG": {
+        "name": "Jaxson Dart",
+        "position": "",
+        "jersey": "6",
+        "team": "NYG",
+        "stats": {
+          "0": 2,
+          "1": 5,
+          "2": 2.5,
+          "3": 1,
+          "4": 4
+        }
+      },
+      "Jameis Winston_NYG": {
+        "name": "Jameis Winston",
+        "position": "",
+        "jersey": "19",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 1.0,
+          "3": 1,
+          "4": 1
+        }
+      },
+      "Russell Wilson_NYG": {
+        "name": "Russell Wilson",
+        "position": "",
+        "jersey": "3",
+        "team": "NYG",
+        "stats": {
+          "0": "4/7",
+          "1": 108,
+          "2": 15.4,
+          "3": 0,
+          "4": 1,
+          "5": "0-0",
+          "6": 62.2
+        }
+      },
+      "Tommy DeVito_NYG": {
+        "name": "Tommy DeVito",
+        "position": "",
+        "jersey": "15",
+        "team": "NYG",
+        "stats": {
+          "0": "3/4",
+          "1": 52,
+          "2": 13.0,
+          "3": 0,
+          "4": 1,
+          "5": "0-0",
+          "6": 77.1
+        }
+      },
+      "Tyrone Tracy Jr._NYG": {
+        "name": "Tyrone Tracy Jr.",
+        "position": "",
+        "jersey": "29",
+        "team": "NYG",
+        "stats": {
+          "0": 7,
+          "1": 39,
+          "2": 5.6,
+          "3": 0,
+          "4": 12
+        }
+      },
+      "Dante Miller_NYG": {
+        "name": "Dante Miller",
+        "position": "",
+        "jersey": "25O",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 22,
+          "2": 22.0,
+          "3": 22,
+          "4": 0
+        }
+      },
+      "Jonathan Ward_NYG": {
+        "name": "Jonathan Ward",
+        "position": "",
+        "jersey": "23",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Devin Singletary_NYG": {
+        "name": "Devin Singletary",
+        "position": "",
+        "jersey": "26",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 1.0,
+          "3": 0,
+          "4": 1,
+          "5": 1
+        }
+      },
+      "Beaux Collins_NYG": {
+        "name": "Beaux Collins",
+        "position": "",
+        "jersey": "8O",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 80,
+          "2": 80.0,
+          "3": 0,
+          "4": 80,
+          "5": 3
+        }
+      },
+      "Dalen Cambre_NYG": {
+        "name": "Dalen Cambre",
+        "position": "",
+        "jersey": "5O",
+        "team": "NYG",
+        "stats": {
+          "0": 2,
+          "1": 45,
+          "2": 22.5,
+          "3": 0,
+          "4": 34,
+          "5": 3
+        }
+      },
+      "Jordan Bly_NYG": {
+        "name": "Jordan Bly",
+        "position": "",
+        "jersey": "12O",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 41,
+          "2": 41.0,
+          "3": 0,
+          "4": 41,
+          "5": 1
+        }
+      },
+      "Theo Johnson_NYG": {
+        "name": "Theo Johnson",
+        "position": "",
+        "jersey": "84",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 30,
+          "2": 30.0,
+          "3": 0,
+          "4": 30,
+          "5": 1
+        }
+      },
+      "Zach Pascal_NYG": {
+        "name": "Zach Pascal",
+        "position": "",
+        "jersey": "83",
+        "team": "NYG",
+        "stats": {
+          "0": 2,
+          "1": 27,
+          "2": 13.5,
+          "3": 0,
+          "4": 18,
+          "5": 2
+        }
+      },
+      "Jermaine Terry II_NYG": {
+        "name": "Jermaine Terry II",
+        "position": "",
+        "jersey": "48O",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 21,
+          "2": 21.0,
+          "3": 0,
+          "4": 21,
+          "5": 1
+        }
+      },
+      "Jalin Hyatt_NYG": {
+        "name": "Jalin Hyatt",
+        "position": "",
+        "jersey": "13",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 21,
+          "2": 21.0,
+          "3": 0,
+          "4": 21,
+          "5": 2
+        }
+      },
+      "Greg Dulcich_NYG": {
+        "name": "Greg Dulcich",
+        "position": "",
+        "jersey": "89",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 20,
+          "2": 20.0,
+          "3": 1,
+          "4": 20,
+          "5": 1
+        }
+      },
+      "Lil'Jordan Humphrey_NYG": {
+        "name": "Lil'Jordan Humphrey",
+        "position": "",
+        "jersey": "81",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 20,
+          "2": 6.7,
+          "3": 0,
+          "4": 12,
+          "5": 4
+        }
+      },
+      "Montrell Washington_NYG": {
+        "name": "Montrell Washington",
+        "position": "",
+        "jersey": "80",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 19,
+          "2": 19.0,
+          "3": 0,
+          "4": 19,
+          "5": 2
+        }
+      },
+      "Gunner Olszewski_NYG": {
+        "name": "Gunner Olszewski",
+        "position": "",
+        "jersey": "O",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 8,
+          "2": 8.0,
+          "3": 8,
+          "4": 0
+        }
+      },
+      "Juice Wells Jr._NYG": {
+        "name": "Juice Wells Jr.",
+        "position": "",
+        "jersey": "2O",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 13,
+          "2": 4.3,
+          "3": 0,
+          "4": 11,
+          "5": 5
+        }
+      },
+      "Wan'Dale Robinson_NYG": {
+        "name": "Wan'Dale Robinson",
+        "position": "",
+        "jersey": "17",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 6,
+          "2": 6.0,
+          "3": 0,
+          "4": 6,
+          "5": 2
+        }
+      },
+      "Thomas Fidone II_NYG": {
+        "name": "Thomas Fidone II",
+        "position": "",
+        "jersey": "86",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 3,
+          "2": 3.0,
+          "3": 0,
+          "4": 3,
+          "5": 1
+        }
+      },
+      "Dane Belton_NYG": {
+        "name": "Dane Belton",
+        "position": "",
+        "jersey": "24",
+        "team": "NYG",
+        "stats": {
+          "0": 7,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "TJ Moore_NYG": {
+        "name": "TJ Moore",
+        "position": "",
+        "jersey": "30",
+        "team": "NYG",
+        "stats": {
+          "0": 5,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "K.J. Cloyd_NYG": {
+        "name": "K.J. Cloyd",
+        "position": "",
+        "jersey": "48D",
+        "team": "NYG",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Roy Robertson-Harris_NYG": {
+        "name": "Roy Robertson-Harris",
+        "position": "",
+        "jersey": "95",
+        "team": "NYG",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Dyontae Johnson_NYG": {
+        "name": "Dyontae Johnson",
+        "position": "",
+        "jersey": "54",
+        "team": "NYG",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Chris Board_NYG": {
+        "name": "Chris Board",
+        "position": "",
+        "jersey": "49",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Raheem Layne_NYG": {
+        "name": "Raheem Layne",
+        "position": "",
+        "jersey": "43",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nic Jones_NYG": {
+        "name": "Nic Jones",
+        "position": "",
+        "jersey": "31",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Chauncey Golston_NYG": {
+        "name": "Chauncey Golston",
+        "position": "",
+        "jersey": "57",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kayvon Thibodeaux_NYG": {
+        "name": "Kayvon Thibodeaux",
+        "position": "",
+        "jersey": "5D",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Art Green_NYG": {
+        "name": "Art Green",
+        "position": "",
+        "jersey": "35",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Bobby Okereke_NYG": {
+        "name": "Bobby Okereke",
+        "position": "",
+        "jersey": "58",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jeremiah Ledbetter_NYG": {
+        "name": "Jeremiah Ledbetter",
+        "position": "",
+        "jersey": "96",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Elijah Garcia_NYG": {
+        "name": "Elijah Garcia",
+        "position": "",
+        "jersey": "90",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Makari Paige_NYG": {
+        "name": "Makari Paige",
+        "position": "",
+        "jersey": "38",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "Korie Black_NYG": {
+        "name": "Korie Black",
+        "position": "",
+        "jersey": "25D",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Tomon Fox_NYG": {
+        "name": "Tomon Fox",
+        "position": "",
+        "jersey": "45",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Micah McFadden_NYG": {
+        "name": "Micah McFadden",
+        "position": "",
+        "jersey": "41",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Brian Burns_NYG": {
+        "name": "Brian Burns",
+        "position": "",
+        "jersey": "D",
+        "team": "NYG",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Darius Muasau_NYG": {
+        "name": "Darius Muasau",
+        "position": "",
+        "jersey": "53",
+        "team": "NYG",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Elijah Chatman_NYG": {
+        "name": "Elijah Chatman",
+        "position": "",
+        "jersey": "94",
+        "team": "NYG",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Paulson Adebo_NYG": {
+        "name": "Paulson Adebo",
+        "position": "",
+        "jersey": "21",
+        "team": "NYG",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Trace Ford_NYG": {
+        "name": "Trace Ford",
+        "position": "",
+        "jersey": "46",
+        "team": "NYG",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Rakeem Nunez-Roches_NYG": {
+        "name": "Rakeem Nunez-Roches",
+        "position": "",
+        "jersey": "93",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cory Durden_NYG": {
+        "name": "Cory Durden",
+        "position": "",
+        "jersey": "69",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jordon Riley_NYG": {
+        "name": "Jordon Riley",
+        "position": "",
+        "jersey": "99D",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "D.J. Davidson_NYG": {
+        "name": "D.J. Davidson",
+        "position": "",
+        "jersey": "98",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jevon Holland_NYG": {
+        "name": "Jevon Holland",
+        "position": "",
+        "jersey": "8D",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Darius Alexander_NYG": {
+        "name": "Darius Alexander",
+        "position": "",
+        "jersey": "91",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Abdul Carter_NYG": {
+        "name": "Abdul Carter",
+        "position": "",
+        "jersey": "51",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cor'Dale Flott_NYG": {
+        "name": "Cor'Dale Flott",
+        "position": "",
+        "jersey": "28",
+        "team": "NYG",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Dee Williams_NYG": {
+        "name": "Dee Williams",
+        "position": "",
+        "jersey": "33",
+        "team": "NYG",
+        "stats": {
+          "0": 1,
+          "1": 7,
+          "2": 7.0,
+          "3": 7,
+          "4": 0
+        }
+      },
+      "Jude McAtamney_NYG": {
+        "name": "Jude McAtamney",
+        "position": "",
+        "jersey": "99S",
+        "team": "NYG",
+        "stats": {
+          "0": "1/1",
+          "1": 100.0,
+          "2": 35,
+          "3": "4/4",
+          "4": 7
+        }
+      },
+      "Jamie Gillan_NYG": {
+        "name": "Jamie Gillan",
+        "position": "",
+        "jersey": "12S",
+        "team": "NYG",
+        "stats": {
+          "0": 3,
+          "1": 135,
+          "2": 45.0,
+          "3": 0,
+          "4": 1,
+          "5": 52
+        }
+      }
+    },
+    "scoring_summary": []
+  },
+  "play_by_play": {
+    "game_info": {
+      "game_id": "401773009",
+      "teams": [
+        {
+          "abbreviation": "NYG",
+          "name": "New York Giants",
+          "score": 31,
+          "home_away": "home"
+        },
+        {
+          "abbreviation": "NYJ",
+          "name": "New York Jets",
+          "score": 12,
+          "home_away": "away"
+        }
+      ],
+      "final_score": {}
+    },
+    "drives": [
+      {
+        "id": "4017730091",
+        "team": "NYJ",
+        "plays_count": 10,
+        "result": "PUNT",
+        "yards": 12
+      },
+      {
+        "id": "4017730092",
+        "team": "NYG",
+        "plays_count": 6,
+        "result": "TD",
+        "yards": 93
+      },
+      {
+        "id": "4017730093",
+        "team": "NYJ",
+        "plays_count": 15,
+        "result": "FG",
+        "yards": 52
+      },
+      {
+        "id": "4017730094",
+        "team": "NYG",
+        "plays_count": 7,
+        "result": "PUNT",
+        "yards": 4
+      },
+      {
+        "id": "4017730095",
+        "team": "NYJ",
+        "plays_count": 9,
+        "result": "PUNT",
+        "yards": 28
+      },
+      {
+        "id": "4017730096",
+        "team": "NYG",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 27
+      },
+      {
+        "id": "4017730097",
+        "team": "NYJ",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 7
+      },
+      {
+        "id": "4017730098",
+        "team": "NYG",
+        "plays_count": 4,
+        "result": "INT",
+        "yards": 49
+      },
+      {
+        "id": "4017730099",
+        "team": "NYJ",
+        "plays_count": 5,
+        "result": "PUNT",
+        "yards": 0
+      },
+      {
+        "id": "40177300910",
+        "team": "NYG",
+        "plays_count": 4,
+        "result": "PUNT",
+        "yards": 4
+      },
+      {
+        "id": "40177300911",
+        "team": "NYJ",
+        "plays_count": 20,
+        "result": "FG",
+        "yards": 82
+      },
+      {
+        "id": "40177300912",
+        "team": "NYG",
+        "plays_count": 12,
+        "result": "TD",
+        "yards": 71
+      },
+      {
+        "id": "40177300913",
+        "team": "NYJ",
+        "plays_count": 6,
+        "result": "INT",
+        "yards": 23
+      },
+      {
+        "id": "40177300914",
+        "team": "NYG",
+        "plays_count": 13,
+        "result": "TD",
+        "yards": 55
+      },
+      {
+        "id": "40177300915",
+        "team": "NYJ",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 5
+      },
+      {
+        "id": "40177300916",
+        "team": "NYG",
+        "plays_count": 13,
+        "result": "FG",
+        "yards": 62
+      },
+      {
+        "id": "40177300917",
+        "team": "NYJ",
+        "plays_count": 15,
+        "result": "TD",
+        "yards": 89
+      },
+      {
+        "id": "40177300918",
+        "team": "NYG",
+        "plays_count": 12,
+        "result": "TD",
+        "yards": 65
+      },
+      {
+        "id": "40177300919",
+        "team": "NYJ",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": -1
+      },
+      {
+        "id": "40177300920",
+        "team": "NYG",
+        "plays_count": 4,
+        "result": "INT",
+        "yards": 52
+      },
+      {
+        "id": "40177300921",
+        "team": "NYJ",
+        "plays_count": 8,
+        "result": "END OF GAME",
+        "yards": 31
+      }
+    ],
+    "plays": [
+      {
+        "id": "40177300939",
+        "text": "J.McAtamney kicks 61 yards from NYG 35 to NYJ 4. K.Nwangwu to NYJ 42 for 38 yards (K.Black).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177300962",
+        "text": "J.Fields pass short left to M.Taylor pushed ob at NYJ 46 for 4 yards (D.Belton).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 1,
+        "clock": "14:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177300992",
+        "text": " B.Hall right tackle to NYG 49 for 5 yards (D.Belton).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 54,
+        "period": 1,
+        "clock": "14:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009114",
+        "text": "(Shotgun) B.Allen right guard to NYG 49 for no gain (R.Robertson-Harris; D.Belton).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 49,
+        "period": 1,
+        "clock": "13:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009136",
+        "text": "B.Allen right guard to NYG 46 for 3 yards (R.Robertson-Harris).",
+        "type": "Rush",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 49,
+        "period": 1,
+        "clock": "13:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009158",
+        "text": "(Shotgun) J.Fields pass incomplete short right to B.Hall [K.Thibodeaux].",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 46,
+        "period": 1,
+        "clock": "12:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009181",
+        "text": "(Shotgun) J.Fields pass incomplete short left to G.Wilson.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 46,
+        "period": 1,
+        "clock": "12:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009216",
+        "text": "(Shotgun) J.Fields pass incomplete short right to G.Wilson (P.Adebo).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 46,
+        "period": 1,
+        "clock": "12:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009239",
+        "text": "A.McNamara punts 39 yards to NYG 7, impetus ends at NYG 1, Center-T.Hennessy, downed by NYJ-M.McCrary-Ball.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 46,
+        "period": 1,
+        "clock": "12:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009249",
+        "text": "Official Timeout at 12:00.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 7,
+        "period": 1,
+        "clock": "12:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009259",
+        "text": "T.Tracy up the middle to NYG 9 for 2 yards (D.Nnadi).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 7,
+        "period": 1,
+        "clock": "12:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009288",
+        "text": "T.Tracy right guard to NYG 19 for 10 yards (T.Adams; A.Cisco).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 9,
+        "period": 1,
+        "clock": "11:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009310",
+        "text": "R.Wilson pass deep middle to B.Collins to NYJ 1 for 80 yards (A.Cisco).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 19,
+        "period": 1,
+        "clock": "10:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009335",
+        "text": "T.Tracy right guard to NYJ 1 for no gain (J.Davis).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 1,
+        "clock": "9:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009357",
+        "text": "D.Singletary right tackle for 1 yard, TOUCHDOWN. J.McAtamney extra point is GOOD, Center-C.Kreiter, Holder-J.Gillan.",
+        "type": "Rushing Touchdown",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 1,
+        "clock": "9:01",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773009388",
+        "text": "Official Timeout at 09:01.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "9:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009395",
+        "text": "J.McAtamney kicks 60 yards from NYG 35 to NYJ 5. X.Gipson to NYJ 28 for 23 yards (C.Golston).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 1,
+        "clock": "9:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009425",
+        "text": "B.Hall right end to NYJ 28 for no gain (B.Burns, A.Carter).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 1,
+        "clock": "8:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009447",
+        "text": "(Shotgun) B.Hall right end to NYJ 30 for 2 yards (R.Robertson-Harris).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 72,
+        "period": 1,
+        "clock": "8:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009469",
+        "text": "(Shotgun) B.Allen right guard to NYJ 41 for 11 yards (P.Adebo; J.Holland).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 70,
+        "period": 1,
+        "clock": "7:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009491",
+        "text": "(Shotgun) PENALTY on NYG-R.Nunez-Roches, Encroachment, 5 yards, enforced at NYJ 41 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 59,
+        "period": 1,
+        "clock": "7:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009515",
+        "text": "(Shotgun) B.Hall right tackle to NYJ 46 for no gain (K.Thibodeaux).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 5,
+        "yard_line": 54,
+        "period": 1,
+        "clock": "6:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009537",
+        "text": "B.Hall right guard to 50 for 4 yards (R.Nunez-Roches).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 54,
+        "period": 1,
+        "clock": "6:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009559",
+        "text": "(Shotgun) B.Allen left guard to NYG 45 for 5 yards (R.Robertson-Harris; M.McFadden).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 50,
+        "period": 1,
+        "clock": "5:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009581",
+        "text": "J.Fields scrambles up the middle to NYG 40 for 5 yards (B.Okereke; M.McFadden).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 1,
+        "clock": "5:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009603",
+        "text": "B.Hall right tackle to NYG 28 for 12 yards (D.Belton; P.Adebo).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 40,
+        "period": 1,
+        "clock": "4:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009625",
+        "text": "B.Hall left tackle to NYG 25 for 3 yards (E.Garcia; B.Burns).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 1,
+        "clock": "3:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009647",
+        "text": "(Shotgun) B.Allen left guard to NYG 20 for 5 yards (B.Okereke).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 25,
+        "period": 1,
+        "clock": "3:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009669",
+        "text": "(Shotgun) J.Fields pass incomplete short middle to G.Wilson (C.Flott).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 20,
+        "period": 1,
+        "clock": "2:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009692",
+        "text": "N.Folk 38 yard field goal is GOOD, Center-T.Hennessy, Holder-A.McNamara.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 20,
+        "period": 1,
+        "clock": "2:19",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401773009702",
+        "text": "Official Timeout at 02:19.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "2:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009712",
+        "text": "N.Folk kicks 62 yards from NYJ 35 to NYG 3. G.Olszewski to NYG 26 for 23 yards (Q.Stiggers).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "2:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009742",
+        "text": "PENALTY on NYG-T.Johnson, False Start, 5 yards, enforced at NYG 26 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 26,
+        "period": 1,
+        "clock": "2:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009766",
+        "text": "T.Tracy left guard to NYG 24 for 3 yards (A.Cisco).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 21,
+        "period": 1,
+        "clock": "2:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009788",
+        "text": "(Shotgun) R.Wilson pass short right to W.Robinson to NYG 30 for 6 yards (J.Sherwood).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 12,
+        "yard_line": 24,
+        "period": 1,
+        "clock": "1:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009813",
+        "text": "(Shotgun) R.Wilson pass incomplete short left to W.Robinson (B.Stephens).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 30,
+        "period": 1,
+        "clock": "0:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009836",
+        "text": "J.Gillan punts 52 yards to NYJ 18, Center-C.Kreiter. J.Pritchett to NYJ 21 for 3 yards (C.Golston; T.Fox).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 6,
+        "yard_line": 30,
+        "period": 1,
+        "clock": "0:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009849",
+        "text": "Official Timeout at 00:39.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 1,
+        "clock": "0:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009862",
+        "text": "B.Allen right tackle to NYJ 25 for 4 yards (K.Thibodeaux).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 1,
+        "clock": "0:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009894",
+        "text": "END QUARTER 1",
+        "type": "End Period",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 75,
+        "period": 1,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009914",
+        "text": " A.Martinez pass deep middle to B.Smith to NYJ 45 for 20 yards (M.McFadden; D.Muasau).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 75,
+        "period": 2,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009939",
+        "text": "B.Allen left tackle to NYJ 46 for 1 yard (R.Robertson-Harris).PENALTY on NYJ-K.Levao, Offensive Holding, 10 yards, enforced at NYJ 45 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 55,
+        "period": 2,
+        "clock": "14:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009972",
+        "text": "(Shotgun) A.Martinez pass short left to B.Smith to NYJ 43 for 8 yards (K.Thibodeaux; K.Black).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 20,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "13:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401773009997",
+        "text": "(Shotgun) B.Allen right guard to NYJ 49 for 6 yards (A.Green; E.Chatman).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 12,
+        "yard_line": 57,
+        "period": 2,
+        "clock": "13:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091019",
+        "text": "(Shotgun) A.Martinez pass incomplete short right to J.Pritchett.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 51,
+        "period": 2,
+        "clock": "12:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091042",
+        "text": "A.McNamara punts 47 yards to NYG 4, Center-T.Hennessy, out of bounds.PENALTY on NYG-R.Layne, Offensive Holding, 2 yards, enforced at NYG 4.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 6,
+        "yard_line": 51,
+        "period": 2,
+        "clock": "12:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091057",
+        "text": "Official Timeout at 12:23.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 2,
+        "period": 2,
+        "clock": "12:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091072",
+        "text": "R.Wilson pass deep right to J.Hyatt to NYG 23 for 21 yards (Q.Stiggers).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 2,
+        "period": 2,
+        "clock": "12:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091104",
+        "text": "E.Chatman reported in as eligible.  T.Tracy left guard to NYG 28 for 5 yards (J.Davis).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 23,
+        "period": 2,
+        "clock": "11:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091126",
+        "text": "(Shotgun) R.Wilson pass incomplete deep left to J.Hyatt.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 28,
+        "period": 2,
+        "clock": "11:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091149",
+        "text": "(Shotgun) R.Wilson pass short left to D.Singletary to NYG 29 for 1 yard (M.Carter).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 28,
+        "period": 2,
+        "clock": "11:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091174",
+        "text": "J.Gillan punts 46 yards to NYJ 25, Center-C.Kreiter. J.Pritchett ran ob at NYJ 29 for 4 yards (D.Belton).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 4,
+        "yard_line": 29,
+        "period": 2,
+        "clock": "10:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091190",
+        "text": "Official Timeout at 10:11.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 73,
+        "period": 2,
+        "clock": "10:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091205",
+        "text": "A.Martinez pass short left to B.Smith to NYJ 29 for no gain (B.Okereke; D.Belton).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 71,
+        "period": 2,
+        "clock": "10:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091239",
+        "text": "(Shotgun) K.Nwangwu left guard to NYJ 36 for 7 yards (K.Black; D.Belton).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 71,
+        "period": 2,
+        "clock": "9:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091261",
+        "text": "(Shotgun) A.Martinez pass incomplete short middle to B.Smith.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 64,
+        "period": 2,
+        "clock": "8:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091284",
+        "text": "A.McNamara punts 48 yards to NYG 16, Center-T.Hennessy, fair catch by D.Williams.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 64,
+        "period": 2,
+        "clock": "8:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091294",
+        "text": "Official Timeout at 08:38.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 16,
+        "period": 2,
+        "clock": "8:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091304",
+        "text": "T.Tracy right end pushed ob at NYG 28 for 12 yards (M.McCrary-Ball).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 16,
+        "period": 2,
+        "clock": "8:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091338",
+        "text": "J.Dart pass short right to T.Johnson to NYJ 42 for 30 yards (I.Oliver).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 2,
+        "clock": "7:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091363",
+        "text": "E.Chatman reported in as eligible.  T.Tracy right guard to NYJ 35 for 7 yards (J.Tufele).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 2,
+        "clock": "7:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091400",
+        "text": "R.Wilson pass deep right intended for B.Collins INTERCEPTED by Q.Stiggers at NYJ 0. Touchback.",
+        "type": "Pass Interception Return",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "6:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091428",
+        "text": "(Shotgun) A.Martinez pass incomplete short left to Ar.Smith.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 2,
+        "clock": "6:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091452",
+        "text": "(Shotgun) A.Martinez pass incomplete short left to J.Pritchett.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 2,
+        "clock": "6:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091475",
+        "text": "(Shotgun) A.Martinez pass incomplete deep left to Ar.Smith (R.Layne).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 2,
+        "clock": "6:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091498",
+        "text": "A.McNamara punts 41 yards to NYG 39, Center-T.Hennessy, fair catch by D.Williams.PENALTY on NYJ-J.Bernard-Converse, Fair Catch Interference, 15 yards, enforced at NYG 39.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 2,
+        "clock": "6:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091515",
+        "text": "Official Timeout at 05:56.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 2,
+        "clock": "5:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091532",
+        "text": "D.Singletary right tackle to NYJ 42 for 4 yards (M.Moore).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 2,
+        "clock": "5:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091565",
+        "text": "(Shotgun) J.Dart pass incomplete deep right to B.Collins [P.Mathis].",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 58,
+        "period": 2,
+        "clock": "5:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091588",
+        "text": "(Shotgun) J.Dart sacked at NYJ 42 for 0 yards (K.Jonathan).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 58,
+        "period": 2,
+        "clock": "5:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091608",
+        "text": "J.Gillan punts 37 yards to NYJ 5, Center-C.Kreiter, downed by NYG-D.Miller.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 6,
+        "yard_line": 58,
+        "period": 2,
+        "clock": "4:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091628",
+        "text": "K.Nwangwu left guard to NYJ 11 for 6 yards (C.Board).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 95,
+        "period": 2,
+        "clock": "4:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091650",
+        "text": "K.Nwangwu left guard to NYJ 14 for 3 yards (C.Golston).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 89,
+        "period": 2,
+        "clock": "3:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091672",
+        "text": "(Shotgun) K.Nwangwu left guard to NYJ 18 for 4 yards (D.Alexander; D.Davidson).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 86,
+        "period": 2,
+        "clock": "2:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091694",
+        "text": "(Shotgun) A.Martinez pass short left to D.Edwards to NYJ 25 for 7 yards (D.Muasau).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 82,
+        "period": 2,
+        "clock": "2:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091707",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 75,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091719",
+        "text": "(Shotgun) A.Martinez pass short middle to J.Pritchett to NYJ 34 for 9 yards (A.Green).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 75,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091751",
+        "text": "(Shotgun) A.Martinez pass short middle to S.Smartt to NYJ 41 for 7 yards (C.Board).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 66,
+        "period": 2,
+        "clock": "1:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091776",
+        "text": "(No Huddle, Shotgun) A.Martinez pass short left to J.Pritchett to NYJ 42 for 1 yard (N.Jones).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 59,
+        "period": 2,
+        "clock": "1:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091801",
+        "text": "(No Huddle, Shotgun) A.Martinez pass deep middle to Ar.Smith to NYG 35 for 23 yards (T.Moore).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 58,
+        "period": 2,
+        "clock": "0:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091814",
+        "text": "Timeout #1 by NYJ at 00:34.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091826",
+        "text": "(Shotgun) A.Martinez pass incomplete short left to D.Edwards (T.Ford).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091856",
+        "text": "(Shotgun) A.Martinez pass short right to S.Smartt to NYG 32 for 3 yards (N.Jones).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091869",
+        "text": "Timeout #2 by NYJ at 00:24.",
+        "type": "Timeout",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 32,
+        "period": 2,
+        "clock": "0:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091881",
+        "text": "(Shotgun) A.Martinez pass deep middle to Ar.Smith to NYG 16 for 16 yards (T.Moore).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 32,
+        "period": 2,
+        "clock": "0:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091897",
+        "text": "Timeout #3 by NYJ at 00:18.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 16,
+        "period": 2,
+        "clock": "0:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091905",
+        "text": "Timeout #1 by NYG at 00:18.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 16,
+        "period": 2,
+        "clock": "0:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091913",
+        "text": "(Shotgun) A.Martinez pass short right to B.Smith to NYG 13 for 3 yards (T.Moore).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 16,
+        "period": 2,
+        "clock": "0:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091952",
+        "text": "A.Martinez spiked the ball to stop the clock.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 13,
+        "period": 2,
+        "clock": "0:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730091975",
+        "text": " N.Folk 31 yard field goal is GOOD, Center-T.Hennessy, Holder-A.McNamara.",
+        "type": "Field Goal Good",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 13,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730091995",
+        "text": "END QUARTER 2",
+        "type": "End of Half",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092013",
+        "text": "H.Mevis kicks 58 yards from NYJ 35 to NYG 7. D.Miller to NYG 29 for 22 yards (N.Johnson).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092036",
+        "text": "(Shotgun) J.Dart pass incomplete short left to L.Humphrey (J.Bernard-Converse).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 29,
+        "period": 3,
+        "clock": "14:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092059",
+        "text": "(Shotgun) D.Miller left tackle to NYG 35 for 6 yards (D.Nnadi; D.Clark).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 29,
+        "period": 3,
+        "clock": "14:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092081",
+        "text": "(Shotgun) J.Dart pass short left to D.Miller to NYG 47 for 12 yards (Aa.Smith).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "14:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092106",
+        "text": "(No Huddle, Shotgun) J.Dart pass deep middle to M.Washington to NYJ 34 for 19 yards (D.Clark).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 3,
+        "clock": "13:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092135",
+        "text": "(No Huddle) D.Miller left tackle to NYJ 33 for 1 yard (R.Weaver).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 66,
+        "period": 3,
+        "clock": "13:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092157",
+        "text": "(No Huddle, Shotgun) J.Dart pass short left to L.Humphrey to NYJ 28 for 5 yards (J.Bernard-Converse).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 67,
+        "period": 3,
+        "clock": "12:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092182",
+        "text": "(No Huddle, Shotgun) J.Dart pass short right to D.Miller to NYJ 22 for 6 yards (R.Cooper).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 72,
+        "period": 3,
+        "clock": "12:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092197",
+        "text": "Timeout #1 by NYG at 11:46.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 78,
+        "period": 3,
+        "clock": "11:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092211",
+        "text": "J.Ward right tackle to NYJ 20 for 2 yards (L.Taylor).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 78,
+        "period": 3,
+        "clock": "11:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092240",
+        "text": "(No Huddle, Shotgun) J.Dart pass short middle to G.Dulcich for 20 yards, TOUCHDOWN. J.McAtamney extra point is GOOD, Center-C.Kreiter, Holder-J.Gillan.",
+        "type": "Passing Touchdown",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 80,
+        "period": 3,
+        "clock": "11:12",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730092274",
+        "text": "Official Timeout at 11:12.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "11:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092281",
+        "text": "J.McAtamney kicks 59 yards from NYG 35 to NYJ 6. D.Edwards to NYJ 23 for 17 yards (T.Fox; D.Miller).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "11:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092311",
+        "text": "A.Martinez pass short middle to B.Smith to NYJ 40 for 17 yards (C.Board).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 77,
+        "period": 3,
+        "clock": "11:05",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092336",
+        "text": "K.Nwangwu left end pushed ob at NYJ 46 for 6 yards (M.Paige).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 60,
+        "period": 3,
+        "clock": "10:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092363",
+        "text": "A.Martinez pass incomplete deep left to Ar.Smith.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 54,
+        "period": 3,
+        "clock": "9:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092386",
+        "text": "(Shotgun) A.Martinez pass short right intended for S.Smartt INTERCEPTED by M.Paige at NYG 45. M.Paige to NYG 45 for no gain (J.Pritchett).",
+        "type": "Pass Interception Return",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 54,
+        "period": 3,
+        "clock": "9:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092400",
+        "text": "Official Timeout at 09:29.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 3,
+        "clock": "9:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092413",
+        "text": "J.Dart pass short left to T.Fidone to NYG 48 for 3 yards (Z.Barnes) [R.Weaver].",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 3,
+        "clock": "9:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092445",
+        "text": "(No Huddle, Shotgun) J.Dart pass short left to G.Olszewski pushed ob at NYJ 44 for 8 yards (Z.Barnes).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 48,
+        "period": 3,
+        "clock": "9:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092475",
+        "text": "(No Huddle, Shotgun) J.Dart pass short right to A.Wells to NYJ 40 for 4 yards (I.Oliver).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 56,
+        "period": 3,
+        "clock": "8:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092500",
+        "text": "(No Huddle, Shotgun) J.Dart pass short left to A.Wells to NYJ 42 for -2 yards (J.Bernard-Converse; D.Clark).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 60,
+        "period": 3,
+        "clock": "8:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092525",
+        "text": "(No Huddle, Shotgun) J.Dart pass short middle to D.Miller to NYJ 33 for 9 yards (Aa.Smith; Z.Barnes).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 58,
+        "period": 3,
+        "clock": "7:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092550",
+        "text": "(No Huddle, Shotgun) J.Dart pass short left to L.Humphrey to NYJ 30 for 3 yards (M.Moore; B.McGregor).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 67,
+        "period": 3,
+        "clock": "7:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092575",
+        "text": "(No Huddle, Shotgun) J.Dart scrambles up the middle to NYJ 26 for 4 yards (Z.Barnes).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 70,
+        "period": 3,
+        "clock": "6:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092597",
+        "text": "(No Huddle) D.Miller right tackle to NYJ 21 for 5 yards (I.Oliver).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 74,
+        "period": 3,
+        "clock": "6:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092619",
+        "text": "(No Huddle, Shotgun) J.Dart pass short middle to G.Olszewski to NYJ 12 for 9 yards (Z.Barnes).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 3,
+        "clock": "5:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092644",
+        "text": "(No Huddle) J.Dart pass short right to A.Wells to NYJ 1 for 11 yards (M.Moore; J.Bernard-Converse).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 88,
+        "period": 3,
+        "clock": "5:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092669",
+        "text": "(No Huddle) D.Miller left tackle to NYJ 1 for no gain (J.Bernard-Converse).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 3,
+        "clock": "4:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092691",
+        "text": "(No Huddle) J.Dart up the middle for 1 yard, TOUCHDOWN. J.McAtamney extra point is GOOD, Center-C.Kreiter, Holder-J.Gillan.",
+        "type": "Rushing Touchdown",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 3,
+        "clock": "4:08",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730092722",
+        "text": "Official Timeout at 04:08.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "4:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092729",
+        "text": "J.McAtamney kicks 52 yards from NYG 35 to NYJ 13. D.Edwards pushed ob at NYJ 29 for 16 yards (N.Jones).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "4:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092764",
+        "text": "K.Nwangwu right tackle to NYJ 34 for 5 yards (D.Johnson; T.Ford).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 71,
+        "period": 3,
+        "clock": "4:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092786",
+        "text": " (Shotgun) B.Cook pass incomplete deep left to Ar.Smith (T.Moore) [N.Jones].",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 66,
+        "period": 3,
+        "clock": "3:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092809",
+        "text": "(Shotgun) B.Cook pass incomplete short right to J.Pritchett.Penalty on NYJ-C.Okorafor, Offensive Holding, declined.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 66,
+        "period": 3,
+        "clock": "3:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092843",
+        "text": "A.McNamara punts 53 yards to NYG 13, Center-T.Hennessy. G.Olszewski pushed ob at NYG 21 for 8 yards (M.Moore; J.Sirmon).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 5,
+        "yard_line": 66,
+        "period": 3,
+        "clock": "3:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092856",
+        "text": "Official Timeout at 03:04.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 21,
+        "period": 3,
+        "clock": "3:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092869",
+        "text": "PENALTY on NYG-A.Schlottmann, False Start, 5 yards, enforced at NYG 21 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 21,
+        "period": 3,
+        "clock": "3:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092900",
+        "text": "J.Ward left end pushed ob at NYG 24 for 8 yards (J.Monroe).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 16,
+        "period": 3,
+        "clock": "3:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092927",
+        "text": "(No Huddle, Shotgun) J.Winston pass short right to L.Humphrey to NYG 36 for 12 yards (M.Goodrich; T.McCalister).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 24,
+        "period": 3,
+        "clock": "2:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092952",
+        "text": "(No Huddle, Shotgun) J.Winston pass incomplete short right to G.Olszewski.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 36,
+        "period": 3,
+        "clock": "2:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730092975",
+        "text": "(No Huddle, Shotgun) J.Winston pass short left to J.Terry pushed ob at NYJ 43 for 21 yards (D.Clark; J.Monroe).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 36,
+        "period": 3,
+        "clock": "2:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093005",
+        "text": "(No Huddle, Shotgun) J.Winston pass incomplete short left to L.Humphrey.PENALTY on NYJ-J.Monroe, Defensive Pass Interference, 6 yards, enforced at NYJ 43 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 57,
+        "period": 3,
+        "clock": "1:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093048",
+        "text": "(Shotgun) J.Winston pass deep right to D.Cambre to NYJ 3 for 34 yards (M.Goodrich).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 63,
+        "period": 3,
+        "clock": "1:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093073",
+        "text": "(No Huddle) J.Winston sacked at NYJ 12 for -9 yards (D.Clark).",
+        "type": "Sack",
+        "down": 1,
+        "distance": 3,
+        "yard_line": 97,
+        "period": 3,
+        "clock": "1:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093093",
+        "text": "(No Huddle, Shotgun) J.Winston pass incomplete short middle to A.Wells.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 12,
+        "yard_line": 88,
+        "period": 3,
+        "clock": "0:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093116",
+        "text": "(Shotgun) PENALTY on NYG, Delay of Game, 5 yards, enforced at NYJ 12 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 12,
+        "yard_line": 88,
+        "period": 3,
+        "clock": "0:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093140",
+        "text": "(Shotgun) J.Winston pass incomplete deep middle to A.Wells (D.Clark).",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 17,
+        "yard_line": 83,
+        "period": 3,
+        "clock": "0:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093163",
+        "text": " J.McAtamney 35 yard field goal is GOOD, Center-C.Kreiter, Holder-J.Gillan.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 17,
+        "yard_line": 83,
+        "period": 3,
+        "clock": "0:22",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730093173",
+        "text": "Official Timeout at 00:22.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "0:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093183",
+        "text": "J.McAtamney kicks 61 yards from NYG 35 to NYJ 4. D.Edwards to NYJ 22 for 18 yards (J.Ward; M.Paige).PENALTY on NYJ-M.Corley, Illegal Double-Team Block, 11 yards, enforced at NYJ 22.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "0:22",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093225",
+        "text": "D.Edwards left guard to NYJ 14 for 3 yards (E.Garcia).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 89,
+        "period": 3,
+        "clock": "0:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093247",
+        "text": "END QUARTER 3",
+        "type": "End Period",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 86,
+        "period": 3,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093267",
+        "text": "(Shotgun) B.Cook pass short middle to Q.Skinner to NYJ 20 for 6 yards (K.Cloyd).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 86,
+        "period": 4,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093292",
+        "text": "(Shotgun) D.Edwards left guard to NYJ 22 for 2 yards (J.Riley; M.Paige). NYJ-D.Edwards was injured during the play.",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "14:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093314",
+        "text": "L.Toafili right tackle to NYJ 28 for 6 yards (T.Fox; D.Johnson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 78,
+        "period": 4,
+        "clock": "13:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093344",
+        "text": "B.Cook pass short right to Q.Skinner to NYJ 44 for 16 yards (K.Cloyd).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 72,
+        "period": 4,
+        "clock": "13:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093369",
+        "text": "B.Cook pass short left to O.Wilson to NYG 38 for 18 yards (T.Moore; K.Cloyd).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 56,
+        "period": 4,
+        "clock": "12:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093406",
+        "text": "B.Cook pass deep right to Q.Skinner to NYG 16 for 22 yards (R.Layne). ** Injury Update: NYJ-D.Edwards has returned to the game.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 38,
+        "period": 4,
+        "clock": "11:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093431",
+        "text": "B.Cook pass incomplete short right.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 16,
+        "period": 4,
+        "clock": "11:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093457",
+        "text": "(Shotgun) B.Cook pass short right to O.Wilson to NYG 8 for 8 yards (A.Green).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 16,
+        "period": 4,
+        "clock": "10:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093482",
+        "text": "D.Edwards up the middle to NYG 4 for 4 yards (E.Chatman).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 2,
+        "yard_line": 8,
+        "period": 4,
+        "clock": "10:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093504",
+        "text": "(Shotgun) D.Edwards right guard to NYG 4 for no gain (D.Johnson; T.Ford).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 4,
+        "yard_line": 4,
+        "period": 4,
+        "clock": "9:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093526",
+        "text": "(Shotgun) B.Cook pass short left to Q.Skinner for 4 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. B.Cook pass to O.Wilson is incomplete. ATTEMPT FAILS.",
+        "type": "Passing Touchdown",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 4,
+        "period": 4,
+        "clock": "8:50",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730093568",
+        "text": "Official Timeout at 08:50.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "8:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093574",
+        "text": "H.Mevis kicks 65 yards from NYJ 35 to end zone, Touchback to the NYG 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "8:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093598",
+        "text": "(Shotgun) J.Winston pass short middle to D.Miller pushed ob at NYJ 49 for 16 yards (D.Clark).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "8:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093628",
+        "text": "(No Huddle, Shotgun) D.Miller left end to NYJ 44 for 5 yards (J.Weston).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 51,
+        "period": 4,
+        "clock": "8:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093650",
+        "text": "(No Huddle) J.Winston pass incomplete deep middle to D.Cambre (J.Monroe).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 56,
+        "period": 4,
+        "clock": "7:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093673",
+        "text": "(No Huddle, Shotgun) J.Winston pass short middle to Z.Pascal to NYJ 35 for 9 yards (T.McCalister).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 56,
+        "period": 4,
+        "clock": "7:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093698",
+        "text": "(No Huddle, Shotgun) J.Winston pass short middle to Z.Pascal pushed ob at NYJ 17 for 18 yards (M.Goodrich).PENALTY on NYJ-E.Watts, Roughing the Passer, 9 yards, enforced at NYJ 17.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 4,
+        "clock": "7:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093739",
+        "text": "J.Ward right end to NYJ 8 for no gain (J.Monroe).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 8,
+        "yard_line": 92,
+        "period": 4,
+        "clock": "7:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093761",
+        "text": "(No Huddle) J.Winston pass incomplete short right.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 92,
+        "period": 4,
+        "clock": "6:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093784",
+        "text": "(No Huddle, Shotgun) J.Winston pass incomplete short left to A.Wells.PENALTY on NYJ-J.Clark, Defensive Holding, 4 yards, enforced at NYJ 8 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 92,
+        "period": 4,
+        "clock": "6:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093818",
+        "text": "(No Huddle) J.Ward right guard to NYJ 1 for 3 yards (P.Page).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 4,
+        "clock": "6:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093840",
+        "text": "J.Winston up the middle for 1 yard, TOUCHDOWN. J.McAtamney extra point is GOOD, Center-C.Kreiter, Holder-J.Gillan.",
+        "type": "Rushing Touchdown",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 4,
+        "clock": "5:46",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017730093871",
+        "text": "Official Timeout at 05:46.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "5:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093878",
+        "text": "J.McAtamney kicks 54 yards from NYG 35 to NYJ 11. M.Corley to NYJ 36 for 25 yards (R.Layne).PENALTY on NYJ-D.Clark, Offensive Holding, 10 yards, enforced at NYJ 30.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "5:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093919",
+        "text": "(Shotgun) B.Cook pass incomplete deep right to D.Miller (D.Williams).",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "5:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093942",
+        "text": "(Shotgun) B.Cook pass incomplete short middle to O.Wilson.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "5:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093965",
+        "text": "(Shotgun) D.Edwards up the middle to NYJ 19 for -1 yards (K.Cloyd).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "5:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730093987",
+        "text": "A.McNamara punts 60 yards to NYG 21, Center-T.Hennessy. D.Williams to NYG 28 for 7 yards (Z.Kuntz; R.Cooper).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 11,
+        "yard_line": 81,
+        "period": 4,
+        "clock": "4:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730094000",
+        "text": "Official Timeout at 04:36.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 4,
+        "clock": "4:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730094013",
+        "text": "(Shotgun) T.DeVito pass short left to J.Ward pushed ob at NYG 28 for no gain (J.Clark) [M.Fletcher].",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 4,
+        "clock": "4:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730094050",
+        "text": "(No Huddle, Shotgun) T.DeVito pass deep middle to J.Bly to NYJ 31 for 41 yards (J.Monroe).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 4,
+        "clock": "4:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730094075",
+        "text": "(No Huddle, Shotgun) T.DeVito pass short right to D.Cambre to NYJ 20 for 11 yards (J.Weston).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 4,
+        "clock": "3:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730094100",
+        "text": "(No Huddle, Shotgun) T.DeVito pass deep middle intended for M.Washington INTERCEPTED by D.Clark (J.Sirmon) at NYJ -6. Touchback.",
+        "type": "Pass Interception Return",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "3:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730094128",
+        "text": "D.Edwards right tackle to NYJ 21 for 1 yard (J.Ledbetter; C.Durden).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 80,
+        "period": 4,
+        "clock": "3:24",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730094150",
+        "text": "L.Toafili right guard to NYJ 24 for 3 yards (E.Garcia; J.Ledbetter).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 79,
+        "period": 4,
+        "clock": "2:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730094161",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 76,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730094172",
+        "text": "(Shotgun) D.Edwards left end pushed ob at NYJ 31 for 7 yards (T.Moore).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 76,
+        "period": 4,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730094206",
+        "text": "(Shotgun) L.Toafili left tackle to NYJ 31 for no gain (J.Ledbetter).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 4,
+        "clock": "1:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730094228",
+        "text": "L.Toafili left guard to NYJ 46 for 15 yards (R.Layne).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 69,
+        "period": 4,
+        "clock": "1:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730094250",
+        "text": "(Shotgun) D.Edwards right tackle to NYG 49 for 5 yards (D.Johnson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 54,
+        "period": 4,
+        "clock": "0:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017730094272",
+        "text": "END GAME",
+        "type": "End of Game",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 49,
+        "period": 4,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      }
+    ],
+    "scoring_plays": [],
+    "touchdowns": [
+      {
+        "play_id": "401773009357",
+        "text": "D.Singletary right tackle for 1 yard, TOUCHDOWN. J.McAtamney extra point is GOOD, Center-C.Kreiter, Holder-J.Gillan.",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730092240",
+        "text": "(No Huddle, Shotgun) J.Dart pass short middle to G.Dulcich for 20 yards, TOUCHDOWN. J.McAtamney extra point is GOOD, Center-C.Kreiter, Holder-J.Gillan.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730092691",
+        "text": "(No Huddle) J.Dart up the middle for 1 yard, TOUCHDOWN. J.McAtamney extra point is GOOD, Center-C.Kreiter, Holder-J.Gillan.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730093526",
+        "text": "(Shotgun) B.Cook pass short left to Q.Skinner for 4 yards, TOUCHDOWN. TWO-POINT CONVERSION ATTEMPT. B.Cook pass to O.Wilson is incomplete. ATTEMPT FAILS.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730093840",
+        "text": "J.Winston up the middle for 1 yard, TOUCHDOWN. J.McAtamney extra point is GOOD, Center-C.Kreiter, Holder-J.Gillan.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      }
+    ],
+    "interceptions": [
+      {
+        "play_id": "4017730091400",
+        "text": "R.Wilson pass deep right intended for B.Collins INTERCEPTED by Q.Stiggers at NYJ 0. Touchback.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730092386",
+        "text": "(Shotgun) A.Martinez pass short right intended for S.Smartt INTERCEPTED by M.Paige at NYG 45. M.Paige to NYG 45 for no gain (J.Pritchett).",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017730094100",
+        "text": "(No Huddle, Shotgun) T.DeVito pass deep middle intended for M.Washington INTERCEPTED by D.Clark (J.Sirmon) at NYJ -6. Touchback.",
+        "team": "",
+        "period": 4,
+        "players_involved": []
+      }
+    ],
+    "fumbles": []
+  },
+  "processing_timestamp": "2025-08-20T10:50:25.330030"
+}

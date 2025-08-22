@@ -1,0 +1,4001 @@
+{
+  "game_id": "401774636",
+  "date": "2025-08-10",
+  "box_score": {
+    "game_info": {
+      "game_id": "401774636",
+      "date": "2025-08-10T00:00Z",
+      "status": {
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final"
+        },
+        "isTBDFlex": false
+      },
+      "venue": {},
+      "attendance": 0
+    },
+    "team_stats": {
+      "ARI": {
+        "score": 20,
+        "record": "0-0",
+        "home_away": "home"
+      },
+      "KC": {
+        "score": 17,
+        "record": "0-0",
+        "home_away": "away"
+      }
+    },
+    "player_stats": {
+      "Bailey Zappe_KC": {
+        "name": "Bailey Zappe",
+        "position": "",
+        "jersey": "14O",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 1.0,
+          "3": 0,
+          "4": 3
+        }
+      },
+      "Gardner Minshew_KC": {
+        "name": "Gardner Minshew",
+        "position": "",
+        "jersey": "17",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "Chris Oladokun_KC": {
+        "name": "Chris Oladokun",
+        "position": "",
+        "jersey": "19",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 1
+        }
+      },
+      "Patrick Mahomes_KC": {
+        "name": "Patrick Mahomes",
+        "position": "",
+        "jersey": "15",
+        "team": "KC",
+        "stats": {
+          "0": "1/1",
+          "1": 1,
+          "2": 1.0,
+          "3": 1,
+          "4": 0,
+          "5": "0-0",
+          "6": 118.8
+        }
+      },
+      "Carson Steele_KC": {
+        "name": "Carson Steele",
+        "position": "",
+        "jersey": "42O",
+        "team": "KC",
+        "stats": {
+          "0": 3,
+          "1": 15,
+          "2": 5.0,
+          "3": 0,
+          "4": 9
+        }
+      },
+      "Kareem Hunt_KC": {
+        "name": "Kareem Hunt",
+        "position": "",
+        "jersey": "29",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 5,
+          "2": 5.0,
+          "3": 0,
+          "4": 5,
+          "5": 2
+        }
+      },
+      "Elijah Mitchell_KC": {
+        "name": "Elijah Mitchell",
+        "position": "",
+        "jersey": "25O",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 13,
+          "2": 13.0,
+          "3": 0,
+          "4": 13,
+          "5": 1
+        }
+      },
+      "Brashard Smith_KC": {
+        "name": "Brashard Smith",
+        "position": "",
+        "jersey": "30O",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": -6,
+          "2": -6.0,
+          "3": 0,
+          "4": -6,
+          "5": 1
+        }
+      },
+      "Isiah Pacheco_KC": {
+        "name": "Isiah Pacheco",
+        "position": "",
+        "jersey": "10",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 8,
+          "2": 8.0,
+          "3": 0,
+          "4": 8
+        }
+      },
+      "Elijah Young_KC": {
+        "name": "Elijah Young",
+        "position": "",
+        "jersey": "34O",
+        "team": "KC",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Robert Tonyan_KC": {
+        "name": "Robert Tonyan",
+        "position": "",
+        "jersey": "85",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nikko Remigio_KC": {
+        "name": "Nikko Remigio",
+        "position": "",
+        "jersey": "81",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 48,
+          "2": 48.0,
+          "3": 48,
+          "4": 0
+        }
+      },
+      "Elijhah Badger_KC": {
+        "name": "Elijhah Badger",
+        "position": "",
+        "jersey": "80",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 16,
+          "2": 8.0,
+          "3": 0,
+          "4": 18,
+          "5": 2
+        }
+      },
+      "Tyquan Thornton_KC": {
+        "name": "Tyquan Thornton",
+        "position": "",
+        "jersey": "2O",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 7,
+          "2": 7.0,
+          "3": 7,
+          "4": 0
+        }
+      },
+      "Jalen Royals_KC": {
+        "name": "Jalen Royals",
+        "position": "",
+        "jersey": "11",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 26,
+          "2": 26.0,
+          "3": 26,
+          "4": 0
+        }
+      },
+      "Jimmy Holiday_KC": {
+        "name": "Jimmy Holiday",
+        "position": "",
+        "jersey": "82",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 10,
+          "2": 5.0,
+          "3": 0,
+          "4": 9,
+          "5": 3
+        }
+      },
+      "Key'Shawn Smith_KC": {
+        "name": "Key'Shawn Smith",
+        "position": "",
+        "jersey": "8O",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 8,
+          "2": 8.0,
+          "3": 0,
+          "4": 8,
+          "5": 3
+        }
+      },
+      "Hal Presley_KC": {
+        "name": "Hal Presley",
+        "position": "",
+        "jersey": "13O",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 8,
+          "2": 8.0,
+          "3": 0,
+          "4": 8,
+          "5": 3
+        }
+      },
+      "Mac Dalena_KC": {
+        "name": "Mac Dalena",
+        "position": "",
+        "jersey": "84",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 5,
+          "2": 5.0,
+          "3": 0,
+          "4": 5,
+          "5": 3
+        }
+      },
+      "Jared Wiley_KC": {
+        "name": "Jared Wiley",
+        "position": "",
+        "jersey": "12",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 2,
+          "2": 2.0,
+          "3": 0,
+          "4": 2,
+          "5": 1
+        }
+      },
+      "Jason Brownlee_KC": {
+        "name": "Jason Brownlee",
+        "position": "",
+        "jersey": "89",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Skyy Moore_KC": {
+        "name": "Skyy Moore",
+        "position": "",
+        "jersey": "24",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 6,
+          "2": 6.0,
+          "3": 6,
+          "4": 0
+        }
+      },
+      "Noah Gray_KC": {
+        "name": "Noah Gray",
+        "position": "",
+        "jersey": "83",
+        "team": "KC",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 1
+        }
+      },
+      "Christian Roland-Wallace_KC": {
+        "name": "Christian Roland-Wallace",
+        "position": "",
+        "jersey": "30D",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 11,
+          "2": 0
+        }
+      },
+      "Jeffrey Bassa_KC": {
+        "name": "Jeffrey Bassa",
+        "position": "",
+        "jersey": "31",
+        "team": "KC",
+        "stats": {
+          "0": 6,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Jack Cochrane_KC": {
+        "name": "Jack Cochrane",
+        "position": "",
+        "jersey": "43",
+        "team": "KC",
+        "stats": {
+          "0": 5,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cam Jones_KC": {
+        "name": "Cam Jones",
+        "position": "",
+        "jersey": "44",
+        "team": "KC",
+        "stats": {
+          "0": 4,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cooper McDonald_KC": {
+        "name": "Cooper McDonald",
+        "position": "",
+        "jersey": "59",
+        "team": "KC",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Brandon George_KC": {
+        "name": "Brandon George",
+        "position": "",
+        "jersey": "50",
+        "team": "KC",
+        "stats": {
+          "0": 4,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Malik Herring_KC": {
+        "name": "Malik Herring",
+        "position": "",
+        "jersey": "94",
+        "team": "KC",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nohl Williams_KC": {
+        "name": "Nohl Williams",
+        "position": "",
+        "jersey": "20",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 28,
+          "2": 28.0,
+          "3": 28,
+          "4": 0
+        }
+      },
+      "Felix Anudike-Uzomah_KC": {
+        "name": "Felix Anudike-Uzomah",
+        "position": "",
+        "jersey": "91",
+        "team": "KC",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Jaden Hicks_KC": {
+        "name": "Jaden Hicks",
+        "position": "",
+        "jersey": "21",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 12,
+          "2": 0
+        }
+      },
+      "Melvin Smith Jr._KC": {
+        "name": "Melvin Smith Jr.",
+        "position": "",
+        "jersey": "39",
+        "team": "KC",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ashton Gillotte_KC": {
+        "name": "Ashton Gillotte",
+        "position": "",
+        "jersey": "97",
+        "team": "KC",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joshua Williams_KC": {
+        "name": "Joshua Williams",
+        "position": "",
+        "jersey": "2D",
+        "team": "KC",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jerry Tillery_KC": {
+        "name": "Jerry Tillery",
+        "position": "",
+        "jersey": "99",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Chamarri Conner_KC": {
+        "name": "Chamarri Conner",
+        "position": "",
+        "jersey": "27",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nick Bolton_KC": {
+        "name": "Nick Bolton",
+        "position": "",
+        "jersey": "32",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jaylen Watson_KC": {
+        "name": "Jaylen Watson",
+        "position": "",
+        "jersey": "35",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Nazeeh Johnson_KC": {
+        "name": "Nazeeh Johnson",
+        "position": "",
+        "jersey": "13D",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Major Williams_KC": {
+        "name": "Major Williams",
+        "position": "",
+        "jersey": "42D",
+        "team": "KC",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Janarius Robinson_KC": {
+        "name": "Janarius Robinson",
+        "position": "",
+        "jersey": "98",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Mike Danna_KC": {
+        "name": "Mike Danna",
+        "position": "",
+        "jersey": "51",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cole Christiansen_KC": {
+        "name": "Cole Christiansen",
+        "position": "",
+        "jersey": "48",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Azizi Hearn_KC": {
+        "name": "Azizi Hearn",
+        "position": "",
+        "jersey": "47",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Glendon Miller_KC": {
+        "name": "Glendon Miller",
+        "position": "",
+        "jersey": "25D",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Deon Bush_KC": {
+        "name": "Deon Bush",
+        "position": "",
+        "jersey": "26",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Mike Edwards_KC": {
+        "name": "Mike Edwards",
+        "position": "",
+        "jersey": "34D",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Charles Omenihu_KC": {
+        "name": "Charles Omenihu",
+        "position": "",
+        "jersey": "90",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Geor'Quarius Spivey_KC": {
+        "name": "Geor'Quarius Spivey",
+        "position": "",
+        "jersey": "45",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Fabien Lovett Sr._KC": {
+        "name": "Fabien Lovett Sr.",
+        "position": "",
+        "jersey": "96",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Coziah Izzard_KC": {
+        "name": "Coziah Izzard",
+        "position": "",
+        "jersey": "93",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kevin Knowles_KC": {
+        "name": "Kevin Knowles",
+        "position": "",
+        "jersey": "38",
+        "team": "KC",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Harrison Butker_KC": {
+        "name": "Harrison Butker",
+        "position": "",
+        "jersey": "7",
+        "team": "KC",
+        "stats": {
+          "0": "1/1",
+          "1": 100.0,
+          "2": 58,
+          "3": "2/2",
+          "4": 5
+        }
+      },
+      "Matt Araiza_KC": {
+        "name": "Matt Araiza",
+        "position": "",
+        "jersey": "14S",
+        "team": "KC",
+        "stats": {
+          "0": 5,
+          "1": 285,
+          "2": 57.0,
+          "3": 1,
+          "4": 2,
+          "5": 68
+        }
+      },
+      "Kyler Murray_ARI": {
+        "name": "Kyler Murray",
+        "position": "",
+        "jersey": "1",
+        "team": "ARI",
+        "stats": {
+          "0": 2,
+          "1": 9,
+          "2": 4.5,
+          "3": 0,
+          "4": 6
+        }
+      },
+      "Jacoby Brissett_ARI": {
+        "name": "Jacoby Brissett",
+        "position": "",
+        "jersey": "7",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 10,
+          "2": 10.0,
+          "3": 0,
+          "4": 10
+        }
+      },
+      "Clayton Tune_ARI": {
+        "name": "Clayton Tune",
+        "position": "",
+        "jersey": "15",
+        "team": "ARI",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0.3,
+          "3": 0,
+          "4": 3
+        }
+      },
+      "Bam Knight_ARI": {
+        "name": "Bam Knight",
+        "position": "",
+        "jersey": "35O",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 10,
+          "2": 10.0,
+          "3": 0,
+          "4": 10,
+          "5": 1
+        }
+      },
+      "Trey Benson_ARI": {
+        "name": "Trey Benson",
+        "position": "",
+        "jersey": "33",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 20,
+          "2": 20.0,
+          "3": 0,
+          "4": 20,
+          "5": 1
+        }
+      },
+      "Michael Carter_ARI": {
+        "name": "Michael Carter",
+        "position": "",
+        "jersey": "22",
+        "team": "ARI",
+        "stats": {
+          "0": 7,
+          "1": 20,
+          "2": 2.9,
+          "3": 0,
+          "4": 5
+        }
+      },
+      "James Conner_ARI": {
+        "name": "James Conner",
+        "position": "",
+        "jersey": "6",
+        "team": "ARI",
+        "stats": {
+          "0": 3,
+          "1": 11,
+          "2": 3.7,
+          "3": 0,
+          "4": 7
+        }
+      },
+      "Emari Demercado_ARI": {
+        "name": "Emari Demercado",
+        "position": "",
+        "jersey": "31",
+        "team": "ARI",
+        "stats": {
+          "0": 2,
+          "1": 56,
+          "2": 28.0,
+          "3": 1,
+          "4": 43,
+          "5": 2
+        }
+      },
+      "DeeJay Dallas_ARI": {
+        "name": "DeeJay Dallas",
+        "position": "",
+        "jersey": "20",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0
+        }
+      },
+      "Travis Vokolek_ARI": {
+        "name": "Travis Vokolek",
+        "position": "",
+        "jersey": "81",
+        "team": "ARI",
+        "stats": {
+          "0": 2,
+          "1": 23,
+          "2": 11.5,
+          "3": 0,
+          "4": 15,
+          "5": 2
+        }
+      },
+      "Trey McBride_ARI": {
+        "name": "Trey McBride",
+        "position": "",
+        "jersey": "85",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 21,
+          "2": 21.0,
+          "3": 0,
+          "4": 21,
+          "5": 1
+        }
+      },
+      "Greg Dortch_ARI": {
+        "name": "Greg Dortch",
+        "position": "",
+        "jersey": "4",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 9,
+          "2": 9.0,
+          "3": 9,
+          "4": 0
+        }
+      },
+      "Marvin Harrison Jr._ARI": {
+        "name": "Marvin Harrison Jr.",
+        "position": "",
+        "jersey": "18",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 15,
+          "2": 15.0,
+          "3": 0,
+          "4": 15,
+          "5": 2
+        }
+      },
+      "Xavier Weaver_ARI": {
+        "name": "Xavier Weaver",
+        "position": "",
+        "jersey": "89",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 18,
+          "2": 18.0,
+          "3": 18,
+          "4": 0
+        }
+      },
+      "Josiah Deguara_ARI": {
+        "name": "Josiah Deguara",
+        "position": "",
+        "jersey": "47",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 13,
+          "2": 13.0,
+          "3": 0,
+          "4": 13,
+          "5": 1
+        }
+      },
+      "Michael Wilson_ARI": {
+        "name": "Michael Wilson",
+        "position": "",
+        "jersey": "14",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 12,
+          "2": 12.0,
+          "3": 0,
+          "4": 12,
+          "5": 1
+        }
+      },
+      "Elijah Higgins_ARI": {
+        "name": "Elijah Higgins",
+        "position": "",
+        "jersey": "84",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 11,
+          "2": 11.0,
+          "3": 0,
+          "4": 11,
+          "5": 1
+        }
+      },
+      "Tip Reiman_ARI": {
+        "name": "Tip Reiman",
+        "position": "",
+        "jersey": "87",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 7,
+          "2": 7.0,
+          "3": 0,
+          "4": 7,
+          "5": 1
+        }
+      },
+      "Andre Baccellia_ARI": {
+        "name": "Andre Baccellia",
+        "position": "",
+        "jersey": "82",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 29,
+          "2": 29.0,
+          "3": 29,
+          "4": 0
+        }
+      },
+      "Trishton Jackson_ARI": {
+        "name": "Trishton Jackson",
+        "position": "",
+        "jersey": "86",
+        "team": "ARI",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 1
+        }
+      },
+      "Tejhaun Palmer_ARI": {
+        "name": "Tejhaun Palmer",
+        "position": "",
+        "jersey": "83",
+        "team": "ARI",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0.0,
+          "3": 0,
+          "4": 0,
+          "5": 2
+        }
+      },
+      "Owen Pappoe_ARI": {
+        "name": "Owen Pappoe",
+        "position": "",
+        "jersey": "44",
+        "team": "ARI",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 1
+        }
+      },
+      "Jammie Robinson_ARI": {
+        "name": "Jammie Robinson",
+        "position": "",
+        "jersey": "26",
+        "team": "ARI",
+        "stats": {
+          "0": 6,
+          "1": 4,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Denzel Burke_ARI": {
+        "name": "Denzel Burke",
+        "position": "",
+        "jersey": "29",
+        "team": "ARI",
+        "stats": {
+          "0": 5,
+          "1": 5,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Budda Baker_ARI": {
+        "name": "Budda Baker",
+        "position": "",
+        "jersey": "3",
+        "team": "ARI",
+        "stats": {
+          "0": 4,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Joey Blount_ARI": {
+        "name": "Joey Blount",
+        "position": "",
+        "jersey": "32",
+        "team": "ARI",
+        "stats": {
+          "0": 4,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kei'Trel Clark_ARI": {
+        "name": "Kei'Trel Clark",
+        "position": "",
+        "jersey": "13",
+        "team": "ARI",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Cody Simon_ARI": {
+        "name": "Cody Simon",
+        "position": "",
+        "jersey": "50",
+        "team": "ARI",
+        "stats": {
+          "0": 3,
+          "1": 3,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Ekow Boye-Doe_ARI": {
+        "name": "Ekow Boye-Doe",
+        "position": "",
+        "jersey": "35D",
+        "team": "ARI",
+        "stats": {
+          "0": 3,
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Dadrion Taylor-Demerson_ARI": {
+        "name": "Dadrion Taylor-Demerson",
+        "position": "",
+        "jersey": "42",
+        "team": "ARI",
+        "stats": {
+          "0": 3,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Jaylon Jones_ARI": {
+        "name": "Jaylon Jones",
+        "position": "",
+        "jersey": "37",
+        "team": "ARI",
+        "stats": {
+          "0": 2,
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "L.J. Collier_ARI": {
+        "name": "L.J. Collier",
+        "position": "",
+        "jersey": "91",
+        "team": "ARI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Mykal Walker_ARI": {
+        "name": "Mykal Walker",
+        "position": "",
+        "jersey": "43",
+        "team": "ARI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Zaven Collins_ARI": {
+        "name": "Zaven Collins",
+        "position": "",
+        "jersey": "25",
+        "team": "ARI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Elijah Jones_ARI": {
+        "name": "Elijah Jones",
+        "position": "",
+        "jersey": "28",
+        "team": "ARI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Kyon Barrs_ARI": {
+        "name": "Kyon Barrs",
+        "position": "",
+        "jersey": "65",
+        "team": "ARI",
+        "stats": {
+          "0": 2,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Akeem Davis-Gaither_ARI": {
+        "name": "Akeem Davis-Gaither",
+        "position": "",
+        "jersey": "27",
+        "team": "ARI",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Anthony Goodlow_ARI": {
+        "name": "Anthony Goodlow",
+        "position": "",
+        "jersey": "95",
+        "team": "ARI",
+        "stats": {
+          "0": 2,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jake Curhan_ARI": {
+        "name": "Jake Curhan",
+        "position": "",
+        "jersey": "64",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jalen Thompson_ARI": {
+        "name": "Jalen Thompson",
+        "position": "",
+        "jersey": "34",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Xavier Thomas_ARI": {
+        "name": "Xavier Thomas",
+        "position": "",
+        "jersey": "54",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Dante Stills_ARI": {
+        "name": "Dante Stills",
+        "position": "",
+        "jersey": "55",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Steven Gilmore_ARI": {
+        "name": "Steven Gilmore",
+        "position": "",
+        "jersey": "38D",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Paris Johnson Jr._ARI": {
+        "name": "Paris Johnson Jr.",
+        "position": "",
+        "jersey": "70",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Patrick Jenkins_ARI": {
+        "name": "Patrick Jenkins",
+        "position": "",
+        "jersey": "90",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Max Melton_ARI": {
+        "name": "Max Melton",
+        "position": "",
+        "jersey": "16",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Vi Jones_ARI": {
+        "name": "Vi Jones",
+        "position": "",
+        "jersey": "53",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Jordan Burch_ARI": {
+        "name": "Jordan Burch",
+        "position": "",
+        "jersey": "52",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Garrett Williams_ARI": {
+        "name": "Garrett Williams",
+        "position": "",
+        "jersey": "21",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0
+        }
+      },
+      "Darren Hall_ARI": {
+        "name": "Darren Hall",
+        "position": "",
+        "jersey": "30D",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "Kitan Crawford_ARI": {
+        "name": "Kitan Crawford",
+        "position": "",
+        "jersey": "36",
+        "team": "ARI",
+        "stats": {
+          "0": 1,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "Darius Robinson_ARI": {
+        "name": "Darius Robinson",
+        "position": "",
+        "jersey": "56",
+        "team": "ARI",
+        "stats": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0
+        }
+      },
+      "Chad Ryland_ARI": {
+        "name": "Chad Ryland",
+        "position": "",
+        "jersey": "38S",
+        "team": "ARI",
+        "stats": {
+          "0": "2/2",
+          "1": 100.0,
+          "2": 50,
+          "3": "2/2",
+          "4": 8
+        }
+      },
+      "Blake Gillikin_ARI": {
+        "name": "Blake Gillikin",
+        "position": "",
+        "jersey": "12",
+        "team": "ARI",
+        "stats": {
+          "0": 3,
+          "1": 142,
+          "2": 47.3,
+          "3": 0,
+          "4": 2,
+          "5": 52
+        }
+      }
+    },
+    "scoring_summary": []
+  },
+  "play_by_play": {
+    "game_info": {
+      "game_id": "401774636",
+      "teams": [
+        {
+          "abbreviation": "ARI",
+          "name": "Arizona Cardinals",
+          "score": 20,
+          "home_away": "home"
+        },
+        {
+          "abbreviation": "KC",
+          "name": "Kansas City Chiefs",
+          "score": 17,
+          "home_away": "away"
+        }
+      ],
+      "final_score": {}
+    },
+    "drives": [
+      {
+        "id": "4017746361",
+        "team": "ARI",
+        "plays_count": 1,
+        "result": "FUMBLE",
+        "yards": 0
+      },
+      {
+        "id": "4017746362",
+        "team": "KC",
+        "plays_count": 4,
+        "result": "TD",
+        "yards": 13
+      },
+      {
+        "id": "4017746363",
+        "team": "ARI",
+        "plays_count": 10,
+        "result": "INT",
+        "yards": 47
+      },
+      {
+        "id": "4017746364",
+        "team": "KC",
+        "plays_count": 10,
+        "result": "PUNT",
+        "yards": 30
+      },
+      {
+        "id": "4017746365",
+        "team": "ARI",
+        "plays_count": 15,
+        "result": "FG",
+        "yards": 67
+      },
+      {
+        "id": "4017746366",
+        "team": "KC",
+        "plays_count": 11,
+        "result": "TD",
+        "yards": 52
+      },
+      {
+        "id": "4017746367",
+        "team": "ARI",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 7
+      },
+      {
+        "id": "4017746368",
+        "team": "KC",
+        "plays_count": 8,
+        "result": "INT",
+        "yards": 20
+      },
+      {
+        "id": "4017746369",
+        "team": "ARI",
+        "plays_count": 5,
+        "result": "TD",
+        "yards": 57
+      },
+      {
+        "id": "40177463610",
+        "team": "KC",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": -2
+      },
+      {
+        "id": "40177463611",
+        "team": "ARI",
+        "plays_count": 16,
+        "result": "TD",
+        "yards": 79
+      },
+      {
+        "id": "40177463612",
+        "team": "KC",
+        "plays_count": 3,
+        "result": "END OF HALF",
+        "yards": -1
+      },
+      {
+        "id": "40177463613",
+        "team": "KC",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": 7
+      },
+      {
+        "id": "40177463614",
+        "team": "ARI",
+        "plays_count": 3,
+        "result": "INT",
+        "yards": 19
+      },
+      {
+        "id": "40177463615",
+        "team": "KC",
+        "plays_count": 8,
+        "result": "FG",
+        "yards": 11
+      },
+      {
+        "id": "40177463616",
+        "team": "ARI",
+        "plays_count": 6,
+        "result": "PUNT",
+        "yards": -5
+      },
+      {
+        "id": "40177463617",
+        "team": "KC",
+        "plays_count": 9,
+        "result": "INT",
+        "yards": 45
+      },
+      {
+        "id": "40177463618",
+        "team": "ARI",
+        "plays_count": 9,
+        "result": "FG",
+        "yards": 48
+      },
+      {
+        "id": "40177463619",
+        "team": "KC",
+        "plays_count": 10,
+        "result": "PUNT",
+        "yards": 10
+      },
+      {
+        "id": "40177463620",
+        "team": "ARI",
+        "plays_count": 12,
+        "result": "PUNT",
+        "yards": 50
+      },
+      {
+        "id": "40177463621",
+        "team": "KC",
+        "plays_count": 14,
+        "result": "PUNT",
+        "yards": 20
+      },
+      {
+        "id": "40177463622",
+        "team": "ARI",
+        "plays_count": 9,
+        "result": "END OF GAME",
+        "yards": 10
+      }
+    ],
+    "plays": [
+      {
+        "id": "40177463640",
+        "text": "H.Butker kicks 62 yards from KC 35 to ARZ 3. G.Dortch to ARZ 24 for 21 yards (Ca.Jones, J.Cochrane). FUMBLES (J.Cochrane), RECOVERED by KC-C.Roland-Wallace at ARZ 26.PENALTY on ARZ-D.Dallas, Illegal Double-Team Block, 13 yards, enforced at ARZ 26.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "40177463690",
+        "text": "I.Pacheco right tackle to ARZ 5 for 8 yards (B.Baker, G.Williams).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 13,
+        "period": 1,
+        "clock": "14:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636113",
+        "text": "(Shotgun) P.Mahomes pass incomplete short left to T.Thornton.PENALTY on ARZ-W.Johnson, Defensive Pass Interference, 4 yards, enforced at ARZ 5 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 5,
+        "period": 1,
+        "clock": "14:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636147",
+        "text": "Jason Brownlee 1 Yd pass from Patrick Mahomes (Harrison Butker Kick)",
+        "type": "Passing Touchdown",
+        "down": 1,
+        "distance": 1,
+        "yard_line": 1,
+        "period": 1,
+        "clock": "14:04",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "401774636193",
+        "text": "Official Timeout at 14:04.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "14:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636200",
+        "text": "H.Butker kicks 60 yards from KC 35 to ARZ 5. D.Dallas to ARZ 34 for 29 yards (N.Johnson; J.Cochrane). FUMBLES (N.Johnson), recovered by ARZ-O.Pappoe at ARZ 36.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "14:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636246",
+        "text": "J.Conner up the middle to ARZ 37 for 1 yard (J.Watson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 36,
+        "period": 1,
+        "clock": "13:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636268",
+        "text": "(Shotgun) K.Murray scrambles up the middle to ARZ 40 for 3 yards (M.Danna).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 37,
+        "period": 1,
+        "clock": "13:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636290",
+        "text": "(Shotgun) K.Murray pass short right to Mi.Wilson to KC 48 for 12 yards (C.Conner).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 40,
+        "period": 1,
+        "clock": "12:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636315",
+        "text": "J.Conner right tackle to KC 45 for 3 yards (J.Tillery, J.Cochrane).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 52,
+        "period": 1,
+        "clock": "12:16",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636337",
+        "text": "(Shotgun) K.Murray pass short middle to M.Harrison to KC 30 for 15 yards (N.Bolton).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 7,
+        "yard_line": 55,
+        "period": 1,
+        "clock": "11:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636362",
+        "text": "K.Murray scrambles right end to KC 24 for 6 yards (N.Bolton).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 70,
+        "period": 1,
+        "clock": "11:02",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636384",
+        "text": "J.Conner left end to KC 17 for 7 yards (C.Conner).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 76,
+        "period": 1,
+        "clock": "10:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636406",
+        "text": "(Shotgun) K.Murray pass short left intended for M.Harrison INTERCEPTED by J.Hicks at KC 9. J.Hicks to KC 21 for 12 yards (P.Johnson).",
+        "type": "Pass Interception Return",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 83,
+        "period": 1,
+        "clock": "9:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636425",
+        "text": "Official Timeout at 09:25.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 1,
+        "clock": "9:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636443",
+        "text": "KC #17-Minshew in at QB. (Shotgun) G.Minshew pass incomplete short left to K.Hunt [D.Robinson].",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 1,
+        "clock": "9:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636477",
+        "text": "(Shotgun) G.Minshew pass short right to K.Hunt pushed ob at KC 26 for 5 yards (Z.Collins).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 79,
+        "period": 1,
+        "clock": "9:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636507",
+        "text": "(Shotgun) G.Minshew pass short left to T.Thornton to KC 41 for 15 yards (B.Baker).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 5,
+        "yard_line": 74,
+        "period": 1,
+        "clock": "8:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636532",
+        "text": "(Shotgun) K.Hunt right tackle to KC 43 for 2 yards (B.Baker).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 59,
+        "period": 1,
+        "clock": "8:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636554",
+        "text": "(Shotgun) K.Hunt right tackle to ARZ 47 for 10 yards (J.Thompson, B.Baker).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 57,
+        "period": 1,
+        "clock": "7:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636576",
+        "text": "G.Minshew FUMBLES (Aborted) at ARZ 48, recovered by KC-N.Gray at 50.",
+        "type": "Fumble Recovery (Own)",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 47,
+        "period": 1,
+        "clock": "6:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636603",
+        "text": "(Shotgun) G.Minshew pass short right to J.Royals to KC 49 for -1 yards (M.Melton).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 13,
+        "yard_line": 50,
+        "period": 1,
+        "clock": "6:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636628",
+        "text": "(Shotgun) G.Minshew scrambles right end ran ob at ARZ 49 for 2 yards (Z.Collins; A.Davis-Gaither).Penalty on KC-T.Smith, Offensive Holding, declined.",
+        "type": "Rush",
+        "down": 3,
+        "distance": 14,
+        "yard_line": 51,
+        "period": 1,
+        "clock": "5:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636666",
+        "text": "M.Araiza punts 40 yards to ARZ 9, Center-J.Winchester. G.Dortch ran ob at ARZ 18 for 9 yards (J.Cochrane).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 12,
+        "yard_line": 49,
+        "period": 1,
+        "clock": "4:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636682",
+        "text": "Official Timeout at 04:47.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 19,
+        "period": 1,
+        "clock": "4:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636697",
+        "text": "(Shotgun) K.Murray pass deep left to T.McBride pushed ob at ARZ 39 for 21 yards (J.Cochrane).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 18,
+        "period": 1,
+        "clock": "4:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636734",
+        "text": "(Shotgun) K.Murray pass short left to T.Reiman to ARZ 46 for 7 yards (Ca.Jones). KC-Ca.Jones was injured during the play.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 39,
+        "period": 1,
+        "clock": "4:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636748",
+        "text": "Official Timeout at 03:55.",
+        "type": "Official Timeout",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 45,
+        "period": 1,
+        "clock": "3:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636762",
+        "text": "T.Benson left end pushed ob at KC 45 for 9 yards (J.Hicks).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 3,
+        "yard_line": 46,
+        "period": 1,
+        "clock": "3:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636796",
+        "text": "(Shotgun) K.Murray pass short middle to G.Dortch to KC 34 for 11 yards (J.Hicks).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 55,
+        "period": 1,
+        "clock": "3:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636821",
+        "text": "T.Benson left end to KC 34 for no gain (J.Watson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 66,
+        "period": 1,
+        "clock": "2:30",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636843",
+        "text": "(Shotgun) K.Murray pass short right to G.Dortch pushed ob at KC 24 for 10 yards (C.Roland-Wallace).Penalty on KC-N.Johnson, Illegal Contact, declined.",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 66,
+        "period": 1,
+        "clock": "1:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636884",
+        "text": "T.Benson right end to KC 20 for 4 yards (A.Gillotte; J.Hicks).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 76,
+        "period": 1,
+        "clock": "1:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636906",
+        "text": "T.Benson left tackle to KC 12 for 8 yards (J.Watson).PENALTY on ARZ-T.Reiman, Unnecessary Roughness, 15 yards, enforced at KC 20 - No Play.Penalty on ARZ-E.Higgins, Offensive Holding, declined.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 80,
+        "period": 1,
+        "clock": "0:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636928",
+        "text": "Official Timeout at 00:23.",
+        "type": "Official Timeout",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 80,
+        "period": 1,
+        "clock": "0:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636950",
+        "text": "K.Murray pass short left to T.Benson to KC 15 for 20 yards (A.Gillotte; C.Roland-Wallace).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 21,
+        "yard_line": 65,
+        "period": 1,
+        "clock": "0:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "401774636984",
+        "text": "END QUARTER 1",
+        "type": "End Period",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 85,
+        "period": 1,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361004",
+        "text": "T.Benson left tackle to KC 15 for no gain (C.Omenihu; J.Bassa).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 85,
+        "period": 2,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361026",
+        "text": "C.Ryland 33 yard field goal is GOOD, Center-A.Brewer, Holder-B.Gillikin. ** Injury Update: KC-Ca.Jones has returned to the game.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 1,
+        "yard_line": 85,
+        "period": 2,
+        "clock": "14:13",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017746361036",
+        "text": "Official Timeout at 14:13.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "14:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361046",
+        "text": "C.Ryland kicks 65 yards from ARZ 35 to KC 0. N.Remigio to KC 48 for 48 yards (K.Clark).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "14:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361082",
+        "text": "G.Minshew pass incomplete short right [D.Stills].",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 52,
+        "period": 2,
+        "clock": "14:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361105",
+        "text": "(Shotgun) C.Steele up the middle to ARZ 49 for 3 yards (D.Stills).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 52,
+        "period": 2,
+        "clock": "13:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361127",
+        "text": "(Shotgun) G.Minshew pass short middle to J.Royals to ARZ 40 for 9 yards (J.Blount; L.Collier) [D.Taylor-Demerson].",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 7,
+        "yard_line": 49,
+        "period": 2,
+        "clock": "13:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361152",
+        "text": "(Shotgun) G.Minshew pass short left to J.Royals to ARZ 34 for 6 yards (X.Thomas).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 40,
+        "period": 2,
+        "clock": "12:41",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361177",
+        "text": "(Shotgun) G.Minshew pass short right to R.Tonyan pushed ob at ARZ 14 for 20 yards (D.Taylor-Demerson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 34,
+        "period": 2,
+        "clock": "11:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361202",
+        "text": "C.Steele left end to ARZ 5 for 9 yards (A.Davis-Gaither; D.Taylor-Demerson).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 14,
+        "period": 2,
+        "clock": "11:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361224",
+        "text": "C.Steele up the middle to ARZ 2 for 3 yards (D.Taylor-Demerson; J.Burch).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 5,
+        "period": 2,
+        "clock": "10:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361251",
+        "text": "G.Minshew pass incomplete short right to J.Royals.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 2,
+        "yard_line": 2,
+        "period": 2,
+        "clock": "10:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361286",
+        "text": "G.Minshew scrambles left end for 2 yards, TOUCHDOWN. H.Butker extra point is GOOD, Center-J.Winchester, Holder-M.Araiza.",
+        "type": "Rushing Touchdown",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 2,
+        "period": 2,
+        "clock": "9:52",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017746361317",
+        "text": "Official Timeout at 09:52.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "9:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361324",
+        "text": "H.Butker kicks 52 yards from KC 35 to ARZ 13. D.Dallas to ARZ 34 for 21 yards (J.Brownlee; D.Bush).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "9:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361354",
+        "text": "(Shotgun) J.Brissett pass incomplete deep right to X.Weaver (N.Johnson) [F.Anudike-Uzomah].",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 34,
+        "period": 2,
+        "clock": "9:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361377",
+        "text": "(Shotgun) T.Benson left tackle to ARZ 41 for 7 yards (A.Gillotte).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 34,
+        "period": 2,
+        "clock": "9:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361399",
+        "text": "(Shotgun) J.Brissett pass incomplete short middle to G.Dortch [J.Bassa]. KC-J.Bassa was injured during the play.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 41,
+        "period": 2,
+        "clock": "9:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361422",
+        "text": "B.Gillikin punts 49 yards to KC 10, Center-A.Brewer. T.Thornton to KC 17 for 7 yards (M.Walker; D.Dallas).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 41,
+        "period": 2,
+        "clock": "9:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361444",
+        "text": "Official Timeout at 08:49.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 83,
+        "period": 2,
+        "clock": "8:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361465",
+        "text": "(Shotgun) B.Zappe pass incomplete deep right to T.Thornton.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 83,
+        "period": 2,
+        "clock": "8:49",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361495",
+        "text": "(Shotgun) B.Zappe pass short right to E.Mitchell to KC 30 for 13 yards (J.Blount).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 83,
+        "period": 2,
+        "clock": "8:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361520",
+        "text": "(Shotgun) E.Mitchell up the middle to KC 36 for 6 yards (A.Goodlow; J.Blount).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 70,
+        "period": 2,
+        "clock": "7:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361542",
+        "text": "(Shotgun) B.Zappe pass short right to J.Wiley to ARZ 39 for 25 yards (A.Davis-Gaither).PENALTY on KC-C.Hanson, Ineligible Downfield Pass, 5 yards, enforced at KC 36 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 64,
+        "period": 2,
+        "clock": "7:26",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361578",
+        "text": "(Shotgun) B.Zappe pass incomplete short middle.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 69,
+        "period": 2,
+        "clock": "7:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361601",
+        "text": "(Shotgun) B.Zappe sacked at KC 25 for -6 yards (sack split by J.Burch and L.Collier).PENALTY on ARZ-D.Burke, Illegal Contact, 5 yards, enforced at KC 31 - No Play.",
+        "type": "Penalty",
+        "down": 3,
+        "distance": 9,
+        "yard_line": 69,
+        "period": 2,
+        "clock": "7:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361632",
+        "text": "(Shotgun) E.Mitchell right end to KC 37 for 1 yard (A.Goodlow; K.Barrs).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 64,
+        "period": 2,
+        "clock": "6:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361654",
+        "text": "(Shotgun) B.Zappe pass deep left intended for J.Royals INTERCEPTED by D.Hall at ARZ 43. D.Hall to ARZ 43 for no gain.",
+        "type": "Pass Interception Return",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 63,
+        "period": 2,
+        "clock": "5:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361681",
+        "text": "T.Benson left end to ARZ 48 for 5 yards (C.Roland-Wallace). ** Injury Update: KC-J.Bassa has returned to the game.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 43,
+        "period": 2,
+        "clock": "5:51",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361703",
+        "text": "T.Benson up the middle to 50 for 2 yards (N.Johnson).PENALTY on KC-A.Gillotte, Illegal Use of Hands, 5 yards, enforced at 50.",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 48,
+        "period": 2,
+        "clock": "5:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361736",
+        "text": "T.Benson left end to KC 47 for -2 yards (N.Williams).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 55,
+        "period": 2,
+        "clock": "4:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361758",
+        "text": "(Shotgun) T.Benson up the middle to KC 43 for 4 yards (J.Tillery; A.Gillotte).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 12,
+        "yard_line": 53,
+        "period": 2,
+        "clock": "4:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361780",
+        "text": "(Shotgun) J.Brissett pass short right to E.Demercado for 43 yards, TOUCHDOWN. C.Ryland extra point is GOOD, Center-A.Brewer, Holder-B.Gillikin.",
+        "type": "Passing Touchdown",
+        "down": 3,
+        "distance": 8,
+        "yard_line": 57,
+        "period": 2,
+        "clock": "3:18",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017746361825",
+        "text": "C.Ryland kicks 66 yards from ARZ 35 to KC -1. N.Williams to KC 27 for 28 yards (J.Blount).PENALTY on KC-B.Smith, Illegal Double-Team Block, 14 yards, enforced at KC 27.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "3:18",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361862",
+        "text": "(Shotgun) PENALTY on KC-C.Godrick, False Start, 5 yards, enforced at KC 13 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 87,
+        "period": 2,
+        "clock": "3:12",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361886",
+        "text": "E.Mitchell left tackle to KC 11 for 3 yards (M.Walker).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 15,
+        "yard_line": 92,
+        "period": 2,
+        "clock": "3:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361908",
+        "text": "(Shotgun) B.Zappe pass incomplete short right to S.Moore (D.Hall).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 12,
+        "yard_line": 89,
+        "period": 2,
+        "clock": "2:36",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746361931",
+        "text": "(Shotgun) B.Zappe pass incomplete short right to J.Brownlee.Kansas City challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 12,
+        "yard_line": 89,
+        "period": 2,
+        "clock": "2:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362006",
+        "text": "M.Araiza punts 67 yards to ARZ 22, Center-J.Winchester. D.Dallas MUFFS catch, and recovers at ARZ 21. D.Dallas to ARZ 21 for no gain (N.Williams).",
+        "type": "Muffed Punt Recovery (Opponent)",
+        "down": 4,
+        "distance": 12,
+        "yard_line": 89,
+        "period": 2,
+        "clock": "2:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362045",
+        "text": "J.Brissett pass short middle to E.Higgins to ARZ 32 for 11 yards (J.Bassa).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 21,
+        "period": 2,
+        "clock": "2:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362058",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 32,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362070",
+        "text": "(Shotgun) J.Brissett pass short left to X.Weaver to ARZ 45 for 13 yards (N.Williams).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 32,
+        "period": 2,
+        "clock": "2:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362102",
+        "text": "(Shotgun) E.Demercado left end to ARZ 49 for 4 yards (J.Bassa; F.Anudike-Uzomah). KC-D.Bush was injured during the play.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 45,
+        "period": 2,
+        "clock": "1:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362115",
+        "text": "Timeout #2 by KC at 01:19.",
+        "type": "Timeout",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 49,
+        "period": 2,
+        "clock": "1:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362127",
+        "text": "(Shotgun) J.Brissett pass incomplete deep right to X.Weaver.PENALTY on KC-N.Johnson, Defensive Pass Interference, 24 yards, enforced at ARZ 49 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 49,
+        "period": 2,
+        "clock": "1:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362168",
+        "text": "(Shotgun) E.Demercado left end to KC 27 for no gain (J.Tillery).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 73,
+        "period": 2,
+        "clock": "1:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362190",
+        "text": "(Shotgun) J.Brissett pass short left to E.Demercado to KC 14 for 13 yards (Ca.Jones).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 73,
+        "period": 2,
+        "clock": "0:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362203",
+        "text": "Timeout #1 by ARZ at 00:31.",
+        "type": "Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 85,
+        "period": 2,
+        "clock": "0:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362215",
+        "text": "(Shotgun) J.Brissett scrambles left end ran ob at KC 4 for 10 yards (G.Miller).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 86,
+        "period": 2,
+        "clock": "0:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362249",
+        "text": " (Shotgun) E.Demercado up the middle to KC 1 for 3 yards (C.Christiansen, M.Edwards).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 4,
+        "yard_line": 96,
+        "period": 2,
+        "clock": "0:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362260",
+        "text": "Timeout #2 by ARZ at 00:17.",
+        "type": "Timeout",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 2,
+        "clock": "0:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362271",
+        "text": "(Shotgun) J.Brissett pass incomplete short left to E.Higgins (M.Edwards).PENALTY on KC-C.Roland-Wallace, Defensive Holding, 0 yards, enforced at KC 1 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 2,
+        "clock": "0:17",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362325",
+        "text": "(Shotgun) J.Brissett pass incomplete short left to T.Palmer (N.Williams). ARZ-C.Jones was injured during the play.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 2,
+        "clock": "0:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362337",
+        "text": "Timeout #3 by ARZ at 00:07.",
+        "type": "Timeout",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 2,
+        "clock": "0:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362348",
+        "text": "(Shotgun) J.Brissett pass short right to X.Weaver for 1 yard, TOUCHDOWN. C.Ryland extra point is GOOD, Center-A.Brewer, Holder-B.Gillikin.",
+        "type": "Passing Touchdown",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 99,
+        "period": 2,
+        "clock": "0:04",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017746362399",
+        "text": "C.Ryland kicks 65 yards from ARZ 35 to end zone, Touchback to the KC 35.",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362416",
+        "text": "B.Zappe kneels to KC 34 for -1 yards.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 2,
+        "clock": "0:04",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362438",
+        "text": "END QUARTER 2",
+        "type": "End of Half",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 2,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362458",
+        "text": "C.Ryland kicks 56 yards from ARZ 35 to KC 9. J.Royals to KC 35 for 26 yards (Ja.Jones).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "15:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362481",
+        "text": "(Shotgun) B.Zappe pass short left to N.Remigio to KC 41 for 6 yards (K.Clark).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "14:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362506",
+        "text": "(Shotgun) B.Zappe pass short right to J.Holiday to KC 42 for 1 yard (D.Burke).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 59,
+        "period": 3,
+        "clock": "14:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362531",
+        "text": "(Shotgun) B.Zappe pass incomplete short right to R.Tonyan.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 3,
+        "yard_line": 58,
+        "period": 3,
+        "clock": "13:48",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362554",
+        "text": "M.Araiza punts 58 yards to end zone, Center-J.Winchester, Touchback.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 3,
+        "yard_line": 58,
+        "period": 3,
+        "clock": "13:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362568",
+        "text": "Official Timeout at 13:35.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 3,
+        "clock": "13:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362581",
+        "text": "C.Tune pass short right to T.Vokolek pushed ob at ARZ 35 for 15 yards (B.George).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 3,
+        "clock": "13:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362613",
+        "text": "(Shotgun) M.Carter right tackle to ARZ 39 for 4 yards (Ca.Jones).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 3,
+        "clock": "12:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362640",
+        "text": "(Shotgun) C.Tune pass deep middle intended for T.Palmer INTERCEPTED by C.Roland-Wallace at KC 38. C.Roland-Wallace to KC 49 for 11 yards (J.Curhan).",
+        "type": "Pass Interception Return",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 39,
+        "period": 3,
+        "clock": "12:19",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362667",
+        "text": "B.Zappe sacked at KC 42 for -7 yards (sack split by J.Burch and K.Barrs).Penalty on ARZ, Illegal Contact, offsetting, enforced at KC 49 - No Play.Penalty on KC-H.Nourzad, Tripping, offsetting.",
+        "type": "Sack",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 51,
+        "period": 3,
+        "clock": "12:09",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362698",
+        "text": "(Shotgun) B.Zappe pass short left to J.Holiday to ARZ 42 for 9 yards (J.Robinson).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 51,
+        "period": 3,
+        "clock": "11:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362723",
+        "text": "(Shotgun) B.Smith up the middle to ARZ 38 for 4 yards (C.Simon).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 1,
+        "yard_line": 42,
+        "period": 3,
+        "clock": "11:35",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362745",
+        "text": "(Shotgun) B.Smith up the middle to ARZ 36 for 2 yards (K.Barrs).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 38,
+        "period": 3,
+        "clock": "10:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362767",
+        "text": "(Shotgun) B.Zappe sacked at ARZ 43 for -7 yards (L.Collier).",
+        "type": "Sack",
+        "down": 2,
+        "distance": 8,
+        "yard_line": 36,
+        "period": 3,
+        "clock": "10:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362787",
+        "text": "(Shotgun) B.Zappe scrambles right tackle to ARZ 40 for 3 yards (D.Burke).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 15,
+        "yard_line": 43,
+        "period": 3,
+        "clock": "9:31",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362809",
+        "text": "H.Butker 58 yard field goal is GOOD, Center-J.Winchester, Holder-M.Araiza.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 12,
+        "yard_line": 40,
+        "period": 3,
+        "clock": "8:46",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017746362819",
+        "text": "Official Timeout at 08:46.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "8:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362829",
+        "text": "H.Butker kicks 64 yards from KC 35 to ARZ 1. A.Baccellia to ARZ 30 for 29 yards (A.Hearn).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 65,
+        "period": 3,
+        "clock": "8:46",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362859",
+        "text": "M.Carter left tackle to ARZ 34 for 4 yards (F.Anudike-Uzomah).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 30,
+        "period": 3,
+        "clock": "8:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362881",
+        "text": "(Shotgun) C.Tune pass incomplete deep right to X.Weaver (J.Williams).",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 34,
+        "period": 3,
+        "clock": "8:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362904",
+        "text": "(Shotgun) C.Tune sacked at ARZ 25 for -9 yards (J.Robinson).",
+        "type": "Sack",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 34,
+        "period": 3,
+        "clock": "7:59",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362924",
+        "text": "B.Gillikin punts 52 yards to KC 23, Center-A.Brewer. S.Moore to KC 29 for 6 yards (D.Burke).",
+        "type": "Punt",
+        "down": 4,
+        "distance": 15,
+        "yard_line": 25,
+        "period": 3,
+        "clock": "7:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362937",
+        "text": "Official Timeout at 07:10.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 71,
+        "period": 3,
+        "clock": "7:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362950",
+        "text": "(Shotgun) B.Zappe pass short right to R.Tonyan to KC 48 for 19 yards (D.Burke).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 71,
+        "period": 3,
+        "clock": "7:10",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746362982",
+        "text": "B.Zappe pass deep left to N.Remigio to ARZ 34 for 18 yards (K.Clark).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 52,
+        "period": 3,
+        "clock": "6:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363007",
+        "text": "(Shotgun) B.Zappe pass incomplete deep right to M.Dalena.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 34,
+        "period": 3,
+        "clock": "5:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363030",
+        "text": "(Shotgun) B.Smith up the middle to ARZ 30 for 4 yards (C.Simon).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 34,
+        "period": 3,
+        "clock": "5:54",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363052",
+        "text": "(Shotgun) B.Zappe pass short right to R.Tonyan pushed ob at ARZ 20 for 10 yards (J.Robinson).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 6,
+        "yard_line": 30,
+        "period": 3,
+        "clock": "5:15",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363082",
+        "text": "(Shotgun) B.Zappe pass incomplete deep left to N.Remigio.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 3,
+        "clock": "4:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363117",
+        "text": "(Shotgun) B.Zappe pass short right to B.Smith to ARZ 26 for -6 yards (D.Burke).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 3,
+        "clock": "4:32",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363142",
+        "text": "(Shotgun) B.Zappe pass deep middle intended for M.Dalena INTERCEPTED by K.Crawford at ARZ -4. Touchback.",
+        "type": "Pass Interception Return",
+        "down": 3,
+        "distance": 16,
+        "yard_line": 26,
+        "period": 3,
+        "clock": "3:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363160",
+        "text": "Official Timeout at 03:43.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 3,
+        "clock": "3:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363177",
+        "text": "(Shotgun) M.Carter right tackle to ARZ 24 for 4 yards (J.Williams; K.Knowles).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 3,
+        "clock": "3:43",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363206",
+        "text": "(Shotgun) M.Carter left end pushed ob at ARZ 29 for 5 yards (M.Smith).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 6,
+        "yard_line": 24,
+        "period": 3,
+        "clock": "3:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363233",
+        "text": "(Shotgun) M.Carter up the middle to ARZ 32 for 3 yards (M.Herring).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 29,
+        "period": 3,
+        "clock": "2:39",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363255",
+        "text": "(Shotgun) C.Tune pass short middle to J.Deguara to ARZ 45 for 13 yards (M.Williams).PENALTY on KC-F.Anudike-Uzomah, Roughing the Passer, 15 yards, enforced at ARZ 45.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 32,
+        "period": 3,
+        "clock": "1:58",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363291",
+        "text": "M.Carter up the middle to KC 39 for 1 yard (C.McDonald).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 60,
+        "period": 3,
+        "clock": "1:29",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363313",
+        "text": "(Shotgun) C.Tune pass short left to T.Vokolek to KC 31 for 8 yards (M.Herring).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 9,
+        "yard_line": 61,
+        "period": 3,
+        "clock": "0:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363338",
+        "text": "M.Carter right tackle to KC 32 for -1 yards (J.Williams).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 69,
+        "period": 3,
+        "clock": "0:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363360",
+        "text": "END QUARTER 3",
+        "type": "End Period",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 68,
+        "period": 3,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363380",
+        "text": "C.Ryland 50 yard field goal is GOOD, Center-A.Brewer, Holder-B.Gillikin.",
+        "type": "Field Goal Good",
+        "down": 4,
+        "distance": 2,
+        "yard_line": 68,
+        "period": 4,
+        "clock": "14:56",
+        "team": "",
+        "scoring_play": true
+      },
+      {
+        "id": "4017746363400",
+        "text": "C.Ryland kicks 60 yards from ARZ 35 to KC 5. S.Moore pushed ob at KC 32 for 27 yards (E.Boye-Doe).",
+        "type": "Kickoff",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "14:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363428",
+        "text": "(Shotgun) C.Oladokun pass incomplete deep right to J.Holiday.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 68,
+        "period": 4,
+        "clock": "14:50",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363451",
+        "text": "(Shotgun) B.Smith right end pushed ob at KC 38 for 6 yards (E.Jones).PENALTY on KC-C.Hanson, Offensive Holding, 10 yards, enforced at KC 32 - No Play.Penalty on KC-C.Godrick, Offensive Holding, declined.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 68,
+        "period": 4,
+        "clock": "14:44",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363489",
+        "text": "(Shotgun) C.Oladokun pass short left to J.Wiley to KC 24 for 2 yards (Ja.Jones).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 20,
+        "yard_line": 78,
+        "period": 4,
+        "clock": "14:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363514",
+        "text": "(Shotgun) C.Oladokun pass short right to E.Badger to KC 42 for 18 yards (J.Robinson).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 18,
+        "yard_line": 76,
+        "period": 4,
+        "clock": "13:37",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363539",
+        "text": "B.Smith left tackle to KC 42 for no gain (P.Jenkins).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 4,
+        "clock": "12:52",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363561",
+        "text": "(Shotgun) C.Oladokun pass incomplete deep right to K.Smith.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 4,
+        "clock": "12:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363573",
+        "text": "Timeout #1 by KC at 12:03.",
+        "type": "Timeout",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 4,
+        "clock": "12:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363584",
+        "text": "(Shotgun) C.Oladokun pass incomplete deep right to K.Smith.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 4,
+        "clock": "12:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363614",
+        "text": " M.Araiza punts 53 yards to ARZ 5, Center-J.Winchester, downed by KC-J.Holiday.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 10,
+        "yard_line": 58,
+        "period": 4,
+        "clock": "11:55",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363634",
+        "text": "Z.Knight right tackle to ARZ 10 for 5 yards (M.Smith).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 5,
+        "period": 4,
+        "clock": "11:47",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363656",
+        "text": " (Shotgun) C.Tune pass short middle to Z.Knight to ARZ 20 for 10 yards (J.Bassa; B.George).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 10,
+        "period": 4,
+        "clock": "11:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363681",
+        "text": "(Shotgun) Z.Knight right end to ARZ 26 for 6 yards (J.Bassa).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 20,
+        "period": 4,
+        "clock": "10:38",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363703",
+        "text": "Z.Knight left tackle to ARZ 35 for 9 yards (C.McDonald; B.George).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 4,
+        "yard_line": 26,
+        "period": 4,
+        "clock": "9:57",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363725",
+        "text": "C.Tune pass incomplete short left to T.Jackson.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "9:21",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363748",
+        "text": "(Shotgun) Z.Knight right tackle to KC 38 for 27 yards (M.Smith; M.Williams).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 35,
+        "period": 4,
+        "clock": "9:14",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363770",
+        "text": "(Shotgun) C.Tune pass short right to Z.Knight to KC 35 for 3 yards (A.Carter).PENALTY on ARZ-S.Haynesworth, Offensive Holding, 10 yards, enforced at KC 38 - No Play.",
+        "type": "Penalty",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 62,
+        "period": 4,
+        "clock": "8:28",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363806",
+        "text": "(Shotgun) D.Dallas left tackle to KC 46 for 2 yards (C.McDonald).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 20,
+        "yard_line": 52,
+        "period": 4,
+        "clock": "8:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363828",
+        "text": "(Shotgun) C.Tune pass incomplete deep left to A.Baccellia.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 18,
+        "yard_line": 54,
+        "period": 4,
+        "clock": "7:25",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363863",
+        "text": "(Shotgun) C.Tune pass short left to D.Dallas to KC 45 for 1 yard (J.Bassa).",
+        "type": "Pass Reception",
+        "down": 3,
+        "distance": 18,
+        "yard_line": 54,
+        "period": 4,
+        "clock": "7:20",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363888",
+        "text": "B.Gillikin punts 41 yards to KC 4, Center-A.Brewer, fair catch by B.Smith.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 17,
+        "yard_line": 55,
+        "period": 4,
+        "clock": "6:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363898",
+        "text": "Official Timeout at 06:33.",
+        "type": "Official Timeout",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 96,
+        "period": 4,
+        "clock": "6:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363908",
+        "text": "(Shotgun) C.Oladokun pass short right to H.Presley to KC 12 for 8 yards (E.Jones).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 96,
+        "period": 4,
+        "clock": "6:33",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363940",
+        "text": "(Shotgun) E.Young up the middle to KC 13 for 1 yard (V.Jones; J.Robinson).",
+        "type": "Rush",
+        "down": 2,
+        "distance": 2,
+        "yard_line": 88,
+        "period": 4,
+        "clock": "6:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363962",
+        "text": "(Shotgun) E.Young up the middle to KC 17 for 4 yards (J.Robinson).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 87,
+        "period": 4,
+        "clock": "5:23",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746363984",
+        "text": "(Shotgun) C.Oladokun pass short left to E.Badger pushed ob at KC 15 for -2 yards (E.Boye-Doe).",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 83,
+        "period": 4,
+        "clock": "4:40",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364014",
+        "text": "(Shotgun) C.Oladokun pass short right to K.Smith to KC 23 for 8 yards (C.Simon, J.Robinson).",
+        "type": "Pass Reception",
+        "down": 2,
+        "distance": 12,
+        "yard_line": 85,
+        "period": 4,
+        "clock": "3:56",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364039",
+        "text": "(Shotgun) C.Oladokun to KC 16 for -7 yards. FUMBLES, and recovers at KC 15. C.Oladokun pass incomplete short left to H.Presley. ARZ-E.Jones was injured during the play.",
+        "type": "Fumble Recovery (Own)",
+        "down": 3,
+        "distance": 4,
+        "yard_line": 77,
+        "period": 4,
+        "clock": "3:11",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364063",
+        "text": "Official Timeout at 03:01.",
+        "type": "Official Timeout",
+        "down": 4,
+        "distance": 4,
+        "yard_line": 77,
+        "period": 4,
+        "clock": "3:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364086",
+        "text": "(Shotgun) C.Oladokun scrambles up the middle to KC 49 for 26 yards (S.Gilmore).PENALTY on KC-E.Badger, Unnecessary Roughness, 15 yards, enforced at KC 49.",
+        "type": "Rush",
+        "down": 4,
+        "distance": 4,
+        "yard_line": 77,
+        "period": 4,
+        "clock": "3:01",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364126",
+        "text": "(Shotgun) C.Oladokun pass short left to M.Dalena to KC 39 for 5 yards (J.Robinson; E.Boye-Doe).PENALTY on KC-M.Dalena, Face Mask, 15 yards, enforced at KC 39.",
+        "type": "Pass Reception",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 66,
+        "period": 4,
+        "clock": "2:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364182",
+        "text": "(Shotgun) C.Oladokun pass incomplete short left to H.Presley.",
+        "type": "Pass Incompletion",
+        "down": 1,
+        "distance": 20,
+        "yard_line": 76,
+        "period": 4,
+        "clock": "2:45",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364205",
+        "text": "(Shotgun) C.Oladokun pass incomplete short left.",
+        "type": "Pass Incompletion",
+        "down": 2,
+        "distance": 20,
+        "yard_line": 76,
+        "period": 4,
+        "clock": "2:42",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364228",
+        "text": "(Shotgun) C.Oladokun pass incomplete short middle to E.Young.",
+        "type": "Pass Incompletion",
+        "down": 3,
+        "distance": 20,
+        "yard_line": 76,
+        "period": 4,
+        "clock": "2:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364240",
+        "text": "Timeout #2 by KC at 02:27.",
+        "type": "Timeout",
+        "down": 4,
+        "distance": 20,
+        "yard_line": 76,
+        "period": 4,
+        "clock": "2:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364251",
+        "text": "M.Araiza punts 66 yards to ARZ 10, Center-J.Winchester. X.Weaver to ARZ 28 for 18 yards (R.Tonyan; G.Spivey). ** Injury Update: ARZ-E.Jones has returned to the game.",
+        "type": "Punt",
+        "down": 4,
+        "distance": 20,
+        "yard_line": 76,
+        "period": 4,
+        "clock": "2:27",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364284",
+        "text": "(Shotgun) Z.Knight left tackle to ARZ 28 for no gain (C.Izzard; B.George).",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 4,
+        "clock": "2:13",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364295",
+        "text": "Timeout #3 by KC at 02:07.",
+        "type": "Timeout",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 4,
+        "clock": "2:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364306",
+        "text": "(Shotgun) Z.Knight right end to ARZ 28 for no gain (C.Izzard).PENALTY on KC-M.Herring, Defensive Offside, 5 yards, enforced at ARZ 28 - No Play.",
+        "type": "Penalty",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 4,
+        "clock": "2:07",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364349",
+        "text": "Z.Knight up the middle to ARZ 37 for 4 yards (C.McDonald; F.Lovett).Penalty on ARZ-N.McCollum, Illegal Shift, declined.",
+        "type": "Rush",
+        "down": 2,
+        "distance": 5,
+        "yard_line": 33,
+        "period": 4,
+        "clock": "2:03",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364366",
+        "text": "Two-Minute Warning",
+        "type": "Two-minute warning",
+        "down": 2,
+        "distance": 10,
+        "yard_line": 28,
+        "period": 4,
+        "clock": "1:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364382",
+        "text": " C.Tune up the middle to ARZ 40 for 3 yards (M.Herring).",
+        "type": "Rush",
+        "down": 3,
+        "distance": 1,
+        "yard_line": 37,
+        "period": 4,
+        "clock": "1:53",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364411",
+        "text": "C.Tune kneels to ARZ 39 for -1 yards.",
+        "type": "Rush",
+        "down": 1,
+        "distance": 10,
+        "yard_line": 40,
+        "period": 4,
+        "clock": "1:08",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364433",
+        "text": " C.Tune kneels to ARZ 38 for -1 yards.",
+        "type": "Rush",
+        "down": 2,
+        "distance": 11,
+        "yard_line": 39,
+        "period": 4,
+        "clock": "0:34",
+        "team": "",
+        "scoring_play": false
+      },
+      {
+        "id": "4017746364455",
+        "text": "END GAME",
+        "type": "End of Game",
+        "down": 0,
+        "distance": 0,
+        "yard_line": 38,
+        "period": 4,
+        "clock": "0:00",
+        "team": "",
+        "scoring_play": false
+      }
+    ],
+    "scoring_plays": [],
+    "touchdowns": [
+      {
+        "play_id": "4017746361286",
+        "text": "G.Minshew scrambles left end for 2 yards, TOUCHDOWN. H.Butker extra point is GOOD, Center-J.Winchester, Holder-M.Araiza.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017746361780",
+        "text": "(Shotgun) J.Brissett pass short right to E.Demercado for 43 yards, TOUCHDOWN. C.Ryland extra point is GOOD, Center-A.Brewer, Holder-B.Gillikin.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017746362348",
+        "text": "(Shotgun) J.Brissett pass short right to X.Weaver for 1 yard, TOUCHDOWN. C.Ryland extra point is GOOD, Center-A.Brewer, Holder-B.Gillikin.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      }
+    ],
+    "interceptions": [
+      {
+        "play_id": "401774636406",
+        "text": "(Shotgun) K.Murray pass short left intended for M.Harrison INTERCEPTED by J.Hicks at KC 9. J.Hicks to KC 21 for 12 yards (P.Johnson).",
+        "team": "",
+        "period": 1,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017746361654",
+        "text": "(Shotgun) B.Zappe pass deep left intended for J.Royals INTERCEPTED by D.Hall at ARZ 43. D.Hall to ARZ 43 for no gain.",
+        "team": "",
+        "period": 2,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017746362640",
+        "text": "(Shotgun) C.Tune pass deep middle intended for T.Palmer INTERCEPTED by C.Roland-Wallace at KC 38. C.Roland-Wallace to KC 49 for 11 yards (J.Curhan).",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      },
+      {
+        "play_id": "4017746363142",
+        "text": "(Shotgun) B.Zappe pass deep middle intended for M.Dalena INTERCEPTED by K.Crawford at ARZ -4. Touchback.",
+        "team": "",
+        "period": 3,
+        "players_involved": []
+      }
+    ],
+    "fumbles": []
+  },
+  "processing_timestamp": "2025-08-20T10:50:31.013646"
+}
