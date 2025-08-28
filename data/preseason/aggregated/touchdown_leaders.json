@@ -1,82 +1,112 @@
 [
   {
-    "player": "C.Brown",
-    "type": "rushing",
-    "date": "2025-08-19",
     "game_id": "401772973",
+    "date": "2025-08-19",
     "team": "CIN",
-    "opponent": "WSH"
+    "opponent": "WSH",
+    "drive_yards": 58,
+    "plays_count": 14,
+    "quarter": "TBD",
+    "player": "TBD",
+    "type": "rushing"
   },
   {
-    "player": "J.Daniels",
-    "type": "rushing",
-    "date": "2025-08-19",
     "game_id": "401772973",
+    "date": "2025-08-19",
     "team": "WSH",
-    "opponent": "CIN"
+    "opponent": "CIN",
+    "drive_yards": 74,
+    "plays_count": 6,
+    "quarter": "TBD",
+    "player": "TBD",
+    "type": "rushing"
   },
   {
-    "player": "C.Jones",
-    "type": "receiving",
-    "date": "2025-08-19",
     "game_id": "401772973",
-    "team": "CIN",
-    "opponent": "WSH"
-  },
-  {
-    "player": "M.Tinsley",
-    "type": "receiving",
     "date": "2025-08-19",
-    "game_id": "401772973",
-    "team": "CIN",
-    "opponent": "WSH"
+    "team": "WSH",
+    "opponent": "CIN",
+    "drive_yards": 44,
+    "plays_count": 4,
+    "quarter": "TBD",
+    "player": "TBD",
+    "type": "rushing"
   },
   {
-    "player": "M.Tinsley",
-    "type": "receiving",
+    "game_id": "401772973",
     "date": "2025-08-19",
-    "game_id": "401772973",
     "team": "CIN",
-    "opponent": "WSH"
+    "opponent": "WSH",
+    "drive_yards": 70,
+    "plays_count": 17,
+    "quarter": "TBD",
+    "player": "TBD",
+    "type": "rushing"
   },
   {
-    "player": "O.Zaccheaus",
-    "type": "receiving",
-    "date": "2025-08-18",
-    "game_id": "401772972",
-    "team": "CHI",
-    "opponent": "BUF"
+    "game_id": "401772973",
+    "date": "2025-08-19",
+    "team": "CIN",
+    "opponent": "WSH",
+    "drive_yards": 60,
+    "plays_count": 7,
+    "quarter": "TBD",
+    "player": "TBD",
+    "type": "rushing"
   },
   {
-    "player": "B.Brown",
-    "type": "rushing",
-    "date": "2025-08-18",
-    "game_id": "401772972",
-    "team": "CHI",
-    "opponent": "BUF"
+    "game_id": "401772973",
+    "date": "2025-08-19",
+    "team": "CIN",
+    "opponent": "WSH",
+    "drive_yards": 21,
+    "plays_count": 1,
+    "quarter": "TBD",
+    "player": "TBD",
+    "type": "rushing"
   },
   {
-    "player": "T.Scott",
-    "type": "receiving",
-    "date": "2025-08-18",
     "game_id": "401772972",
+    "date": "2025-08-18",
     "team": "CHI",
-    "opponent": "BUF"
+    "opponent": "BUF",
+    "drive_yards": 92,
+    "plays_count": 10,
+    "quarter": "TBD",
+    "player": "TBD",
+    "type": "rushing"
   },
   {
-    "player": "I.Wheeler",
-    "type": "rushing",
-    "date": "2025-08-18",
     "game_id": "401772972",
+    "date": "2025-08-18",
     "team": "CHI",
-    "opponent": "BUF"
+    "opponent": "BUF",
+    "drive_yards": 86,
+    "plays_count": 15,
+    "quarter": "TBD",
+    "player": "TBD",
+    "type": "rushing"
   },
   {
-    "player": "I.Wheeler",
-    "type": "rushing",
-    "date": "2025-08-18",
     "game_id": "401772972",
+    "date": "2025-08-18",
     "team": "CHI",
-    "opponent": "BUF"
+    "opponent": "BUF",
+    "drive_yards": 61,
+    "plays_count": 7,
+    "quarter": "TBD",
+    "player": "TBD",
+    "type": "rushing"
+  },
+  {
+    "game_id": "401772972",
+    "date": "2025-08-18",
+    "team": "CHI",
+    "opponent": "BUF",
+    "drive_yards": 84,
+    "plays_count": 14,
+    "quarter": "TBD",
+    "player": "TBD",
+    "type": "rushing"
   }
 ]

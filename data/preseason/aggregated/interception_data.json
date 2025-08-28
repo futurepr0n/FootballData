@@ -1,72 +1,112 @@
 [
   {
-    "player": "T.Anderson",
-    "date": "2025-08-19",
     "game_id": "401772973",
-    "team": "CIN",
-    "opponent": "WSH"
-  },
-  {
-    "player": "B.Carter",
     "date": "2025-08-19",
+    "team": "WSH",
+    "opponent": "CIN",
+    "intercepting_team": "CIN",
+    "qb_name": "TBD",
+    "defender_name": "TBD",
+    "quarter": "TBD",
+    "yards_after": 0
+  },
+  {
     "game_id": "401772973",
-    "team": "CIN",
-    "opponent": "WSH"
+    "date": "2025-08-19",
+    "team": "WSH",
+    "opponent": "CIN",
+    "intercepting_team": "CIN",
+    "qb_name": "TBD",
+    "defender_name": "TBD",
+    "quarter": "TBD",
+    "yards_after": 0
   },
   {
-    "player": "J.Ford",
-    "date": "2025-08-17",
     "game_id": "401773014",
-    "team": "NO",
-    "opponent": "JAX"
-  },
-  {
-    "player": "K.Lovely",
     "date": "2025-08-17",
-    "game_id": "401773014",
     "team": "JAX",
-    "opponent": "NO"
+    "opponent": "NO",
+    "intercepting_team": "NO",
+    "qb_name": "TBD",
+    "defender_name": "TBD",
+    "quarter": "TBD",
+    "yards_after": 0
   },
   {
-    "player": "J.Sanker",
-    "date": "2025-08-17",
     "game_id": "401773014",
+    "date": "2025-08-17",
     "team": "NO",
-    "opponent": "JAX"
+    "opponent": "JAX",
+    "intercepting_team": "JAX",
+    "qb_name": "TBD",
+    "defender_name": "TBD",
+    "quarter": "TBD",
+    "yards_after": 0
   },
   {
-    "player": "A.Booth",
-    "date": "2025-08-16",
-    "game_id": "401773007",
-    "team": "DAL",
-    "opponent": "BAL"
+    "game_id": "401773014",
+    "date": "2025-08-17",
+    "team": "JAX",
+    "opponent": "NO",
+    "intercepting_team": "NO",
+    "qb_name": "TBD",
+    "defender_name": "TBD",
+    "quarter": "TBD",
+    "yards_after": 0
   },
   {
-    "player": "K.Hall",
-    "date": "2025-08-16",
     "game_id": "401773007",
-    "team": "DAL",
-    "opponent": "BAL"
-  },
-  {
-    "player": "R.Lowery",
     "date": "2025-08-16",
-    "game_id": "401773007",
     "team": "BAL",
-    "opponent": "DAL"
+    "opponent": "DAL",
+    "intercepting_team": "DAL",
+    "qb_name": "TBD",
+    "defender_name": "TBD",
+    "quarter": "TBD",
+    "yards_after": 0
   },
   {
-    "player": "E.Robinson",
+    "game_id": "401773007",
     "date": "2025-08-16",
+    "team": "DAL",
+    "opponent": "BAL",
+    "intercepting_team": "BAL",
+    "qb_name": "TBD",
+    "defender_name": "TBD",
+    "quarter": "TBD",
+    "yards_after": 0
+  },
+  {
     "game_id": "401776264",
-    "team": "MIA",
-    "opponent": "DET"
+    "date": "2025-08-16",
+    "team": "DET",
+    "opponent": "MIA",
+    "intercepting_team": "MIA",
+    "qb_name": "TBD",
+    "defender_name": "TBD",
+    "quarter": "TBD",
+    "yards_after": 0
   },
   {
-    "player": "A.Mukuba",
+    "game_id": "401774569",
     "date": "2025-08-16",
-    "game_id": "401773006",
-    "team": "PHI",
-    "opponent": "CLE"
+    "team": "SF",
+    "opponent": "LV",
+    "intercepting_team": "LV",
+    "qb_name": "TBD",
+    "defender_name": "TBD",
+    "quarter": "TBD",
+    "yards_after": 0
+  },
+  {
+    "game_id": "401774569",
+    "date": "2025-08-16",
+    "team": "LV",
+    "opponent": "SF",
+    "intercepting_team": "SF",
+    "qb_name": "TBD",
+    "defender_name": "TBD",
+    "quarter": "TBD",
+    "yards_after": 0
   }
 ]

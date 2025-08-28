@@ -1,0 +1,188 @@
+{
+  "week": 3,
+  "season_type": "preseason",
+  "date_range": [
+    "2025-08-21",
+    "2025-09-03"
+  ],
+  "total_games": 16,
+  "games": [
+    {
+      "game_id": "401773019",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401773019",
+      "date": "2025-08-21",
+      "matchup": "PIT @ CAR",
+      "away_team": "PIT",
+      "home_team": "CAR",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401772974",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772974",
+      "date": "2025-08-22",
+      "matchup": "NE @ NYG",
+      "away_team": "NE",
+      "home_team": "NYG",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401772997",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772997",
+      "date": "2025-08-22",
+      "matchup": "PHI @ NYJ",
+      "away_team": "PHI",
+      "home_team": "NYJ",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401776567",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401776567",
+      "date": "2025-08-24",
+      "matchup": "LAC @ SF",
+      "away_team": "LAC",
+      "home_team": "SF",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401774590",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401774590",
+      "date": "2025-08-24",
+      "matchup": "LV @ ARI",
+      "away_team": "LV",
+      "home_team": "ARI",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401773008",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401773008",
+      "date": "2025-08-23",
+      "matchup": "ATL @ DAL",
+      "away_team": "ATL",
+      "home_team": "DAL",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401772975",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772975",
+      "date": "2025-08-23",
+      "matchup": "MIN @ TEN",
+      "away_team": "MIN",
+      "home_team": "TEN",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401773004",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401773004",
+      "date": "2025-08-23",
+      "matchup": "CHI @ KC",
+      "away_team": "CHI",
+      "home_team": "KC",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401777124",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401777124",
+      "date": "2025-08-23",
+      "matchup": "BAL @ WSH",
+      "away_team": "BAL",
+      "home_team": "WSH",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401772998",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772998",
+      "date": "2025-08-23",
+      "matchup": "IND @ CIN",
+      "away_team": "IND",
+      "home_team": "CIN",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401772999",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401772999",
+      "date": "2025-08-23",
+      "matchup": "LAR @ CLE",
+      "away_team": "LAR",
+      "home_team": "CLE",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401776265",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401776265",
+      "date": "2025-08-23",
+      "matchup": "HOU @ DET",
+      "away_team": "HOU",
+      "home_team": "DET",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401773015",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401773015",
+      "date": "2025-08-23",
+      "matchup": "DEN @ NO",
+      "away_team": "DEN",
+      "home_team": "NO",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401773011",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401773011",
+      "date": "2025-08-23",
+      "matchup": "SEA @ GB",
+      "away_team": "SEA",
+      "home_team": "GB",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401776565",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401776565",
+      "date": "2025-08-23",
+      "matchup": "JAX @ MIA",
+      "away_team": "JAX",
+      "home_team": "MIA",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    },
+    {
+      "game_id": "401774030",
+      "url": "https://www.espn.com/nfl/game/_/gameId/401774030",
+      "date": "2025-08-23",
+      "matchup": "BUF @ TB",
+      "away_team": "BUF",
+      "home_team": "TB",
+      "season_type": "preseason",
+      "our_week": 3,
+      "espn_week": 4
+    }
+  ],
+  "generated": "2025-08-24T00:37:09.975875"
+}

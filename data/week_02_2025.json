@@ -1,0 +1,297 @@
+{
+  "week": 2,
+  "season": 2025,
+  "games": [
+    {
+      "id": "401773017",
+      "date": "2025-08-15",
+      "name": "TEN 23, ATL 20",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "ATL",
+        "abbreviation": "ATL",
+        "score": 20,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "TEN",
+        "abbreviation": "TEN",
+        "score": 23,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401773000",
+      "date": "2025-08-16",
+      "name": "TB 17, PIT 14",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "PIT",
+        "abbreviation": "PIT",
+        "score": 14,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "TB",
+        "abbreviation": "TB",
+        "score": 17,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401773003",
+      "date": "2025-08-16",
+      "name": "GB 23, IND 19",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "IND",
+        "abbreviation": "IND",
+        "score": 19,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "GB",
+        "abbreviation": "GB",
+        "score": 23,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401773006",
+      "date": "2025-08-16",
+      "name": "CLE 22, PHI 13",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "PHI",
+        "abbreviation": "PHI",
+        "score": 13,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "CLE",
+        "abbreviation": "CLE",
+        "score": 22,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401773007",
+      "date": "2025-08-16",
+      "name": "BAL 31, DAL 13",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "DAL",
+        "abbreviation": "DAL",
+        "score": 13,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "BAL",
+        "abbreviation": "BAL",
+        "score": 31,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401773009",
+      "date": "2025-08-16",
+      "name": "NYJ 12, NYG 31",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "NYG",
+        "abbreviation": "NYG",
+        "score": 31,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "NYJ",
+        "abbreviation": "NYJ",
+        "score": 12,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401773013",
+      "date": "2025-08-16",
+      "name": "NE 20, MIN 12",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "MIN",
+        "abbreviation": "MIN",
+        "score": 12,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "NE",
+        "abbreviation": "NE",
+        "score": 20,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401773021",
+      "date": "2025-08-16",
+      "name": "LAC 22, LAR 23",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "LAR",
+        "abbreviation": "LAR",
+        "score": 23,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "LAC",
+        "abbreviation": "LAC",
+        "score": 22,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401773027",
+      "date": "2025-08-16",
+      "name": "CAR 3, HOU 20",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "HOU",
+        "abbreviation": "HOU",
+        "score": 20,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "CAR",
+        "abbreviation": "CAR",
+        "score": 3,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401774569",
+      "date": "2025-08-16",
+      "name": "SF 22, LV 19",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "LV",
+        "abbreviation": "LV",
+        "score": 19,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "SF",
+        "abbreviation": "SF",
+        "score": 22,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401774591",
+      "date": "2025-08-16",
+      "name": "KC 16, SEA 33",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "SEA",
+        "abbreviation": "SEA",
+        "score": 33,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "KC",
+        "abbreviation": "KC",
+        "score": 16,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401776264",
+      "date": "2025-08-16",
+      "name": "MIA 24, DET 17",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "DET",
+        "abbreviation": "DET",
+        "score": 17,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "MIA",
+        "abbreviation": "MIA",
+        "score": 24,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401773014",
+      "date": "2025-08-17",
+      "name": "JAX 17, NO 17",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "NO",
+        "abbreviation": "NO",
+        "score": 17,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "JAX",
+        "abbreviation": "JAX",
+        "score": 17,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401774637",
+      "date": "2025-08-17",
+      "name": "ARI 7, DEN 27",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "DEN",
+        "abbreviation": "DEN",
+        "score": 27,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "ARI",
+        "abbreviation": "ARI",
+        "score": 7,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401772972",
+      "date": "2025-08-18",
+      "name": "BUF 0, CHI 38",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "CHI",
+        "abbreviation": "CHI",
+        "score": 38,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "BUF",
+        "abbreviation": "BUF",
+        "score": 0,
+        "home_away": "away"
+      }
+    }
+  ],
+  "player_stats": {
+    "passing": [],
+    "rushing": [],
+    "receiving": [],
+    "defensive": []
+  }
+}

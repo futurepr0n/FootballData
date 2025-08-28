@@ -1,0 +1,40 @@
+{
+  "created_at": "2025-08-24T00:10:26.508974",
+  "weeks": {
+    "1": {
+      "games": 17,
+      "player_performances": 0,
+      "categories": {
+        "passing": 0,
+        "rushing": 0,
+        "receiving": 0,
+        "defensive": 0
+      }
+    },
+    "2": {
+      "games": 15,
+      "player_performances": 0,
+      "categories": {
+        "passing": 0,
+        "rushing": 0,
+        "receiving": 0,
+        "defensive": 0
+      }
+    },
+    "3": {
+      "games": 22,
+      "player_performances": 19,
+      "categories": {
+        "passing": 6,
+        "rushing": 2,
+        "receiving": 6,
+        "defensive": 5
+      }
+    }
+  },
+  "totals": {
+    "total_weeks": 3,
+    "total_games": 54,
+    "total_player_performances": 19
+  }
+}

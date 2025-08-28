@@ -1,0 +1,487 @@
+{
+  "week": 3,
+  "season": 2025,
+  "games": [
+    {
+      "id": "401772973",
+      "date": "2025-08-19",
+      "name": "CIN 31, WSH 17",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "WSH",
+        "abbreviation": "WSH",
+        "score": 17,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "CIN",
+        "abbreviation": "CIN",
+        "score": 31,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401772974",
+      "date": "2025-08-21",
+      "name": "NE 10, NYG 42",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "NYG",
+        "abbreviation": "NYG",
+        "score": 42,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "NE",
+        "abbreviation": "NE",
+        "score": 10,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401773019",
+      "date": "2025-08-21",
+      "name": "PIT @ CAR",
+      "status": "Scheduled",
+      "completed": false,
+      "home_team": {
+        "name": "CAR",
+        "abbreviation": "CAR",
+        "score": 0,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "PIT",
+        "abbreviation": "PIT",
+        "score": 0,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401772975",
+      "date": "2025-08-22",
+      "name": "Unknown Game",
+      "status": "Final",
+      "completed": false,
+      "home_team": {},
+      "away_team": {}
+    },
+    {
+      "id": "401772997",
+      "date": "2025-08-22",
+      "name": "PHI 19, NYJ 17",
+      "status": "Final",
+      "completed": true,
+      "home_team": {
+        "name": "NYJ",
+        "abbreviation": "NYJ",
+        "score": 17,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "PHI",
+        "abbreviation": "PHI",
+        "score": 19,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401773004",
+      "date": "2025-08-22",
+      "name": "Unknown Game",
+      "status": "Final",
+      "completed": false,
+      "home_team": {},
+      "away_team": {}
+    },
+    {
+      "id": "401773008",
+      "date": "2025-08-22",
+      "name": "Unknown Game",
+      "status": "Final",
+      "completed": false,
+      "home_team": {},
+      "away_team": {}
+    },
+    {
+      "id": "401772975",
+      "date": "2025-08-23",
+      "name": "MIN @ TEN",
+      "status": "Scheduled",
+      "completed": false,
+      "home_team": {
+        "name": "TEN",
+        "abbreviation": "TEN",
+        "score": 0,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "MIN",
+        "abbreviation": "MIN",
+        "score": 0,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401772998",
+      "date": "2025-08-23",
+      "name": "Unknown Game",
+      "status": "Final",
+      "completed": false,
+      "home_team": {},
+      "away_team": {}
+    },
+    {
+      "id": "401772999",
+      "date": "2025-08-23",
+      "name": "Unknown Game",
+      "status": "Final",
+      "completed": false,
+      "home_team": {},
+      "away_team": {}
+    },
+    {
+      "id": "401773004",
+      "date": "2025-08-23",
+      "name": "CHI @ KC",
+      "status": "Scheduled",
+      "completed": false,
+      "home_team": {
+        "name": "KC",
+        "abbreviation": "KC",
+        "score": 0,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "CHI",
+        "abbreviation": "CHI",
+        "score": 0,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401773008",
+      "date": "2025-08-23",
+      "name": "ATL @ DAL",
+      "status": "Scheduled",
+      "completed": false,
+      "home_team": {
+        "name": "DAL",
+        "abbreviation": "DAL",
+        "score": 0,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "ATL",
+        "abbreviation": "ATL",
+        "score": 0,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401773011",
+      "date": "2025-08-23",
+      "name": "Unknown Game",
+      "status": "Final",
+      "completed": false,
+      "home_team": {},
+      "away_team": {}
+    },
+    {
+      "id": "401773015",
+      "date": "2025-08-23",
+      "name": "Unknown Game",
+      "status": "Final",
+      "completed": false,
+      "home_team": {},
+      "away_team": {}
+    },
+    {
+      "id": "401774030",
+      "date": "2025-08-23",
+      "name": "Unknown Game",
+      "status": "Final",
+      "completed": false,
+      "home_team": {},
+      "away_team": {}
+    },
+    {
+      "id": "401774590",
+      "date": "2025-08-23",
+      "name": "Unknown Game",
+      "status": "Final",
+      "completed": false,
+      "home_team": {},
+      "away_team": {}
+    },
+    {
+      "id": "401776265",
+      "date": "2025-08-23",
+      "name": "Unknown Game",
+      "status": "Final",
+      "completed": false,
+      "home_team": {},
+      "away_team": {}
+    },
+    {
+      "id": "401776565",
+      "date": "2025-08-23",
+      "name": "Unknown Game",
+      "status": "Final",
+      "completed": false,
+      "home_team": {},
+      "away_team": {}
+    },
+    {
+      "id": "401776567",
+      "date": "2025-08-23",
+      "name": "Unknown Game",
+      "status": "Final",
+      "completed": false,
+      "home_team": {},
+      "away_team": {}
+    },
+    {
+      "id": "401777124",
+      "date": "2025-08-23",
+      "name": "Unknown Game",
+      "status": "Final",
+      "completed": false,
+      "home_team": {},
+      "away_team": {}
+    },
+    {
+      "id": "401774590",
+      "date": "2025-08-24",
+      "name": "LV @ ARI",
+      "status": "Scheduled",
+      "completed": false,
+      "home_team": {
+        "name": "ARI",
+        "abbreviation": "ARI",
+        "score": 0,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "LV",
+        "abbreviation": "LV",
+        "score": 0,
+        "home_away": "away"
+      }
+    },
+    {
+      "id": "401776567",
+      "date": "2025-08-24",
+      "name": "LAC @ SF",
+      "status": "Scheduled",
+      "completed": false,
+      "home_team": {
+        "name": "SF",
+        "abbreviation": "SF",
+        "score": 0,
+        "home_away": "home"
+      },
+      "away_team": {
+        "name": "LAC",
+        "abbreviation": "LAC",
+        "score": 0,
+        "home_away": "away"
+      }
+    }
+  ],
+  "player_stats": {
+    "passing": [
+      {
+        "player_id": "player_J.Dart",
+        "name": "J.Dart",
+        "team": "NYG",
+        "team_abbrev": "NYG",
+        "completions": 1,
+        "attempts": 1,
+        "yards": 7,
+        "touchdowns": 1,
+        "interceptions": 0
+      },
+      {
+        "player_id": "player_J.Winston",
+        "name": "J.Winston",
+        "team": "NYG",
+        "team_abbrev": "NYG",
+        "completions": 1,
+        "attempts": 1,
+        "yards": 27,
+        "touchdowns": 1,
+        "interceptions": 0
+      },
+      {
+        "player_id": "player_B.Wooldridge",
+        "name": "B.Wooldridge",
+        "team": "NYG",
+        "team_abbrev": "NYG",
+        "completions": 1,
+        "attempts": 1,
+        "yards": 10,
+        "touchdowns": 1,
+        "interceptions": 0
+      },
+      {
+        "player_id": "player_T.DeVito",
+        "name": "T.DeVito",
+        "team": "NYG",
+        "team_abbrev": "NYG",
+        "completions": 1,
+        "attempts": 1,
+        "yards": 3,
+        "touchdowns": 1,
+        "interceptions": 0
+      },
+      {
+        "player_id": "player_T.DeVito",
+        "name": "T.DeVito",
+        "team": "NYG",
+        "team_abbrev": "NYG",
+        "completions": 1,
+        "attempts": 1,
+        "yards": 41,
+        "touchdowns": 1,
+        "interceptions": 0
+      },
+      {
+        "player_id": "player_B.Wooldridge",
+        "name": "B.Wooldridge",
+        "team": "NYG",
+        "team_abbrev": "NYG",
+        "completions": 1,
+        "attempts": 1,
+        "yards": 44,
+        "touchdowns": 1,
+        "interceptions": 0
+      }
+    ],
+    "rushing": [
+      {
+        "player_id": "player_L.Toafili",
+        "name": "L.Toafili",
+        "team": "NYJ",
+        "team_abbrev": "NYJ",
+        "carries": 1,
+        "yards": 19,
+        "touchdowns": 1
+      },
+      {
+        "player_id": "player_D.Edwards",
+        "name": "D.Edwards",
+        "team": "NYJ",
+        "team_abbrev": "NYJ",
+        "carries": 1,
+        "yards": 1,
+        "touchdowns": 1
+      }
+    ],
+    "receiving": [
+      {
+        "player_id": "player_G.Dulcich",
+        "name": "G.Dulcich",
+        "team": "NYG",
+        "team_abbrev": "NYG",
+        "receptions": 1,
+        "yards": 7,
+        "touchdowns": 1
+      },
+      {
+        "player_id": "player_J.Hyatt",
+        "name": "J.Hyatt",
+        "team": "NYG",
+        "team_abbrev": "NYG",
+        "receptions": 1,
+        "yards": 27,
+        "touchdowns": 1
+      },
+      {
+        "player_id": "player_J.Webb",
+        "name": "J.Webb",
+        "team": "NYG",
+        "team_abbrev": "NYG",
+        "receptions": 1,
+        "yards": 10,
+        "touchdowns": 1
+      },
+      {
+        "player_id": "player_T.Fidone",
+        "name": "T.Fidone",
+        "team": "NYG",
+        "team_abbrev": "NYG",
+        "receptions": 1,
+        "yards": 3,
+        "touchdowns": 1
+      },
+      {
+        "player_id": "player_J.Ward",
+        "name": "J.Ward",
+        "team": "NYG",
+        "team_abbrev": "NYG",
+        "receptions": 1,
+        "yards": 41,
+        "touchdowns": 1
+      },
+      {
+        "player_id": "player_B.Wooldridge",
+        "name": "B.Wooldridge",
+        "team": "NYG",
+        "team_abbrev": "NYG",
+        "receptions": 1,
+        "yards": 44,
+        "touchdowns": 1
+      }
+    ],
+    "defensive": [
+      {
+        "player_id": "player_K.Dugger",
+        "name": "K.Dugger",
+        "team": "NYG",
+        "team_abbrev": "NYG",
+        "interceptions": 1,
+        "tackles": 0,
+        "sacks": 0
+      },
+      {
+        "player_id": "player_T.Moore",
+        "name": "T.Moore",
+        "team": "NYG",
+        "team_abbrev": "NYG",
+        "interceptions": 1,
+        "tackles": 0,
+        "sacks": 0
+      },
+      {
+        "player_id": "player_M.Moore",
+        "name": "M.Moore",
+        "team": "NYJ",
+        "team_abbrev": "NYJ",
+        "interceptions": 1,
+        "tackles": 0,
+        "sacks": 0
+      },
+      {
+        "player_id": "player_P.Nickerson",
+        "name": "P.Nickerson",
+        "team": "NYJ",
+        "team_abbrev": "NYJ",
+        "interceptions": 1,
+        "tackles": 0,
+        "sacks": 0
+      },
+      {
+        "player_id": "player_L.Cine",
+        "name": "L.Cine",
+        "team": "NYJ",
+        "team_abbrev": "NYJ",
+        "interceptions": 1,
+        "tackles": 0,
+        "sacks": 0
+      }
+    ]
+  }
+}
