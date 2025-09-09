@@ -1,0 +1,10 @@
+player,team,stat_category,game_id,rec,yds,avg,td,long,tgts
+Marvin Harrison Jr.,ARI,receiving,401772718,5,71,14.2,1,45,6
+Trey McBride,ARI,receiving,401772718,6,61,10.2,0,25,9
+Tip Reiman,ARI,receiving,401772718,1,10,10.0,0,10,1
+Trey Benson,ARI,receiving,401772718,1,6,6.0,0,6,1
+James Conner,ARI,receiving,401772718,4,5,1.3,1,5,4
+Michael Wilson,ARI,receiving,401772718,1,5,5.0,0,5,4
+Zay Jones,ARI,receiving,401772718,1,4,4.0,0,4,1
+Elijah Higgins,ARI,receiving,401772718,1,3,3.0,0,3,2
+Greg Dortch,ARI,receiving,401772718,1,-2,-2.0,0,-2,1

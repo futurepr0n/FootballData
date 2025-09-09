@@ -1,0 +1,6 @@
+player,team,stat_category,game_id,car,yds,avg,td,long
+James Cook,BUF,rushing,401671881,23,120,5.2,1,19
+Josh Allen,BUF,rushing,401671881,8,46,5.8,0,9
+Ty Johnson,BUF,rushing,401671881,9,44,4.9,0,11
+Ray Davis,BUF,rushing,401671881,1,3,3.0,0,3
+Mitchell Trubisky,BUF,rushing,401671881,3,-3,-1.0,0,-1

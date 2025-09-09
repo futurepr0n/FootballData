@@ -1,0 +1,10 @@
+player,team,stat_category,game_id,rec,yds,avg,td,long,tgts
+Tyreek Hill,MIA,receiving,401772719,4,40,10.0,0,21,6
+Jaylen Waddle,MIA,receiving,401772719,4,30,7.5,0,16,5
+De'Von Achane,MIA,receiving,401772719,3,20,6.7,1,11,4
+Tanner Conner,MIA,receiving,401772719,2,20,10.0,0,14,4
+Malik Washington,MIA,receiving,401772719,2,20,10.0,0,11,5
+Dee Eskridge,MIA,receiving,401772719,1,9,9.0,0,9,2
+Nick Westbrook-Ikhine,MIA,receiving,401772719,1,7,7.0,0,7,2
+Alec Ingold,MIA,receiving,401772719,1,1,1.0,0,1,2
+Ollie Gordon II,MIA,receiving,401772719,1,-1,-1.0,0,-1,1

@@ -1,0 +1,3 @@
+player,team,stat_category,game_id,c_att,yds,avg,td,int,sacks,qbr,rtg
+Tua Tagovailoa,MIA,passing,401772719,14/23,114,5.0,1,2,3-13,2.7,51.7
+Zach Wilson,MIA,passing,401772719,5/8,32,4.0,0,0,0-0,16.1,70.8
